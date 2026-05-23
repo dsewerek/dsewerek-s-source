@@ -47,8 +47,7 @@
           "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
           "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
         }
-      },
-      "patreon": {}
+      }
     }
   ],
   "news": []
