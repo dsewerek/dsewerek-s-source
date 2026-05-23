@@ -22,7 +22,7 @@
           "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download",
           "size": 111200000,
           "version": "9.1.48",
-          "buildVersion": null,
+          "buildVersion": "1",
           "date": "2026-05-23T05:17:00+03:00",
           "localizedDescription": "- Updated to Spotify v9.1.48\n- Fix crashes\n\nCredits:\nfarokbmiledzx\nPluginsInject",
           "minOSVersion": "15.0"
