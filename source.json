@@ -9,6 +9,53 @@
 "featuredApps": [
 ],
 "apps": [
+{
+"name": "Spotify",
+"bundleIdentifier": "com.spotify.client",
+"marketplaceID": "",
+"developerName": "jaydenjcpy/Skye/whoeevee",
+"subtitle": "EeveeSpotify latest release.",
+"localizedDescription": "Now support any custom lyrics source This tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+"iconURL": "https://i.imgur.com/i5eWZnE.png",
+"tintColor": "#349c5c",
+"category": "entertainment",
+"screenshots": [
+],
+"versions": [
+{
+"downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download",
+"size": 111200000,
+"version": "9.1.48",
+"buildVersion": null,
+"date": "2026-05-23T05:17:00+03:00",
+"localizedDescription": "- Updated to Spotify v9.1.48 - Fix crashes Credits: farokbmiledzx PluginsInject",
+"minOSVersion": "15.0"
+}
+],
+"appPermissions": {
+"entitlements": [...],
+"privacy": {
+"NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+"NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+"NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+"NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+"NSCameraUsageDescription": "This lets you use your camera to scan or upload images.",
+"NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+"NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+"NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+"NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+"NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+"NSLocationWhenInUseUsageDescription": "Your location is used to improve your recommendations and experience on Spotify.",
+"NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+"NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+"NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+"NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library.",
+"NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you."
+}
+},
+"patreon": {
+}
+}
 ],
 "news": [
 ]
