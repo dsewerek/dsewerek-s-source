@@ -9,7 +9,6 @@
     {
       "name": "Spotify",
       "bundleIdentifier": "com.spotify.client",
-      "marketplaceID": "",
       "developerName": "jaydenjcpy/Skye/whoeevee",
       "subtitle": "EeveeSpotify latest release.",
       "localizedDescription": "Now support any custom lyrics source\n\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
