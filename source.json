@@ -198,5 +198,20 @@
       ]
     }
   ],
-  "news": []
+  "news": [
+    {
+      "title": "repo is up!",
+      "identifier": "repo_launch_31_05_2026",
+      "caption": "the repo! ",
+      "date": "2026-05-31",
+      "notify": true
+    },
+    {
+      "title": "spotify added!",
+      "identifier": "spotify_added_31_05_2026",
+      "caption": "try out now",
+      "date": "2026-05-31",
+      "notify": true
+    }
+  ]
 }
