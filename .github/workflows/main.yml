@@ -1,0 +1,41 @@
+name: Hourly Repo Sync
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Triggers every hour on the hour
+  workflow_dispatch: # Allows you to trigger it manually from GitHub
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Crucial parameter to allow pushing updates back to your branch
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Scraper Script
+        run: python update_repo.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Only commit if something actually changed in the repo.json file
+          if ! git diff --exit-code repo.json; then
+            git add repo.json
+            git commit -m "Automated Sync: Updated tracking applications"
+            git push
+          else
+            echo "No new app versions or changes detected."
+          fi
