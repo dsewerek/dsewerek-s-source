@@ -32,8 +32,8 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
           # Only commit if something actually changed in the repo.json file
-          if ! git diff --exit-code repo.json; then
-            git add repo.json
+          if ! git diff --exit-code source.json; then
+            git add source.json
             git commit -m "Automated Sync: Updated tracking applications"
             git push
           else
