@@ -11,7 +11,7 @@ CONFIG = {
     ]
 }
 
-REPO_FILE = "repo.json"
+REPO_FILE = "source.json"
 
 def get_raw_url(url):
     """Converts standard GitHub blob URLs to raw content URLs if needed."""
