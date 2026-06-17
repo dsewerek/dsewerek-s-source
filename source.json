@@ -1,18 +1,18 @@
 {
   "name": "dsewerek's source",
   "subtitle": "a small source for all your destinations",
-  "description": "hey! this is a small repo, combining multiple repos into one.",
+  "description": "hey! this is a cozy repo, combining a lot repos into one. it's like those massive aio repos you see online, without the hassle",
   "iconURL": "https://i.imgur.com/KSSr4ML.png",
   "headerURL": "https://file.garden/aeuRASVxx2XDWdox/2026-04-24T18_29_07.png",
   "tintColor": "#155713",
   "featuredApps": [],
   "apps": [
     {
-      "name": "Spotify",
+      "name": "spotify",
       "bundleIdentifier": "com.spotify.client",
       "developerName": "jaydenjcpy/Skye/whoeevee",
-      "subtitle": "EeveeSpotify latest release.",
-      "localizedDescription": "Now support any custom lyrics source\n\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
+      "subtitle": "eeveeSpotify latest release.",
+      "localizedDescription": "now support any custom lyrics source\n\nThis tweak makes Spotify think you have a Premium subscription, granting free listening, just like Spotilife, and provides some additional features like custom lyrics.",
       "iconURL": "https://i.imgur.com/i5eWZnE.png",
       "tintColor": "#349c5c",
       "category": "entertainment",
@@ -118,11 +118,11 @@
       "downloadURL": "https://gitlab.com/titouan336/Spotify-AltStoreRepo/-/package_files/303874879/download"
     },
     {
-      "name": "Spotify (Patched)",
+      "name": "spotify (patched)",
       "bundleIdentifier": "com.spotify.client.patched",
       "developerName": "jaydenjcpy/Skye/whoeevee",
-      "subtitle": "Patched for paid certs",
-      "localizedDescription": "Warning : Only use with Feather, ESign or KSign, or TrollApps.\n\nNow support any custom lyrics source\n\nUsing the patched IPA should fix any widgets issues had when sideloading with paid certs (with app groups entitlement). this fix does not work with free sideloading methods such as AltStore/Sideloadly, and TrollStore users do not need to use a patched IPA.\n\nfurther note: this IPA should be considered a beta test for now, so general support will not be provided for it.",
+      "subtitle": "patched for paid certs",
+      "localizedDescription": "warning : only use with Feather, ESign or KSign, or TrollApps.\n\nnow support any custom lyrics source\n\nusing the patched IPA should fix any widgets issues had when sideloading with paid certs (with app groups entitlement). this fix does not work with free sideloading methods such as AltStore/Sideloadly, and TrollStore users do not need to use a patched IPA.\n\nfurther note: this IPA should be considered a beta test for now, so general support will not be provided for it.",
       "iconURL": "https://i.imgur.com/j51OrKn.png",
       "tintColor": "#1cd464",
       "category": "other",
