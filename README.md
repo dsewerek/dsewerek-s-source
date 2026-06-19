@@ -4,7 +4,7 @@ click [this](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.github
 
 and
 
-click [this](https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/dsewerek/dsewerek-s-source/refs/heads/main/source.json) to add the repo to all your signers
+click [this](https://stikstore.app/altdirect/?url=https://dsewerek.linkh.at/repo) to add the repo to all your signers
 
 and
 
