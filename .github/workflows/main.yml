@@ -1,41 +1,39 @@
-name: Hourly Repo Sync
+name: Update combined sources
 
 on:
   schedule:
-    - cron: '0 * * * *' # Triggers every hour on the hour
-  workflow_dispatch: # Allows you to trigger it manually from GitHub
+    - cron: "0 */6 * * *"   # every 6 hours, adjust as you like
+  workflow_dispatch: {}      # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "selected.json"
+      - "general.json"
+      - "fastsign.json"
+
+permissions:
+  contents: write
 
 jobs:
-  sync:
+  update:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write # Crucial parameter to allow pushing updates back to your branch
-
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: "3.12"
 
-      - name: Install Dependencies
-        run: pip install requests
+      - name: Install dependencies
+        run: pip install -r requirements.txt
 
-      - name: Run Scraper Script
-        run: python update_repo.py
+      - name: Run combiner
+        run: python combine_repos.py
 
-      - name: Commit and Push Changes
+      - name: Commit updated sources
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          
-          # Only commit if something actually changed in the repo.json file
-          if ! git diff --exit-code source.json; then
-            git add source.json
-            git commit -m "Automated Sync: Updated tracking applications"
-            git push
-          else
-            echo "No new app versions or changes detected."
-          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add selected.json general.json fastsign.json
+          git diff --cached --quiet || git commit -m "chore: sync combined sources"
+          git push
