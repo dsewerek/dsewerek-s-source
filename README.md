@@ -1,10 +1,11 @@
 # dsewerek-s-source
-a small source for all apps you need!
-click [this](https://altsource.by.lao.sb/browse/?source=https%3A%2F%2Fraw.githubusercontent.com%2Fdsewerek%2Fdsewerek-s-source%2Frefs%2Fheads%2Fmain%2Fsource.json) to check out the repo in altsource
+a small list of massive sources/repos for all apps you need!
 
 and
 
-click [this](https://stikstore.app/altdirect/?url=https://raw.githubusercontent.com/dsewerek/dsewerek-s-source/refs/heads/main/source.json) to add the repo to all your signers
+**FastSign Repo**: [here](https://altdirect.app/?url=https://raw.githubusercontent.com/dsewerek/dsewerek-s-source/refs/heads/main/fastsign.json)
+**General Apps Repo**: [here](https://altdirect.app/?url=https://raw.githubusercontent.com/dsewerek/dsewerek-s-source/refs/heads/main/general.json)
+**Hand picked apps**: [here](https://altdirect.app/?url=https://raw.githubusercontent.com/dsewerek/dsewerek-s-source/refs/heads/main/selected.json)
 
 and
 
