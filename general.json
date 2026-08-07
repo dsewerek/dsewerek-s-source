@@ -44736,6 +44736,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10014",
+          "marketingVersion": "3.4.0-alpha.20260807.0433dba",
+          "date": "2026-08-07",
+          "localizedDescription": "## Alpha Build `0433dba`\n\n**Automated alpha build from `develop` branch**\n\n| | |\n|---|---|\n| **Commit** | [`0433dba`](https://github.com/Provenance-Emu/Provenance/commit/0433dbae01536e7fc51b34f98e6b4864ff61ffed) |\n| **Built** | 2026-08-07 05:22 UTC |\n| **CI Run** | [View build log](https://github.com/Provenance-Emu/Provenance/actions/runs/31145056366) |\n| **Bundle ID** | `com.provenance-emu.provenance.alpha` |\n\n> **Note:** This alpha build uses a separate bundle ID so it can be installed alongside the stable release.\n\n### Commits since last alpha\n```\n0433dbae0 feat(release): fail fast — full preflight before any archive\n576c6f3ba makefile easier tf\n95a98ca05 Potential fix for pull request finding\n16853dc81 Potential fix for pull request finding\nde8de0208 Potential fix for pull request finding 'Empty except'\n98f4c8cf0 feat(release): 1Password-backed secrets + auto op run from make\n```\n\n---\nThese builds are unsigned and intended for sideloading via AltStore/SideStore.\nInstall the **Provenance Alpha** app (separate from stable) by adding the\n[sideload feed](https://provenance-emu.com/apps.json) — or tap\n[Add to AltStore](https://provenance-emu.com/altstore) /\n[Add to SideStore](https://provenance-emu.com/sidestore) on your device to add it directly.\n\n> This release is automatically updated on every successful develop push.\n",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS.ipa",
+          "size": 1809050076,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10008",
           "marketingVersion": "3.4.0-alpha.20260806.2ba62f5",
           "date": "2026-08-06",
@@ -44769,8 +44779,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-08-06",
-      "size": 1808987601,
+      "versionDate": "2026-08-07",
+      "size": 1809050076,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS.ipa"
     },
     {
