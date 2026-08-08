@@ -1058,17 +1058,25 @@
       "type": 1,
       "bundleID": "com.myfitnesspal.mfp",
       "bundleIdentifier": "com.myfitnesspal.mfp",
-      "version": "25.8.0",
-      "versionDate": "2025-03-04",
+      "version": "26.30.0",
+      "versionDate": "2026-07-28",
       "fullDate": "20260805011153",
-      "size": 76600000,
+      "size": 150927743,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/MyFitnessPal_26.31.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v25.8.0.Cracked.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v26.30.0.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "versions": [
+        {
+          "date": "2026-07-28",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/MyFitnessPal.v26.30.0.ipa",
+          "localizedDescription": "• MyFitnessPal++ updated to v26.30.0",
+          "minOSVersion": "17.0",
+          "size": 150927743,
+          "version": "26.30.0"
+        },
         {
           "version": "25.8.0",
           "date": "2025-03-04",
@@ -1274,17 +1282,25 @@
       "type": 1,
       "bundleID": "com.duolingo.DuolingoMobile",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "version": "7.29.0",
-      "versionDate": "2025-03-04",
+      "version": "7.134.0",
+      "versionDate": "2026-08-03",
       "fullDate": "20260804004952",
-      "size": 101000000,
+      "size": 203571004,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Duolingo_7.134.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.29.0.Cracked.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.134.0.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
       "versions": [
+        {
+          "date": "2026-08-03",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Duolingo.v7.134.0.ipa",
+          "localizedDescription": "• Duolingo++ updated to v7.134.0\n\n• Sign-in with google/apple.\n• Ignore any purchase banners all features should work.",
+          "minOSVersion": "17.0",
+          "size": 203571004,
+          "version": "7.134.0"
+        },
         {
           "version": "7.29.0",
           "date": "2025-03-04",
@@ -3374,17 +3390,25 @@
       "type": 1,
       "bundleID": "com.facebook.Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
-      "version": "519.0.0",
-      "versionDate": "2025-06-25",
+      "version": "1.3.1",
+      "versionDate": "2025-10-04",
       "fullDate": "20260722185618",
-      "size": 170243561,
+      "size": 163114417,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Facebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/dvntm0/AltStore/releases/download/0.0.1/glow_1.3.1+519.0.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v1.3.1.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "versions": [
+        {
+          "date": "2025-10-04",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v1.3.1.ipa",
+          "localizedDescription": "• Facebook++ updated to v\n• Replaced Tweak (Glow v1.3.1)",
+          "minOSVersion": "7.0",
+          "size": 163114417,
+          "version": "1.3.1"
+        },
         {
           "version": "519.0.0",
           "minOSVersion": "15.1",
@@ -5444,17 +5468,40 @@
       "type": 1,
       "bundleID": "nt.nr.ios",
       "bundleIdentifier": "nt.nr.ios",
-      "version": "15.535.13",
-      "versionDate": "2026-06-23",
+      "version": "4.88.4",
+      "versionDate": "2024-05-10",
       "fullDate": "20260623021910",
-      "size": 761528213,
+      "size": 329000000,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/NRv1553513_15.535.13_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.v4.88.4.Nulls.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nt.nr.ios.png",
-      "versions": []
+      "versions": [
+        {
+          "date": "2024-05-10",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.v4.88.4.Nulls.ipa",
+          "localizedDescription": "• Updated Clash Royale to v4.88.4",
+          "minOSVersion": "11.0",
+          "size": 329000000,
+          "version": "4.88.4"
+        },
+        {
+          "date": "2023-05-11",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.Null.s.v3.3186.7.ipa",
+          "localizedDescription": "• Updated Clash Royale to v3.3186.7",
+          "size": 234000000,
+          "version": "3.3186.7"
+        },
+        {
+          "date": "2023-04-06",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Clash.Royale.v3.3074.6.ipa",
+          "localizedDescription": "• Updated Clash Royale to v3.3074.6",
+          "size": 160000000,
+          "version": "3.3074.6"
+        }
+      ]
     },
     {
       "name": "NotePlan",
@@ -5576,6 +5623,14 @@
           "size": 92011146,
           "buildVersion": "910001151",
           "minOSVersion": "16.1"
+        },
+        {
+          "date": "2025-10-05",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Spotify.v9.0.84.ipa",
+          "localizedDescription": "• Spotify++ updated to v9.0.84\n• Eevee updated to v6.1.5",
+          "minOSVersion": "16.1",
+          "size": 91684155,
+          "version": "9.0.84"
         },
         {
           "version": "9.0.48",
@@ -5837,17 +5892,25 @@
       "type": 1,
       "bundleID": "com.soundcloud.TouchApp",
       "bundleIdentifier": "com.soundcloud.TouchApp",
-      "version": "7.65.4",
-      "versionDate": "2025-03-04",
+      "version": "8.71.0",
+      "versionDate": "2026-07-28",
       "fullDate": "20260612114343",
-      "size": 57600000,
+      "size": 117581520,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/SoundCloud_8.64.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v7.65.4.+.SCMusicPlus.v24.9.1-3.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud++.v8.71.0.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
       "versions": [
+        {
+          "date": "2026-07-28",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud++.v8.71.0.ipa",
+          "localizedDescription": "• SoundCloud++ updated to v8.71.0\n• Replaced Tweak",
+          "minOSVersion": "16.4",
+          "size": 117581520,
+          "version": "8.71.0"
+        },
         {
           "version": "7.65.4",
           "date": "2025-03-04",
@@ -16621,14 +16684,14 @@
       "name": "PPSSPP",
       "bundleIdentifier": "org.ppsspp.ppsspp",
       "developerName": "Henrik Rydgård",
-      "version": "1.15.3",
-      "versionDate": "2023-05-14",
+      "version": "1.20.4",
+      "versionDate": "2026-05-16",
       "versionDescription": "# v1.13.2\n\n",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/PPSSPP.v1.15.3.ipa",
+      "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
       "localizedDescription": "PPSSPP can run your PSP games on your iPhone and iPad in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP. Even on modern iPhones and iPads, you can often run at double the original resolution.",
       "iconURL": "https://i.imgur.com/JP0Fncv.png",
       "tintColor": "#21486b",
-      "size": 27700000,
+      "size": 31124277,
       "screenshotURLs": [
         "https://i.imgur.com/CWl6GgH.png",
         "https://i.imgur.com/SxmN1M0.png",
@@ -16639,6 +16702,13 @@
       "absoluteVersion": "1.13.2",
       "appID": "org.ppsspp.ppsspp",
       "versions": [
+        {
+          "date": "2026-05-16",
+          "downloadURL": "https://github.com/hrydgard/ppsspp/releases/download/v1.20.4/PPSSPP-iOS-v1.20.4.ipa",
+          "localizedDescription": "• PPSSPP updated to v1.20.4",
+          "size": 31124277,
+          "version": "1.20.4"
+        },
         {
           "version": "1.15.3",
           "date": "2023-05-14",
@@ -46815,6 +46885,48 @@
       "tags": [
         "Tweaked App"
       ],
+      "versions": []
+    },
+    {
+      "appPermissions": {
+        "entitlements": [
+          "application-identifier",
+          "aps-environment",
+          "com.apple.developer.location.push",
+          "com.apple.developer.team-identifier",
+          "com.apple.developer.usernotifications.time-sensitive",
+          "get-task-allow",
+          "keychain-access-groups"
+        ],
+        "privacy": {
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player wants to send screenshots to Supercell Player Support.",
+          "NSUserTrackingUsageDescription": "Clash of Clans would like permission to track you across apps and websites owned by other companies.\\n\\nYour data will be used for audience insights, analytics and improving our services."
+        }
+      },
+      "beta": false,
+      "bundleIdentifier": "com.atrasis.original",
+      "category": "Games",
+      "developerName": "Atrasis Team",
+      "downloadURL": "https://atrasisclash.net/server-original-ios-download-ipa.php",
+      "iconURL": "https://external-content.duckduckgo.com/iu/?u=https://external-content.duckduckgo.com/iu/?u=https://i.imgur.com/WfWpKOF.png",
+      "localizedDescription": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy",
+      "name": "Atrasis",
+      "screenshotURLs": [
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-1.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-2.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-3.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-4.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-5.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-6.webp",
+        "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-7.webp"
+      ],
+      "size": 506956293,
+      "subtitle": "A modded Clash of Clans server!",
+      "tintColor": "9e6193",
+      "version": "18.400.8",
+      "versionDate": "2026-08-06",
+      "versionDescription": "• Link now only installs latest version.",
       "versions": []
     }
   ]
