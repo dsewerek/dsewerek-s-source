@@ -46789,6 +46789,33 @@
       "localizedDescription": "My repo has been moved to zx's aio repo. Download links will not work forever.",
       "versionDate": "2025-03-03",
       "versions": []
+    },
+    {
+      "name": "The Architect (Hacked)",
+      "type": 1,
+      "bundleID": "com.adamsmaka.aivoicejournal",
+      "bundleIdentifier": "com.adamsmaka.aivoicejournal",
+      "version": "1.0.15",
+      "versionDate": "2026-08-08",
+      "fullDate": "20260808070058",
+      "size": 55000719,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2368",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2368",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2604",
+      "appstore_download_count": 17,
+      "developerName": "sidelix",
+      "localizedDescription": "Pro Unlocked",
+      "icon": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a76d40393b7c.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tweaked App"
+      ],
+      "versions": []
     }
   ]
 }
