@@ -26919,6 +26919,12 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0-alpha45",
+          "date": "2026-08-10T15:54:09Z",
+          "size": 19482674,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha45/Navic.ipa"
+        },
+        {
           "version": "1.0.0-alpha44",
           "date": "2026-08-10T02:52:08Z",
           "size": 19482674,
@@ -26944,10 +26950,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha44",
+      "version": "1.0.0-alpha45",
       "versionDate": "2026-08-10",
       "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha44/Navic.ipa"
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha45/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
@@ -31024,11 +31030,20 @@
       "name": "Amethyst",
       "bundleIdentifier": "org.angelauramc.amethyst",
       "localizedDescription": "from @glesign |\n---------------\nAmethyst v1.0\n\n🇷🇺 Лаунчер Minecraft: Java Edition, основанный на PojavLauncher\n— Версия для разработчиков\n— Требует JIT\n© Создано: AngelAuraMC\n\n🇺🇸 A Minecraft: Java Edition Launcher based on PojavLauncher\n— Developer version\n— Requires JIT\n© Created: AngelAuraMC",
-      "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/64c5c9c/org.angelauramc.amethyst-1.0-ios.ipa",
+      "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/9212a18/org.angelauramc.amethyst-1.0-ios.ipa",
       "iconURL": "https://pub.dyld.one/imgs/cry.jpg",
-      "version": "1.0.64c5c9c",
-      "size": 191478154,
+      "version": "1.0.9212a18",
+      "size": 191478253,
       "versions": [
+        {
+          "version": "1.0.9212a18",
+          "date": "2026-08-10T13:21:40.589103+00:00",
+          "localizedDescription": "Thanks for helping test Amethyst! To see what's new, check commit \"9212a18\" on the GitHub repo.",
+          "downloadURL": "https://alt.crystall1ne.dev/resources/amethyst/9212a18/org.angelauramc.amethyst-1.0-ios.ipa",
+          "size": 191478253,
+          "beta": true,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "1.0.64c5c9c",
           "date": "2026-07-27T22:13:05.708376+00:00",
@@ -31102,7 +31117,7 @@
           "minOSVersion": "14.0"
         }
       ],
-      "versionDate": "2026-07-27"
+      "versionDate": "2026-08-10"
     },
     {
       "name": "R.E.P.O",
