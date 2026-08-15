@@ -43318,17 +43318,24 @@
       "type": 1,
       "bundleID": "club.boxbox.widgets-ios",
       "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.4.0",
-      "versionDate": "2026-07-19",
+      "version": "5.4.1",
+      "versionDate": "2026-08-15",
       "fullDate": "20260719162443",
-      "size": 111757966,
+      "size": 115799789,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/BoxBox_5.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/BoxBox_5.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-08-2026/BoxBox_5.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "versions": [
+        {
+          "version": "5.4.1",
+          "date": "2026-08-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-08-2026/BoxBox_5.4.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 115799789,
+          "localizedDescription": "Injected with Premium"
+        },
         {
           "version": "5.4.0",
           "date": "2026-07-19",
