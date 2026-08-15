@@ -194,6 +194,33 @@ def version_key(v):
     return (v.get("version"), str(v.get("buildVersion")))
 
 
+def get_incoming_versions(app):
+    """Some source repos (e.g. apptesters.org-style aggregators) publish an
+    empty `versions: []` and put the actual version info as flat top-level
+    fields on the app instead. Without this, those apps get merged with zero
+    versions and become uninstallable. If `versions` is empty/missing but the
+    app has top-level version + downloadURL, synthesize a single version
+    entry from them."""
+    versions = app.get("versions") or []
+    if versions:
+        return versions
+
+    if app.get("downloadURL") and app.get("version"):
+        synthesized = {
+            "version": app.get("version"),
+            "date": app.get("versionDate") or app.get("date") or "",
+            "downloadURL": app.get("downloadURL"),
+            "size": app.get("size"),
+            "localizedDescription": app.get("localizedDescription"),
+            "minOSVersion": app.get("minOSVersion"),
+            "maxOSVersion": app.get("maxOSVersion"),
+        }
+        # Drop empty/None fields so we don't pollute the output with nulls.
+        return [{k: v for k, v in synthesized.items() if v not in (None, "")}]
+
+    return []
+
+
 def merge_versions(existing_versions, incoming_versions):
     """Adds any version from incoming_versions not already present. Existing
     versions are never overwritten (priority stays with whoever added them
@@ -232,12 +259,14 @@ def merge_app_into_map(apps_map, app):
     if not bid:
         return
 
-    incoming_versions = app.get("versions", [])
+    incoming_versions = get_incoming_versions(app)
 
     if bid not in apps_map:
         # New app: take a deep copy so later mutations don't affect the
         # source data, then dedupe its own internal versions list.
         new_app = copy.deepcopy(app)
+        if not new_app.get("name"):
+            new_app["name"] = bid
         new_app["versions"] = []
         merge_versions(new_app["versions"], incoming_versions)
         sync_top_level_fields(new_app)
