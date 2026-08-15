@@ -3054,17 +3054,24 @@
       "type": 1,
       "bundleID": "com.wellocution.iosapp",
       "bundleIdentifier": "com.wellocution.iosapp",
-      "version": "4.3.0",
-      "versionDate": "2026-08-13",
+      "version": "4.3.1",
+      "versionDate": "2026-08-15",
       "fullDate": "20260807012024",
-      "size": 121524571,
+      "size": 121549136,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/BoldVoice_4.2.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/BoldVoice_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-08-2026/BoldVoice_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
       "versions": [
+        {
+          "version": "4.3.1",
+          "date": "2026-08-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-08-2026/BoldVoice_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 121549136,
+          "localizedDescription": "Injected with Subscription Unlocked"
+        },
         {
           "version": "4.3.0",
           "date": "2026-08-13",
@@ -29587,17 +29594,24 @@
       "type": 1,
       "bundleID": "com.zhiliaoapp.musically",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "46.3.0",
-      "versionDate": "2026-08-13",
+      "version": "46.4.0",
+      "versionDate": "2026-08-15",
       "fullDate": "20260729020716",
-      "size": 456091995,
+      "size": 455015739,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/BHTikTokPlus_46.2.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2214",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1971",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "versions": [
+        {
+          "version": "46.4.0",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1971",
+          "size": 455015739,
+          "localizedDescription": "🎵 Douyin 37.7.0 \r\n\r\nOriginal Version with Support for Certificate Login  \r\n\r\nOfficial Replacement com.ss.iphone.ugc.Aweme  \r\n• AWECommentAudioTweak for Voice Replacement  \r\n• Douyin Login Repair Plugin  \r\n• 120Hz Refresh Rate  \r\n• DYYY 2.2-9 #1632  \r\n• Yuki Anti-Recall 0.0-9  \r\n• Automatic Message Reply 1.0-6  \r\n• Netskao Mini Program Ad Plugin  \r\n• Certificate-Based Direct Login  \r\n\r\nIf you encounter Face ID , first uninstall the app and then install the Store version. After verifying your face, reinstall the official version.  \r\n\r\n🔗 API Analysis (may not work at any time, which is normal)  \r\nhttps://api.qsy.ink/api/douyin?key=DYYY&url="
+        },
         {
           "version": "46.3.0",
           "date": "2026-08-13",
@@ -76859,10 +76873,10 @@
       "type": 2,
       "bundleID": "com.fingersoft.hillclimbracing",
       "bundleIdentifier": "com.fingersoft.hillclimbracing",
-      "version": "1.70.0",
-      "versionDate": "2026-06-26",
+      "version": "1.71.1",
+      "versionDate": "2026-08-15",
       "fullDate": "20260505182251",
-      "size": 133695239,
+      "size": 136130259,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/HillClimb_1.69.0_IAP_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1951",
       "developerName": "",
@@ -76870,6 +76884,13 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
       "versions": [
+        {
+          "version": "1.71.1",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1951",
+          "size": 136130259,
+          "localizedDescription": "features:\r\n\r\n- in app purchase\r\n\r\ntap buy and hit cancel"
+        },
         {
           "version": "1.70.0",
           "date": "2026-06-26",
@@ -91204,10 +91225,10 @@
       "type": 1,
       "bundleID": "com.unofficialcalculators.payplan",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.20",
-      "versionDate": "2026-08-13",
+      "version": "4.2.21",
+      "versionDate": "2026-08-15",
       "fullDate": "20260101215442",
-      "size": 165402302,
+      "size": 163828687,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/BillTracker_4.1.25_Pro_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
       "developerName": "",
@@ -91215,6 +91236,13 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "versions": [
+        {
+          "version": "4.2.21",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+          "size": 163828687,
+          "localizedDescription": "Features:\r\n- subscription unlocked"
+        },
         {
           "version": "4.2.20",
           "date": "2026-08-13",
@@ -99251,10 +99279,10 @@
       "type": 2,
       "bundleID": "com.mojang.minecraftpe",
       "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "26.33",
-      "versionDate": "2026-07-11",
+      "version": "26.44",
+      "versionDate": "2026-08-15",
       "fullDate": "20251209131617",
-      "size": 687797951,
+      "size": 726525029,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Minecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
       "developerName": "",
@@ -99262,6 +99290,13 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "versions": [
+        {
+          "version": "26.44",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+          "size": 726525029,
+          "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination! \r\n \r\nThe possibilities are endless. Embark on an epic adventure and play with friends, building from the ground up. Build and expand in Creative mode, where you can craft from unlimited resources. Survive the night, face intense battles, craft tools, and fend off danger in Survival mode. With seamless cross-platform and multiplayer gameplay on Minecraft: Bedrock Edition, yo"
+        },
         {
           "version": "26.33",
           "date": "2026-07-11",
@@ -104644,10 +104679,10 @@
       "type": 1,
       "bundleID": "com.duuro.moneyCoach",
       "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "11.4.4",
-      "versionDate": "2026-07-05",
+      "version": "11.4.6",
+      "versionDate": "2026-08-15",
       "fullDate": "20250823192618",
-      "size": 113912749,
+      "size": 118269851,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/MoneyCoach_10.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
       "developerName": "",
@@ -104655,6 +104690,13 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
       "versions": [
+        {
+          "version": "11.4.6",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
+          "size": 118269851,
+          "localizedDescription": "Features:\r\n- subscription unlocked"
+        },
         {
           "version": "11.4.4",
           "date": "2026-07-05",
@@ -143317,10 +143359,10 @@
       "type": 1,
       "bundleID": "com.tapblaze.pizzabusinessplus",
       "bundleIdentifier": "com.tapblaze.pizzabusinessplus",
-      "version": "1.0.3",
-      "versionDate": "2026-07-11",
+      "version": "5.54.3",
+      "versionDate": "2026-08-15",
       "fullDate": "20260711193200",
-      "size": 365938549,
+      "size": 373525907,
       "down": "https://appstore.sidelix.vip/download-repo-source/2080",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2080",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2317",
@@ -143338,6 +143380,13 @@
         "Apple - Arcade Games"
       ],
       "versions": [
+        {
+          "version": "5.54.3",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2080",
+          "size": 373525907,
+          "localizedDescription": "Join the global community of Ovenists in Good Pizza, Great Pizza+!\r\nFulfill pizza orders from customers, advance the storyline, and upgrade your restaurant to keep your doors open!\r\nWith a variety of toppings, decor, and kitchen equipment, you’ll have everything you need to compete against your pizza rivals!\r\n\r\nHow to Play\r\n• No internet needed! Play online or offline.\r\n• Good Pizza, Great Pizza+ is a business simulation cooking game with puzzles, stories and best of all, pizza!\r\n• Receive a puzzling or quirky pizza order from the customer, then move to the kitchen to roll out the dough and add a variety of delicious toppings exactly as requested on the pizza!\r\nOnce you run it through the oven to achieve the perfect crust, box and serve "
+        },
         {
           "version": "1.0.3",
           "date": "2026-07-11",
@@ -145453,10 +145502,10 @@
       "type": 1,
       "bundleID": "com.dopamine.new",
       "bundleIdentifier": "com.dopamine.new",
-      "version": "2.4.9",
-      "versionDate": "2026-05-03",
+      "version": "3.0.7",
+      "versionDate": "2026-08-15",
       "fullDate": "20260503114242",
-      "size": 53702230,
+      "size": 57282928,
       "down": "https://appstore.sidelix.vip/download-repo-source/1979",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1979",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2216",
@@ -145474,6 +145523,13 @@
         "Tools"
       ],
       "versions": [
+        {
+          "version": "3.0.7",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1979",
+          "size": 57282928,
+          "localizedDescription": "A rootless semi-untethered jailbreak for iOS 15.0 - 17.3.1 (arm64e), iOS 15.0 - 18.7.1, 26.0 - 26.0.1 (A12/A13) and iOS 15.0 - 18.7.1 (arm64)."
+        },
         {
           "version": "2.4.9",
           "date": "2026-05-03",
@@ -146293,10 +146349,10 @@
       "type": 1,
       "bundleID": "dayr",
       "bundleIdentifier": "dayr",
-      "version": "1.8912",
-      "versionDate": "2025-10-30",
+      "version": "1.891.1",
+      "versionDate": "2026-08-15",
       "fullDate": "20251030171349",
-      "size": 390053640,
+      "size": 394283609,
       "down": "https://appstore.sidelix.vip/download-repo-source/1924",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1924",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2161",
@@ -146314,6 +146370,13 @@
         "Free Paid Apps"
       ],
       "versions": [
+        {
+          "version": "1.891.1",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1924",
+          "size": 394283609,
+          "localizedDescription": "Survive in post-nuclear USSR: defeat diseases, hunger and enemies! Play Online also! Survive with other players together.\r\n\r\nBenefits of Premium version:\r\n- Unique pet Raven\r\n- Starter Kit\r\n- Caches of useful items in shelters\r\n- Expanded selection of perks\r\n- Chat without any limitations\r\n- Reduced waiting time between parcels\r\n- Access to all kinds and colors of map markers\r\n\r\nCan you survive in the world destroyed after a nuclear war? With radiation, hunger and diseases around you. You have to cross the whole country and save your family. Who knows if they are alive, or maybe radiation and deadly virus have already reached them? Reveal a secret of the apocalypse and get your memories back during a journey across the huge territory of the USSR"
+        },
         {
           "version": "1.8912",
           "date": "2025-10-30",
@@ -153437,6 +153500,42 @@
           "downloadURL": "https://atrasisclash.net/server-original-ios-download-ipa.php",
           "size": 506956293,
           "localizedDescription": "This is a modded Clash of Clans private server. You have unlimited gems, elixir and gold. Write /help in the Global Chat for comands.\n\nNOTE: IF THE APP REQUIRES AN UPDATE, REINSTALL FROM THIS LINK AS THE DOWNLOAD URL IS ALWAYS THE LATEST AND I DO NOT MANUALLY CHANGE IT.\n\nTO KEEP YOUR PROGRESS, MAKE AN ATRASIS ID, ITS DONE THE SAME AS IF YOU ARE MAKING A SUPERCELL ID, AND SIGN IN AFTER REINSTALLING\n\n\nPlease keep in mind that this mod is not affiliated with, endorsed, sponsored, or specifically approved by Supercell and Supercell is not responsible for it.\n\nModded by Ksyrex. His Telegram group➡️ https://t.me/+wwYy4wEMS1gwMTAy"
+        }
+      ]
+    },
+    {
+      "name": "Truck Simulator EVO: Drive USA (Hacked)",
+      "type": 1,
+      "bundleID": "com.ovilex.truckerzoneamericanroadways",
+      "bundleIdentifier": "com.ovilex.truckerzoneamericanroadways",
+      "version": "2.1",
+      "versionDate": "2026-08-15",
+      "fullDate": "20260815162900",
+      "size": 1130583173,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2372",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2372",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2608",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a809341b8a68.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a809341b8a68.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tweaked Game",
+        "Free in app purchases"
+      ],
+      "versions": [
+        {
+          "version": "2.1",
+          "date": "2026-08-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2372",
+          "size": 1130583173,
+          "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged"
         }
       ]
     }
