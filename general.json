@@ -14804,6 +14804,13 @@
           "localizedDescription": "Injected with Subscription Unlocked"
         },
         {
+          "version": "8.3.15",
+          "date": "2026-08-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/NeoServer_8.3.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 35212972,
+          "localizedDescription": "Injected with Subscription Unlocked"
+        },
+        {
           "version": "8.3.12",
           "date": "2026-08-11",
           "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/NeoServer_8.3.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
@@ -89166,10 +89173,10 @@
       "type": 1,
       "bundleID": "com.br.12min.mobile",
       "bundleIdentifier": "com.br.12min.mobile",
-      "version": "2.11.1",
-      "versionDate": "2026-07-19",
+      "version": "2.12.1",
+      "versionDate": "2026-08-16",
       "fullDate": "20260120164353",
-      "size": 53789725,
+      "size": 56138045,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/12min_2.8.16_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2288",
       "developerName": "",
@@ -89177,6 +89184,13 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.br.12min.mobile.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.br.12min.mobile.png",
       "versions": [
+        {
+          "version": "2.12.1",
+          "date": "2026-08-16",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2288",
+          "size": 56138045,
+          "localizedDescription": "Premium Unlocked"
+        },
         {
           "version": "2.11.1",
           "date": "2026-07-19",
