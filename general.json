@@ -12735,17 +12735,24 @@
       "type": 1,
       "bundleID": "com.joytunes.Sing",
       "bundleIdentifier": "com.joytunes.Sing",
-      "version": "3.0.7",
-      "versionDate": "2026-08-09",
+      "version": "3.0.8",
+      "versionDate": "2026-08-16",
       "fullDate": "20260805110058",
-      "size": 130359673,
+      "size": 116469210,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SimplySing_3.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-08-2026/SimplySing_3.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/SimplySing_3.0.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Sing.png",
       "versions": [
+        {
+          "version": "3.0.8",
+          "date": "2026-08-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/SimplySing_3.0.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 116469210,
+          "localizedDescription": "Injected with Subscription Unlocked"
+        },
         {
           "version": "3.0.7",
           "date": "2026-08-09",
@@ -22800,17 +22807,24 @@
       "type": 1,
       "bundleID": "com.itwcalculator.worldradarfree",
       "bundleIdentifier": "com.itwcalculator.worldradarfree",
-      "version": "6.0.5",
-      "versionDate": "2026-08-02",
+      "version": "6.1.0",
+      "versionDate": "2026-08-16",
       "fullDate": "20260802170554",
-      "size": 106432003,
+      "size": 110883218,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/OraWeather_6.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/OraWeather_6.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/OraWeather_6.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.itwcalculator.worldradarfree.png",
       "versions": [
+        {
+          "version": "6.1.0",
+          "date": "2026-08-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/OraWeather_6.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 110883218,
+          "localizedDescription": "Injected with Subscription Unlocked"
+        },
         {
           "version": "6.0.5",
           "date": "2026-08-02",
@@ -121643,9 +121657,16 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Voloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.9.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
       "iconURL": "https://mypleasure.zxcvbn.fyi/1f787aff-549c-44a9-9afa-f62cce16718f/icon.jpg",
-      "version": "9.17.0",
-      "size": 128651852,
+      "version": "9.18.0",
+      "size": 114592101,
       "versions": [
+        {
+          "version": "9.18.0",
+          "date": "2026-08-16",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2134",
+          "size": 114592101,
+          "localizedDescription": "Features:\r\n- subscription unlocked"
+        },
         {
           "version": "9.17.0",
           "date": "2026-08-02",
@@ -121702,7 +121723,7 @@
           "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Voloco: Vocal Recording Studio\n\nTweak: Subscription Unlocked\n\nVersion: 9.5.2\n\nMade by @riftysIPAlibrary"
         }
       ],
-      "versionDate": "2026-08-02"
+      "versionDate": "2026-08-16"
     },
     {
       "name": "Sticky Widgets",
