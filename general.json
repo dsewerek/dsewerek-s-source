@@ -8983,17 +8983,24 @@
       "type": 1,
       "bundleID": "com.apalonapps.pdffree",
       "bundleIdentifier": "com.apalonapps.pdffree",
-      "version": "2.11.20",
-      "versionDate": "2026-08-06",
+      "version": "2.11.21",
+      "versionDate": "2026-08-17",
       "fullDate": "20260806032331",
-      "size": 94427517,
+      "size": 124459760,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Scanner_2.11.20_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Scanner_2.11.20_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/Scanner_2.11.21_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
       "versions": [
+        {
+          "version": "2.11.21",
+          "date": "2026-08-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/Scanner_2.11.21_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 124459760,
+          "localizedDescription": "Injected with Premium"
+        },
         {
           "version": "2.11.20",
           "date": "2026-08-06",
@@ -119129,6 +119136,13 @@
       ],
       "versions": [
         {
+          "version": "32920",
+          "date": "2026-08-16T21:10:59+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=32920",
+          "size": 146501235,
+          "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux."
+        },
+        {
           "version": "32906",
           "date": "2026-08-15T00:31:22+00:00",
           "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=32906",
@@ -119743,10 +119757,10 @@
       },
       "beta": false,
       "appID": "eu.pokemmo.client",
-      "version": "32906",
-      "versionDate": "2026-08-15",
-      "size": 146492647,
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=32906"
+      "version": "32920",
+      "versionDate": "2026-08-16",
+      "size": 146501235,
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=32920"
     },
     {
       "name": "Ignited",
@@ -125834,9 +125848,16 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Zinnia: Planner & Journal\n\nTweak: Pro Unlocked\n\nVersion: 1.41.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
       "iconURL": "https://mypleasure.zxcvbn.fyi/52037256-2cc4-44e6-b83d-b9888838e3b1/icon.jpg",
-      "version": "1.48",
-      "size": 87350523,
+      "version": "1.48.1",
+      "size": 86849759,
       "versions": [
+        {
+          "version": "1.48.1",
+          "date": "2026-08-16",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1539",
+          "size": 86849759,
+          "localizedDescription": "Injected with Pro"
+        },
         {
           "version": "1.48",
           "date": "2026-08-04",
@@ -125881,7 +125902,7 @@
           "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Zinnia: Planner & Journal\n\nTweak: Pro Unlocked\n\nVersion: 1.39\n\nPatched ✓\n\nMade by @riftysIPAlibrary"
         }
       ],
-      "versionDate": "2026-08-04"
+      "versionDate": "2026-08-16"
     },
     {
       "name": "Stretch",
