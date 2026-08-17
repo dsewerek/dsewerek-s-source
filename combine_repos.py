@@ -221,13 +221,38 @@ def get_incoming_versions(app):
     return []
 
 
+FALLBACK_DATE = "2000-01-01"  # sorts to the bottom, never wins "latest"
+
+
+def normalize_version(v):
+    """AltStore's source schema treats `buildVersion` and `date` as required
+    (non-optional) fields on every version entry. Its decoder fails the
+    *entire* source file if even one version anywhere is missing a required
+    field -- and most of the repos we scrape simply don't provide
+    buildVersion, and a good chunk skip date too. Backfill both so the file
+    always decodes, without touching entries that already have real data."""
+    v = dict(v)  # don't mutate the source dict
+    if not v.get("buildVersion"):
+        v["buildVersion"] = v.get("version", "")
+    if not v.get("date"):
+        v["date"] = FALLBACK_DATE
+    if v.get("size") is None:
+        v["size"] = 0
+    return v
+
+
 def merge_versions(existing_versions, incoming_versions):
     """Adds any version from incoming_versions not already present. Existing
     versions are never overwritten (priority stays with whoever added them
     first)."""
+    normalized_existing = [normalize_version(v) for v in existing_versions]
+    existing_versions.clear()
+    existing_versions.extend(normalized_existing)
+
     seen = {version_key(v) for v in existing_versions}
     added = 0
-    for v in incoming_versions:
+    for raw_v in incoming_versions:
+        v = normalize_version(raw_v)
         k = version_key(v)
         if k not in seen:
             existing_versions.append(v)
