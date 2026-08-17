@@ -275,6 +275,9 @@ def sync_top_level_fields(app):
     app["downloadURL"] = latest.get("downloadURL")
 
 
+FALLBACK_ICON_URL = "https://i.imgur.com/KSSr4ML.png"
+
+
 def merge_app_into_map(apps_map, app):
     """The core rule: first writer of a bundle ID owns its metadata forever
     (within this run); every later occurrence of that bundle ID only
@@ -292,6 +295,12 @@ def merge_app_into_map(apps_map, app):
         new_app = copy.deepcopy(app)
         if not new_app.get("name"):
             new_app["name"] = bid
+        # Feather (and AltStore itself) treat iconURL as a REQUIRED,
+        # non-optional field on every app. Some aggregator sources ship an
+        # empty string here -- one single app with a missing/empty iconURL
+        # crashes decoding of the *entire* apps array, not just that app.
+        if not new_app.get("iconURL"):
+            new_app["iconURL"] = new_app.get("icon") or FALLBACK_ICON_URL
         new_app["versions"] = []
         merge_versions(new_app["versions"], incoming_versions)
         sync_top_level_fields(new_app)
@@ -299,6 +308,10 @@ def merge_app_into_map(apps_map, app):
         print(f"[+] New app tracked: {bid}")
     else:
         existing = apps_map[bid]
+        # Backfill on existing entries too, in case they were loaded from a
+        # previously-committed output file that predates this check.
+        if not existing.get("iconURL"):
+            existing["iconURL"] = existing.get("icon") or FALLBACK_ICON_URL
         added = merge_versions(existing.setdefault("versions", []), incoming_versions)
         if added:
             sync_top_level_fields(existing)
