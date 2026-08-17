@@ -147490,11 +147490,19 @@
       "name": "Yoga Plus",
       "bundleIdentifier": "com.breakthroughapps.Mary-Ochsner-Yoga",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Yoga+ by Mary\n\nTweak: Subscription Unlocked\n\nVersion: 6.4.2\n\nNotes: restart app is subscription isn't unlocked\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/e568704f-095c-4066-8930-e6d93cccbbb9/Yoga__by_Mary-v6.4.2-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1419",
       "iconURL": "https://mypleasure.zxcvbn.fyi/7cbc3377-045f-4015-bb45-129c9285ef36/icon.jpg",
-      "version": "6.4.2",
-      "size": 59673931,
+      "version": "6.9.8",
+      "size": 78810896,
       "versions": [
+        {
+          "version": "6.9.8",
+          "date": "2026-08-17",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1419",
+          "size": 78810896,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "6.9.8"
+        },
         {
           "version": "6.4.2",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/e568704f-095c-4066-8930-e6d93cccbbb9/Yoga__by_Mary-v6.4.2-riftysipas.ipa",
@@ -147512,7 +147520,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-08-17"
     },
     {
       "name": "PrettyUp",
