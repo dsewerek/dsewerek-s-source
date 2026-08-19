@@ -4090,17 +4090,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "26.5.4",
-      "versionDate": "2026-08-15",
+      "version": "26.5.5",
+      "versionDate": "2026-08-19",
       "fullDate": "20260807003514",
-      "size": 34889068,
+      "size": 34912678,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-08-2026/Athlytic_26.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Athlytic_26.5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "26.5.5",
+          "date": "2026-08-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Athlytic_26.5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 34912678,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.5.5"
+        },
         {
           "version": "26.5.4",
           "date": "2026-08-15",
@@ -10859,17 +10867,25 @@
       "type": 1,
       "bundleID": "com.adobe.premiere.ios",
       "bundleIdentifier": "com.adobe.premiere.ios",
-      "version": "26.17.1",
-      "versionDate": "2026-08-12",
+      "version": "26.18.0",
+      "versionDate": "2026-08-19",
       "fullDate": "20260806031820",
-      "size": 112294013,
+      "size": 104970799,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Premiere_26.17.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/Premiere_26.17.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Premiere_26.18.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
       "versions": [
+        {
+          "version": "26.18.0",
+          "date": "2026-08-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Premiere_26.18.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 104970799,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.18.0"
+        },
         {
           "version": "26.17.1",
           "date": "2026-08-12",
@@ -142876,9 +142892,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Cheatsheet — Sticky Notes Widget\n\nTweak: Subscription Unlocked\n\nVersion: 5.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
       "iconURL": "https://mypleasure.zxcvbn.fyi/cf23b557-4353-4216-b78b-b2e8a23dbdc8/icon.jpg",
-      "version": "6.1",
-      "size": 61120612,
+      "version": "6.1.1",
+      "size": 61481687,
       "versions": [
+        {
+          "version": "6.1.1",
+          "date": "2026-08-19",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1601",
+          "size": 61481687,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.1.1"
+        },
         {
           "version": "6.1",
           "date": "2026-08-13",
@@ -142912,7 +142936,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-13"
+      "versionDate": "2026-08-19"
     },
     {
       "name": "Avrora",
@@ -148722,11 +148746,19 @@
       "name": "VisualMind",
       "bundleIdentifier": "com.asanarebel.visualgpt",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: VisualMind: AI MindMap/Chatbot\n\nTweak: Subscription Unlocked\n\nVersion: 1.4.13\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/2a6d3f3a-c575-45b3-b914-d657b695c04f/VisualMind__AI_MindMap-v1.4.13-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2375",
       "iconURL": "https://mypleasure.zxcvbn.fyi/dd744253-b264-4f1c-8d9f-25678699c5f3/icon.jpg",
-      "version": "1.4.13",
-      "size": 14721721,
+      "version": "1.6.1",
+      "size": 23311902,
       "versions": [
+        {
+          "version": "1.6.1",
+          "date": "2026-08-19",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2375",
+          "size": 23311902,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "1.6.1"
+        },
         {
           "version": "1.4.13",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/2a6d3f3a-c575-45b3-b914-d657b695c04f/VisualMind__AI_MindMap-v1.4.13-riftysipas.ipa",
@@ -148744,7 +148776,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-08-19"
     },
     {
       "name": "IFTTT",
