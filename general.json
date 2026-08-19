@@ -13887,17 +13887,25 @@
       "type": 1,
       "bundleID": "com.joytunes.asla",
       "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.10.85",
-      "versionDate": "2026-08-13",
+      "version": "9.10.86",
+      "versionDate": "2026-08-19",
       "fullDate": "20260805164215",
-      "size": 157893935,
+      "size": 158111488,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SimplyPiano_9.10.84_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-08-2026/SimplyPiano_9.10.85_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/SimplyPiano_9.10.86_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "versions": [
+        {
+          "version": "9.10.86",
+          "date": "2026-08-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/SimplyPiano_9.10.86_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 158111488,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.10.86"
+        },
         {
           "version": "9.10.85",
           "date": "2026-08-13",
@@ -26242,17 +26250,25 @@
       "type": 1,
       "bundleID": "com.getmimo.mimo",
       "bundleIdentifier": "com.getmimo.mimo",
-      "version": "12.22.0",
-      "versionDate": "2026-08-10",
+      "version": "12.23.0",
+      "versionDate": "2026-08-19",
       "fullDate": "20260803130917",
-      "size": 189567272,
+      "size": 189679286,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Mimo_12.21.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Mimo_12.22.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Mimo_12.23.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getmimo.mimo.png",
       "versions": [
+        {
+          "version": "12.23.0",
+          "date": "2026-08-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Mimo_12.23.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 189679286,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "12.23.0"
+        },
         {
           "version": "12.22.0",
           "date": "2026-08-10",
@@ -39054,17 +39070,25 @@
       "type": 1,
       "bundleID": "com.apalonapps.wlf",
       "bundleIdentifier": "com.apalonapps.wlf",
-      "version": "4.1.10",
-      "versionDate": "2026-07-28",
+      "version": "4.1.11",
+      "versionDate": "2026-08-19",
       "fullDate": "20260728182346",
-      "size": 164578451,
+      "size": 167685090,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Weather_4.1.10_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Weather_4.1.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Weather_4.1.11_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "versions": [
+        {
+          "version": "4.1.11",
+          "date": "2026-08-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Weather_4.1.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 167685090,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.1.11"
+        },
         {
           "version": "4.1.10",
           "date": "2026-07-28",
@@ -51479,17 +51503,25 @@
       "type": 1,
       "bundleID": "com.djitlabs.pixelcolor",
       "bundleIdentifier": "com.djitlabs.pixelcolor",
-      "version": "6.00.01",
-      "versionDate": "2026-08-17",
+      "version": "6.00.02",
+      "versionDate": "2026-08-19",
       "fullDate": "20260720184516",
-      "size": 53428796,
+      "size": 53446985,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/PixelColor_5.54.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/PixelColor_6.00.01_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/PixelColor_6.00.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
       "versions": [
+        {
+          "version": "6.00.02",
+          "date": "2026-08-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/PixelColor_6.00.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 53446985,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.00.02"
+        },
         {
           "version": "6.00.01",
           "date": "2026-08-17",
@@ -70051,17 +70083,25 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "442.0.0",
-      "versionDate": "2026-08-13",
+      "version": "443.0.0",
+      "versionDate": "2026-08-19",
       "fullDate": "20260610115226",
-      "size": 326941243,
+      "size": 91750400,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1857",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.26/aeea9136-b5b4-4fe0-a13f-8d30d02386R2.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "443.0.0",
+          "date": "2026-08-19",
+          "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.26/aeea9136-b5b4-4fe0-a13f-8d30d02386R2.ipa",
+          "size": 91750400,
+          "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+          "buildVersion": "443.0.0"
+        },
         {
           "version": "442.0.0",
           "date": "2026-08-13",
@@ -177137,6 +177177,43 @@
           "size": 1130583173,
           "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
           "buildVersion": "2.1"
+        }
+      ]
+    },
+    {
+      "name": "Cash, Inc. (Hacked)",
+      "type": 1,
+      "bundleID": "com.alegrium.cong2",
+      "bundleIdentifier": "com.alegrium.cong2",
+      "version": "2.5.1",
+      "versionDate": "2026-08-19",
+      "fullDate": "20260819070107",
+      "size": 178642950,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2374",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2374",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2610",
+      "appstore_download_count": 4,
+      "developerName": "sidelix",
+      "localizedDescription": "Features:\n- Free Purchases\n\nSteps to use this hack:\n\nTap \"Buy,\" then \"Cancel\"\n\nYou won't be charged and the subscription must be unlocked",
+      "icon": "https://appstore.sidelix.vip/images/ritfy_6a85548b70f2e.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a85548b70f2e.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tweaked Game",
+        "Free in app purchases"
+      ],
+      "versions": [
+        {
+          "version": "2.5.1",
+          "date": "2026-08-19",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2374",
+          "size": 178642950,
+          "localizedDescription": "Features:\n- Free Purchases\n\nSteps to use this hack:\n\nTap \"Buy,\" then \"Cancel\"\n\nYou won't be charged and the subscription must be unlocked",
+          "buildVersion": "2.5.1"
         }
       ]
     }
