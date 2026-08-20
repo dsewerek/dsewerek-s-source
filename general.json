@@ -1779,17 +1779,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.620",
-      "versionDate": "2026-08-12",
+      "version": "0.1.621",
+      "versionDate": "2026-08-20",
       "fullDate": "20260807020601",
-      "size": 128913984,
+      "size": 122358066,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/RiseSleep_0.1.620_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/RiseSleep_0.1.621_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.621",
+          "date": "2026-08-20",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/RiseSleep_0.1.621_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 122358066,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.621"
+        },
         {
           "version": "0.1.620",
           "date": "2026-08-12",
@@ -167439,10 +167447,10 @@
       "type": 1,
       "bundleID": "com.auxbrain.egginc",
       "bundleIdentifier": "com.auxbrain.egginc",
-      "version": "1.36",
-      "versionDate": "2026-06-19",
+      "version": "1.37.1",
+      "versionDate": "2026-08-20",
       "fullDate": "20260619152044",
-      "size": 57918000,
+      "size": 62089584,
       "down": "https://appstore.sidelix.vip/download-repo-source/2088",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2325",
@@ -167461,6 +167469,14 @@
         "Free in app purchases"
       ],
       "versions": [
+        {
+          "version": "1.37.1",
+          "date": "2026-08-20",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
+          "size": 62089584,
+          "localizedDescription": "Features:\r\n\r\n- in app purchase",
+          "buildVersion": "1.37.1"
+        },
         {
           "version": "1.36",
           "date": "2026-06-19",
