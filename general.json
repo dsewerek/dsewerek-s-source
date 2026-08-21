@@ -19352,17 +19352,25 @@
       "type": 1,
       "bundleID": "jp.naver.linecamera",
       "bundleIdentifier": "jp.naver.linecamera",
-      "version": "18.4.7",
-      "versionDate": "2026-08-04",
+      "version": "18.5.0",
+      "versionDate": "2026-08-21",
       "fullDate": "20260804215022",
-      "size": 202281633,
+      "size": 211080431,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/LINECamera_18.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/LINECamera_18.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/LINECamera_18.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/jp.naver.linecamera.png",
       "versions": [
+        {
+          "version": "18.5.0",
+          "date": "2026-08-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/LINECamera_18.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 211080431,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "18.5.0"
+        },
         {
           "version": "18.4.7",
           "date": "2026-08-04",
@@ -123376,10 +123384,10 @@
       "type": 1,
       "bundleID": "com.gymbros.app",
       "bundleIdentifier": "com.gymbros.app",
-      "version": "2.15.2",
-      "versionDate": "2026-08-15",
+      "version": "2.15.3",
+      "versionDate": "2026-08-21",
       "fullDate": "20250823193131",
-      "size": 152400153,
+      "size": 150924342,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Liftoff_2.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
       "developerName": "",
@@ -123387,6 +123395,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
       "versions": [
+        {
+          "version": "2.15.3",
+          "date": "2026-08-21",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+          "size": 150924342,
+          "localizedDescription": "Liftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\r\n\r\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\r\n\r\nBoost Your Fitness Journey with Liftoff app\r\n\r\nConnect and Compete\r\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share your fitness journey with friends and other gym-goers.\r\n\r\n- Community Engagement: Dive into a fitness community that motivates and inspires. Follow friends, exchange tips, and celebrate each other’s successes.\r\n- Global Leaderboards: See how you st",
+          "buildVersion": "2.15.3"
+        },
         {
           "version": "2.15.2",
           "date": "2026-08-15",
