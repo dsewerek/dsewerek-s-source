@@ -38770,17 +38770,25 @@
       "type": 1,
       "bundleID": "com.getupnote.ios",
       "bundleIdentifier": "com.getupnote.ios",
-      "version": "9.21.2",
-      "versionDate": "2026-08-19",
+      "version": "9.21.3",
+      "versionDate": "2026-08-21",
       "fullDate": "20260729014647",
-      "size": 55672225,
+      "size": 37336497,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/UpNote_9.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/UpNote_9.21.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/UpNote_9.21.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
       "versions": [
+        {
+          "version": "9.21.3",
+          "date": "2026-08-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/UpNote_9.21.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 37336497,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.21.3"
+        },
         {
           "version": "9.21.2",
           "date": "2026-08-19",
@@ -79924,10 +79932,10 @@
       "type": 1,
       "bundleID": "pinterest",
       "bundleIdentifier": "pinterest",
-      "version": "14.31",
-      "versionDate": "2026-08-14",
+      "version": "14.32",
+      "versionDate": "2026-08-21",
       "fullDate": "20260530025321",
-      "size": 149820986,
+      "size": 152687304,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Pinterest_14.20_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
       "developerName": "",
@@ -79935,6 +79943,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
       "versions": [
+        {
+          "version": "14.32",
+          "date": "2026-08-21",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+          "size": 152687304,
+          "localizedDescription": "Features:\r\n\r\n- Download Videos, \r\n\r\n- Sponsored Pins Removed",
+          "buildVersion": "14.32"
+        },
         {
           "version": "14.31",
           "date": "2026-08-14",
@@ -178672,6 +178688,42 @@
           "size": 157775053,
           "localizedDescription": "Injected with Pro",
           "buildVersion": "9.1"
+        }
+      ]
+    },
+    {
+      "name": "Slime Rancher (Paid App)",
+      "type": 1,
+      "bundleID": "com.playdigious.slimerancher",
+      "bundleIdentifier": "com.playdigious.slimerancher",
+      "version": "1.0.5",
+      "versionDate": "2026-08-21",
+      "fullDate": "20260821102244",
+      "size": 0,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2376",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2376",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2612",
+      "appstore_download_count": 7,
+      "developerName": "sidelix",
+      "localizedDescription": "Due to limited RAM, these devices are not compatible. You won’t have access to all the graphic settings and may experience some freezes or crashes: iPhone Xr, iPhone SE Gen 2 (2020), iPad Mini Gen 5, iPad Air Gen 3, iPad Gen 8, iPad Gen 9.\r\n\r\nSlime Rancher is the tale of Beatrix LeBeau, a plucky young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range,’ where she tries her hand at making a living wrangling slimes.\r\n\r\n[Explore a vibrant alien world, capture and tend to adorable slimes, and get a once-abandoned ranch back on track!]\r\n\r\n*** FEATURES ***\r\n\r\n- Play as a curious and adventurous woman trying to get her newly acquired slime ranch back on track.\r\n- Use your trusty vacpack to collect adorab",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8826e033be4.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8826e033be4.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2026-08-21",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2376",
+          "size": 0,
+          "localizedDescription": "Due to limited RAM, these devices are not compatible. You won’t have access to all the graphic settings and may experience some freezes or crashes: iPhone Xr, iPhone SE Gen 2 (2020), iPad Mini Gen 5, iPad Air Gen 3, iPad Gen 8, iPad Gen 9.\r\n\r\nSlime Rancher is the tale of Beatrix LeBeau, a plucky young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range,’ where she tries her hand at making a living wrangling slimes.\r\n\r\n[Explore a vibrant alien world, capture and tend to adorable slimes, and get a once-abandoned ranch back on track!]\r\n\r\n*** FEATURES ***\r\n\r\n- Play as a curious and adventurous woman trying to get her newly acquired slime ranch back on track.\r\n- Use your trusty vacpack to collect adorab",
+          "buildVersion": "1.0.5"
         }
       ]
     }
