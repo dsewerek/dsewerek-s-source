@@ -6329,17 +6329,25 @@
       "type": 1,
       "bundleID": "com.joytunes.Draw",
       "bundleIdentifier": "com.joytunes.Draw",
-      "version": "1.7.3",
-      "versionDate": "2026-08-11",
+      "version": "1.7.4",
+      "versionDate": "2026-08-26",
       "fullDate": "20260806165728",
-      "size": 116650953,
+      "size": 123664033,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SimplyDraw_1.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/SimplyDraw_1.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/SimplyDraw_1.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.Draw.png",
       "versions": [
+        {
+          "version": "1.7.4",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/SimplyDraw_1.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 123664033,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.7.4"
+        },
         {
           "version": "1.7.3",
           "date": "2026-08-11",
@@ -36070,17 +36078,25 @@
       "type": 1,
       "bundleID": "com.kingsoft.office.g.wpsoffice",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
-      "version": "26.8.0",
-      "versionDate": "2026-08-10",
+      "version": "26.8.1",
+      "versionDate": "2026-08-26",
       "fullDate": "20260729081923",
-      "size": 323223316,
+      "size": 324891704,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/wpsoffice_26.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/wpsoffice_26.8.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/wpsoffice_26.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
       "versions": [
+        {
+          "version": "26.8.1",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/wpsoffice_26.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 324891704,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "26.8.1"
+        },
         {
           "version": "26.8.0",
           "date": "2026-08-10",
@@ -39590,17 +39606,25 @@
       "type": 1,
       "bundleID": "com.apalonapps.wlf",
       "bundleIdentifier": "com.apalonapps.wlf",
-      "version": "4.1.11",
-      "versionDate": "2026-08-19",
+      "version": "4.18.20",
+      "versionDate": "2026-08-26",
       "fullDate": "20260728182346",
-      "size": 167685090,
+      "size": 84442236,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Weather_4.1.10_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Weather_4.1.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Weather_4.18.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "versions": [
+        {
+          "version": "4.18.20",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Weather_4.18.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 84442236,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.18.20"
+        },
         {
           "version": "4.1.11",
           "date": "2026-08-19",
@@ -40970,17 +40994,25 @@
       "type": 1,
       "bundleID": "com.endel.endel",
       "bundleIdentifier": "com.endel.endel",
-      "version": "4.49.222",
-      "versionDate": "2026-08-10",
+      "version": "4.49.230",
+      "versionDate": "2026-08-26",
       "fullDate": "20260727185757",
-      "size": 166188853,
+      "size": 170129183,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Endel_4.49.205_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Endel_4.49.222_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Endel_4.49.230_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
       "versions": [
+        {
+          "version": "4.49.230",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Endel_4.49.230_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 170129183,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.49.230"
+        },
         {
           "version": "4.49.222",
           "date": "2026-08-10",
@@ -43778,17 +43810,25 @@
       "type": 1,
       "bundleID": "ru.routes.peakvisor",
       "bundleIdentifier": "ru.routes.peakvisor",
-      "version": "5.107",
-      "versionDate": "2026-08-23",
+      "version": "5.108",
+      "versionDate": "2026-08-26",
       "fullDate": "20260724205645",
-      "size": 121881982,
+      "size": 121870937,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/PeakVisor_5.103_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2026/PeakVisor_5.107_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/PeakVisor_5.108_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "versions": [
+        {
+          "version": "5.108",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/PeakVisor_5.108_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 121870937,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.108"
+        },
         {
           "version": "5.107",
           "date": "2026-08-23",
@@ -50127,17 +50167,25 @@
       "type": 1,
       "bundleID": "app.tripsy.ios",
       "bundleIdentifier": "app.tripsy.ios",
-      "version": "3.8.15",
-      "versionDate": "2026-07-22",
+      "version": "3.9.0",
+      "versionDate": "2026-08-26",
       "fullDate": "20260722181545",
-      "size": 78492064,
+      "size": 89225026,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Tripsy_3.8.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Tripsy_3.8.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Tripsy_3.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "versions": [
+        {
+          "version": "3.9.0",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Tripsy_3.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 89225026,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.9.0"
+        },
         {
           "version": "3.8.15",
           "date": "2026-07-22",
@@ -62948,17 +62996,25 @@
       "type": 1,
       "bundleID": "com.adguard.AdguardExtension",
       "bundleIdentifier": "com.adguard.AdguardExtension",
-      "version": "4.5.21",
-      "versionDate": "2026-07-01",
+      "version": "4.5.22",
+      "versionDate": "2026-08-26",
       "fullDate": "20260701204614",
-      "size": 43555453,
+      "size": 41961608,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/AdGuard_4.5.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/AdGuard_4.5.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/AdGuard_4.5.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "versions": [
+        {
+          "version": "4.5.22",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/AdGuard_4.5.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 41961608,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.5.22"
+        },
         {
           "version": "4.5.21",
           "date": "2026-07-01",
@@ -142275,7 +142331,7 @@
       "localizedDescription": "A simple SwiftUI iOS app that creates a pairing file on-device, using iOS 27+ wireless pairing.  Note: Requires iOS 27+.",
       "iconURL": "https://github.com/StikDebug/StikPair/blob/main/App/Assets.xcassets/AppLogo.imageset/StikPair-iOS-Default-1024%401x.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 7581073,
+      "size": 7735750,
       "screenshots": {
         "iphone": [
           {
@@ -142305,6 +142361,15 @@
       },
       "versions": [
         {
+          "version": "1.2.0",
+          "date": "2026-08-25",
+          "localizedDescription": "Added Apple TV wireless pairing.",
+          "downloadURL": "https://github.com/StikDebug/StikPair/releases/download/v1.2.0/StikPair.ipa",
+          "size": 7735750,
+          "minOSVersion": "27.0",
+          "buildVersion": "1.2.0"
+        },
+        {
           "version": "1.1.0",
           "date": "2026-06-20",
           "localizedDescription": "Initial AltSource Release. Note: Requires iOS 27+",
@@ -142314,9 +142379,9 @@
           "buildVersion": "1.1.0"
         }
       ],
-      "version": "1.1.0",
-      "versionDate": "2026-06-20",
-      "downloadURL": "https://github.com/StikDebug/StikPair/releases/download/v1.1.0/StikPair-1.1.0.ipa"
+      "version": "1.2.0",
+      "versionDate": "2026-08-25",
+      "downloadURL": "https://github.com/StikDebug/StikPair/releases/download/v1.2.0/StikPair.ipa"
     },
     {
       "beta": false,
