@@ -57901,17 +57901,25 @@
       "type": 1,
       "bundleID": "com.fujixweekly.fujixweeklyrecipes",
       "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
-      "version": "1.15.1",
-      "versionDate": "2026-08-22",
+      "version": "1.15.2",
+      "versionDate": "2026-08-26",
       "fullDate": "20260709110114",
-      "size": 13227238,
+      "size": 13229082,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/FujiXWeekly_1.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2026/FujiXWeekly_1.15.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/FujiXWeekly_1.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
       "versions": [
+        {
+          "version": "1.15.2",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/FujiXWeekly_1.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 13229082,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.15.2"
+        },
         {
           "version": "1.15.1",
           "date": "2026-08-22",
@@ -85310,17 +85318,25 @@
       "type": 1,
       "bundleID": "ideastudio.Weather-on-the-Way",
       "bundleIdentifier": "ideastudio.Weather-on-the-Way",
-      "version": "2.5.5",
-      "versionDate": "2026-05-20",
+      "version": "2.5.7",
+      "versionDate": "2026-08-25",
       "fullDate": "20260520131727",
-      "size": 44137025,
+      "size": 50654257,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/OnTheWay_2.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/OnTheWay_2.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
       "versions": [
+        {
+          "version": "2.5.7",
+          "date": "2026-08-25",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
+          "size": 50654257,
+          "localizedDescription": "Pro Unlocked",
+          "buildVersion": "2.5.7"
+        },
         {
           "version": "2.5.5",
           "date": "2026-05-20",
@@ -114965,17 +114981,25 @@
       "type": 1,
       "bundleID": "geeo.Kwit",
       "bundleIdentifier": "geeo.Kwit",
-      "version": "4.30.0",
-      "versionDate": "2025-12-17",
+      "version": "4.35.0",
+      "versionDate": "2026-08-26",
       "fullDate": "20251217182202",
-      "size": 101560840,
+      "size": 123229896,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Kwit_4.30.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Kwit_4.30.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2378",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/geeo.Kwit.png",
       "versions": [
+        {
+          "version": "4.35.0",
+          "date": "2026-08-26",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2378",
+          "size": 123229896,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "4.35.0"
+        },
         {
           "version": "4.30.0",
           "date": "2025-12-17",
@@ -148669,9 +148693,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Medication List\n\nTweak: Subscription Unlocked\n\nVersion: 1.7.4\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2251",
       "iconURL": "https://mypleasure.zxcvbn.fyi/569cbc72-a938-4f11-902e-d52ce0a3383b/icon.jpg",
-      "version": "1.8.12",
-      "size": 27606012,
+      "version": "1.8.13",
+      "size": 27258290,
       "versions": [
+        {
+          "version": "1.8.13",
+          "date": "2026-08-25",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2251",
+          "size": 27258290,
+          "localizedDescription": "PROBLEM SOLVED: Take the stress out of managing your health regimen. Forget trying to remember if you took your morning pills or trying to track complex prescription intervals on a paper calendar. Whether you are managing chronic conditions, daily prescriptions, birth control, or a detailed vitamin and supplement routine, Medication List ensures you stay perfectly on track.\r\nWith a clean, distraction-free interface, highly customizable scheduling, and glanceable home screen widgets, managing your health has never been easier or more reliable.\r\n\r\nKEY FEATURES YOU’LL LOVE:\r\n• HOME SCREEN MEDICATION WIDGETS: Keep your health front and center. Use our sleek iOS Home Screen widgets to view \"Today's Meds\" at a glance and track your upcoming doses ",
+          "buildVersion": "1.8.13"
+        },
         {
           "version": "1.8.12",
           "date": "2026-07-17",
@@ -148745,7 +148777,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-17"
+      "versionDate": "2026-08-25"
     },
     {
       "name": "Paper.io 2",
