@@ -80724,10 +80724,10 @@
       "type": 1,
       "bundleID": "pinterest",
       "bundleIdentifier": "pinterest",
-      "version": "14.32",
-      "versionDate": "2026-08-21",
+      "version": "14.33",
+      "versionDate": "2026-08-27",
       "fullDate": "20260530025321",
-      "size": 152687304,
+      "size": 151913344,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Pinterest_14.20_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
       "developerName": "",
@@ -80735,6 +80735,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
       "versions": [
+        {
+          "version": "14.33",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+          "size": 151913344,
+          "localizedDescription": "Features:\r\n\r\n- Download Videos, \r\n\r\n- Sponsored Pins Removed",
+          "buildVersion": "14.33"
+        },
         {
           "version": "14.32",
           "date": "2026-08-21",
