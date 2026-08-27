@@ -1383,17 +1383,25 @@
       "type": 1,
       "bundleID": "com.future.kapi",
       "bundleIdentifier": "com.future.kapi",
-      "version": "4.36.1",
-      "versionDate": "2026-08-19",
+      "version": "4.37.0",
+      "versionDate": "2026-08-27",
       "fullDate": "20260807051648",
-      "size": 142507467,
+      "size": 145337861,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Action_4.35.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Action_4.36.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Action_4.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
       "versions": [
+        {
+          "version": "4.37.0",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Action_4.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 145337861,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.37.0"
+        },
         {
           "version": "4.36.1",
           "date": "2026-08-19",
@@ -19076,17 +19084,25 @@
       "type": 1,
       "bundleID": "com.tripleglazedstudios.Weather",
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
-      "version": "3.6.2",
-      "versionDate": "2026-08-23",
+      "version": "3.6.3",
+      "versionDate": "2026-08-27",
       "fullDate": "20260805005143",
-      "size": 50104865,
+      "size": 76925973,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Mercury_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2026/Mercury_3.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Mercury_3.6.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
       "versions": [
+        {
+          "version": "3.6.3",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Mercury_3.6.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 76925973,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.6.3"
+        },
         {
           "version": "3.6.2",
           "date": "2026-08-23",
@@ -32405,17 +32421,25 @@
       "type": 1,
       "bundleID": "com.firecore.infuse",
       "bundleIdentifier": "com.firecore.infuse",
-      "version": "8.5.1",
-      "versionDate": "2026-08-11",
+      "version": "8.5.2",
+      "versionDate": "2026-08-27",
       "fullDate": "20260730214857",
-      "size": 102428428,
+      "size": 102468228,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/Infuse_8.5_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/Infuse_8.5.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Infuse_8.5.2_Plus_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.firecore.infuse.png",
       "versions": [
+        {
+          "version": "8.5.2",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Infuse_8.5.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+          "size": 102468228,
+          "localizedDescription": "Injected with Plus",
+          "buildVersion": "8.5.2"
+        },
         {
           "version": "8.5.1",
           "date": "2026-08-11",
@@ -39178,17 +39202,25 @@
       "type": 1,
       "bundleID": "com.getupnote.ios",
       "bundleIdentifier": "com.getupnote.ios",
-      "version": "9.22.1",
-      "versionDate": "2026-08-23",
+      "version": "9.22.2",
+      "versionDate": "2026-08-27",
       "fullDate": "20260729014647",
-      "size": 55756359,
+      "size": 55749084,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/UpNote_9.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2026/UpNote_9.22.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/UpNote_9.22.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
       "versions": [
+        {
+          "version": "9.22.2",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/UpNote_9.22.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 55749084,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.22.2"
+        },
         {
           "version": "9.22.1",
           "date": "2026-08-23",
@@ -43424,17 +43456,25 @@
       "type": 1,
       "bundleID": "com.calm.calmapp",
       "bundleIdentifier": "com.calm.calmapp",
-      "version": "7.0.2",
-      "versionDate": "2026-08-26",
+      "version": "7.0.3",
+      "versionDate": "2026-08-27",
       "fullDate": "20260724225205",
-      "size": 115234184,
+      "size": 115347212,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/Calm_6.101.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Calm_7.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Calm_7.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
       "versions": [
+        {
+          "version": "7.0.3",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Calm_7.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 115347212,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "7.0.3"
+        },
         {
           "version": "7.0.2",
           "date": "2026-08-26",
@@ -53679,17 +53719,25 @@
       "type": 1,
       "bundleID": "com.andyworks.vibes",
       "bundleIdentifier": "com.andyworks.vibes",
-      "version": "1.24",
-      "versionDate": "2026-07-17",
+      "version": "1.25",
+      "versionDate": "2026-08-27",
       "fullDate": "20260717015619",
-      "size": 260427695,
+      "size": 260492850,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2026/Vibes_1.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2026/Vibes_1.24_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Vibes_1.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.vibes.png",
       "versions": [
+        {
+          "version": "1.25",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Vibes_1.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 260492850,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.25"
+        },
         {
           "version": "1.24",
           "date": "2026-07-17",
@@ -66218,17 +66266,25 @@
       "type": 1,
       "bundleID": "com.snowcorp.glowup",
       "bundleIdentifier": "com.snowcorp.glowup",
-      "version": "4.2.10",
-      "versionDate": "2026-06-26",
+      "version": "4.3.0",
+      "versionDate": "2026-08-27",
       "fullDate": "20260626180901",
-      "size": 186701354,
+      "size": 191848297,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/GlowUp_4.2.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/GlowUp_4.2.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/GlowUp_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.glowup.png",
       "versions": [
+        {
+          "version": "4.3.0",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/GlowUp_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 191848297,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.3.0"
+        },
         {
           "version": "4.2.10",
           "date": "2026-06-26",
@@ -88118,17 +88174,25 @@
       "type": 1,
       "bundleID": "net.quochuywdm.collanote496",
       "bundleIdentifier": "net.quochuywdm.collanote496",
-      "version": "4.3.1",
-      "versionDate": "2026-08-24",
+      "version": "4.3.2",
+      "versionDate": "2026-08-27",
       "fullDate": "20260514092557",
-      "size": 128213440,
+      "size": 128203525,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/CollaNote_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/CollaNote_4.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/CollaNote_4.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "versions": [
+        {
+          "version": "4.3.2",
+          "date": "2026-08-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/CollaNote_4.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 128203525,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.3.2"
+        },
         {
           "version": "4.3.1",
           "date": "2026-08-24",
@@ -101830,10 +101894,10 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.16",
-      "versionDate": "2026-08-13",
+      "version": "12.20",
+      "versionDate": "2026-08-27",
       "fullDate": "20260312080709",
-      "size": 237371615,
+      "size": 241068595,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
       "developerName": "",
@@ -101841,6 +101905,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.20",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
+          "size": 241068595,
+          "localizedDescription": "• 120Hz support\r\n• Screen recording path indicator\r\n• NeoFreeBird 5.3 beta fix applied\r\n• Plugin settings (ad removal, video downloading, custom icons, etc.) – Tweets & Replies – Reply via web",
+          "buildVersion": "12.20"
+        },
         {
           "version": "12.16",
           "date": "2026-08-13",
@@ -107097,17 +107169,25 @@
       "type": 1,
       "bundleID": "com.google.ios.youtube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.33.6",
-      "versionDate": "2026-08-24",
+      "version": "21.34.3",
+      "versionDate": "2026-08-27",
       "fullDate": "20260113071103",
-      "size": 130097628,
+      "size": 165748632,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/YouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.28/9f713471-7f47-4029-8e41-e3cac4003bYM.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "versions": [
+        {
+          "version": "21.34.3",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1824",
+          "size": 165748632,
+          "localizedDescription": "ℹ️ Features:\r\n\r\nContent download — save videos directly to your gallery.\r\n\r\nNo ads — neither from YouTube nor from bloggers.\r\n\r\nCustomizable interface — personalize the appearance, hide unnecessary elements, and enable dark mode for OLED displays.\r\n\r\nPlayer controls — adjust playback speed, quality, and behavior. Use gestures for convenience.\r\n\r\nAdditional options — save user settings, clear cache, and flexibly customize how the app works.",
+          "buildVersion": "21.34.3"
+        },
         {
           "version": "21.33.6",
           "date": "2026-08-24",
@@ -111682,10 +111762,10 @@
       "type": 1,
       "bundleID": "com.365scores.365scroesapp",
       "bundleIdentifier": "com.365scores.365scroesapp",
-      "version": "6.6.3",
-      "versionDate": "2026-08-12",
+      "version": "6.6.5",
+      "versionDate": "2026-08-27",
       "fullDate": "20251224160530",
-      "size": 94177945,
+      "size": 99530917,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/365Scores_6.3.8_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
       "developerName": "",
@@ -111693,6 +111773,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.365scores.365scroesapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.365scores.365scroesapp.png",
       "versions": [
+        {
+          "version": "6.6.5",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2234",
+          "size": 99530917,
+          "localizedDescription": "Be the 1st to Know! 365Scores helps you become an EXPERT OF THE GAME with Live Scores, Pre-Game Stats, In-Depth Data, News Updates, Upcoming Fixtures, Lineups - and everything else you need to stay connected to your favorite players, teams, and competitions.\r\n\r\nJoin over 150 million sports fans who rely on 365Scores for real-time updates and pre-game stats.\r\n\r\n* EXTENSIVE SPORTS COVERAGE\r\nFollow the NFL, NBA, MLB, NHL, MLS, UEFA Champions League, English Premier League, and 2000+ global sports competitions in 10 different types of sports, including top football, soccer, basketball, tennis events and much more – all in one live scores app.\r\n\r\n* LIVE SOCCER RESULTS\r\nGet all the latest soccer news and updates, right at your fingertips! Follow you",
+          "buildVersion": "6.6.5"
+        },
         {
           "version": "6.6.3",
           "date": "2026-08-12",
@@ -118110,17 +118198,25 @@
       "type": 1,
       "bundleID": "com.oneothergame.workout-for-older-adults-app",
       "bundleIdentifier": "com.oneothergame.workout-for-older-adults-app",
-      "version": "6.4.4",
-      "versionDate": "2025-12-13",
+      "version": "6.4.8",
+      "versionDate": "2026-08-27",
       "fullDate": "20251213185730",
-      "size": 353515257,
+      "size": 363838840,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/SeniorsWorkout_6.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/SeniorsWorkout_6.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2389",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oneothergame.workout-for-older-adults-app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oneothergame.workout-for-older-adults-app.png",
       "versions": [
+        {
+          "version": "6.4.8",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2389",
+          "size": 363838840,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "6.4.8"
+        },
         {
           "version": "6.4.4",
           "date": "2025-12-13",
@@ -142336,7 +142432,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 12818495,
+      "size": 12824047,
       "screenshots": {
         "iphone": [
           {
@@ -142366,6 +142462,15 @@
       },
       "versions": [
         {
+          "version": "3.1.10",
+          "date": "2026-08-27",
+          "localizedDescription": "Full Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.9...3.1.10\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.9...3.1.10",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.10/StikDebug-3.1.10.ipa",
+          "size": 12824047,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.1.10"
+        },
+        {
           "version": "3.1.9",
           "date": "2026-08-01",
           "localizedDescription": "Fixes for pairing files.",
@@ -142375,9 +142480,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.1.9",
-      "versionDate": "2026-08-01",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.9/StikDebug-3.1.9.ipa"
+      "version": "3.1.10",
+      "versionDate": "2026-08-27",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.10/StikDebug-3.1.10.ipa"
     },
     {
       "name": "StikPair",
@@ -160086,6 +160191,14 @@
       "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/com.stossy11.MeloNX.png",
       "versions": [
         {
+          "version": "2.6",
+          "date": "2026-08-26T14:22:48Z",
+          "localizedDescription": "What's New\nCore\n\nBrand new Audio Backend\nUpdate AirPlay Support\nFix Firmware Importing\nUpdate TXM detection\nFix ldn_mitm\nUpdate Texture Clearing / Auto Delete Cache\nACNH Black Background Fix (https://github.com/Ryubing/Issues/issues/476)\nAsync Shader Generation Fixes\nFix Argument Buffer env variable\nRemoved Herobrine\n\nUI/UX & Extras\n\nRAM Tester Integration\n3D Cartridge View and Animations (Controller Navigable)\nAdd Clear All Shader Cache Button\nAdd Copying Launch Deep Link\nFix Saving Game Icon\nFile Picker Fixes\n",
+          "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa",
+          "size": 48811519,
+          "buildVersion": "2.6"
+        },
+        {
           "version": "2.5",
           "date": "2026-07-19T10:17:35Z",
           "localizedDescription": "What's New\nCore & Controllers\n\nLaggy/Glitching Audio Fixes \nFix Race Conditions in TickSource\nAdd VSync FPS Target\nUpdate Unbound Presenting\nRevert Descriptor Set Updates\nAdd GPU PresentCopyCompute Path\nAdd Timeout for WaitingForValue in BufferedQuery\nAdd Back Exit Button (works the same as 2.3.1)\nFix Cheats\nFix Super XCI Support\nFix Saves\n\nUI/UX\n\nUpdate Setup Screen \nAdd continuing without title.keys\nFix Importing Mods\nFix crashing when importing firmware.\nAdd Firmware & Keys Importing Error Handling\nFix Updates/DLCs\nFix URL Schemes and Auto JIT\nUpdate No JIT View\nAdd Extended Virtual Addressing entitlement Checker\nAdd Emulation Crashed Alert\nFix AirPlay\n",
@@ -160222,10 +160335,10 @@
           "buildVersion": "1.0.0"
         }
       ],
-      "version": "2.5",
-      "versionDate": "2026-07-19",
-      "size": 48655413,
-      "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.5/MeloNX.ipa"
+      "version": "2.6",
+      "versionDate": "2026-08-26",
+      "size": 48811519,
+      "downloadURL": "https://git.ryujinx.app/projects/MeloNX/releases/download/2.6/MeloNX.ipa"
     },
     {
       "name": "JESSI",
@@ -166772,10 +166885,10 @@
       "type": 1,
       "bundleID": "games.engaged.pocketcity2",
       "bundleIdentifier": "games.engaged.pocketcity2",
-      "version": "1.2",
-      "versionDate": "2026-07-31",
+      "version": "1.21",
+      "versionDate": "2026-08-27",
       "fullDate": "20260731005001",
-      "size": 156363161,
+      "size": 171114589,
       "down": "https://appstore.sidelix.vip/download-repo-source/2326",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2326",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2562",
@@ -166794,6 +166907,14 @@
       ],
       "versions": [
         {
+          "version": "1.21",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2326",
+          "size": 171114589,
+          "localizedDescription": "Create roads, zones, landmarks, special buildings, and live the life of a successful mayor!\r\n\r\nIn this unique City Building game you can drop your avatar into the world and roam freely!! Do typical Mayor things like:\r\n• Buy, customize and hang out in your own mansion\r\n• ADOPT A PET! Your pet follows you around the city! \r\n• Get your pilot license and fly a stunt plane\r\n• Manage police, fire, education, taxes and other policies to ensure your city remains stable! \r\n• Become an undercover police officer\r\n• Prove yourself in STREET RACING\r\n• Ball out in the BASKETBALL CHALLENGE\r\n• Create your own startup company\r\n• Throw money (or tomatoes) at your citizens\r\n• \"Borrow\" cars without asking\r\n• Drive off ramps into the air\r\n• P",
+          "buildVersion": "1.21"
+        },
+        {
           "version": "1.2",
           "date": "2026-07-31",
           "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2326",
@@ -166808,10 +166929,10 @@
       "type": 1,
       "bundleID": "com.kooapps.snakearcade",
       "bundleIdentifier": "com.kooapps.snakearcade",
-      "version": "1.0.17",
-      "versionDate": "2026-07-31",
+      "version": "1.0.18",
+      "versionDate": "2026-08-27",
       "fullDate": "20260731004855",
-      "size": 68927303,
+      "size": 69040199,
       "down": "https://appstore.sidelix.vip/download-repo-source/2325",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2325",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2561",
@@ -166829,6 +166950,14 @@
         "Apple - Arcade Games"
       ],
       "versions": [
+        {
+          "version": "1.0.18",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2325",
+          "size": 69040199,
+          "localizedDescription": "Slither, eat, and survive!\r\n\r\nThe greatest .io game of all time is now on Apple Arcade. Win by collecting pellets in order to grow bigger and surround other snakes to beat them.\r\n\r\nJoin over 200 million players who have played Snake.io and participate in monthly live events to earn exclusive skins for your collection.\r\n\r\n==   How to Play Snake.io+   ==\r\n- Cut in front of other snakes quickly to make them explode when they hit you head on\r\n- After they explode into pellets, eat them as fast as you can to gain more mass\r\n- Eject mass to boost your speed with one button\r\n- Try to beat the highest score based on your length during a round\r\n- Internet connection is not needed, play wherever, whether you are offline or online\r\n- Compare with friends t",
+          "buildVersion": "1.0.18"
+        },
         {
           "version": "1.0.17",
           "date": "2026-07-31",
@@ -167143,10 +167272,10 @@
       "type": 1,
       "bundleID": "com.roblox.robloxmobile",
       "bundleIdentifier": "com.roblox.robloxmobile",
-      "version": "2.729.838",
-      "versionDate": "2026-07-21",
+      "version": "2.735.1135",
+      "versionDate": "2026-08-27",
       "fullDate": "20260721004846",
-      "size": 139755697,
+      "size": 138150624,
       "down": "https://appstore.sidelix.vip/download-repo-source/1929",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2166",
@@ -167164,6 +167293,14 @@
         "Tweaked Game"
       ],
       "versions": [
+        {
+          "version": "2.735.1135",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1929",
+          "size": 138150624,
+          "localizedDescription": "Delta is a revolutionary new way to experience the world of scripting with its extensive library of features that will make your life easier.",
+          "buildVersion": "2.735.1135"
+        },
         {
           "version": "2.729.838",
           "date": "2026-07-21",
@@ -168771,10 +168908,10 @@
       "type": 1,
       "bundleID": "com.5livesstudios.cozycaravan",
       "bundleIdentifier": "com.5livesstudios.cozycaravan",
-      "version": "1.4.22803",
-      "versionDate": "2026-07-11",
+      "version": "1.5.23696",
+      "versionDate": "2026-08-27",
       "fullDate": "20260711193959",
-      "size": 749797530,
+      "size": 794476470,
       "down": "https://appstore.sidelix.vip/download-repo-source/2200",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2200",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2437",
@@ -168792,6 +168929,14 @@
         "Apple - Arcade Games"
       ],
       "versions": [
+        {
+          "version": "1.5.23696",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2200",
+          "size": 794476470,
+          "localizedDescription": "Grab your backpack and climb on in, it’s time to hit the road!  We’ve got cakes to bake, clothes to make, as folks prepare for the Whizz Bang Fair!\r\nAs fresh-faced Guild Rookies, you and your best friend Bubba will travel through picturesque landscapes in your reliable old caravan, helping communities along the way. Featuring a cozy stop-motion animation style, craft a variety of handmade items—from hearty meals to stylish outfits—then set up your market stall and share goodies with the local townsfolk.\r\nMeet an eclectic mix of characters, each with their own stories and needs. Cultivate connections across Harvestvale and uphold the mission of the Guild—help those in need and spread kindness!\r\n\r\nExpress Yourself\r\nIn Cozy Caravan, you c",
+          "buildVersion": "1.5.23696"
+        },
         {
           "version": "1.4.22803",
           "date": "2026-07-11",
@@ -180872,6 +181017,366 @@
           "size": 0,
           "localizedDescription": "Due to limited RAM, these devices are not compatible. You won’t have access to all the graphic settings and may experience some freezes or crashes: iPhone Xr, iPhone SE Gen 2 (2020), iPad Mini Gen 5, iPad Air Gen 3, iPad Gen 8, iPad Gen 9.\r\n\r\nSlime Rancher is the tale of Beatrix LeBeau, a plucky young rancher who sets out for a life a thousand light years away from Earth on the ‘Far, Far Range,’ where she tries her hand at making a living wrangling slimes.\r\n\r\n[Explore a vibrant alien world, capture and tend to adorable slimes, and get a once-abandoned ranch back on track!]\r\n\r\n*** FEATURES ***\r\n\r\n- Play as a curious and adventurous woman trying to get her newly acquired slime ranch back on track.\r\n- Use your trusty vacpack to collect adorab",
           "buildVersion": "1.0.5"
+        }
+      ]
+    },
+    {
+      "name": "Everyday Puzzles: Mini Games+ (Arcade Games)",
+      "type": 1,
+      "bundleID": "com.fanatee.epp",
+      "bundleIdentifier": "com.fanatee.epp",
+      "version": "1.0.5",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827021135",
+      "size": 114872253,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2388",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2388",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2624",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "Everyday Puzzles: Mini Games+ - Multiple Games in One App!\r\nA hub of word puzzles and brain teasers to keep you entertained daily!\r\nDaily puzzles plus unlimited access to our entire calendar archive—your puzzle fun never ends!\r\n\r\nANYGRAM, HASHTAG, CROSSWORD, MINI CROSSWORD, PASSWORD, TANGLE, WORD SEARCH, CLAMBER, SUDOKU, CONNECTED, SECRET WORD, and CRYPTOGRAM!\r\n\r\nPlay daily, keep your streak alive, and earn rewards as you climb the XP ladder.\r\nThe FLAME streak keeps you motivated—play daily to light your flame and increase its brightness!\r\n\r\nCONSTANTLY UPDATED with new puzzles, mini-games and features!\r\n\r\nThe Hardest Word Game: Try the New Hard Mode unlocked at level 4. Can you beat it?\r\n\r\nMANY GAMES IN ONE APP\r\n\r\nSECRET WORD\r\nAn exclusive g",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f9ca50d727.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9ca50d727.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "1.0.5",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2388",
+          "size": 114872253,
+          "localizedDescription": "Everyday Puzzles: Mini Games+ - Multiple Games in One App!\r\nA hub of word puzzles and brain teasers to keep you entertained daily!\r\nDaily puzzles plus unlimited access to our entire calendar archive—your puzzle fun never ends!\r\n\r\nANYGRAM, HASHTAG, CROSSWORD, MINI CROSSWORD, PASSWORD, TANGLE, WORD SEARCH, CLAMBER, SUDOKU, CONNECTED, SECRET WORD, and CRYPTOGRAM!\r\n\r\nPlay daily, keep your streak alive, and earn rewards as you climb the XP ladder.\r\nThe FLAME streak keeps you motivated—play daily to light your flame and increase its brightness!\r\n\r\nCONSTANTLY UPDATED with new puzzles, mini-games and features!\r\n\r\nThe Hardest Word Game: Try the New Hard Mode unlocked at level 4. Can you beat it?\r\n\r\nMANY GAMES IN ONE APP\r\n\r\nSECRET WORD\r\nAn exclusive g",
+          "buildVersion": "1.0.5"
+        }
+      ]
+    },
+    {
+      "name": "Dungeon Clawler+ (Apple Arcade)",
+      "type": 1,
+      "bundleID": "com.strayfawnstudio.dungeonclawlermobileplus",
+      "bundleIdentifier": "com.strayfawnstudio.dungeonclawlermobileplus",
+      "version": "1.1.1",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827021052",
+      "size": 347574403,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2387",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2387",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2623",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "Dungeon Clawler is a Roguelike Claw Machine Deckbuilder. Build your unique deck, fight enemies by grabbing weapons and items from a claw machine and find special artefacts that help you on your quest to reclaim something you lost... Aim carefully to claw your way through this dungeon!\r\n\r\nFEATURES:\r\n- Unique Claw Machine Mechanic: Control a real-time claw machine to snatch weapons, shields, and items from the claw machine. Every grab counts, so plan your strategy and defeat enemies with precision.\r\n- Roguelike Dungeon Exploration: Traverse procedurally generated dungeons that change with every run, offering new challenges, enemies, and treasures every time you play.\r\n- Innovative Deckbuilding Strategy: Collect and upgrade your item pool with powe",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f9c6e9ed96.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c6e9ed96.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2387",
+          "size": 347574403,
+          "localizedDescription": "Dungeon Clawler is a Roguelike Claw Machine Deckbuilder. Build your unique deck, fight enemies by grabbing weapons and items from a claw machine and find special artefacts that help you on your quest to reclaim something you lost... Aim carefully to claw your way through this dungeon!\r\n\r\nFEATURES:\r\n- Unique Claw Machine Mechanic: Control a real-time claw machine to snatch weapons, shields, and items from the claw machine. Every grab counts, so plan your strategy and defeat enemies with precision.\r\n- Roguelike Dungeon Exploration: Traverse procedurally generated dungeons that change with every run, offering new challenges, enemies, and treasures every time you play.\r\n- Innovative Deckbuilding Strategy: Collect and upgrade your item pool with powe",
+          "buildVersion": "1.1.1"
+        }
+      ]
+    },
+    {
+      "name": "Draw it+ (Apple Arcade)",
+      "type": 1,
+      "bundleID": "com.kwalee.drawitplus",
+      "bundleIdentifier": "com.kwalee.drawitplus",
+      "version": "1.0.2",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827020936",
+      "size": 126471037,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2386",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2386",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2622",
+      "appstore_download_count": 1,
+      "developerName": "sidelix",
+      "localizedDescription": "Put your creative flair to the ultimate test.\r\n\r\nGet ready for a quick-thinking drawing challenge where your skills are tested against the clock!\r\n\r\nIn Draw It, every second counts. Sketch each word before your time runs out and see how many points you can score. \r\n\r\nWith simple controls and a wide variety of words to draw, this super exciting fast paced game is the perfect answer for fans of art, doodle and quick play.\r\n\r\nWhether you're jumping in for fun or aiming for a high score, there's always something new to take on. \r\n\r\nRace the clock in dynamic rounds, or just enjoy quick sketching and doodling as a creative break. \r\n\r\nIt’s the perfect way to bring your ideas to life, stay quick and keep your reflexes sharp. \r\n\r\nBe bold, be quick - do",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f9c2806fa1.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9c2806fa1.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2386",
+          "size": 126471037,
+          "localizedDescription": "Put your creative flair to the ultimate test.\r\n\r\nGet ready for a quick-thinking drawing challenge where your skills are tested against the clock!\r\n\r\nIn Draw It, every second counts. Sketch each word before your time runs out and see how many points you can score. \r\n\r\nWith simple controls and a wide variety of words to draw, this super exciting fast paced game is the perfect answer for fans of art, doodle and quick play.\r\n\r\nWhether you're jumping in for fun or aiming for a high score, there's always something new to take on. \r\n\r\nRace the clock in dynamic rounds, or just enjoy quick sketching and doodling as a creative break. \r\n\r\nIt’s the perfect way to bring your ideas to life, stay quick and keep your reflexes sharp. \r\n\r\nBe bold, be quick - do",
+          "buildVersion": "1.0.2"
+        }
+      ]
+    },
+    {
+      "name": "Potion Punch 2+ (Arcade Games)",
+      "type": 1,
+      "bundleID": "com.monstronauts.potionpunch2plus",
+      "bundleIdentifier": "com.monstronauts.potionpunch2plus",
+      "version": "1.50.00",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827020859",
+      "size": 565577998,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2385",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2385",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2621",
+      "appstore_download_count": 1,
+      "developerName": "sidelix",
+      "localizedDescription": "Cook, bake, serve, and… save your customers from evil monsters and villains?! Now on Apple Arcade, Potion Punch 2+ is the ultimate restaurant time-management game for those looking for a challenge! Embark on a quest in a fantastic world filled with magic and monsters. Set up shop in unique locations to serve enchanted swords, magical scrolls, and powerful potions to help heroes on their adventures!\r\n\r\nTake the cooking fever to an all-time high with baby dragons roasting ingredients and magic wisps freezing your favorite treats or grilling your delicious steaks! Cook in ways that you've never seen before in a fast-paced time-management game. Become the star chef through hundreds of levels teeming with amazing heroes and dastardly villains. Unfu",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f9bf2b4677.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9bf2b4677.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "1.50.00",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2385",
+          "size": 565577998,
+          "localizedDescription": "Cook, bake, serve, and… save your customers from evil monsters and villains?! Now on Apple Arcade, Potion Punch 2+ is the ultimate restaurant time-management game for those looking for a challenge! Embark on a quest in a fantastic world filled with magic and monsters. Set up shop in unique locations to serve enchanted swords, magical scrolls, and powerful potions to help heroes on their adventures!\r\n\r\nTake the cooking fever to an all-time high with baby dragons roasting ingredients and magic wisps freezing your favorite treats or grilling your delicious steaks! Cook in ways that you've never seen before in a fast-paced time-management game. Become the star chef through hundreds of levels teeming with amazing heroes and dastardly villains. Unfu",
+          "buildVersion": "1.50.00"
+        }
+      ]
+    },
+    {
+      "name": "Pocket Love! (Arcade Games)",
+      "type": 1,
+      "bundleID": "com.hyperbeard.pocketlove",
+      "bundleIdentifier": "com.hyperbeard.pocketlove",
+      "version": "4.4.1",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827020809",
+      "size": 305190508,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2384",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2384",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2620",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "Create your own adorable couple, dress them up with fantastic style, build, decorate, and design their home, adopt a loyal furry pet, and watch them experience cute moments together in this shrunk down house game & life sim!\r\n\r\nCreate Pocket Lovers\r\n- Customize your perfect couple with a character creator that lets you personalize their every detail.\r\n- Skin color and hairstyles galore, pick and choose all the little things that will make them a reflection of everything that makes you special!\r\n- Change their looks at any time with constant new clothes, hairstyles, and accessories to collect.\r\n\r\nBuild & Design Your Home\r\n- Design and decorate your dream home with a colorful variety of furniture, wall decor, and flooring items.\r\n- Expand your hou",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f9bccf2583.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9bccf2583.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "4.4.1",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2384",
+          "size": 305190508,
+          "localizedDescription": "Create your own adorable couple, dress them up with fantastic style, build, decorate, and design their home, adopt a loyal furry pet, and watch them experience cute moments together in this shrunk down house game & life sim!\r\n\r\nCreate Pocket Lovers\r\n- Customize your perfect couple with a character creator that lets you personalize their every detail.\r\n- Skin color and hairstyles galore, pick and choose all the little things that will make them a reflection of everything that makes you special!\r\n- Change their looks at any time with constant new clothes, hairstyles, and accessories to collect.\r\n\r\nBuild & Design Your Home\r\n- Design and decorate your dream home with a colorful variety of furniture, wall decor, and flooring items.\r\n- Expand your hou",
+          "buildVersion": "4.4.1"
+        }
+      ]
+    },
+    {
+      "name": "Human Fall Flat+ (Arcade Games)",
+      "type": 1,
+      "bundleID": "com.games505.Humanfallflatarcade",
+      "bundleIdentifier": "com.games505.Humanfallflatarcade",
+      "version": "2.6",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827020733",
+      "size": 676137451,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2383",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2383",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2619",
+      "appstore_download_count": 5,
+      "developerName": "sidelix",
+      "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded. \r\n\r\n \r\nMORE HUMANS, MORE MAYHEM - Need a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 4 players transforms the way Human: Fall Flat+ is played. \r\n \r\nMIND BENDING PUZZLES - Explore open-ended levels full of challengin",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f9b7adc26b.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b7adc26b.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "2.6",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2383",
+          "size": 676137451,
+          "localizedDescription": "Human: Fall Flat+ is a hilarious, light-hearted physics platformer set in floating dreamscapes that can be played solo or with up to 4 players. Free new levels keep its vibrant community rewarded. Each dream level provides a new environment to navigate, from mansions, castles and Aztec adventures to snowy mountains, eerie nightscapes and industrial locations. Multiple routes through each level, and perfectly playful puzzles ensure exploration and ingenuity are rewarded. \r\n\r\n \r\nMORE HUMANS, MORE MAYHEM - Need a hand getting that boulder on to a catapult, or need someone to break that wall? Online multiplayer for up to 4 players transforms the way Human: Fall Flat+ is played. \r\n \r\nMIND BENDING PUZZLES - Explore open-ended levels full of challengin",
+          "buildVersion": "2.6"
+        }
+      ]
+    },
+    {
+      "name": "My Town : Home - Family Games (Arcade Games)",
+      "type": 1,
+      "bundleID": "mytown.home",
+      "bundleIdentifier": "mytown.home",
+      "version": "3.29",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827020536",
+      "size": 94667016,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2382",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2382",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2618",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "Welcome to My Town Home – a fun dollhouse game for kids! Visit a big house where girls and boys can create their own family life stories and enjoy in fun role-play games all day!\r\nExplore all 6 rooms in this Dream House and play fun family games the way you like! My Town Home Family Dollhouse game offers great animations and many characters to play with!\r\n\r\nMY TOWN HOME GAME – EXPLORE A BIG PLAYHOUSE AND HAVE FUN\r\n\r\nParents, do you remember growing up, playing family games with your dolls in their tiny dollhouses? It is so fun when you can create your own stories about those dolls’ life and role play as a mom, dad, or as any other character!\r\n\r\nMy Town Family game for girls and boys is available NOW! Your little ones can play with virtual",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f9b4f326d8.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f9b4f326d8.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "3.29",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2382",
+          "size": 94667016,
+          "localizedDescription": "Welcome to My Town Home – a fun dollhouse game for kids! Visit a big house where girls and boys can create their own family life stories and enjoy in fun role-play games all day!\r\nExplore all 6 rooms in this Dream House and play fun family games the way you like! My Town Home Family Dollhouse game offers great animations and many characters to play with!\r\n\r\nMY TOWN HOME GAME – EXPLORE A BIG PLAYHOUSE AND HAVE FUN\r\n\r\nParents, do you remember growing up, playing family games with your dolls in their tiny dollhouses? It is so fun when you can create your own stories about those dolls’ life and role play as a mom, dad, or as any other character!\r\n\r\nMy Town Family game for girls and boys is available NOW! Your little ones can play with virtual",
+          "buildVersion": "3.29"
+        }
+      ]
+    },
+    {
+      "name": "Sago Mini Trips+ (Apple Arcade)",
+      "type": 1,
+      "bundleID": "com.sagomini.Trips",
+      "bundleIdentifier": "com.sagomini.Trips",
+      "version": "1.3.210",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827020051",
+      "size": 186810767,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2381",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2381",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2617",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "HIT THE ROAD WITH YOUR SAGO MINI FRIENDS! \r\nReady for adventure? Sago Mini Trips+ brings together four fan-favorite preschool games into one kid-friendly app – Road Trip, Boats, Planes, and Trains. Travel to far-off destinations with your Sago Mini friends and discover lots of fun and surprises along the way! With no WiFi or internet required, it’s perfect for on-the-go playtime or your next big trip.\r\n\r\nPACK YOUR BAGS \r\nChoose Harvey, Jinja, Robin, or Jack, and help them pack for their getaway! Fill up their suitcase with clothes, accessories, or even a snack or two for the road. Once you’re all set, close up your suitcase and head to the garage to pick out your ride. \r\n\r\nPICK YOUR VEHICLE \r\nSet sail, ride the rails, take flight, or hit t",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f99fb59b8e.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f99fb59b8e.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "1.3.210",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2381",
+          "size": 186810767,
+          "localizedDescription": "HIT THE ROAD WITH YOUR SAGO MINI FRIENDS! \r\nReady for adventure? Sago Mini Trips+ brings together four fan-favorite preschool games into one kid-friendly app – Road Trip, Boats, Planes, and Trains. Travel to far-off destinations with your Sago Mini friends and discover lots of fun and surprises along the way! With no WiFi or internet required, it’s perfect for on-the-go playtime or your next big trip.\r\n\r\nPACK YOUR BAGS \r\nChoose Harvey, Jinja, Robin, or Jack, and help them pack for their getaway! Fill up their suitcase with clothes, accessories, or even a snack or two for the road. Once you’re all set, close up your suitcase and head to the garage to pick out your ride. \r\n\r\nPICK YOUR VEHICLE \r\nSet sail, ride the rails, take flight, or hit t",
+          "buildVersion": "1.3.210"
+        }
+      ]
+    },
+    {
+      "name": "Toca Boca Jr Classics (Apple Arcade)",
+      "type": 1,
+      "bundleID": "com.sagomini.TocaBocaJrClassics",
+      "bundleIdentifier": "com.sagomini.TocaBocaJrClassics",
+      "version": "1.1",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827015635",
+      "size": 548206323,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2380",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2380",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2616",
+      "appstore_download_count": 1,
+      "developerName": "sidelix",
+      "localizedDescription": "9 FAN-FAVORITE GAMES IN 1 APP \r\nGet ready to play your way with a collection of Toca Boca Jr’s most-loved games! Perfect for ages 4-10, you’re free to play, create, and explore at your own pace. Build a world to explore in Blocks, take care of animals in Pet Doctor, or find your style in Hair Salon. There’s so much to do in Toca Boca Jr. Classics! \r\nKITCHEN 2: Become a star chef and get creative in the kitchen!\r\nPET DOCTOR: Help your animal friends feel their best. \r\nBUILDERS: Create anything you can imagine with builder buddies! \r\nMINI: Explore self-expression and design your own characters. \r\nHAIR SALON: Cut, color, style, and go wild with hair!\r\nKITCHEN SUSHI: Cook up signature sushi dishes for your customers. \r\nDANCE: Dress up, get dow",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f990e9a801.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f990e9a801.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "1.1",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2380",
+          "size": 548206323,
+          "localizedDescription": "9 FAN-FAVORITE GAMES IN 1 APP \r\nGet ready to play your way with a collection of Toca Boca Jr’s most-loved games! Perfect for ages 4-10, you’re free to play, create, and explore at your own pace. Build a world to explore in Blocks, take care of animals in Pet Doctor, or find your style in Hair Salon. There’s so much to do in Toca Boca Jr. Classics! \r\nKITCHEN 2: Become a star chef and get creative in the kitchen!\r\nPET DOCTOR: Help your animal friends feel their best. \r\nBUILDERS: Create anything you can imagine with builder buddies! \r\nMINI: Explore self-expression and design your own characters. \r\nHAIR SALON: Cut, color, style, and go wild with hair!\r\nKITCHEN SUSHI: Cook up signature sushi dishes for your customers. \r\nDANCE: Dress up, get dow",
+          "buildVersion": "1.1"
+        }
+      ]
+    },
+    {
+      "name": "Coffee Inc 2+ (Apple Arcade)",
+      "type": 1,
+      "bundleID": "com.sidelabs.Boulder",
+      "bundleIdentifier": "com.sidelabs.Boulder",
+      "version": "2.0",
+      "versionDate": "2026-08-27",
+      "fullDate": "20260827015413",
+      "size": 344523082,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2379",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2379",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2615",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "Coffee Inc 2+ : The Complete Coffee Empire Experience\r\n\r\nCoffee Inc 2+ is the Apple Arcade edition of the hit business simulation game. Build your coffee empire across the world — without limits. Every feature, upgrade, and expansion is fully unlocked, with no in-app purchases required.\r\n\r\nStart as the founder of a single cafe and grow into a global powerhouse. Craft new products, inspire employees, expand into major cities, and dominate the market. Every decision is yours.\r\n\r\n---------------------------\r\nHighlights in Coffee Inc 2+\r\n\r\n• Expand into real-world cities: San Francisco, Chicago, New York, Tokyo, Osaka, London, Paris, Berlin, Amsterdam, Rome, Madrid, Sydney, and Seattle.\r\n• Play globally with multiple currencies: USD, EUR, JPY,",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a8f987137c9a.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a8f987137c9a.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "2.0",
+          "date": "2026-08-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2379",
+          "size": 344523082,
+          "localizedDescription": "Coffee Inc 2+ : The Complete Coffee Empire Experience\r\n\r\nCoffee Inc 2+ is the Apple Arcade edition of the hit business simulation game. Build your coffee empire across the world — without limits. Every feature, upgrade, and expansion is fully unlocked, with no in-app purchases required.\r\n\r\nStart as the founder of a single cafe and grow into a global powerhouse. Craft new products, inspire employees, expand into major cities, and dominate the market. Every decision is yours.\r\n\r\n---------------------------\r\nHighlights in Coffee Inc 2+\r\n\r\n• Expand into real-world cities: San Francisco, Chicago, New York, Tokyo, Osaka, London, Paris, Berlin, Amsterdam, Rome, Madrid, Sydney, and Seattle.\r\n• Play globally with multiple currencies: USD, EUR, JPY,",
+          "buildVersion": "2.0"
         }
       ]
     }
