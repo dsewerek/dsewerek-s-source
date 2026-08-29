@@ -1803,17 +1803,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.622",
-      "versionDate": "2026-08-28",
+      "version": "0.1.623",
+      "versionDate": "2026-08-29",
       "fullDate": "20260807020601",
-      "size": 122368291,
+      "size": 129014448,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/RiseSleep_0.1.622_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/RiseSleep_0.1.623_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.623",
+          "date": "2026-08-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/RiseSleep_0.1.623_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 129014448,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.623"
+        },
         {
           "version": "0.1.622",
           "date": "2026-08-28",
@@ -4202,17 +4210,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "26.5.5",
-      "versionDate": "2026-08-19",
+      "version": "26.5.6",
+      "versionDate": "2026-08-29",
       "fullDate": "20260807003514",
-      "size": 34912678,
+      "size": 32443000,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Athlytic_26.5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Athlytic_26.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "26.5.6",
+          "date": "2026-08-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Athlytic_26.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 32443000,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.5.6"
+        },
         {
           "version": "26.5.5",
           "date": "2026-08-19",
@@ -16625,17 +16641,25 @@
       "type": 1,
       "bundleID": "com.locket.Locket",
       "bundleIdentifier": "com.locket.Locket",
-      "version": "2.61.2",
-      "versionDate": "2026-08-28",
+      "version": "2.62.0",
+      "versionDate": "2026-08-29",
       "fullDate": "20260805050342",
-      "size": 158556980,
+      "size": 153498808,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Locket_2.58.1_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Locket_2.61.2_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Locket_2.62.0_Gold_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Gold",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "versions": [
+        {
+          "version": "2.62.0",
+          "date": "2026-08-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Locket_2.62.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+          "size": 153498808,
+          "localizedDescription": "Injected with Gold",
+          "buildVersion": "2.62.0"
+        },
         {
           "version": "2.61.2",
           "date": "2026-08-28",
@@ -29535,17 +29559,25 @@
       "type": 1,
       "bundleID": "com.camerasideas.InstaShot",
       "bundleIdentifier": "com.camerasideas.InstaShot",
-      "version": "1.98.2",
-      "versionDate": "2026-08-12",
+      "version": "1.99.0",
+      "versionDate": "2026-08-29",
       "fullDate": "20260801185736",
-      "size": 163025678,
+      "size": 167537552,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/InShot_1.98.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/InShot_1.98.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/InShot_1.99.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
       "versions": [
+        {
+          "version": "1.99.0",
+          "date": "2026-08-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/InShot_1.99.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 167537552,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "1.99.0"
+        },
         {
           "version": "1.98.2",
           "date": "2026-08-12",
@@ -51523,17 +51555,25 @@
       "type": 1,
       "bundleID": "com.sillens.iShape",
       "bundleIdentifier": "com.sillens.iShape",
-      "version": "23.12.1",
-      "versionDate": "2026-08-10",
+      "version": "23.13.0",
+      "versionDate": "2026-08-29",
       "fullDate": "20260721181637",
-      "size": 132494767,
+      "size": 135637791,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/Lifesum_23.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/Lifesum_23.12.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Lifesum_23.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sillens.iShape.png",
       "versions": [
+        {
+          "version": "23.13.0",
+          "date": "2026-08-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Lifesum_23.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 135637791,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "23.13.0"
+        },
         {
           "version": "23.12.1",
           "date": "2026-08-10",
@@ -139727,6 +139767,13 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0-alpha50",
+          "date": "2026-08-29T03:05:37Z",
+          "size": 19482674,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha50/Navic.ipa",
+          "buildVersion": "1.0.0-alpha50"
+        },
+        {
           "version": "1.0.0-alpha49",
           "date": "2026-08-13T06:35:28Z",
           "size": 19482674,
@@ -139783,10 +139830,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha49",
-      "versionDate": "2026-08-13",
+      "version": "1.0.0-alpha50",
+      "versionDate": "2026-08-29",
       "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha49/Navic.ipa"
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha50/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
