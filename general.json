@@ -97081,10 +97081,10 @@
       "type": 1,
       "bundleID": "net.plantsnap.freemium",
       "bundleIdentifier": "net.plantsnap.freemium",
-      "version": "8.0.0",
-      "versionDate": "2026-08-06",
+      "version": "8.0.2",
+      "versionDate": "2026-09-01",
       "fullDate": "20260417021019",
-      "size": 86695719,
+      "size": 86817383,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/PlantSnap_7.6.5_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
       "developerName": "",
@@ -97092,6 +97092,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
       "versions": [
+        {
+          "version": "8.0.2",
+          "date": "2026-09-01",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
+          "size": 86817383,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "8.0.2"
+        },
         {
           "version": "8.0.0",
           "date": "2026-08-06",
