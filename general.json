@@ -119302,10 +119302,10 @@
       "type": 2,
       "bundleID": "com.mojang.minecraftpe",
       "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "26.44",
-      "versionDate": "2026-08-15",
+      "version": "26.45",
+      "versionDate": "2026-09-01",
       "fullDate": "20251209131617",
-      "size": 726525029,
+      "size": 725373363,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Minecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
       "developerName": "",
@@ -119313,6 +119313,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "versions": [
+        {
+          "version": "26.45",
+          "date": "2026-09-01",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1834",
+          "size": 725373363,
+          "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination! \r\n \r\nThe possibilities are endless. Embark on an epic adventure and play with friends, building from the ground up. Build and expand in Creative mode, where you can craft from unlimited resources. Survive the night, face intense battles, craft tools, and fend off danger in Survival mode. With seamless cross-platform and multiplayer gameplay on Minecraft: Bedrock Edition, yo",
+          "buildVersion": "26.45"
+        },
         {
           "version": "26.44",
           "date": "2026-08-15",
@@ -182186,6 +182194,42 @@
           "size": 344523082,
           "localizedDescription": "Coffee Inc 2+ : The Complete Coffee Empire Experience\r\n\r\nCoffee Inc 2+ is the Apple Arcade edition of the hit business simulation game. Build your coffee empire across the world — without limits. Every feature, upgrade, and expansion is fully unlocked, with no in-app purchases required.\r\n\r\nStart as the founder of a single cafe and grow into a global powerhouse. Craft new products, inspire employees, expand into major cities, and dominate the market. Every decision is yours.\r\n\r\n---------------------------\r\nHighlights in Coffee Inc 2+\r\n\r\n• Expand into real-world cities: San Francisco, Chicago, New York, Tokyo, Osaka, London, Paris, Berlin, Amsterdam, Rome, Madrid, Sydney, and Seattle.\r\n• Play globally with multiple currencies: USD, EUR, JPY,",
           "buildVersion": "2.0"
+        }
+      ]
+    },
+    {
+      "name": "Chess Universe+",
+      "type": 1,
+      "bundleID": "com.kingsofgames.chessuniverseplus",
+      "bundleIdentifier": "com.kingsofgames.chessuniverseplus",
+      "version": "1.27.4",
+      "versionDate": "2026-09-01",
+      "fullDate": "20260901161833",
+      "size": 78566554,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2390",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2390",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2626",
+      "appstore_download_count": 4,
+      "developerName": "sidelix",
+      "localizedDescription": "Are you a chess enthusiast looking to improve your skills and play against players worldwide? Look no further than Chess Universe+! Our app is the ultimate destination for chess players of all levels, providing a fun and engaging environment to learn and play chess.\r\n\r\nWith Chess Universe+, you'll have access to a vast library of tutorials, lessons, and interactive challenges designed to help you master the game of chess. From beginners learning the basics to advanced players honing their skills, Chess Universe+ has something for everyone.\r\n\r\nBut that's not all! Chess Universe+ also connects you to a community of chess players worldwide, allowing you to play against opponents from different countries and improve your skills. Whether you're looki",
+      "icon": "https://appstore.sidelix.vip/images/icon_6a96fab5a812e.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6a96fab5a812e.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "1.27.4",
+          "date": "2026-09-01",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2390",
+          "size": 78566554,
+          "localizedDescription": "Are you a chess enthusiast looking to improve your skills and play against players worldwide? Look no further than Chess Universe+! Our app is the ultimate destination for chess players of all levels, providing a fun and engaging environment to learn and play chess.\r\n\r\nWith Chess Universe+, you'll have access to a vast library of tutorials, lessons, and interactive challenges designed to help you master the game of chess. From beginners learning the basics to advanced players honing their skills, Chess Universe+ has something for everyone.\r\n\r\nBut that's not all! Chess Universe+ also connects you to a community of chess players worldwide, allowing you to play against opponents from different countries and improve your skills. Whether you're looki",
+          "buildVersion": "1.27.4"
         }
       ]
     }
