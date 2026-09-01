@@ -8049,17 +8049,25 @@
       "type": 1,
       "bundleID": "com.ulisesolave.Fitia",
       "bundleIdentifier": "com.ulisesolave.Fitia",
-      "version": "24.2.17",
-      "versionDate": "2026-08-28",
+      "version": "24.2.18",
+      "versionDate": "2026-09-01",
       "fullDate": "20260806123112",
-      "size": 112646881,
+      "size": 123558552,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Fitia_24.2.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Fitia_24.2.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/Fitia_24.2.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ulisesolave.Fitia.png",
       "versions": [
+        {
+          "version": "24.2.18",
+          "date": "2026-09-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/Fitia_24.2.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 123558552,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "24.2.18"
+        },
         {
           "version": "24.2.17",
           "date": "2026-08-28",
@@ -32053,17 +32061,25 @@
       "type": 1,
       "bundleID": "com.snowcorp.epik",
       "bundleIdentifier": "com.snowcorp.epik",
-      "version": "7.3.2",
-      "versionDate": "2026-08-20",
+      "version": "7.4.0",
+      "versionDate": "2026-09-01",
       "fullDate": "20260731184754",
-      "size": 199505272,
+      "size": 202131603,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/EPIK_7.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/EPIK_7.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/EPIK_7.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
       "versions": [
+        {
+          "version": "7.4.0",
+          "date": "2026-09-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/EPIK_7.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 202131603,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.4.0"
+        },
         {
           "version": "7.3.2",
           "date": "2026-08-20",
@@ -45860,17 +45876,25 @@
       "type": 1,
       "bundleID": "com.youssef.developer.Full-Browser",
       "bundleIdentifier": "com.youssef.developer.Full-Browser",
-      "version": "12.1",
-      "versionDate": "2026-08-28",
+      "version": "12.2",
+      "versionDate": "2026-09-01",
       "fullDate": "20260724113926",
-      "size": 45070030,
+      "size": 45070020,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/TORVPN_11.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/TORVPN_12.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/TORVPN_12.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
       "versions": [
+        {
+          "version": "12.2",
+          "date": "2026-09-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/TORVPN_12.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 45070020,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "12.2"
+        },
         {
           "version": "12.1",
           "date": "2026-08-28",
@@ -154504,9 +154528,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Dune!\n\nTweak:\n\n- Unlimited Coins\n- No Ads\n\nVersion: 5.5.79\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c9dcecb6-9bea-47a9-b5d2-c59a37fafdeb/icon.jpg",
-      "version": "5.6.06",
-      "size": 96404663,
+      "version": "5.6.07",
+      "size": 99150924,
       "versions": [
+        {
+          "version": "5.6.07",
+          "date": "2026-09-01",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2086",
+          "size": 99150924,
+          "localizedDescription": "Mod Menu:\r\n- Infinite Money\r\n  - Premium / No Ads\r\n  - 10000x Score \r\n  - Max Stats / Records\r\n  - Game Speed (slider)\r\n\r\ndemo: https://youtu.be/TB_E3kIV0-0\r\n\r\nrequest features in discord server\r\n\r\nby nabzclan team",
+          "buildVersion": "5.6.07"
+        },
         {
           "version": "5.6.06",
           "date": "2026-06-19",
@@ -154572,7 +154604,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-06-19"
+      "versionDate": "2026-09-01"
     },
     {
       "name": "ESign",
@@ -175175,6 +175207,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10084",
+          "marketingVersion": "3.4.0-alpha.20260901.8cb8c24",
+          "date": "2026-09-01",
+          "localizedDescription": "## Alpha Build `8cb8c24`\n\n**Automated alpha build from `develop` branch**\n\n| | |\n|---|---|\n| **Commit** | [`8cb8c24`](https://github.com/Provenance-Emu/Provenance/commit/8cb8c2487fd067cfd8bad96cb599dbb9672300fa) |\n| **Built** | 2026-09-01 03:14 UTC |\n| **CI Run** | [View build log](https://github.com/Provenance-Emu/Provenance/actions/runs/33459926548) |\n| **Bundle ID** | `com.provenance-emu.provenance.alpha` |\n\n> **Note:** This alpha build uses a separate bundle ID so it can be installed alongside the stable release.\n\n### Commits since last alpha\n```\n8cb8c2487 fix(release): don't rebuild the whole archive when a build fails\n502266ac2 chore(cores): bump VirtualJaguar for the stale-exclude cleanup\n7e6fc2eaa chore(cores): bump VirtualJaguar for the module cycle and option wiring\nbe77797ce fix(spm): vend RingBuffer as a product, raise Stella's macOS floor\n42da65832 build(jaguar): core submodule follows upstream develop\n8206d40e1 fix(spm): rename FCEU/VecX/snes9x off Stella's target names\ndde14fd55 build(jaguar): core version no longer depends on a committed generated header\n64c46c6e2 build(jaguar): pick up self-guarding blitter SIMD arch files\nbfee84e35 chore(cores): bump O2EM pin for the SPM target-name collision fix\n4e9314551 build(jaguar): pick up the libchdr target rename\n87a25cb5c build(jaguar): point the VirtualJaguar core at the current SPM branch\n```\n\n---\nThese builds are unsigned and intended for sideloading via AltStore/SideStore.\nInstall the **Provenance Alpha** app (separate from stable) by adding the\n[sideload feed](https://provenance-emu.com/apps.json) — or tap\n[Add to AltStore](https://provenance-emu.com/altstore) /\n[Add to SideStore](https://provenance-emu.com/sidestore) on your device to add it directly.\n\n> This release is automatically updated on every successful develop push.\n",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS.ipa",
+          "size": 1812135042,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10073",
           "marketingVersion": "3.4.0-alpha.20260823.529ddf0",
           "date": "2026-08-23",
@@ -175268,8 +175310,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-08-23",
-      "size": 1810158259,
+      "versionDate": "2026-09-01",
+      "size": 1812135042,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS.ipa"
     },
     {
