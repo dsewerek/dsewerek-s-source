@@ -9043,17 +9043,25 @@
       "type": 1,
       "bundleID": "com.ahaf.mshion",
       "bundleIdentifier": "com.ahaf.mshion",
-      "version": "7.46.0",
-      "versionDate": "2026-08-26",
+      "version": "7.47.0",
+      "versionDate": "2026-09-02",
       "fullDate": "20260806113555",
-      "size": 121582713,
+      "size": 121687256,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/ism_7.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/ism_7.46.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/ism_7.47.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahaf.mshion.png",
       "versions": [
+        {
+          "version": "7.47.0",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/ism_7.47.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 121687256,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.47.0"
+        },
         {
           "version": "7.46.0",
           "date": "2026-08-26",
@@ -10767,17 +10775,25 @@
       "type": 1,
       "bundleID": "rw.sp.flitsmeister",
       "bundleIdentifier": "rw.sp.flitsmeister",
-      "version": "14.13",
-      "versionDate": "2026-08-20",
+      "version": "14.14",
+      "versionDate": "2026-09-02",
       "fullDate": "20260806033341",
-      "size": 106742028,
+      "size": 107781395,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Flitsmeister_14.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/Flitsmeister_14.13_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Flitsmeister_14.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rw.sp.flitsmeister.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/rw.sp.flitsmeister.png",
       "versions": [
+        {
+          "version": "14.14",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Flitsmeister_14.14_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 107781395,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "14.14"
+        },
         {
           "version": "14.13",
           "date": "2026-08-20",
@@ -14319,17 +14335,25 @@
       "type": 1,
       "bundleID": "com.joytunes.asla",
       "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.10.89",
-      "versionDate": "2026-08-30",
+      "version": "9.10.90",
+      "versionDate": "2026-09-02",
       "fullDate": "20260805164215",
-      "size": 158410780,
+      "size": 131661512,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SimplyPiano_9.10.84_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-08-2026/SimplyPiano_9.10.89_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/SimplyPiano_9.10.90_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "versions": [
+        {
+          "version": "9.10.90",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/SimplyPiano_9.10.90_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 131661512,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.10.90"
+        },
         {
           "version": "9.10.89",
           "date": "2026-08-30",
@@ -15957,17 +15981,25 @@
       "type": 1,
       "bundleID": "tech.miidii.MDClock",
       "bundleIdentifier": "tech.miidii.MDClock",
-      "version": "2.71",
-      "versionDate": "2026-08-05",
+      "version": "2.72",
+      "versionDate": "2026-09-02",
       "fullDate": "20260805081507",
-      "size": 325841487,
+      "size": 201949514,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/MDClock_2.71_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/MDClock_2.71_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/MDClock_2.72_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "versions": [
+        {
+          "version": "2.72",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/MDClock_2.72_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 201949514,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.72"
+        },
         {
           "version": "2.71",
           "date": "2026-08-05",
@@ -52935,17 +52967,25 @@
       "type": 1,
       "bundleID": "com.djitlabs.pixelcolor",
       "bundleIdentifier": "com.djitlabs.pixelcolor",
-      "version": "6.01.00",
-      "versionDate": "2026-08-28",
+      "version": "6.01.01",
+      "versionDate": "2026-09-02",
       "fullDate": "20260720184516",
-      "size": 53483865,
+      "size": 53496339,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/PixelColor_5.54.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/PixelColor_6.01.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/PixelColor_6.01.01_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
       "versions": [
+        {
+          "version": "6.01.01",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/PixelColor_6.01.01_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 53496339,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.01.01"
+        },
         {
           "version": "6.01.00",
           "date": "2026-08-28",
@@ -68444,17 +68484,25 @@
       "type": 1,
       "bundleID": "com.calisthenics.thenx",
       "bundleIdentifier": "com.calisthenics.thenx",
-      "version": "6.7.1",
-      "versionDate": "2026-08-25",
+      "version": "6.7.2",
+      "versionDate": "2026-09-02",
       "fullDate": "20260623151533",
-      "size": 150343002,
+      "size": 110799468,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Thenx_6.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Thenx_6.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "versions": [
+        {
+          "version": "6.7.2",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Thenx_6.7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 110799468,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.7.2"
+        },
         {
           "version": "6.7.1",
           "date": "2026-08-25",
@@ -71787,17 +71835,25 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "444.0.0",
-      "versionDate": "2026-08-25",
+      "version": "445.0.0",
+      "versionDate": "2026-09-02",
       "fullDate": "20260610115226",
-      "size": 91750400,
+      "size": 268204223,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.28/585d082e-df47-4e08-b994-3333e928545R.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1788339843573-4m0ux/com.burbn.instagram_445.0.0_regram_6.1_sl_noplugs.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "445.0.0",
+          "date": "2026-09-02T08:44:35+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 445.\n- Photo downloads can now fetch the original full-resolution photo, often much larger than the version IG gives the app. Toggle it under Download Manager settings.\n- The download version picker now names each photo size (Highest, Medium, Lowest), tags the full-resolution one as Original, and shows its estimated file size, aspect ratio and format.\n- Added Confirm Pull to Refresh — two separate switches, one in Feed settings and one in Reels settings. A pull now asks first, so an accidental one doesn't throw away what you were reading or watching.\n- Added Confirm Scroll to Top under General settings — tapping the status bar on the feed, Reels or Explore now asks first, so you don't lose your place by accident.\n- Call recordings list: Select All plus bulk actions on the selected recordings — export them to the Media Vault, share them, share video calls as audio only, or delete them at once.\n- Opening a download from the Download Manager now lets you swipe through the other downloads in the list.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1788339843573-4m0ux/com.burbn.instagram_445.0.0_regram_6.1_sl_noplugs.ipa",
+          "size": 268204223,
+          "buildVersion": "445.0.0"
+        },
         {
           "version": "444.0.0",
           "date": "2026-08-25",
@@ -118516,17 +118572,25 @@
       "type": 1,
       "bundleID": "com.myswimpro.apps.MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.3.0",
-      "versionDate": "2026-08-28",
+      "version": "9.4.0",
+      "versionDate": "2026-09-02",
       "fullDate": "20251215171429",
-      "size": 56394205,
+      "size": 59312394,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/MySwimPro_8.34.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2131",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
       "versions": [
+        {
+          "version": "9.4.0",
+          "date": "2026-09-02",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+          "size": 59312394,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "9.4.0"
+        },
         {
           "version": "9.3.0",
           "date": "2026-08-28",
@@ -154378,11 +154442,19 @@
       "name": "Water Reminder",
       "bundleIdentifier": "com.vgfit.waterreminder",
       "localizedDescription": "from @blatants |\n----------------\n📱 Water Reminder - Daily Tracker\n\n🆔 Bundle ID: \ncom.vgfit.waterreminder\n📊 Version: 1.9.29\n🔧 Minimum iOS: 12.0\n\n✅ Patched\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/b778dbbc-f736-4bcc-8974-1ab1fa82f40d/Water_Reminder_Daily_Tracker_v1_9_29_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/WaterReminder_1.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6c1c9d9e-620a-45f2-9369-648b5d1c3671/icon.jpg",
-      "version": "1.9.29",
-      "size": 67301759,
+      "version": "1.10.1",
+      "size": 39600486,
       "versions": [
+        {
+          "version": "1.10.1",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/WaterReminder_1.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 39600486,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.10.1"
+        },
         {
           "version": "1.9.29",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/b778dbbc-f736-4bcc-8974-1ab1fa82f40d/Water_Reminder_Daily_Tracker_v1_9_29_Subscription_Unlocked_blatant.ipa",
@@ -154392,7 +154464,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-02"
     },
     {
       "name": "365Scores",
@@ -162130,6 +162202,14 @@
       },
       "versions": [
         {
+          "version": "445.0.0",
+          "date": "2026-09-02T08:44:35+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 445.\n- Photo downloads can now fetch the original full-resolution photo, often much larger than the version IG gives the app. Toggle it under Download Manager settings.\n- The download version picker now names each photo size (Highest, Medium, Lowest), tags the full-resolution one as Original, and shows its estimated file size, aspect ratio and format.\n- Added Confirm Pull to Refresh — two separate switches, one in Feed settings and one in Reels settings. A pull now asks first, so an accidental one doesn't throw away what you were reading or watching.\n- Added Confirm Scroll to Top under General settings — tapping the status bar on the feed, Reels or Explore now asks first, so you don't lose your place by accident.\n- Call recordings list: Select All plus bulk actions on the selected recordings — export them to the Media Vault, share them, share video calls as audio only, or delete them at once.\n- Opening a download from the Download Manager now lets you swipe through the other downloads in the list.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1788339843572-m5b7s/com.fouadraheb.regram_445.0.0_regram_6.1_sl.ipa",
+          "size": 265677022,
+          "buildVersion": "445.0.0"
+        },
+        {
           "version": "443.1.0",
           "date": "2026-08-23T12:48:20+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 444.\n- Fixed Reels auto advance not advancing when a reel ends.\n- Fixed DM Activity Tracking missing seen receipts and view-once opens on IG 442+.\n- Fixed DM Activity Tracking notifications and history entries showing \"Someone\" instead of the username when launching the app.\n- Fixed DM mark-seen eye button not showing on older IG versions (313 and older).\n- Fixed action button menus appearing away from the button on iOS 14/15.",
@@ -162250,13 +162330,13 @@
           "buildVersion": "413.0.0"
         }
       ],
-      "version": "443.1.0",
-      "versionDate": "2026-08-23",
+      "version": "445.0.0",
+      "versionDate": "2026-09-02",
       "versionDescription": "",
       "fullDate": "20260721194857",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787487946004-6r46a/com.fouadraheb.regram_443.1.0_regram_6.0.1_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1788339843572-m5b7s/com.fouadraheb.regram_445.0.0_regram_6.1_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1784664131112-9uylf/com.fouadraheb.regram_439.0.0_regram_5.2.1_sl.ipa",
-      "size": 266508593
+      "size": 265677022
     },
     {
       "id": "WA-SL-Duplicate",
@@ -175359,6 +175439,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10089",
+          "marketingVersion": "3.4.0-alpha.20260902.44f754f",
+          "date": "2026-09-02",
+          "localizedDescription": "Alpha build 44f754f · 2026-09-02\n\nChanges in this build:\n• fix(feed): apostrophes in jq comments broke the generator\n• feat(feed): carry iFly and iCube in the combined sideload source\n• feat(sideload): publish an extension-free iOS IPA and serve it by default\n• fix(feed): readable release notes and a working icon in AltStore\n• [Auto] Update skin catalog seed data (#3676)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 727005577,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10084",
           "marketingVersion": "3.4.0-alpha.20260901.8cb8c24",
           "date": "2026-09-01",
@@ -175462,9 +175552,9 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-01",
-      "size": 1812135042,
-      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS.ipa"
+      "versionDate": "2026-09-02",
+      "size": 727005577,
+      "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
       "name": "OVinfoPro",
@@ -182368,6 +182458,66 @@
           "buildVersion": "1.27.4"
         }
       ]
+    },
+    {
+      "name": "Mileways (Hacked)",
+      "type": 1,
+      "bundleID": "com.mileways.app",
+      "bundleIdentifier": "com.mileways.app",
+      "version": "4.7.5",
+      "versionDate": "2026-09-02",
+      "fullDate": "20260902090117",
+      "size": 118503852,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2391",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2391",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2627",
+      "appstore_download_count": 1,
+      "developerName": "sidelix",
+      "localizedDescription": "Pro Unlocked",
+      "icon": "https://appstore.sidelix.vip/images/ritfy_6a97e5bc3275b.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a97e5bc3275b.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tweaked App"
+      ],
+      "versions": [
+        {
+          "version": "4.7.5",
+          "date": "2026-09-02",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2391",
+          "size": 118503852,
+          "localizedDescription": "Pro Unlocked",
+          "buildVersion": "4.7.5"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.provenance-emu.icube",
+      "developerName": "Provenance-EMU",
+      "subtitle": "GameCube & Wii emulator for iOS",
+      "localizedDescription": "iCube is a GameCube and Wii emulator for iOS based on Dolphin, with native controller support, save states, and hardware-accelerated rendering.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "5B8DEF",
+      "screenshotURLs": [],
+      "versions": [
+        {
+          "version": "4.1.0beta5",
+          "date": "2025-09-14",
+          "localizedDescription": "**Full Changelog**: https://github.com/Provenance-Emu/dolphin-ios-jitless/commits/4.1.0beta5\n\nDolphiniOS 4.1.0 beta 5 (iOS & tvOS)\n\n�� What's new\n- Stunning GameCube/Wii theming ✨\n- Authentic game case covers with system-specific gradients (purple for GameCube, blue for Wii)\n- Realistic case reflections, spines, and Nintendo branding details\n- Award-winning focus glow effects with cyan/purple gradients on tvOS\n- Enhanced visual depth with shadows, highlights, and premium feel\n- \"GameCube Gradient\" background option in library settings\n\nSmarter controller setup\n- Clean, programmatic mapping UI on tvOS (no more storyboard crashes)\n- Friendly device names + auto-profile loading that actually works\n- Quick controller assignment from the pause menu\n- One-tap layout switching between Apple, GameCube, and Wii variants\n\nTouch controls that feel right\n- Optional high-contrast touchpad overlay with proper multi-touch\n- Motion sensitivity (gain), deadzone, smoothing: dial it in your way\n- Better visual feedback and cleaner UI while playing\n\n�� DSU Controller Features (Cross-Platform Gaming)\n- Complete DSU implementation - Turn your iOS device into a wireless controller for tvOS/PC\n- Multiple controller layouts - Apple Virtual, GameCube, Wii Remote, Classic, and Sideways\n- Smart motion controls - Choose between Gyro, Follow, or Drag for IR pointer\n- Flexible input routing - Map motion to Wiimote or Nunchuk, toggle Raw vs Telemetry\n- Real-time status HUD - See connection status, TX/RX counters, and client info\n- Targeted sending - Choose specific receivers or broadcast to all\n- Touch area overlay - Visual touchpad for precise cursor control\n- Tooltip system - Learn what each button does with helpful hints\n- Apple Virtual Controller - Native iOS touch controls with D-Pad/Stick toggle\n\n🖥️ tvOS Love\n- Full-screen pause menu - Auto-shows when app backgrounds, respects your flow\n- No keyboard nonsense - Mapping and settings built for the remote/controller\n- Clean visuals - Less clutter, more play\n- Enhanced focus effects - Beautiful cyan/purple glow animations\n\n🎨 Visual Polish\n- Enhanced fonts - Rounded system fonts with iOS 16+ compatibility\n- Smooth animations - EaseInOut transitions and haptic feedback\n- Better contrast - High-contrast touchpad overlay option\n- Premium feel - Inner highlights, shadows, and depth effects\n\n⚙️ Quality-of-life upgrades\n- Shader list search - Find what you need without scrolling\n- Quick graphics controls - Right from in-game overlays\n- Smarter defaults - iOS as controller, tvOS as console\n- Better discovery - Devices show up where you expect them\n- Motion customization - Fine-tune sticks with soft snap-to-center\n\n�� Known issues (beta)\n- DSU IR cursor - Still inconsistent in some setups (especially with mixed gyro/touch inputs). If your",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/4.1.0beta5/DolphiniOS-JoeMattiello-4.1.0-Beta5-iOS.ipa",
+          "size": 80718792,
+          "buildVersion": "4.1.0beta5"
+        }
+      ],
+      "version": "4.1.0beta5",
+      "versionDate": "2025-09-14",
+      "size": 80718792,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/4.1.0beta5/DolphiniOS-JoeMattiello-4.1.0-Beta5-iOS.ipa"
     }
   ]
 }
