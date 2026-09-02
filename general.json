@@ -18247,17 +18247,25 @@
       "type": 1,
       "bundleID": "com.jakemor.firness-ai",
       "bundleIdentifier": "com.jakemor.firness-ai",
-      "version": "23.0",
-      "versionDate": "2026-08-31",
+      "version": "23.1",
+      "versionDate": "2026-09-02",
       "fullDate": "20260805024724",
-      "size": 82988350,
+      "size": 50814414,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/FitnessAI_21.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/FitnessAI_23.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/FitnessAI_23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.jakemor.firness-ai.png",
       "versions": [
+        {
+          "version": "23.1",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/FitnessAI_23.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 50814414,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "23.1"
+        },
         {
           "version": "23.0",
           "date": "2026-08-31",
@@ -23426,6 +23434,14 @@
           "size": 213028681,
           "localizedDescription": "Injected with Premium",
           "buildVersion": "7.137.1"
+        },
+        {
+          "version": "7.138.0",
+          "date": "2026-09-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/Duolingo_7.138.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 214050595,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "7.138.0"
         },
         {
           "version": "7.137.0",
@@ -109223,10 +109239,10 @@
       "type": 1,
       "bundleID": "com.glucobit.cravingBuster.CravingBuster",
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.84",
-      "versionDate": "2026-08-13",
+      "version": "3.9.88",
+      "versionDate": "2026-09-02",
       "fullDate": "20260102170212",
-      "size": 268300029,
+      "size": 296323638,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/Reframe_3.9.11_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
       "developerName": "",
@@ -109234,6 +109250,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "versions": [
+        {
+          "version": "3.9.88",
+          "date": "2026-09-02",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+          "size": 296323638,
+          "localizedDescription": "Reframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\r\n\r\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\r\n\r\nNeed extra support? Uplevel your alcohol-free or alcohol-reduction journey with Reframe’s premium Thrive Coaching and get 1:1 access to a certified recovery coach, live coaching calls, and exclusive video content.\r\n\r\nTry Reframe FREE for 7 days, and R",
+          "buildVersion": "3.9.88"
+        },
         {
           "version": "3.9.84",
           "date": "2026-08-13",
@@ -114369,17 +114393,25 @@
       "type": 1,
       "bundleID": "com.yadux.Speak4Me",
       "bundleIdentifier": "com.yadux.Speak4Me",
-      "version": "6.2.3",
-      "versionDate": "2025-12-20",
+      "version": "6.3.2",
+      "versionDate": "2026-09-02",
       "fullDate": "20251220170925",
-      "size": 85664461,
+      "size": 96208687,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-12-2025/Speak4Me_6.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2392",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yadux.Speak4Me.png",
       "versions": [
+        {
+          "version": "6.3.2",
+          "date": "2026-09-02",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2392",
+          "size": 96208687,
+          "localizedDescription": "Pro Unlocked",
+          "buildVersion": "6.3.2"
+        },
         {
           "version": "6.2.3",
           "date": "2025-12-20",
