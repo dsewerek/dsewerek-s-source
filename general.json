@@ -1391,17 +1391,25 @@
       "type": 1,
       "bundleID": "com.future.kapi",
       "bundleIdentifier": "com.future.kapi",
-      "version": "4.37.0",
-      "versionDate": "2026-08-27",
+      "version": "4.38.0",
+      "versionDate": "2026-09-03",
       "fullDate": "20260807051648",
-      "size": 145337861,
+      "size": 129018173,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Action_4.35.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Action_4.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Action_4.38.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
       "versions": [
+        {
+          "version": "4.38.0",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Action_4.38.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 129018173,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.38.0"
+        },
         {
           "version": "4.37.0",
           "date": "2026-08-27",
@@ -66336,17 +66344,25 @@
       "type": 1,
       "bundleID": "com.bravolol.bravoLang.chineseDictionary",
       "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
-      "version": "35.6",
-      "versionDate": "2026-06-30",
+      "version": "35.8",
+      "versionDate": "2026-09-03",
       "fullDate": "20260630094134",
-      "size": 21044378,
+      "size": 22915615,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2026/UnifiedDictionary_35.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2026/UnifiedDictionary_35.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/UnifiedDictionary_35.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
       "versions": [
+        {
+          "version": "35.8",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/UnifiedDictionary_35.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 22915615,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "35.8"
+        },
         {
           "version": "35.6",
           "date": "2026-06-30",
@@ -112860,10 +112876,10 @@
       "type": 1,
       "bundleID": "com.claushuang.FocusTomato",
       "bundleIdentifier": "com.claushuang.FocusTomato",
-      "version": "6.1.1",
-      "versionDate": "2026-08-03",
+      "version": "6.1.2",
+      "versionDate": "2026-09-02",
       "fullDate": "20251223175626",
-      "size": 125281600,
+      "size": 92484801,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/FocusTomato_6.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
       "developerName": "",
@@ -112871,6 +112887,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.claushuang.FocusTomato.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.claushuang.FocusTomato.png",
       "versions": [
+        {
+          "version": "6.1.2",
+          "date": "2026-09-02",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2247",
+          "size": 92484801,
+          "localizedDescription": "## App Of The Day - Apple\r\n## New Apps We Love - Apple\r\n## Try These Out - Apple\r\n## Student App of the Month - The App Brewery (London)\r\n\r\n\r\n\r\nFocus Tomato is a serious tomato helping you stay focused. \r\nCheer you up when you succeed.\r\n\r\n\r\n\r\n—— Recommended consuming order ——\r\n\r\nStep 1: Goal setting\r\nIf the goal is too big, break it down.\r\n\r\nStep 2: only focus for 25 minutes\r\n* Only focus on one thing\r\n* Avoid distraction; make efforts to keep the Tomato running (ex. if someone hits you up, tell him/her getting back to you shortly!)\r\n* Better to watch the timer counting\r\n\r\nStep 3: Rest for 5 minutes\r\n* Not suitable for mental consuming tasks\r\n* Light activities that are good for your mind and body\r\n* Pause your work momentarily can help",
+          "buildVersion": "6.1.2"
+        },
         {
           "version": "6.1.1",
           "date": "2026-08-03",
@@ -119910,17 +119934,25 @@
       "type": 1,
       "bundleID": "com.mwm.moments",
       "bundleIdentifier": "com.mwm.moments",
-      "version": "1.0.46",
-      "versionDate": "2025-11-30",
+      "version": "1.1.0",
+      "versionDate": "2026-09-03",
       "fullDate": "20251130181755",
-      "size": 242689066,
+      "size": 236995198,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/SnapCut_1.0.46_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-11-2025/SnapCut_1.0.46_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SnapCut_1.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.moments.png",
       "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SnapCut_1.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 236995198,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.1.0"
+        },
         {
           "version": "1.0.46",
           "date": "2025-11-30",
@@ -151596,11 +151628,19 @@
       "name": "Famefy",
       "bundleIdentifier": "com.wavera.ios.famefy",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Famefy\n\nTweak: Subscription Unlocked\n\nVersion: 2.3.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/71b31261-0370-4c14-a226-4267c31a35e7/Famefy-v2.3.4-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2393",
       "iconURL": "https://mypleasure.zxcvbn.fyi/5e1df79c-8f61-4800-98dc-96dbb0c60164/icon.jpg",
-      "version": "2.3.4",
-      "size": 45949204,
+      "version": "3.0.13",
+      "size": 44554879,
       "versions": [
+        {
+          "version": "3.0.13",
+          "date": "2026-09-02",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2393",
+          "size": 44554879,
+          "localizedDescription": "Subscription Unlocked",
+          "buildVersion": "3.0.13"
+        },
         {
           "version": "2.3.4",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/71b31261-0370-4c14-a226-4267c31a35e7/Famefy-v2.3.4-riftysipas.ipa",
@@ -151610,7 +151650,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-02"
     },
     {
       "name": "Color Widgets",
@@ -182598,6 +182638,32 @@
       "versionDate": "2025-09-14",
       "size": 80718792,
       "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/4.1.0beta5/DolphiniOS-JoeMattiello-4.1.0-Beta5-iOS.ipa"
+    },
+    {
+      "name": "DynamicLyrics",
+      "type": 1,
+      "bundleID": "com.bing.lyrics",
+      "bundleIdentifier": "com.bing.lyrics",
+      "version": "2.0.3",
+      "versionDate": "2026-09-03",
+      "fullDate": "20260903033846",
+      "size": 29900945,
+      "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/DynamicLyrics_2.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/DynamicLyrics_2.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "developerName": "",
+      "localizedDescription": "Injected with Premium",
+      "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
+      "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
+      "versions": [
+        {
+          "version": "2.0.3",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/DynamicLyrics_2.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 29900945,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "2.0.3"
+        }
+      ]
     }
   ]
 }
