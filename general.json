@@ -6231,17 +6231,25 @@
       "type": 1,
       "bundleID": "com.joytunes.SimplyGuitar",
       "bundleIdentifier": "com.joytunes.SimplyGuitar",
-      "version": "10.29",
-      "versionDate": "2026-08-30",
+      "version": "10.29.1",
+      "versionDate": "2026-09-03",
       "fullDate": "20260806171741",
-      "size": 173479676,
+      "size": 144428865,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SimplyGuitar_10.27_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-08-2026/SimplyGuitar_10.29_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SimplyGuitar_10.29.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "versions": [
+        {
+          "version": "10.29.1",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SimplyGuitar_10.29.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 144428865,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "10.29.1"
+        },
         {
           "version": "10.29",
           "date": "2026-08-30",
@@ -38576,17 +38584,25 @@
       "type": 1,
       "bundleID": "com.picsart.studio",
       "bundleIdentifier": "com.picsart.studio",
-      "version": "30.6.2",
-      "versionDate": "2026-08-21",
+      "version": "30.7.1",
+      "versionDate": "2026-09-03",
       "fullDate": "20260729014650",
-      "size": 112676998,
+      "size": 113279389,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Picsart_30.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/Picsart_30.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Picsart_30.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picsart.studio.png",
       "versions": [
+        {
+          "version": "30.7.1",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Picsart_30.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 113279389,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "30.7.1"
+        },
         {
           "version": "30.6.2",
           "date": "2026-08-21",
@@ -42824,17 +42840,25 @@
       "type": 1,
       "bundleID": "com.readdle.ReaddleDocsIPad",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-      "version": "8.21.1",
-      "versionDate": "2026-08-28",
+      "version": "8.22",
+      "versionDate": "2026-09-03",
       "fullDate": "20260727140617",
-      "size": 277268736,
+      "size": 203663896,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Documents_8.20.6_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Documents_8.21.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Documents_8.22_Plus_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
       "versions": [
+        {
+          "version": "8.22",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Documents_8.22_Plus_%40thisismanpreets_apptesters.org.ipa",
+          "size": 203663896,
+          "localizedDescription": "Injected with Plus",
+          "buildVersion": "8.22"
+        },
         {
           "version": "8.21.1",
           "date": "2026-08-28",
@@ -47794,17 +47818,25 @@
       "type": 1,
       "bundleID": "com.crossforward.WidgetSmith",
       "bundleIdentifier": "com.crossforward.WidgetSmith",
-      "version": "8.4.2",
-      "versionDate": "2026-08-24",
+      "version": "8.4.3",
+      "versionDate": "2026-09-03",
       "fullDate": "20260723151407",
-      "size": 149620206,
+      "size": 94468354,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Widgetsmith_8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/Widgetsmith_8.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Widgetsmith_8.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
       "versions": [
+        {
+          "version": "8.4.3",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Widgetsmith_8.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 94468354,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.4.3"
+        },
         {
           "version": "8.4.2",
           "date": "2026-08-24",
@@ -79117,17 +79149,25 @@
       "type": 1,
       "bundleID": "com.museworks.swipemix",
       "bundleIdentifier": "com.museworks.swipemix",
-      "version": "2.13.1",
-      "versionDate": "2026-08-20",
+      "version": "2.14.0",
+      "versionDate": "2026-09-03",
       "fullDate": "20260602182737",
-      "size": 76792623,
+      "size": 78602062,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2026/SwipeMix_2.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/SwipeMix_2.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SwipeMix_2.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.museworks.swipemix.png",
       "versions": [
+        {
+          "version": "2.14.0",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SwipeMix_2.14.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 78602062,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.14.0"
+        },
         {
           "version": "2.13.1",
           "date": "2026-08-20",
@@ -86414,10 +86454,10 @@
       "type": 1,
       "bundleID": "ideastudio.Weather-on-the-Way",
       "bundleIdentifier": "ideastudio.Weather-on-the-Way",
-      "version": "2.5.7",
-      "versionDate": "2026-08-25",
+      "version": "2.5.9",
+      "versionDate": "2026-09-03",
       "fullDate": "20260520131727",
-      "size": 50654257,
+      "size": 51979808,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/OnTheWay_2.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
       "developerName": "",
@@ -86425,6 +86465,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
       "versions": [
+        {
+          "version": "2.5.9",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
+          "size": 51979808,
+          "localizedDescription": "Pro Unlocked",
+          "buildVersion": "2.5.9"
+        },
         {
           "version": "2.5.7",
           "date": "2026-08-25",
@@ -116915,17 +116963,25 @@
       "type": 1,
       "bundleID": "me.imgbase.intolive",
       "bundleIdentifier": "me.imgbase.intolive",
-      "version": "4.3.5",
-      "versionDate": "2025-12-17",
+      "version": "4.4.1",
+      "versionDate": "2026-09-03",
       "fullDate": "20251217160959",
-      "size": 135695270,
+      "size": 147137911,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/intoLive_4.3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/intoLive_4.3.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1639",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/me.imgbase.intolive.png",
       "versions": [
+        {
+          "version": "4.4.1",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1639",
+          "size": 147137911,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.4.1"
+        },
         {
           "version": "4.3.5",
           "date": "2025-12-17",
@@ -159749,11 +159805,19 @@
       "name": "Flow Legends",
       "bundleIdentifier": "com.vladk.pipemasters",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flow Legends: Pipe Games\n⁣\nTweak: \n\n ⁃ Unlimited Coins\n ⁃ No Ads\n\nVersion: 1.11.100\n\nMade by riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/5404bf8a-89c6-43ef-a069-3078df2055a3/FlowLegends_v1.11.100-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2394",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ac/ab/00/acab00f3-934a-af3b-6040-4f3a33984896/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/512x512bb.jpg",
-      "version": "1.11.100",
-      "size": 124807118,
+      "version": "1.16.0",
+      "size": 128796802,
       "versions": [
+        {
+          "version": "1.16.0",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2394",
+          "size": 128796802,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "1.16.0"
+        },
         {
           "version": "1.11.100",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/5404bf8a-89c6-43ef-a069-3078df2055a3/FlowLegends_v1.11.100-riftysipas.ipa",
@@ -159763,7 +159827,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-03"
     },
     {
       "name": "Call Recorder",
@@ -163065,6 +163129,15 @@
       },
       "versions": [
         {
+          "version": "2.0.0",
+          "buildVersion": "0",
+          "date": "2026-9-3T17:30:00+08:00",
+          "size": 259700000,
+          "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.0/ManicEMU.v2.0.0.SideloadJIT.ipa",
+          "localizedDescription": "This is a major release focused on a redesigned interface, expanded platform support, and advanced features. Landscape browsing, library management, and external controller navigation have been rebuilt. It also adds several new systems and brings Netplay to eligible Libretro cores.\n\nBefore You Update\n- Dreamcast (Flycast): Existing save states will no longer work as of 2.0.0. Convert important save states to in-game saves before updating, or back up the `Flycast/dc` folder yourself.\n- Wii: A BootMii-format `keys.bin` is required.\n- Symbian: Install firmware in Settings first (`.ROM`; S60v2 and later also need `.RPKG`).\n- GameCube / Wii: The core is still being optimized, so heat and frame drops should still be expected.\n- MAME: A number of lesser-used arcade systems have been trimmed. Some obscure titles may no longer run.\n\nInterface\nLandscape\n- A new landscape library, with most landscape pages redesigned.\n- Built-in dynamic backgrounds. You can use or upload ShaderToy (GLSL) scripts to customize them. Only single-Image scripts are supported; complex scripts may increase battery use or heat.\n- Multiple customizable card carousel styles.\n- Focused background: when a game is selected, its banner can be used as the landscape focus backdrop.\n- background music feature in landscape mode—besides built-in tracks, you can upload your own music files to use as background music.\n- built in 12 sets of navigation and focus sound effects.\n\nGame Options and Shortcuts\n- A unified options list and interaction model throughout the app.\n- Available actions are automatically arranged and regrouped for the current context.\n- Advanced reordering: customize the order and grouping of options.\n- A redesigned in-game shortcut menu. Shortcuts can appear on supported skins and in the in-game menu.\n\nNavigation and Input\n- A global focus and navigation system for iPhone and iPad. You can browse and interact entirely with a controller or keyboard.\n- Hold Command or the controller’s Select button to view the shortcut cheatsheet.\n- A unified navigation bar for more consistent browsing and editing.\n- Many long-press and hidden actions have been replaced with more conventional, iOS-style interactions.\n- Batch management and actions.\n- Adaptive rotation throughout the app.\n- Controllers can be assigned to a player slot. On cores that expect a keyboard, controller inputs can be mapped to keyboard events.\n\nFeatures\nLibrary and Artwork\n- Covers now support separate icon and banner artwork. Box art is used in regular lists, icons in square layouts, and banners as the landscape focus backdrop.\n- Online artwork from Libretro Thumbnails and SteamGridDB (Grids / Heroes / Logos / Icons; SteamGridDB requires your own API key).\n- Switching platform or category rematches cover art.\n\nGame Data\n- Game metadata: auto-match, search the database, or edit it yourself (developer, publisher, series, genre, release date, region, overview, and more).\n- ESRB ratings and matching icons. Rating icons can be hidden in Settings.\n- A redesigned save-state manager with import and export.\n- Scoped settings: the same option can be stored at game, platform, or global level, and each can be cleared or reset independently.\n- batch scraping for covers, icons, and banners.\n\nShaders and Skins\n- Real-time shader preview, without loading the shader first.\n- Redesigned default GBA skin.\n- Flex skins now support customizing button size and position.\n\nAchievements, Cheats, and Netplay\n- RetroAchievements pages are easier to read and load faster.\n- MultiSet support: earn subset achievements without a patched ROM. Switching the achievement list only changes what is shown; it does not affect which sets you can unlock while playing.\n- Online cheat database: search, multi-select add, and bookmarks.\n- Netplay for many Libretro cores: host or join a room, public lobby, LAN scan, relay, spectator mode, and room password. Your Adventurer Card nickname is used as the Netplay display name. You can now trade treasured Pokémon with friends over the network, or go head-to-head on arcade systems.\n- Rewind: add it to the shortcut menu, a controller mapping, or TriggerPro, then touch and hold to use it.\n\nAdvanced Features and Import\n- Core Settings: intended for advanced users. Incorrect values may prevent games from launching. Settings can be reset per game or per platform.\n- Settings now include an Adventurer Card, with a customizable nickname and avatar.\n- Import games from DukeX.\n- Import games from Armsx2.\n- PS1 now supports importing `.bin` files directly.\n\nNew Systems and Cores\nSymbian (EKA2L1)\n- Supports S60v1, N-Gage 1.0, S60v2, S60v3, N-Gage 2.0, S60v5, and Symbian^3.\n- Touch input, firmware management, and system apps.\n- Legacy / PPL / TXM JIT.\n\nPC Engine (Beetle PCE)\n- Supports TurboGrafx-16, TurboGrafx-CD, and SuperGrafx, with subcategory switching.\n\nNeo Geo Pocket / Color (Beetle NeoPop)\n- Supports Neo Geo Pocket and Neo Geo Pocket Color, with subcategory switching.\n\nCommodore 64 (VICE x64sc)\n- Full keyboard support, with switching between gamepad and keyboard skins.\n\nAmiga (PUAE)\n- Full keyboard support, with switching between gamepad and keyboard skins.\n\nGameCube / Wii (Dolphin)\n- Legacy / PPL / TXM JIT.\n- Wii: Wiimote sideways mode.\n- Dolphin cheats, including Action Replay Max decryption.\n- Wiimote skins for Wii\n\nOther Cores\n- Mesen-S added for SNES / GB / GBC.\n- gpSP added for GBA, and can be switched with mGBA and VBA-M.\n\n\nJIT Fixes and Improvements\n- Fixed JIT failing on TXM devices running iOS 26.6 and later.\n- Revised TXM device detection.\n- N64 GLideN64 and ParaLLEl RDP now both support JIT.\n\nCore Updates\nThe following cores have been updated to the latest upstream stable releases.\n- 3DS (Azahar, Citra)\n- PS1 (Beetle PSX HW)\n- DOS (DOSBox Pure)\n- Dreamcast (Flycast) — see the save-state migration note above\n- NDS (melonDS)\n- PSP (PPSSPP)\n- N64 (Mupen64Plus)\n\nFixes\n\n- Numerous bug fixes and performance optimizations",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.9.2",
           "buildVersion": "0",
           "date": "2026-04-16T22:00:00+08:00",
@@ -163089,10 +163162,10 @@
           "NSLocalNetworkUsageDescription": "Manic EMU needs access to your local network to find and connect with other devices for online gaming."
         }
       },
-      "version": "1.9.2",
-      "versionDate": "2026-04-16",
-      "size": 216800000,
-      "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v1.9.2/ManicEMU.v1.9.2.SideloadJIT.ipa"
+      "version": "2.0.0",
+      "versionDate": "2026-9-3",
+      "size": 259700000,
+      "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.0/ManicEMU.v2.0.0.SideloadJIT.ipa"
     },
     {
       "name": "Aidoku",
@@ -175559,6 +175632,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10097",
+          "marketingVersion": "3.4.0-alpha.20260903.10d3c46",
+          "date": "2026-09-03",
+          "localizedDescription": "Alpha build 10d3c46 · 2026-09-03\n\nChanges in this build:\n• fix(release): don't block on an interactive prompt in CI\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 727554596,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10089",
           "marketingVersion": "3.4.0-alpha.20260902.44f754f",
           "date": "2026-09-02",
@@ -175672,8 +175755,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-02",
-      "size": 727005577,
+      "versionDate": "2026-09-03",
+      "size": 727554596,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -182664,6 +182747,101 @@
           "buildVersion": "2.0.3"
         }
       ]
+    },
+    {
+      "name": "TapeKit (Hacked)",
+      "type": 1,
+      "bundleID": "com.widget-kid",
+      "bundleIdentifier": "com.widget-kid",
+      "version": "3.5.0",
+      "versionDate": "2026-09-03",
+      "fullDate": "20260903100114",
+      "size": 144741165,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2395",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2395",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2631",
+      "appstore_download_count": 0,
+      "developerName": "sidelix",
+      "localizedDescription": "Premium Unlocked",
+      "icon": "https://appstore.sidelix.vip/images/ritfy_6a9945488ed70.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/ritfy_6a9945488ed70.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tweaked App"
+      ],
+      "versions": [
+        {
+          "version": "3.5.0",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2395",
+          "size": 144741165,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "3.5.0"
+        }
+      ]
+    },
+    {
+      "name": "iCube",
+      "bundleIdentifier": "com.joemattiello.iCube",
+      "developerName": "Provenance Emu",
+      "subtitle": "GameCube & Wii Emulator for iOS & tvOS",
+      "localizedDescription": "Experience classic Nintendo GameCube and Wii games on your iOS devices and Apple TV. Built on the proven Dolphin emulator foundation.\n\nFeatures:\n• Full GameCube and Wii emulation\n• Controller support (MFi, PlayStation, Xbox)\n• Save states and real-time saves\n• High-resolution rendering\n• Fast-forward and slow motion\n• Customizable controls\n• Game library management\n• And much more!\n\niCube is a fork of DolphiniOS, optimized for iOS and tvOS devices.",
+      "iconURL": "https://icube-emu.com/icon-1024.png",
+      "tintColor": "#3B82F6",
+      "category": "games",
+      "screenshots": [
+        "https://icube-emu.com/screenshots/iphone1-library.jpg",
+        "https://icube-emu.com/screenshots/iphone2-search.jpg",
+        "https://icube-emu.com/screenshots/iphone3-emu.webp",
+        "https://icube-emu.com/screenshots/iphone7-touchcontrols.jpg",
+        "https://icube-emu.com/screenshots/iphone8-pause.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.0.0-beta9-ios",
+          "buildVersion": "1.0.0-beta9-ios",
+          "date": "2026-08-04",
+          "localizedDescription": "iCube 1.0.0 Beta 9 for iOS",
+          "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa",
+          "size": 82799373,
+          "minOSVersion": "15.0",
+          "platform": "iOS",
+          "isBeta": true,
+          "betaNumber": 9
+        },
+        {
+          "version": "1.0.0-beta8-ios",
+          "buildVersion": "1.0.0-beta8-ios",
+          "date": "2026-08-04",
+          "localizedDescription": "iCube 1.0.0 Beta 8 for iOS",
+          "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta8/iCube.ipa",
+          "size": 82893911,
+          "minOSVersion": "15.0",
+          "platform": "iOS",
+          "isBeta": true,
+          "betaNumber": 8
+        },
+        {
+          "version": "1.0.0-beta7-ios",
+          "buildVersion": "1.0.0-beta7-ios",
+          "date": "2026-08-04",
+          "localizedDescription": "iCube 1.0.0 Beta 7 for iOS",
+          "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta7/iCube.ipa",
+          "size": 82893502,
+          "minOSVersion": "15.0",
+          "platform": "iOS",
+          "isBeta": true,
+          "betaNumber": 7
+        }
+      ],
+      "version": "1.0.0-beta9-ios",
+      "versionDate": "2026-08-04",
+      "size": 82799373,
+      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa"
     }
   ]
 }
