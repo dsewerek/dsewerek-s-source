@@ -1827,17 +1827,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.624",
-      "versionDate": "2026-09-02",
+      "version": "0.1.625",
+      "versionDate": "2026-09-03",
       "fullDate": "20260807020601",
-      "size": 129583449,
+      "size": 123267054,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/RiseSleep_0.1.624_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/RiseSleep_0.1.625_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.625",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/RiseSleep_0.1.625_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 123267054,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.625"
+        },
         {
           "version": "0.1.624",
           "date": "2026-09-02",
@@ -13031,17 +13039,25 @@
       "type": 1,
       "bundleID": "com.shred.shredlabs",
       "bundleIdentifier": "com.shred.shredlabs",
-      "version": "5.5.2",
-      "versionDate": "2026-08-26",
+      "version": "5.5.3",
+      "versionDate": "2026-09-03",
       "fullDate": "20260805225415",
-      "size": 157240226,
+      "size": 102554852,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SHRED_5.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/SHRED_5.5.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SHRED_5.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
       "versions": [
+        {
+          "version": "5.5.3",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SHRED_5.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 102554852,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.5.3"
+        },
         {
           "version": "5.5.2",
           "date": "2026-08-26",
@@ -31867,17 +31883,25 @@
       "type": 1,
       "bundleID": "com.ADPTVLTD.push",
       "bundleIdentifier": "com.ADPTVLTD.push",
-      "version": "4.0.0",
-      "versionDate": "2026-09-02",
+      "version": "4.0.1",
+      "versionDate": "2026-09-04",
       "fullDate": "20260731184804",
-      "size": 77776351,
+      "size": 77777865,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/PUSH_3.13.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/PUSH_4.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PUSH_4.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
       "versions": [
+        {
+          "version": "4.0.1",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PUSH_4.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 77777865,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.0.1"
+        },
         {
           "version": "4.0.0",
           "date": "2026-09-02",
@@ -39842,17 +39866,25 @@
       "type": 1,
       "bundleID": "com.getupnote.ios",
       "bundleIdentifier": "com.getupnote.ios",
-      "version": "9.22.2",
-      "versionDate": "2026-08-27",
+      "version": "9.22.3",
+      "versionDate": "2026-09-04",
       "fullDate": "20260729014647",
-      "size": 55749084,
+      "size": 37414146,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/UpNote_9.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/UpNote_9.22.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/UpNote_9.22.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.getupnote.ios.png",
       "versions": [
+        {
+          "version": "9.22.3",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/UpNote_9.22.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 37414146,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.22.3"
+        },
         {
           "version": "9.22.2",
           "date": "2026-08-27",
@@ -41312,17 +41344,25 @@
       "type": 1,
       "bundleID": "health.sleep.sounds.tracker.alarm.calm",
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
-      "version": "3.5.2",
-      "versionDate": "2026-08-28",
+      "version": "3.5.3",
+      "versionDate": "2026-09-03",
       "fullDate": "20260727205325",
-      "size": 490156655,
+      "size": 507488232,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/ShutEye_3.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/ShutEye_3.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/ShutEye_3.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "versions": [
+        {
+          "version": "3.5.3",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/ShutEye_3.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 507488232,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.5.3"
+        },
         {
           "version": "3.5.2",
           "date": "2026-08-28",
@@ -41738,17 +41778,25 @@
       "type": 1,
       "bundleID": "com.endel.endel",
       "bundleIdentifier": "com.endel.endel",
-      "version": "4.49.230",
-      "versionDate": "2026-08-26",
+      "version": "4.49.249",
+      "versionDate": "2026-09-04",
       "fullDate": "20260727185757",
-      "size": 170129183,
+      "size": 165605767,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Endel_4.49.205_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Endel_4.49.230_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Endel_4.49.249_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.endel.endel.png",
       "versions": [
+        {
+          "version": "4.49.249",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Endel_4.49.249_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 165605767,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.49.249"
+        },
         {
           "version": "4.49.230",
           "date": "2026-08-26",
@@ -53993,17 +54041,25 @@
       "type": 1,
       "bundleID": "com.photoeditor.polish",
       "bundleIdentifier": "com.photoeditor.polish",
-      "version": "2.8.0",
-      "versionDate": "2026-08-25",
+      "version": "2.9.0",
+      "versionDate": "2026-09-04",
       "fullDate": "20260718013053",
-      "size": 152332909,
+      "size": 146871982,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2026/Polish_2.6.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Polish_2.8.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Polish_2.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.photoeditor.polish.png",
       "versions": [
+        {
+          "version": "2.9.0",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Polish_2.9.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 146871982,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "2.9.0"
+        },
         {
           "version": "2.8.0",
           "date": "2026-08-25",
@@ -75057,17 +75113,25 @@
       "type": 1,
       "bundleID": "com.wiheads.paste",
       "bundleIdentifier": "com.wiheads.paste",
-      "version": "6.6.9",
-      "versionDate": "2026-08-25",
+      "version": "6.6.10",
+      "versionDate": "2026-09-03",
       "fullDate": "20260609164601",
-      "size": 125452102,
+      "size": 83260472,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Paste_6.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Paste_6.6.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Paste_6.6.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
       "versions": [
+        {
+          "version": "6.6.10",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Paste_6.6.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 83260472,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.6.10"
+        },
         {
           "version": "6.6.9",
           "date": "2026-08-25",
@@ -99026,17 +99090,25 @@
       "type": 1,
       "bundleID": "com.castpeer.audioroom.ios",
       "bundleIdentifier": "com.castpeer.audioroom.ios",
-      "version": "2.11.5",
-      "versionDate": "2026-08-26",
+      "version": "2.11.6",
+      "versionDate": "2026-09-03",
       "fullDate": "20260404001104",
-      "size": 146842706,
+      "size": 143062024,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-04-2026/SoundLab_2.10.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/SoundLab_2.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SoundLab_2.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.castpeer.audioroom.ios.png",
       "versions": [
+        {
+          "version": "2.11.6",
+          "date": "2026-09-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SoundLab_2.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 143062024,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.11.6"
+        },
         {
           "version": "2.11.5",
           "date": "2026-08-26",
@@ -143946,6 +144018,15 @@
       },
       "versions": [
         {
+          "version": "0.9",
+          "date": "2026-09-03",
+          "localizedDescription": "• OCR dictionary support (iOS 18+): import Yomitan•compatible dictionaries in the app and look up words while reading.\n• Suwayomi built•in source: read and track from a Suwayomi instance, just like Komga and Kavita.\n• Auto scroll for webtoon reader: enable and press the play button to scroll without touching your device.\n• Fixed CloudFlare handling: CloudFlare issues that caused external sources to break should be resolved.\n• Overall performance improvements: the library loads much faster (@Amqx), and the webtoon reader was improved.\n• Source stability fixes and disable option: the issue where sources were causing the app to crash should not happen again, and now you can even disable a source that is broken until it receives an update.\n• Many more things: see [the website](https://aidoku.app/release•notes/) for a more complete list.",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa",
+          "size": 11864382,
+          "minOSVersion": "15.0",
+          "buildVersion": "2"
+        },
+        {
           "version": "0.8.4",
           "date": "2026-07-03",
           "localizedDescription": "• Fixes for iOS 27: fixed settings pages freezing the app, along with other minor visual issues.\n• Improved backup restore time: restores should now take seconds instead of minutes. (@Amqx)\n• Failed download page retrying: less chance of missing pages in downloaded chapters from sources with aggressive rate limits. (@pxseu)\n• New chapter notifications (experimental): when Aidoku refreshes in the background, notification(s) of new chapters should be sent if enabled. (@Zareix)\n• Various other bug fixes and small features: see [the website]() for a more complete list.",
@@ -143955,10 +144036,10 @@
           "buildVersion": "1"
         }
       ],
-      "version": "0.8.4",
-      "versionDate": "2026-07-03",
-      "size": 10136987,
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.8.4/Aidoku.ipa"
+      "version": "0.9",
+      "versionDate": "2026-09-03",
+      "size": 11864382,
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa"
     },
     {
       "name": "Reveri",
@@ -146800,11 +146881,19 @@
       "name": "Grounded",
       "bundleIdentifier": "com.ifeanyi.Grounded",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Grounded: Quit Weed Smoking\n\nTweak: Subscription Unlocked\n\nVersion: 3.0.20\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/88caeec2-1203-4eec-ba3c-aeecba06a6df/Grounded__Quit_Weed_Smoking-v3.0.20-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2396",
       "iconURL": "https://mypleasure.zxcvbn.fyi/bd63e74f-cd7e-4a7c-94a0-43b68f713452/icon.jpg",
-      "version": "3.0.20",
-      "size": 105624719,
+      "version": "3.1.24",
+      "size": 109534974,
       "versions": [
+        {
+          "version": "3.1.24",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2396",
+          "size": 109534974,
+          "localizedDescription": "Subscription Unlocked",
+          "buildVersion": "3.1.24"
+        },
         {
           "version": "3.0.20",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/88caeec2-1203-4eec-ba3c-aeecba06a6df/Grounded__Quit_Weed_Smoking-v3.0.20-riftysipas.ipa",
@@ -146830,7 +146919,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-03"
     },
     {
       "name": "Trading Game",
@@ -154594,11 +154683,19 @@
       "name": "ADHD White Noise",
       "bundleIdentifier": "io.mindist.noise",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: ADHD White Noise + Brown, Pink\n\nTweak: Subscription Unlocked\n\nVersion: 1.6.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/e0885b8c-c711-450b-9b45-e3c0ecad752c/ADHD_White_Noise___Brown__Pink-v1.6.0-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1431",
       "iconURL": "https://mypleasure.zxcvbn.fyi/97644f0a-8d1a-4096-a9d0-25f7e674b937/icon.jpg",
-      "version": "1.6.0",
-      "size": 21343065,
+      "version": "2.1.2",
+      "size": 39082834,
       "versions": [
+        {
+          "version": "2.1.2",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1431",
+          "size": 39082834,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "2.1.2"
+        },
         {
           "version": "1.6.0",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/e0885b8c-c711-450b-9b45-e3c0ecad752c/ADHD_White_Noise___Brown__Pink-v1.6.0-riftysipas.ipa",
@@ -154624,7 +154721,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-03"
     },
     {
       "name": "Crossword Master",
