@@ -32679,17 +32679,25 @@
       "type": 1,
       "bundleID": "com.podfactor.pod",
       "bundleIdentifier": "com.podfactor.pod",
-      "version": "2.106.8",
-      "versionDate": "2026-08-17",
+      "version": "2.106.9",
+      "versionDate": "2026-09-04",
       "fullDate": "20260731002446",
-      "size": 74306856,
+      "size": 71220183,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/MyCalendar_2.106.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/MyCalendar_2.106.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/MyCalendar_2.106.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.podfactor.pod.png",
       "versions": [
+        {
+          "version": "2.106.9",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/MyCalendar_2.106.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 71220183,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.106.9"
+        },
         {
           "version": "2.106.8",
           "date": "2026-08-17",
@@ -44240,17 +44248,25 @@
       "type": 1,
       "bundleID": "com.calm.calmapp",
       "bundleIdentifier": "com.calm.calmapp",
-      "version": "7.0.5",
-      "versionDate": "2026-08-30",
+      "version": "7.0.7",
+      "versionDate": "2026-09-04",
       "fullDate": "20260724225205",
-      "size": 115395119,
+      "size": 112286692,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/Calm_6.101.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-08-2026/Calm_7.0.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Calm_7.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calm.calmapp.png",
       "versions": [
+        {
+          "version": "7.0.7",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Calm_7.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 112286692,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "7.0.7"
+        },
         {
           "version": "7.0.5",
           "date": "2026-08-30",
@@ -95290,17 +95306,25 @@
       "type": 1,
       "bundleID": "com.touchbyte.PhotoSync",
       "bundleIdentifier": "com.touchbyte.PhotoSync",
-      "version": "4.9.8",
-      "versionDate": "2026-04-30",
+      "version": "4.10",
+      "versionDate": "2026-09-04",
       "fullDate": "20260430211057",
-      "size": 61605572,
+      "size": 37279725,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/PhotoSync_4.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-04-2026/PhotoSync_4.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PhotoSync_4.10_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.touchbyte.PhotoSync.png",
       "versions": [
+        {
+          "version": "4.10",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/PhotoSync_4.10_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 37279725,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "4.10"
+        },
         {
           "version": "4.9.8",
           "date": "2026-04-30",
@@ -151182,9 +151206,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Colourtone: #1 Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.3\n\nNotes: ignore purchase page\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
       "iconURL": "https://mypleasure.zxcvbn.fyi/584628d2-2306-4f54-9128-6a3b60699f0b/icon.jpg",
-      "version": "5.6.1",
+      "version": "5.6.2",
       "size": 0,
       "versions": [
+        {
+          "version": "5.6.2",
+          "date": "2026-09-04",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
+          "size": 0,
+          "localizedDescription": "Subscription Unlocked",
+          "buildVersion": "5.6.2"
+        },
         {
           "version": "5.6.1",
           "date": "2026-09-03",
@@ -151202,7 +151234,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-03"
+      "versionDate": "2026-09-04"
     },
     {
       "name": "Food Check",
