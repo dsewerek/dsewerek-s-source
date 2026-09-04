@@ -3159,17 +3159,25 @@
       "type": 1,
       "bundleID": "com.hevyapp.hevy",
       "bundleIdentifier": "com.hevyapp.hevy",
-      "version": "3.1.11",
-      "versionDate": "2026-08-28",
+      "version": "3.1.12",
+      "versionDate": "2026-09-04",
       "fullDate": "20260807014536",
-      "size": 127208996,
+      "size": 137044488,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Hevy_3.1.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Hevy_3.1.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Hevy_3.1.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hevyapp.hevy.png",
       "versions": [
+        {
+          "version": "3.1.12",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/Hevy_3.1.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 137044488,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.1.12"
+        },
         {
           "version": "3.1.11",
           "date": "2026-08-28",
@@ -12313,17 +12321,25 @@
       "type": 1,
       "bundleID": "com.offlinemusic",
       "bundleIdentifier": "com.offlinemusic",
-      "version": "3.9.3",
-      "versionDate": "2026-08-23",
+      "version": "3.9.4",
+      "versionDate": "2026-09-04",
       "fullDate": "20260806011215",
-      "size": 105178334,
+      "size": 105154567,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/OfflineMusic_3.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2026/OfflineMusic_3.9.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/OfflineMusic_3.9.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
       "versions": [
+        {
+          "version": "3.9.4",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/OfflineMusic_3.9.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 105154567,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.9.4"
+        },
         {
           "version": "3.9.3",
           "date": "2026-08-23",
@@ -17965,17 +17981,25 @@
       "type": 1,
       "bundleID": "com.neo.NeoMan",
       "bundleIdentifier": "com.neo.NeoMan",
-      "version": "8.3.17",
-      "versionDate": "2026-08-28",
+      "version": "8.4.1",
+      "versionDate": "2026-09-04",
       "fullDate": "20260805042250",
-      "size": 35414972,
+      "size": 30838386,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/NeoServer_8.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/NeoServer_8.3.17_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/NeoServer_8.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "versions": [
+        {
+          "version": "8.4.1",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/NeoServer_8.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 30838386,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.4.1"
+        },
         {
           "version": "8.3.17",
           "date": "2026-08-28",
@@ -117648,10 +117672,10 @@
       "type": 1,
       "bundleID": "com.soundscape.music",
       "bundleIdentifier": "com.soundscape.music",
-      "version": "10.1.55",
-      "versionDate": "2026-07-30",
+      "version": "10.1.57",
+      "versionDate": "2026-09-03",
       "fullDate": "20251216172313",
-      "size": 87202016,
+      "size": 63268359,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Soundscape_9.5.9_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
       "developerName": "",
@@ -117659,6 +117683,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
       "versions": [
+        {
+          "version": "10.1.57",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+          "size": 63268359,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "10.1.57"
+        },
         {
           "version": "10.1.55",
           "date": "2026-07-30",
@@ -151125,11 +151157,19 @@
       "name": "Colourtone",
       "bundleIdentifier": "com.colorpresets.colourtone",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Colourtone: #1 Photo Editor\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.3\n\nNotes: ignore purchase page\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/2401b5e0-597e-4d4a-b1a5-1301a4205b25/Colourtone___1_Photo_Editor-v5.0.3-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
       "iconURL": "https://mypleasure.zxcvbn.fyi/584628d2-2306-4f54-9128-6a3b60699f0b/icon.jpg",
-      "version": "5.0.3",
-      "size": 483801924,
+      "version": "5.6.1",
+      "size": 0,
       "versions": [
+        {
+          "version": "5.6.1",
+          "date": "2026-09-03",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2397",
+          "size": 0,
+          "localizedDescription": "Subscription Unlocked",
+          "buildVersion": "5.6.1"
+        },
         {
           "version": "5.0.3",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/2401b5e0-597e-4d4a-b1a5-1301a4205b25/Colourtone___1_Photo_Editor-v5.0.3-riftysipas.ipa",
@@ -151139,7 +151179,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-03"
     },
     {
       "name": "Food Check",
