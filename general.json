@@ -55147,17 +55147,25 @@
       "type": 1,
       "bundleID": "com.hubx.imagination",
       "bundleIdentifier": "com.hubx.imagination",
-      "version": "5.0.4",
-      "versionDate": "2026-08-10",
+      "version": "5.0.7",
+      "versionDate": "2026-09-04",
       "fullDate": "20260716140045",
-      "size": 118108180,
+      "size": 123303664,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/DaVinci_5.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-08-2026/DaVinci_5.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/DaVinci_5.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hubx.imagination.png",
       "versions": [
+        {
+          "version": "5.0.7",
+          "date": "2026-09-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/DaVinci_5.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 123303664,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.0.7"
+        },
         {
           "version": "5.0.4",
           "date": "2026-08-10",
@@ -125641,10 +125649,10 @@
       "type": 1,
       "bundleID": "com.gymbros.app",
       "bundleIdentifier": "com.gymbros.app",
-      "version": "2.15.4",
-      "versionDate": "2026-08-28",
+      "version": "2.15.6",
+      "versionDate": "2026-09-04",
       "fullDate": "20250823193131",
-      "size": 139820728,
+      "size": 141732914,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Liftoff_2.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
       "developerName": "",
@@ -125652,6 +125660,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
       "versions": [
+        {
+          "version": "2.15.6",
+          "date": "2026-09-04",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+          "size": 141732914,
+          "localizedDescription": "Liftoff is the best workout tracker app that ranks your gym performance. Get feedback on 400+ exercises, track progress, and compete with friends. Download the #1 gym rank app & join over 1 million lifters today!\r\n\r\nGamified Workout Tracker | Ranks | Streaks | Accountability | Logger\r\n\r\nBoost Your Fitness Journey with Liftoff app\r\n\r\nConnect and Compete\r\nJoin a vibrant community of fitness enthusiasts who make every workout count. Liftoff is a social platform where you can connect, compete, and share your fitness journey with friends and other gym-goers.\r\n\r\n- Community Engagement: Dive into a fitness community that motivates and inspires. Follow friends, exchange tips, and celebrate each other’s successes.\r\n- Global Leaderboards: See how you st",
+          "buildVersion": "2.15.6"
+        },
         {
           "version": "2.15.4",
           "date": "2026-08-28",
@@ -140743,6 +140759,13 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0-alpha51",
+          "date": "2026-09-04T04:09:06Z",
+          "size": 19482674,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha51/Navic.ipa",
+          "buildVersion": "1.0.0-alpha51"
+        },
+        {
           "version": "1.0.0-alpha50",
           "date": "2026-08-29T03:05:37Z",
           "size": 19482674,
@@ -140806,10 +140829,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha50",
-      "versionDate": "2026-08-29",
+      "version": "1.0.0-alpha51",
+      "versionDate": "2026-09-04",
       "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha50/Navic.ipa"
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha51/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
@@ -175826,6 +175849,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10100",
+          "marketingVersion": "3.4.0-alpha.20260904.27c3aba",
+          "date": "2026-09-04",
+          "localizedDescription": "Alpha build 27c3aba · 2026-09-04\n\nChanges in this build:\n• fix(release): allow provisioning updates on export, not just archive\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 727624056,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10097",
           "marketingVersion": "3.4.0-alpha.20260903.10d3c46",
           "date": "2026-09-03",
@@ -175949,8 +175982,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-03",
-      "size": 727554596,
+      "versionDate": "2026-09-04",
+      "size": 727624056,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
