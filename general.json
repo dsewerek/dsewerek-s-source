@@ -11283,17 +11283,25 @@
       "type": 1,
       "bundleID": "com.adobe.premiere.ios",
       "bundleIdentifier": "com.adobe.premiere.ios",
-      "version": "26.19.0",
-      "versionDate": "2026-09-03",
+      "version": "26.19.1",
+      "versionDate": "2026-09-05",
       "fullDate": "20260806031820",
-      "size": 93373638,
+      "size": 93374188,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Premiere_26.17.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Premiere_26.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2026/Premiere_26.19.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adobe.premiere.ios.png",
       "versions": [
+        {
+          "version": "26.19.1",
+          "date": "2026-09-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2026/Premiere_26.19.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 93374188,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.19.1"
+        },
         {
           "version": "26.19.0",
           "date": "2026-09-03",
@@ -15721,17 +15729,25 @@
       "type": 1,
       "bundleID": "com.readdle.PDFExpert5",
       "bundleIdentifier": "com.readdle.PDFExpert5",
-      "version": "7.25.11",
-      "versionDate": "2026-08-12",
+      "version": "7.25.12",
+      "versionDate": "2026-09-05",
       "fullDate": "20260805110051",
-      "size": 149235348,
+      "size": 121364765,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/PDFExpert_7.25.10_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/PDFExpert_7.25.11_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2026/PDFExpert_7.25.12_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
       "versions": [
+        {
+          "version": "7.25.12",
+          "date": "2026-09-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2026/PDFExpert_7.25.12_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 121364765,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "7.25.12"
+        },
         {
           "version": "7.25.11",
           "date": "2026-08-12",
@@ -117776,10 +117792,10 @@
       "type": 1,
       "bundleID": "com.soundscape.music",
       "bundleIdentifier": "com.soundscape.music",
-      "version": "10.1.57",
-      "versionDate": "2026-09-03",
+      "version": "10.1.58",
+      "versionDate": "2026-09-05",
       "fullDate": "20251216172313",
-      "size": 63268359,
+      "size": 62913054,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Soundscape_9.5.9_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
       "developerName": "",
@@ -117787,6 +117803,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundscape.music.png",
       "versions": [
+        {
+          "version": "10.1.58",
+          "date": "2026-09-05",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2174",
+          "size": 62913054,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "10.1.58"
+        },
         {
           "version": "10.1.57",
           "date": "2026-09-03",
@@ -183143,6 +183167,17 @@
       ],
       "versions": [
         {
+          "version": "1.0.0-ios",
+          "buildVersion": "1.0.0-ios",
+          "date": "2026-09-05",
+          "localizedDescription": "iCube 1.0.0 for iOS",
+          "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS/iCube.ipa",
+          "size": 90566866,
+          "minOSVersion": "15.0",
+          "platform": "iOS",
+          "isBeta": false
+        },
+        {
           "version": "1.0.0-beta9-ios",
           "buildVersion": "1.0.0-beta9-ios",
           "date": "2026-08-04",
@@ -183179,10 +183214,10 @@
           "betaNumber": 7
         }
       ],
-      "version": "1.0.0-beta9-ios",
-      "versionDate": "2026-08-04",
-      "size": 82799373,
-      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS-Beta9/iCube.ipa"
+      "version": "1.0.0-ios",
+      "versionDate": "2026-09-05",
+      "size": 90566866,
+      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS/iCube.ipa"
     }
   ]
 }
