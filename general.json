@@ -110203,10 +110203,10 @@
       "type": 1,
       "bundleID": "com.unofficialcalculators.payplan",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.30",
-      "versionDate": "2026-09-06",
+      "version": "4.2.31",
+      "versionDate": "2026-09-07",
       "fullDate": "20260101215442",
-      "size": 104681735,
+      "size": 105772498,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/BillTracker_4.1.25_Pro_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
       "developerName": "",
@@ -110214,6 +110214,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "versions": [
+        {
+          "version": "4.2.31",
+          "date": "2026-09-07",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+          "size": 105772498,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "4.2.31"
+        },
         {
           "version": "4.2.30",
           "date": "2026-09-06",
