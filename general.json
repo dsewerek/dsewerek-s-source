@@ -4298,17 +4298,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "26.5.6",
-      "versionDate": "2026-08-29",
+      "version": "26.6.0",
+      "versionDate": "2026-09-08",
       "fullDate": "20260807003514",
-      "size": 32443000,
+      "size": 32974832,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/Athlytic_26.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Athlytic_26.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "26.6.0",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Athlytic_26.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 32974832,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.6.0"
+        },
         {
           "version": "26.5.6",
           "date": "2026-08-29",
@@ -10237,17 +10245,25 @@
       "type": 2,
       "bundleID": "com.elevateapp.elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
-      "version": "5.255.0",
-      "versionDate": "2026-08-31",
+      "version": "5.256.0",
+      "versionDate": "2026-09-08",
       "fullDate": "20260806035354",
-      "size": 428129370,
+      "size": 149483963,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Elevate_5.251.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/Elevate_5.255.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Elevate_5.256.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
       "versions": [
+        {
+          "version": "5.256.0",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Elevate_5.256.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 149483963,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.256.0"
+        },
         {
           "version": "5.255.0",
           "date": "2026-08-31",
@@ -18077,17 +18093,25 @@
       "type": 1,
       "bundleID": "com.neo.NeoMan",
       "bundleIdentifier": "com.neo.NeoMan",
-      "version": "8.4.1",
-      "versionDate": "2026-09-04",
+      "version": "8.4.2",
+      "versionDate": "2026-09-08",
       "fullDate": "20260805042250",
-      "size": 30838386,
+      "size": 30167774,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/NeoServer_8.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/NeoServer_8.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/NeoServer_8.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "versions": [
+        {
+          "version": "8.4.2",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/NeoServer_8.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 30167774,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.4.2"
+        },
         {
           "version": "8.4.1",
           "date": "2026-09-04",
@@ -126461,10 +126485,10 @@
       "type": 1,
       "bundleID": "com.stippl.stippl",
       "bundleIdentifier": "com.stippl.stippl",
-      "version": "3.1.1",
-      "versionDate": "2026-08-17",
+      "version": "3.1.2",
+      "versionDate": "2026-09-08",
       "fullDate": "20250823191614",
-      "size": 80952787,
+      "size": 81690980,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Stippl_2.0.81_Pro_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1257",
       "developerName": "",
@@ -126472,6 +126496,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.stippl.stippl.png",
       "versions": [
+        {
+          "version": "3.1.2",
+          "date": "2026-09-08",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1257",
+          "size": 81690980,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.1.2"
+        },
         {
           "version": "3.1.1",
           "date": "2026-08-17",
@@ -176354,6 +176386,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10107",
+          "marketingVersion": "3.4.0-alpha.20260908.f0b3581",
+          "date": "2026-09-08",
+          "localizedDescription": "Alpha build f0b3581 · 2026-09-08\n\nChanges in this build:\n• build(dolphin): bump dolphin-ios to iCube develop (3b8a711b3a) — debug API + MCP\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 727733000,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10105",
           "marketingVersion": "3.4.0-alpha.20260906.5a8280b",
           "date": "2026-09-06",
@@ -176517,8 +176559,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-06",
-      "size": 727741822,
+      "versionDate": "2026-09-08",
+      "size": 727733000,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
