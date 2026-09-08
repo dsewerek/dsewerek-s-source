@@ -29308,17 +29308,25 @@
       "type": 1,
       "bundleID": "com.lightricks.Facetune2",
       "bundleIdentifier": "com.lightricks.Facetune2",
-      "version": "26.27",
-      "versionDate": "2026-08-30",
+      "version": "26.28",
+      "versionDate": "2026-09-08",
       "fullDate": "20260802165530",
-      "size": 437832842,
+      "size": 436974393,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/Facetune_26.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-08-2026/Facetune_26.27_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Facetune_26.28_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
       "versions": [
+        {
+          "version": "26.28",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Facetune_26.28_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 436974393,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.28"
+        },
         {
           "version": "26.27",
           "date": "2026-08-30",
@@ -50909,17 +50917,25 @@
       "type": 1,
       "bundleID": "com.iPwners.Plonkan",
       "bundleIdentifier": "com.iPwners.Plonkan",
-      "version": "13.45",
-      "versionDate": "2026-08-28",
+      "version": "13.46",
+      "versionDate": "2026-09-08",
       "fullDate": "20260722181550",
-      "size": 115908875,
+      "size": 115352210,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Buddy_13.43_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Buddy_13.45_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Buddy_13.46_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
       "versions": [
+        {
+          "version": "13.46",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Buddy_13.46_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 115352210,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "13.46"
+        },
         {
           "version": "13.45",
           "date": "2026-08-28",
@@ -53737,17 +53753,25 @@
       "type": 1,
       "bundleID": "com.edjing.edjingdjturntable",
       "bundleIdentifier": "com.edjing.edjingdjturntable",
-      "version": "9.1.9",
-      "versionDate": "2026-08-24",
+      "version": "9.1.10",
+      "versionDate": "2026-09-08",
       "fullDate": "20260720145309",
-      "size": 186408304,
+      "size": 186525927,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/edjingMix_9.1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-08-2026/edjingMix_9.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/edjingMix_9.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
       "versions": [
+        {
+          "version": "9.1.10",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/edjingMix_9.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 186525927,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.1.10"
+        },
         {
           "version": "9.1.9",
           "date": "2026-08-24",
@@ -56415,17 +56439,25 @@
       "type": 1,
       "bundleID": "com.kinemaster.kios",
       "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.1.18",
-      "versionDate": "2026-08-12",
+      "version": "8.2.0",
+      "versionDate": "2026-09-08",
       "fullDate": "20260714184116",
-      "size": 120122222,
+      "size": 157000914,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2026/KineMaster_8.1.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-08-2026/KineMaster_8.1.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/KineMaster_8.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "versions": [
+        {
+          "version": "8.2.0",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/KineMaster_8.2.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 157000914,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "8.2.0"
+        },
         {
           "version": "8.1.18",
           "date": "2026-08-12",
@@ -69124,17 +69156,25 @@
       "type": 1,
       "bundleID": "com.calisthenics.thenx",
       "bundleIdentifier": "com.calisthenics.thenx",
-      "version": "6.7.3",
-      "versionDate": "2026-09-06",
+      "version": "6.7.4",
+      "versionDate": "2026-09-08",
       "fullDate": "20260623151533",
-      "size": 110799496,
+      "size": 150213504,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2026/Thenx_6.7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Thenx_6.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "versions": [
+        {
+          "version": "6.7.4",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Thenx_6.7.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 150213504,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.7.4"
+        },
         {
           "version": "6.7.3",
           "date": "2026-09-06",
@@ -71102,17 +71142,25 @@
       "type": 1,
       "bundleID": "com.glority.everlens",
       "bundleIdentifier": "com.glority.everlens",
-      "version": "2.25.1",
-      "versionDate": "2026-06-15",
+      "version": "2.26.0",
+      "versionDate": "2026-09-08",
       "fullDate": "20260615080340",
-      "size": 99971532,
+      "size": 106264467,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/MobileScanner_2.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-06-2026/MobileScanner_2.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/MobileScanner_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
       "versions": [
+        {
+          "version": "2.26.0",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/MobileScanner_2.26.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 106264467,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.26.0"
+        },
         {
           "version": "2.25.1",
           "date": "2026-06-15",
@@ -89742,17 +89790,25 @@
       "type": 1,
       "bundleID": "net.quochuywdm.collanote496",
       "bundleIdentifier": "net.quochuywdm.collanote496",
-      "version": "4.3.3",
-      "versionDate": "2026-08-28",
+      "version": "5.0.0",
+      "versionDate": "2026-09-08",
       "fullDate": "20260514092557",
-      "size": 115695349,
+      "size": 130446757,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/CollaNote_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/CollaNote_4.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/CollaNote_5.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "versions": [
+        {
+          "version": "5.0.0",
+          "date": "2026-09-08",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/CollaNote_5.0.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 130446757,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "5.0.0"
+        },
         {
           "version": "4.3.3",
           "date": "2026-08-28",
@@ -183606,6 +183662,17 @@
       ],
       "versions": [
         {
+          "version": "alpha-ios",
+          "buildVersion": "alpha-ios",
+          "date": "2026-09-08T09:46:21.239Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha/Non-Jailbroken.ipa",
+          "size": 1,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
           "version": "1.0.0-ios",
           "buildVersion": "1.0.0-ios",
           "date": "2026-09-05",
@@ -183653,10 +183720,10 @@
           "betaNumber": 7
         }
       ],
-      "version": "1.0.0-ios",
-      "versionDate": "2026-09-05",
-      "size": 90566866,
-      "downloadURL": "https://icube-emu.com/builds-versioned/1.0.0/iOS/iCube.ipa"
+      "version": "alpha-ios",
+      "versionDate": "2026-09-08",
+      "size": 1,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha/Non-Jailbroken.ipa"
     }
   ]
 }
