@@ -1843,17 +1843,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.625",
-      "versionDate": "2026-09-03",
+      "version": "0.1.626",
+      "versionDate": "2026-09-09",
       "fullDate": "20260807020601",
-      "size": 123267054,
+      "size": 130257138,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/RiseSleep_0.1.625_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/RiseSleep_0.1.626_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.626",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/RiseSleep_0.1.626_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 130257138,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.626"
+        },
         {
           "version": "0.1.625",
           "date": "2026-09-03",
@@ -16059,17 +16067,25 @@
       "type": 1,
       "bundleID": "com.sugarmo.ScrollClip",
       "bundleIdentifier": "com.sugarmo.ScrollClip",
-      "version": "3.18",
-      "versionDate": "2026-08-19",
+      "version": "3.18.1",
+      "versionDate": "2026-09-09",
       "fullDate": "20260805090033",
-      "size": 43534728,
+      "size": 44103176,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Picsew_3.17.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-08-2026/Picsew_3.18_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Picsew_3.18.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
       "versions": [
+        {
+          "version": "3.18.1",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Picsew_3.18.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 44103176,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.18.1"
+        },
         {
           "version": "3.18",
           "date": "2026-08-19",
@@ -18133,17 +18149,25 @@
       "type": 1,
       "bundleID": "com.neo.NeoMan",
       "bundleIdentifier": "com.neo.NeoMan",
-      "version": "8.4.2",
-      "versionDate": "2026-09-08",
+      "version": "8.4.3",
+      "versionDate": "2026-09-09",
       "fullDate": "20260805042250",
-      "size": 30167774,
+      "size": 31316946,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/NeoServer_8.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/NeoServer_8.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/NeoServer_8.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "versions": [
+        {
+          "version": "8.4.3",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/NeoServer_8.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 31316946,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.4.3"
+        },
         {
           "version": "8.4.2",
           "date": "2026-09-08",
@@ -49234,17 +49258,25 @@
       "type": 1,
       "bundleID": "com.hassantaleb.mockup",
       "bundleIdentifier": "com.hassantaleb.mockup",
-      "version": "5.11",
-      "versionDate": "2026-08-23",
+      "version": "5.11.1",
+      "versionDate": "2026-09-09",
       "fullDate": "20260722212238",
-      "size": 120019767,
+      "size": 120020734,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Animock_5.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2026/Animock_5.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Animock_5.11.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hassantaleb.mockup.png",
       "versions": [
+        {
+          "version": "5.11.1",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Animock_5.11.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 120020734,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "5.11.1"
+        },
         {
           "version": "5.11",
           "date": "2026-08-23",
@@ -72659,17 +72691,25 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "445.0.0",
-      "versionDate": "2026-09-02",
+      "version": "446.0.0",
+      "versionDate": "2026-09-09",
       "fullDate": "20260610115226",
-      "size": 268204223,
+      "size": 91750400,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1788339843573-4m0ux/com.burbn.instagram_445.0.0_regram_6.1_sl_noplugs.ipa",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.31/f4644a1f-5ad3-492b-a90b-a01a82dfa93R.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "446.0.0",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.31/f4644a1f-5ad3-492b-a90b-a01a82dfa93R.ipa",
+          "size": 91750400,
+          "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+          "buildVersion": "446.0.0"
+        },
         {
           "version": "445.0.0",
           "date": "2026-09-02T08:44:35+00:00",
@@ -99182,17 +99222,25 @@
       "type": 1,
       "bundleID": "xyz.gingertech.fitnotes",
       "bundleIdentifier": "xyz.gingertech.fitnotes",
-      "version": "16",
-      "versionDate": "2026-04-09",
+      "version": "18",
+      "versionDate": "2026-09-09",
       "fullDate": "20260409234939",
-      "size": 11137638,
+      "size": 12169220,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/FitNotes_16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-04-2026/FitNotes_16_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FitNotes_18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/xyz.gingertech.fitnotes.png",
       "versions": [
+        {
+          "version": "18",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FitNotes_18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 12169220,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "18"
+        },
         {
           "version": "16",
           "date": "2026-04-09",
@@ -139863,6 +139911,16 @@
       "developerName": "Riley Testut",
       "versions": [
         {
+          "version": "2.2.2",
+          "date": "2026-09-08T15:00:00-05:00",
+          "localizedDescription": "⚠️ You must manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.\n\nThis update fixes “data is not in the correct format” error when signing-in with Apple ID.",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_2.ipa",
+          "size": 32770196,
+          "sha256": "afa85752546e3f775aacb7dc747bb1d45764634cbb607f44e50570ee536ab6e7",
+          "minOSVersion": "14.0",
+          "buildVersion": "2.2.2"
+        },
+        {
           "version": "2.2.1",
           "date": "2025-05-12T12:00:00-05:00",
           "localizedDescription": "This update fixes issues with installing AltStore onto multiple devices.\n\nPREVIOUS UPDATE\n\nNEW\n• Supports sideloading apps with “Increased Memory Limit” entitlement\n• Supports localized titles, subtitles, and descriptions in sources\n• Added `altstore-classic://` URL scheme\n• Added Bluesky social media button to Settings\n\nIMPROVED\n• Hides “See All” button in Browse tab for sources with just 1 app\n• Changed icon back to Classic icon by default\n\nFIXED\n• Fixed choosing alternate app icon on iPad\n• Fixed “Join Patreon” sheet appearance in dark mode\n• Fixed installing apps before adding source via deep link\n• Fixed handling source deep link when already viewing source details\n• Fixed redundant app update appearing after resigning expired app\n• Fixed not immediately showing updates for some installed apps \n• Fixed not showing OPEN for installed apps when previewing source via deep link\n• Fixed not showing OPEN for installed apps when previewing already-added Recommended Source",
@@ -139962,14 +140020,14 @@
           "buildVersion": "1.5.1"
         }
       ],
-      "version": "2.2.1",
-      "versionDate": "2025-05-12",
+      "version": "2.2.2",
+      "versionDate": "2026-09-08",
       "versionDescription": "• Fixed error fetching Friend Zone patrons due to unexpected nil name\n• Fixed incorrect cell height for some News items",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_1.ipa",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_2_2.ipa",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
-      "size": 32862407,
+      "size": 32770196,
       "category": "utilities",
       "screenshots": [
         "https://user-images.githubusercontent.com/705880/277757391-76c02f48-be2a-485a-ba75-277480c99356.jpeg",
@@ -140023,6 +140081,16 @@
       "developerName": "Riley Testut",
       "subtitle": "An alternative App Store for iOS.",
       "versions": [
+        {
+          "version": "2.3b3",
+          "date": "2026-09-08T15:00:00-05:00",
+          "localizedDescription": "⚠️ You must manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.\n\nThis update fixes “data is not in the correct format” error when signing-in with Apple ID.",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_b3.ipa",
+          "size": 35905742,
+          "sha256": "449ad3ed6c95e477c9d05b4bdf67af0cb6dc6fa53ee8bf37e6b1bcc54bd089d1",
+          "minOSVersion": "17.4",
+          "buildVersion": "2.3b3"
+        },
         {
           "version": "2.3b2",
           "date": "2026-07-09T11:00:00-04:00",
@@ -140249,14 +140317,14 @@
           "buildVersion": "1.6b1"
         }
       ],
-      "version": "2.3b2",
-      "versionDate": "2026-07-09",
+      "version": "2.3b3",
+      "versionDate": "2026-09-08",
       "versionDescription": "This beta fixes the \"no provisioning profile with the requested identifier…\" error when sideloading or refreshing apps.\n\n⚠️ You must manually install this update by downloading the latest AltServer beta from Patreon and using it to re-reinstall AltStore. You do not need to delete AltStore first.",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_b2.ipa",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_b3.ipa",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
-      "size": 36042929,
+      "size": 35905742,
       "category": "utilities",
       "beta": true,
       "patreon": {
@@ -155529,9 +155597,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Crossword Master - Word Puzzle\n\nTweak: Free IAP\n\nVersion: 1.10.0\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2173",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c8e51a71-024d-4453-9249-ca63e2961caa/icon.jpg",
-      "version": "2.1.0",
-      "size": 85825269,
+      "version": "2.2.0",
+      "size": 91697788,
       "versions": [
+        {
+          "version": "2.2.0",
+          "date": "2026-09-08",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2173",
+          "size": 91697788,
+          "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
+          "buildVersion": "2.2.0"
+        },
         {
           "version": "2.1.0",
           "date": "2026-07-06",
@@ -155557,7 +155633,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-06"
+      "versionDate": "2026-09-08"
     },
     {
       "name": "Water Reminder",
