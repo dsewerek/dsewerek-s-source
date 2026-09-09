@@ -6779,17 +6779,25 @@
       "type": 1,
       "bundleID": "com.revivasoftworks.Snore-Lab",
       "bundleIdentifier": "com.revivasoftworks.Snore-Lab",
-      "version": "6.4.9",
-      "versionDate": "2026-09-07",
+      "version": "6.4.10",
+      "versionDate": "2026-09-09",
       "fullDate": "20260806132658",
-      "size": 132034984,
+      "size": 165030871,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SnoreLab_6.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/SnoreLab_6.4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/SnoreLab_6.4.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.revivasoftworks.Snore-Lab.png",
       "versions": [
+        {
+          "version": "6.4.10",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/SnoreLab_6.4.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 165030871,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.4.10"
+        },
         {
           "version": "6.4.9",
           "date": "2026-09-07",
@@ -20708,17 +20716,25 @@
       "type": 1,
       "bundleID": "com.readdle.CalendarsLite",
       "bundleIdentifier": "com.readdle.CalendarsLite",
-      "version": "5.37.36",
-      "versionDate": "2026-09-06",
+      "version": "5.37.37",
+      "versionDate": "2026-09-09",
       "fullDate": "20260804191908",
-      "size": 254381686,
+      "size": 314680264,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Calendars_5.37.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2026/Calendars_5.37.36_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Calendars_5.37.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "versions": [
+        {
+          "version": "5.37.37",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Calendars_5.37.37_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 314680264,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.37.37"
+        },
         {
           "version": "5.37.36",
           "date": "2026-09-06",
@@ -36328,17 +36344,25 @@
       "type": 1,
       "bundleID": "com.tranzmate.tranzmate1",
       "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "version": "5.199.0",
-      "versionDate": "2026-08-25",
+      "version": "5.200.0",
+      "versionDate": "2026-09-09",
       "fullDate": "20260729122034",
-      "size": 142389846,
+      "size": 144405111,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Moovit_5.197.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/Moovit_5.199.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Moovit_5.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
       "versions": [
+        {
+          "version": "5.200.0",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Moovit_5.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 144405111,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "5.200.0"
+        },
         {
           "version": "5.199.0",
           "date": "2026-08-25",
@@ -37182,17 +37206,25 @@
       "type": 1,
       "bundleID": "com.kingsoft.office.g.wpsoffice",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
-      "version": "26.8.1",
-      "versionDate": "2026-08-26",
+      "version": "26.9.0",
+      "versionDate": "2026-09-09",
       "fullDate": "20260729081923",
-      "size": 324891704,
+      "size": 325181738,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/wpsoffice_26.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/wpsoffice_26.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/wpsoffice_26.9.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
       "versions": [
+        {
+          "version": "26.9.0",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/wpsoffice_26.9.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 325181738,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "26.9.0"
+        },
         {
           "version": "26.8.1",
           "date": "2026-08-26",
@@ -43344,17 +43376,25 @@
       "type": 1,
       "bundleID": "com.readdle.ReaddleDocsIPad",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-      "version": "8.22.1",
-      "versionDate": "2026-09-07",
+      "version": "8.22.2",
+      "versionDate": "2026-09-09",
       "fullDate": "20260727140617",
-      "size": 203845001,
+      "size": 278433518,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Documents_8.20.6_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/Documents_8.22.1_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Documents_8.22.2_Plus_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
       "versions": [
+        {
+          "version": "8.22.2",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Documents_8.22.2_Plus_%40thisismanpreets_apptesters.org.ipa",
+          "size": 278433518,
+          "localizedDescription": "Injected with Plus",
+          "buildVersion": "8.22.2"
+        },
         {
           "version": "8.22.1",
           "date": "2026-09-07",
@@ -57881,17 +57921,25 @@
       "type": 1,
       "bundleID": "com.lexwarelabs.goodmorning",
       "bundleIdentifier": "com.lexwarelabs.goodmorning",
-      "version": "6.26.35",
-      "versionDate": "2026-09-07",
+      "version": "6.26.36",
+      "versionDate": "2026-09-09",
       "fullDate": "20260710231648",
-      "size": 297544696,
+      "size": 188758317,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/SleepCycle_6.26.26_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/SleepCycle_6.26.35_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/SleepCycle_6.26.36_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lexwarelabs.goodmorning.png",
       "versions": [
+        {
+          "version": "6.26.36",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/SleepCycle_6.26.36_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 188758317,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "6.26.36"
+        },
         {
           "version": "6.26.35",
           "date": "2026-09-07",
@@ -108875,10 +108923,10 @@
       "type": 1,
       "bundleID": "com.saltycrackers.daygram",
       "bundleIdentifier": "com.saltycrackers.daygram",
-      "version": "5.9.1",
-      "versionDate": "2026-08-10",
+      "version": "5.9.4",
+      "versionDate": "2026-09-09",
       "fullDate": "20260117142453",
-      "size": 36396602,
+      "size": 35713710,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-01-2026/Daygram_5.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2179",
       "developerName": "",
@@ -108886,6 +108934,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png",
       "versions": [
+        {
+          "version": "5.9.4",
+          "date": "2026-09-09",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2179",
+          "size": 35713710,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "5.9.4"
+        },
         {
           "version": "5.9.1",
           "date": "2026-08-10",
@@ -110175,10 +110231,10 @@
       "type": 1,
       "bundleID": "com.glucobit.cravingBuster.CravingBuster",
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.88",
-      "versionDate": "2026-09-02",
+      "version": "3.9.89",
+      "versionDate": "2026-09-09",
       "fullDate": "20260102170212",
-      "size": 296323638,
+      "size": 306488361,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/Reframe_3.9.11_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
       "developerName": "",
@@ -110186,6 +110242,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "versions": [
+        {
+          "version": "3.9.89",
+          "date": "2026-09-09",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+          "size": 306488361,
+          "localizedDescription": "Reframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\r\n\r\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\r\n\r\nNeed extra support? Uplevel your alcohol-free or alcohol-reduction journey with Reframe’s premium Thrive Coaching and get 1:1 access to a certified recovery coach, live coaching calls, and exclusive video content.\r\n\r\nTry Reframe FREE for 7 days, and R",
+          "buildVersion": "3.9.89"
+        },
         {
           "version": "3.9.88",
           "date": "2026-09-02",
@@ -148321,11 +148385,19 @@
       "name": "Stronger",
       "bundleIdentifier": "com.strongermobileapp.stronger",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Stronger - Gym Workout Planner\nTweak: Premium Unlocked\nVersion: 4.3.8\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/836ae5dd-a163-4de6-922f-ec6b256eb9d7/Stronger_-_Gym_Workout_Planner-v4.3.8-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2398",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c031376b-dae6-4885-a295-dbd50ea80261/icon.jpg",
-      "version": "4.3.8",
-      "size": 147242313,
+      "version": "6.0.0",
+      "size": 121242160,
       "versions": [
+        {
+          "version": "6.0.0",
+          "date": "2026-09-09",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2398",
+          "size": 121242160,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "6.0.0"
+        },
         {
           "version": "4.3.8",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/836ae5dd-a163-4de6-922f-ec6b256eb9d7/Stronger_-_Gym_Workout_Planner-v4.3.8-riftysipas.ipa",
@@ -148343,7 +148415,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-09"
     },
     {
       "name": "FanCode",
@@ -159094,11 +159166,19 @@
       "name": "Loopsie",
       "bundleIdentifier": "com.gamelounge.loopsie.ios",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Loopsie: AI Image Effects\n\nTweak: Subscription Unlocked\n\nVersion: 8.20.2\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/LoopsiePro/LoopsiePro-8.10.2.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2399",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/81/55/c9/8155c924-836a-be81-e13f-58924ad8da98/AppIcon-0-0-1x_U007emarketing-0-7-0-sRGB-85-220.png/512x512bb.jpg",
-      "version": "8.10.2",
-      "size": 185592561,
+      "version": "8.20.4",
+      "size": 191204921,
       "versions": [
+        {
+          "version": "8.20.4",
+          "date": "2026-09-09",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2399",
+          "size": 191204921,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "8.20.4"
+        },
         {
           "version": "8.10.2",
           "date": "2024-10-09",
@@ -159140,7 +159220,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2024-10-09"
+      "versionDate": "2026-09-09"
     },
     {
       "name": "SubTracky",
