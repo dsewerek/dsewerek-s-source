@@ -4718,17 +4718,25 @@
       "type": 1,
       "bundleID": "com.campmobile.snow",
       "bundleIdentifier": "com.campmobile.snow",
-      "version": "15.3.10",
-      "versionDate": "2026-09-02",
+      "version": "15.3.11",
+      "versionDate": "2026-09-09",
       "fullDate": "20260807002951",
-      "size": 178528037,
+      "size": 178539128,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/SNOW_15.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/SNOW_15.3.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/SNOW_15.3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
       "versions": [
+        {
+          "version": "15.3.11",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/SNOW_15.3.11_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 178539128,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "15.3.11"
+        },
         {
           "version": "15.3.10",
           "date": "2026-09-02",
@@ -15205,17 +15213,25 @@
       "type": 1,
       "bundleID": "co.codeleap.bearable",
       "bundleIdentifier": "co.codeleap.bearable",
-      "version": "1.0.607",
-      "versionDate": "2026-08-05",
+      "version": "1.0.610",
+      "versionDate": "2026-09-09",
       "fullDate": "20260805140628",
-      "size": 60939208,
+      "size": 61922365,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Bearable_1.0.607_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Bearable_1.0.607_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Bearable_1.0.610_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
       "versions": [
+        {
+          "version": "1.0.610",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Bearable_1.0.610_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 61922365,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.0.610"
+        },
         {
           "version": "1.0.607",
           "date": "2026-08-05",
@@ -30351,17 +30367,25 @@
       "type": 1,
       "bundleID": "com.camerasideas.InstaShot",
       "bundleIdentifier": "com.camerasideas.InstaShot",
-      "version": "1.99.0",
-      "versionDate": "2026-08-29",
+      "version": "1.99.1",
+      "versionDate": "2026-09-10",
       "fullDate": "20260801185736",
-      "size": 167537552,
+      "size": 167537581,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/InShot_1.98.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/InShot_1.99.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/InShot_1.99.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
       "versions": [
+        {
+          "version": "1.99.1",
+          "date": "2026-09-10",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/InShot_1.99.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 167537581,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "1.99.1"
+        },
         {
           "version": "1.99.0",
           "date": "2026-08-29",
@@ -31171,17 +31195,25 @@
       "type": 1,
       "bundleID": "com.book.summaries.reading",
       "bundleIdentifier": "com.book.summaries.reading",
-      "version": "1.3.6",
-      "versionDate": "2026-09-01",
+      "version": "1.3.7",
+      "versionDate": "2026-09-09",
       "fullDate": "20260801114638",
-      "size": 143374190,
+      "size": 143414374,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/GrowMe_1.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/GrowMe_1.3.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/GrowMe_1.3.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
       "versions": [
+        {
+          "version": "1.3.7",
+          "date": "2026-09-09",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/GrowMe_1.3.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 143414374,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.3.7"
+        },
         {
           "version": "1.3.6",
           "date": "2026-09-01",
@@ -51679,17 +51711,25 @@
       "type": 1,
       "bundleID": "app.tripsy.ios",
       "bundleIdentifier": "app.tripsy.ios",
-      "version": "3.9.1",
-      "versionDate": "2026-08-28",
+      "version": "3.9.2",
+      "versionDate": "2026-09-10",
       "fullDate": "20260722181545",
-      "size": 89261756,
+      "size": 89352827,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Tripsy_3.8.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/Tripsy_3.9.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/Tripsy_3.9.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "versions": [
+        {
+          "version": "3.9.2",
+          "date": "2026-09-10",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/Tripsy_3.9.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 89352827,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.9.2"
+        },
         {
           "version": "3.9.1",
           "date": "2026-08-28",
@@ -157277,9 +157317,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Moon Phase Calendar Plus\n\nTweak: Premium Unlocked\n\nVersion: 8.1.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2119",
       "iconURL": "https://mypleasure.zxcvbn.fyi/906f0ec8-28f9-478d-aeca-8269d45cbbe4/icon.jpg",
-      "version": "8.9.0",
-      "size": 45023307,
+      "version": "8.10.0",
+      "size": 45804445,
       "versions": [
+        {
+          "version": "8.10.0",
+          "date": "2026-09-09",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2119",
+          "size": 45804445,
+          "localizedDescription": "features:\r\n\r\n- hacked subscription",
+          "buildVersion": "8.10.0"
+        },
         {
           "version": "8.9.0",
           "date": "2026-08-06",
@@ -157297,7 +157345,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-06"
+      "versionDate": "2026-09-09"
     },
     {
       "name": "IdleBreakout",
