@@ -155071,9 +155071,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Teleprompter for Video Pro\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.114\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
       "iconURL": "https://mypleasure.zxcvbn.fyi/07ad26f4-ec1e-4cfe-a96a-cec0671e0b6b/icon.jpg",
-      "version": "1.0.131",
-      "size": 38449455,
+      "version": "1.0.132",
+      "size": 37752365,
       "versions": [
+        {
+          "version": "1.0.132",
+          "date": "2026-09-10",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
+          "size": 37752365,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.0.132"
+        },
         {
           "version": "1.0.131",
           "date": "2026-08-05",
@@ -155099,7 +155107,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-05"
+      "versionDate": "2026-09-10"
     },
     {
       "name": "Wedsly Planning",
