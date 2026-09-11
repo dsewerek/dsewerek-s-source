@@ -19780,17 +19780,25 @@
       "type": 1,
       "bundleID": "com.tripleglazedstudios.Weather",
       "bundleIdentifier": "com.tripleglazedstudios.Weather",
-      "version": "3.6.3",
-      "versionDate": "2026-08-27",
+      "version": "3.7",
+      "versionDate": "2026-09-11",
       "fullDate": "20260805005143",
-      "size": 76925973,
+      "size": 79617750,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Mercury_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-08-2026/Mercury_3.6.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Mercury_3.7_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tripleglazedstudios.Weather.png",
       "versions": [
+        {
+          "version": "3.7",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Mercury_3.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 79617750,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.7"
+        },
         {
           "version": "3.6.3",
           "date": "2026-08-27",
@@ -34904,17 +34912,25 @@
       "type": 1,
       "bundleID": "com.alohabrowser.alohabrowser",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "version": "8.9.0",
-      "versionDate": "2026-08-17",
+      "version": "8.10.0",
+      "versionDate": "2026-09-11",
       "fullDate": "20260729203713",
-      "size": 285185603,
+      "size": 285866678,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Aloha_8.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-08-2026/Aloha_8.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Aloha_8.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
       "versions": [
+        {
+          "version": "8.10.0",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Aloha_8.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 285866678,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.10.0"
+        },
         {
           "version": "8.9.0",
           "date": "2026-08-17",
@@ -48504,17 +48520,25 @@
       "type": 1,
       "bundleID": "overlook.fing",
       "bundleIdentifier": "overlook.fing",
-      "version": "12.13.2",
-      "versionDate": "2026-07-23",
+      "version": "12.13.4",
+      "versionDate": "2026-09-11",
       "fullDate": "20260723151419",
-      "size": 175423637,
+      "size": 180580987,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Fing_12.13.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Fing_12.13.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Fing_12.13.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/overlook.fing.png",
       "versions": [
+        {
+          "version": "12.13.4",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Fing_12.13.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 180580987,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "12.13.4"
+        },
         {
           "version": "12.13.2",
           "date": "2026-07-23",
@@ -51849,6 +51873,14 @@
           "size": 89353179,
           "localizedDescription": "Injected with Premium",
           "buildVersion": "3.9.3"
+        },
+        {
+          "version": "3.9.4",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Tripsy_3.9.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 89383855,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.9.4"
         },
         {
           "version": "3.9.2",
@@ -79575,17 +79607,25 @@
       "type": 1,
       "bundleID": "com.agiletortoise.Drafts5",
       "bundleIdentifier": "com.agiletortoise.Drafts5",
-      "version": "53.0",
-      "versionDate": "2026-06-03",
+      "version": "54.0",
+      "versionDate": "2026-09-11",
       "fullDate": "20260603234543",
-      "size": 42834860,
+      "size": 51757697,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2026/Drafts_53.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2026/Drafts_53.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Drafts_54.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agiletortoise.Drafts5.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agiletortoise.Drafts5.png",
       "versions": [
+        {
+          "version": "54.0",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Drafts_54.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 51757697,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "54.0"
+        },
         {
           "version": "53.0",
           "date": "2026-06-03",
@@ -96939,17 +96979,25 @@
       "type": 1,
       "bundleID": "com.vitalii.mind",
       "bundleIdentifier": "com.vitalii.mind",
-      "version": "2.5.8",
-      "versionDate": "2026-04-28",
+      "version": "2.5.9",
+      "versionDate": "2026-09-11",
       "fullDate": "20260428185452",
-      "size": 182175067,
+      "size": 187446015,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Mindllama_2.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Mindllama_2.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Mindllama_2.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
       "versions": [
+        {
+          "version": "2.5.9",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Mindllama_2.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 187446015,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.5.9"
+        },
         {
           "version": "2.5.8",
           "date": "2026-04-28",
@@ -102579,17 +102627,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "26.32.75",
-      "versionDate": "2026-08-24",
+      "version": "26.35.74",
+      "versionDate": "2026-09-11",
       "fullDate": "20260319003304",
-      "size": 161348749,
+      "size": 169666675,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192521-j82eo/net.whatsapp.WhatsApp_26.32.75_watusi3_1.3.22_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-cu5dw/net.whatsapp.WhatsApp_26.35.74_watusi3_1.3.23_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
+        {
+          "version": "26.35.74",
+          "date": "2026-09-11T11:40:40+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.36.X\n- Fixed a crash when opening a link with In-App Browser enabled.\n- Fixed the statuses bar on the chats list showing no statuses on WhatsApp's new internal status storage, now rolling out to more users.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-cu5dw/net.whatsapp.WhatsApp_26.35.74_watusi3_1.3.23_sl.ipa",
+          "size": 169666675,
+          "buildVersion": "26.35.74"
+        },
         {
           "version": "26.32.75",
           "date": "2026-08-24T09:40:05+00:00",
@@ -103477,17 +103533,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsAppSMB",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "26.32.75",
-      "versionDate": "2026-08-24",
+      "version": "26.35.74",
+      "versionDate": "2026-09-11",
       "fullDate": "20260319003256",
-      "size": 167625646,
+      "size": 178266116,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WABusiness_26.9.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192520-fsimp/net.whatsapp.WhatsAppSMB_26.32.75_watusi3_1.3.22_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-a3i64/net.whatsapp.WhatsAppSMB_26.35.74_watusi3_1.3.23_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "versions": [
+        {
+          "version": "26.35.74",
+          "date": "2026-09-11T11:40:40+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.36.X\n- Fixed a crash when opening a link with In-App Browser enabled.\n- Fixed the statuses bar on the chats list showing no statuses on WhatsApp's new internal status storage, now rolling out to more users.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-a3i64/net.whatsapp.WhatsAppSMB_26.35.74_watusi3_1.3.23_sl.ipa",
+          "size": 178266116,
+          "buildVersion": "26.35.74"
+        },
         {
           "version": "26.32.75",
           "date": "2026-08-24T09:40:05+00:00",
@@ -110519,10 +110583,10 @@
       "type": 1,
       "bundleID": "com.glucobit.cravingBuster.CravingBuster",
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.89",
-      "versionDate": "2026-09-09",
+      "version": "3.9.90",
+      "versionDate": "2026-09-11",
       "fullDate": "20260102170212",
-      "size": 306488361,
+      "size": 308929853,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/Reframe_3.9.11_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
       "developerName": "",
@@ -110530,6 +110594,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "versions": [
+        {
+          "version": "3.9.90",
+          "date": "2026-09-11",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+          "size": 308929853,
+          "localizedDescription": "Reframe is the #1 alcohol reduction app, built to help you drink less and live more. Whether your goal is to cut back or quit drinking entirely, Reframe’s neuroscience approach can help you change the way alcohol shows up in your life.\r\n\r\nWith a core 160-day, evidence-based, education program, progress tracking, a private community, and a multitude of tools (think meditations, games, and more!), you’ve got everything you need to change your relationship with booze at the click of a button.\r\n\r\nNeed extra support? Uplevel your alcohol-free or alcohol-reduction journey with Reframe’s premium Thrive Coaching and get 1:1 access to a certified recovery coach, live coaching calls, and exclusive video content.\r\n\r\nTry Reframe FREE for 7 days, and R",
+          "buildVersion": "3.9.90"
+        },
         {
           "version": "3.9.89",
           "date": "2026-09-09",
@@ -164007,6 +164079,14 @@
       },
       "versions": [
         {
+          "version": "26.35.74",
+          "date": "2026-09-11T11:40:40+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.36.X\n- Fixed a crash when opening a link with In-App Browser enabled.\n- Fixed the statuses bar on the chats list showing no statuses on WhatsApp's new internal status storage, now rolling out to more users.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-50xqy/com.fouadraheb.watusi_26.35.74_watusi3_1.3.23_sl.ipa",
+          "size": 167399530,
+          "buildVersion": "26.35.74"
+        },
+        {
           "version": "26.32.75",
           "date": "2026-08-24T09:40:05+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.32.X\n- Fixed Unlimited Photos Selection in chats.\n- Fixed a crash when picking media in chats.\n- Fixed Hide Mic Button not working.\n- Fixed keep deleted messages and statuses not working.\n- Fixed Split Long Videos in statuses not working.\n- Fixed Custom Tones: a custom tone picked for a specific chat was not saved and fell back to the default tone.\n- Fixed status features (Mark as Seen, Keep Deleted Statuses, download button) breaking on WhatsApp's new internal status storage, currently rolling out to some users.",
@@ -164087,13 +164167,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.32.75",
-      "versionDate": "2026-08-24",
+      "version": "26.35.74",
+      "versionDate": "2026-09-11",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192521-gt7w7/com.fouadraheb.watusi_26.32.75_watusi3_1.3.22_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269274-50xqy/com.fouadraheb.watusi_26.35.74_watusi3_1.3.23_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073110-ujq9m/com.fouadraheb.watusi_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 159027667
+      "size": 167399530
     },
     {
       "id": "SMB-SL-Duplicate",
@@ -164135,6 +164215,14 @@
         }
       },
       "versions": [
+        {
+          "version": "26.35.74",
+          "date": "2026-09-11T11:40:40+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.36.X\n- Fixed a crash when opening a link with In-App Browser enabled.\n- Fixed the statuses bar on the chats list showing no statuses on WhatsApp's new internal status storage, now rolling out to more users.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269273-ad6fj/com.fouadraheb.watusiSMB_26.35.74_watusi3_1.3.23_sl.ipa",
+          "size": 175958294,
+          "buildVersion": "26.35.74"
+        },
         {
           "version": "26.32.75",
           "date": "2026-08-24T09:40:05+00:00",
@@ -164216,13 +164304,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.32.75",
-      "versionDate": "2026-08-24",
+      "version": "26.35.74",
+      "versionDate": "2026-09-11",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1787566192520-lpiyp/com.fouadraheb.watusiSMB_26.32.75_watusi3_1.3.22_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789141269273-ad6fj/com.fouadraheb.watusiSMB_26.35.74_watusi3_1.3.23_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073109-rwea7/com.fouadraheb.watusiSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 165257176
+      "size": 175958294
     },
     {
       "appPermissions": {
