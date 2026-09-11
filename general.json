@@ -16471,17 +16471,25 @@
       "type": 1,
       "bundleID": "com.zerone.hidesktop",
       "bundleIdentifier": "com.zerone.hidesktop",
-      "version": "5.0.15",
-      "versionDate": "2026-08-31",
+      "version": "5.1.05",
+      "versionDate": "2026-09-11",
       "fullDate": "20260805073924",
-      "size": 449074820,
+      "size": 330200548,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/HiWidget_5.0.07_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/HiWidget_5.0.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/HiWidget_5.1.05_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
       "versions": [
+        {
+          "version": "5.1.05",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/HiWidget_5.1.05_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 330200548,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.1.05"
+        },
         {
           "version": "5.0.15",
           "date": "2026-08-31",
@@ -18229,17 +18237,25 @@
       "type": 1,
       "bundleID": "com.neo.NeoMan",
       "bundleIdentifier": "com.neo.NeoMan",
-      "version": "8.4.3",
-      "versionDate": "2026-09-09",
+      "version": "8.4.5",
+      "versionDate": "2026-09-11",
       "fullDate": "20260805042250",
-      "size": 31316946,
+      "size": 31390545,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/NeoServer_8.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/NeoServer_8.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/NeoServer_8.4.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "versions": [
+        {
+          "version": "8.4.5",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/NeoServer_8.4.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 31390545,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.4.5"
+        },
         {
           "version": "8.4.3",
           "date": "2026-09-09",
@@ -53561,17 +53577,25 @@
       "type": 1,
       "bundleID": "com.picretouch.photoeditor",
       "bundleIdentifier": "com.picretouch.photoeditor",
-      "version": "1.2.0",
-      "versionDate": "2026-08-18",
+      "version": "1.2.1",
+      "versionDate": "2026-09-11",
       "fullDate": "20260721032356",
-      "size": 42365089,
+      "size": 42495345,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/AIRetouch_1.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/AIRetouch_1.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/AIRetouch_1.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
       "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/AIRetouch_1.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 42495345,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.2.1"
+        },
         {
           "version": "1.2.0",
           "date": "2026-08-18",
@@ -59789,17 +59813,25 @@
       "type": 1,
       "bundleID": "com.fujixweekly.fujixweeklyrecipes",
       "bundleIdentifier": "com.fujixweekly.fujixweeklyrecipes",
-      "version": "1.15.4",
-      "versionDate": "2026-09-09",
+      "version": "1.15.5",
+      "versionDate": "2026-09-11",
       "fullDate": "20260709110114",
-      "size": 23728512,
+      "size": 26489186,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-07-2026/FujiXWeekly_1.14.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/FujiXWeekly_1.15.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/FujiXWeekly_1.15.5_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fujixweekly.fujixweeklyrecipes.png",
       "versions": [
+        {
+          "version": "1.15.5",
+          "date": "2026-09-11",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/FujiXWeekly_1.15.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 26489186,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.15.5"
+        },
         {
           "version": "1.15.4",
           "date": "2026-09-09",
@@ -82676,10 +82708,10 @@
       "type": 1,
       "bundleID": "pinterest",
       "bundleIdentifier": "pinterest",
-      "version": "14.34",
-      "versionDate": "2026-09-04",
+      "version": "14.35",
+      "versionDate": "2026-09-10",
       "fullDate": "20260530025321",
-      "size": 147364879,
+      "size": 184236931,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-05-2026/Pinterest_14.20_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
       "developerName": "",
@@ -82687,6 +82719,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/pinterest.png",
       "versions": [
+        {
+          "version": "14.35",
+          "date": "2026-09-10",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2090",
+          "size": 184236931,
+          "localizedDescription": "Features:\r\n\r\n- Download Videos, \r\n\r\n- Sponsored Pins Removed",
+          "buildVersion": "14.35"
+        },
         {
           "version": "14.34",
           "date": "2026-09-04",
@@ -141811,6 +141851,13 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0-alpha52",
+          "date": "2026-09-11T00:20:20Z",
+          "size": 19482674,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha52/Navic.ipa",
+          "buildVersion": "1.0.0-alpha52"
+        },
+        {
           "version": "1.0.0-alpha51",
           "date": "2026-09-04T04:09:06Z",
           "size": 19482674,
@@ -141881,10 +141928,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha51",
-      "versionDate": "2026-09-04",
+      "version": "1.0.0-alpha52",
+      "versionDate": "2026-09-11",
       "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha51/Navic.ipa"
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha52/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
