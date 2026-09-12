@@ -381,17 +381,25 @@
       "type": 1,
       "bundleID": "com.sfun.snapedit",
       "bundleIdentifier": "com.sfun.snapedit",
-      "version": "6.27",
-      "versionDate": "2026-09-07",
+      "version": "6.27.1",
+      "versionDate": "2026-09-12",
       "fullDate": "20260807061207",
-      "size": 124909949,
+      "size": 133317095,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/SnapEdit_6.23_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/SnapEdit_6.27_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/SnapEdit_6.27.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
       "versions": [
+        {
+          "version": "6.27.1",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/SnapEdit_6.27.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 133317095,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "6.27.1"
+        },
         {
           "version": "6.27",
           "date": "2026-09-07",
@@ -7389,17 +7397,25 @@
       "type": 1,
       "bundleID": "com.ideation.Stress",
       "bundleIdentifier": "com.ideation.Stress",
-      "version": "3.3.4",
-      "versionDate": "2026-09-02",
+      "version": "3.4.0",
+      "versionDate": "2026-09-12",
       "fullDate": "20260806131634",
-      "size": 262647835,
+      "size": 353228694,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/StressWatch_3.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/StressWatch_3.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/StressWatch_3.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
       "versions": [
+        {
+          "version": "3.4.0",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/StressWatch_3.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 353228694,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.4.0"
+        },
         {
           "version": "3.3.4",
           "date": "2026-09-02",
@@ -55755,17 +55771,25 @@
       "type": 1,
       "bundleID": "com.wakdev.wdnfc",
       "bundleIdentifier": "com.wakdev.wdnfc",
-      "version": "3.2",
-      "versionDate": "2026-08-29",
+      "version": "3.3",
+      "versionDate": "2026-09-12",
       "fullDate": "20260716230506",
-      "size": 7031449,
+      "size": 7241566,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/NFCTools_3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-08-2026/NFCTools_3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/NFCTools_3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
       "versions": [
+        {
+          "version": "3.3",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/NFCTools_3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 7241566,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.3"
+        },
         {
           "version": "3.2",
           "date": "2026-08-29",
@@ -69724,17 +69748,25 @@
       "type": 1,
       "bundleID": "com.calisthenics.thenx",
       "bundleIdentifier": "com.calisthenics.thenx",
-      "version": "6.7.5",
-      "versionDate": "2026-09-09",
+      "version": "6.7.6",
+      "versionDate": "2026-09-12",
       "fullDate": "20260623151533",
-      "size": 150212584,
+      "size": 150219200,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Thenx_6.7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Thenx_6.7.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "versions": [
+        {
+          "version": "6.7.6",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Thenx_6.7.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 150219200,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.7.6"
+        },
         {
           "version": "6.7.5",
           "date": "2026-09-09",
@@ -142109,6 +142141,13 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0-alpha54",
+          "date": "2026-09-12T05:39:28Z",
+          "size": 19482674,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha54/Navic.ipa",
+          "buildVersion": "1.0.0-alpha54"
+        },
+        {
           "version": "1.0.0-alpha53",
           "date": "2026-09-12T00:02:27Z",
           "size": 19482674,
@@ -142193,10 +142232,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha53",
+      "version": "1.0.0-alpha54",
       "versionDate": "2026-09-12",
       "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha53/Navic.ipa"
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha54/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
@@ -151801,11 +151840,19 @@
       "name": "Life on Film",
       "bundleIdentifier": "com.pastel.lifeonfilm",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Life on Film: Video Maker\n\nTweak: Subscription Unlocked\n\nVersion: 1.21\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/ac29d59d-0e76-4ca5-ab56-2f8665274c79/Life_on_Film__Video_Maker-v1.21-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2403",
       "iconURL": "https://mypleasure.zxcvbn.fyi/a60d159e-f6f8-4583-9de2-46062d0a3956/icon.jpg",
-      "version": "1.1.65",
-      "size": 170123728,
+      "version": "1.1.72",
+      "size": 204604276,
       "versions": [
+        {
+          "version": "1.1.72",
+          "date": "2026-09-12",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2403",
+          "size": 204604276,
+          "localizedDescription": "Subscription Unlocked",
+          "buildVersion": "1.1.72"
+        },
         {
           "version": "1.1.65",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/ac29d59d-0e76-4ca5-ab56-2f8665274c79/Life_on_Film__Video_Maker-v1.21-riftysipas.ipa",
@@ -151815,7 +151862,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-12"
     },
     {
       "name": "Time Squared",
@@ -161580,9 +161627,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: HTTPBot: API & HTTP Client\n⁣\nTweak: Subscription Unlocked\n\nBundle ID: com.behindtechlines.HTTPBot\n\nDeveloper: Arvindh Sukumar\n\nVersion: 2025.2.2\n\nNotes: Some features may be for trollstore/jailbreak only\n\nMade by riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2141",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b6/fd/0d/b6fd0db0-27f6-4142-d86a-998195b89061/AppIcon-0-0-1x_U007epad-0-1-0-85-220.png/512x512bb.jpg",
-      "version": "2026.5.2",
-      "size": 41657239,
+      "version": "2026.6",
+      "size": 42457496,
       "versions": [
+        {
+          "version": "2026.6",
+          "date": "2026-09-12",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2141",
+          "size": 42457496,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "2026.6"
+        },
         {
           "version": "2026.5.2",
           "date": "2026-07-11",
@@ -161600,7 +161655,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-11"
+      "versionDate": "2026-09-12"
     },
     {
       "name": "Mad Royale.io",
