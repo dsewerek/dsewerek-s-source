@@ -1657,17 +1657,25 @@
       "type": 1,
       "bundleID": "com.lyftaios",
       "bundleIdentifier": "com.lyftaios",
-      "version": "1.159",
-      "versionDate": "2026-09-08",
+      "version": "1.160",
+      "versionDate": "2026-09-12",
       "fullDate": "20260807041633",
-      "size": 56072926,
+      "size": 59142034,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Lyfta_1.153_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Lyfta_1.159_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Lyfta_1.160_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "versions": [
+        {
+          "version": "1.160",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Lyfta_1.160_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 59142034,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.160"
+        },
         {
           "version": "1.159",
           "date": "2026-09-08",
@@ -12521,17 +12529,25 @@
       "type": 1,
       "bundleID": "com.offlinemusic",
       "bundleIdentifier": "com.offlinemusic",
-      "version": "3.9.4",
-      "versionDate": "2026-09-04",
+      "version": "3.9.5",
+      "versionDate": "2026-09-12",
       "fullDate": "20260806011215",
-      "size": 105154567,
+      "size": 111018500,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/OfflineMusic_3.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/OfflineMusic_3.9.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/OfflineMusic_3.9.5_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
       "versions": [
+        {
+          "version": "3.9.5",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/OfflineMusic_3.9.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 111018500,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.9.5"
+        },
         {
           "version": "3.9.4",
           "date": "2026-09-04",
@@ -54531,17 +54547,25 @@
       "type": 1,
       "bundleID": "club.boxbox.widgets-ios",
       "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.4.3",
-      "versionDate": "2026-08-22",
+      "version": "5.5.0",
+      "versionDate": "2026-09-12",
       "fullDate": "20260719162443",
-      "size": 106188900,
+      "size": 120932132,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/BoxBox_5.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-08-2026/BoxBox_5.4.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/BoxBox_5.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "versions": [
+        {
+          "version": "5.5.0",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/BoxBox_5.5.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 120932132,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "5.5.0"
+        },
         {
           "version": "5.4.3",
           "date": "2026-08-22",
@@ -55921,17 +55945,25 @@
       "type": 1,
       "bundleID": "com.andyworks.weather",
       "bundleIdentifier": "com.andyworks.weather",
-      "version": "3.50",
-      "versionDate": "2026-07-16",
+      "version": "3.51",
+      "versionDate": "2026-09-12",
       "fullDate": "20260716200152",
-      "size": 227270198,
+      "size": 233505285,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/simpleweather_3.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/simpleweather_3.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/simpleweather_3.51_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.andyworks.weather.png",
       "versions": [
+        {
+          "version": "3.51",
+          "date": "2026-09-12",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/simpleweather_3.51_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 233505285,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.51"
+        },
         {
           "version": "3.50",
           "date": "2026-07-16",
@@ -75927,17 +75959,25 @@
       "type": 1,
       "bundleID": "com.mobilefootie.fotmobpro",
       "bundleIdentifier": "com.mobilefootie.fotmobpro",
-      "version": "1237.0",
-      "versionDate": "2026-06-10",
+      "version": "1241.0",
+      "versionDate": "2026-09-12",
       "fullDate": "20260610114157",
-      "size": 59145907,
+      "size": 75857382,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/FotMob_1237.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2402",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mobilefootie.fotmobpro.png",
       "versions": [
+        {
+          "version": "1241.0",
+          "date": "2026-09-12",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2402",
+          "size": 75857382,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "1241.0"
+        },
         {
           "version": "1237.0",
           "date": "2026-06-10",
@@ -125142,10 +125182,10 @@
       "type": 1,
       "bundleID": "com.przemyslawbobak.filtru",
       "bundleIdentifier": "com.przemyslawbobak.filtru",
-      "version": "4.7.2",
-      "versionDate": "2026-08-11",
+      "version": "4.7.3",
+      "versionDate": "2026-09-12",
       "fullDate": "20250928160329",
-      "size": 114286558,
+      "size": 124556911,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Filtru_4.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
       "developerName": "",
@@ -125153,6 +125193,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
       "versions": [
+        {
+          "version": "4.7.3",
+          "date": "2026-09-12",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
+          "size": 124556911,
+          "localizedDescription": "Coffee is more than just a way to wake up in the morning, it's a way of life. With Filtru, you'll make the perfect cup each and every time and learn as you go.\r\n\r\nFiltru is your go-to app for learning and replicating the best way to make your favorite coffee. Gone are the days of pouring water over coffee and throwing in some milk! Filtru will tell you how much coffee to use, when and how much water to pour, how to stir, and so much more. By the time you've tasted a Filtru coffee, you'll wonder how you ever lived without it! Those just starting out will enjoy our augmented reality (AR) gear guides that put new accessories right on your kitchen counter, giving you a chance to take a look before splashing out on a new coffee gadget!\r\n\r\nCoffee fans",
+          "buildVersion": "4.7.3"
+        },
         {
           "version": "4.7.2",
           "date": "2026-08-11",
@@ -142061,6 +142109,13 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0-alpha53",
+          "date": "2026-09-12T00:02:27Z",
+          "size": 19482674,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha53/Navic.ipa",
+          "buildVersion": "1.0.0-alpha53"
+        },
+        {
           "version": "1.0.0-alpha52",
           "date": "2026-09-11T00:20:20Z",
           "size": 19482674,
@@ -142138,10 +142193,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha52",
-      "versionDate": "2026-09-11",
+      "version": "1.0.0-alpha53",
+      "versionDate": "2026-09-12",
       "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha52/Navic.ipa"
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha53/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
