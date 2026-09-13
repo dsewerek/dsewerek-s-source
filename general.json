@@ -112669,10 +112669,10 @@
       "type": 1,
       "bundleID": "com.fifteenjugglers.solarwatch",
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
-      "version": "2026.26.3",
-      "versionDate": "2026-08-18",
+      "version": "2026.27",
+      "versionDate": "2026-09-13",
       "fullDate": "20251230194316",
-      "size": 67669392,
+      "size": 71206471,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/SolarWatch_2026.15_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
       "developerName": "",
@@ -112680,6 +112680,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifteenjugglers.solarwatch.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifteenjugglers.solarwatch.png",
       "versions": [
+        {
+          "version": "2026.27",
+          "date": "2026-09-13",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+          "size": 71206471,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "2026.27"
+        },
         {
           "version": "2026.26.3",
           "date": "2026-08-18",
@@ -120446,17 +120454,25 @@
       "type": 1,
       "bundleID": "com.dtd.aroundu",
       "bundleIdentifier": "com.dtd.aroundu",
-      "version": "2.4.6",
-      "versionDate": "2026-08-16",
+      "version": "2.5",
+      "versionDate": "2026-09-13",
       "fullDate": "20251214231336",
-      "size": 191142897,
+      "size": 188346530,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/DtdSounds_2.4.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/DtdSounds_2.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/DtdSounds_2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dtd.aroundu.png",
       "versions": [
+        {
+          "version": "2.5",
+          "date": "2026-09-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/DtdSounds_2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 188346530,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.5"
+        },
         {
           "version": "2.4.6",
           "date": "2026-08-16",
@@ -142221,6 +142237,13 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0-alpha55",
+          "date": "2026-09-12T23:43:57Z",
+          "size": 19482674,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha55/Navic.ipa",
+          "buildVersion": "1.0.0-alpha55"
+        },
+        {
           "version": "1.0.0-alpha54",
           "date": "2026-09-12T05:39:28Z",
           "size": 19482674,
@@ -142312,10 +142335,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha54",
+      "version": "1.0.0-alpha55",
       "versionDate": "2026-09-12",
       "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha54/Navic.ipa"
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha55/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
@@ -182922,17 +182945,57 @@
       "type": 1,
       "bundleID": "tech.miidii.MDBlank",
       "bundleIdentifier": "tech.miidii.MDBlank",
-      "version": "4.2.5",
-      "versionDate": "2026-08-20",
+      "version": "4.3",
+      "versionDate": "2026-09-13",
       "fullDate": "20260820073226",
-      "size": 167313451,
+      "size": 368576398,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/_4.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/_4.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/_4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
       "versions": [
+        {
+          "version": "4.3",
+          "date": "2026-09-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/_4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 368576398,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.3"
+        },
+        {
+          "version": "7.25.5",
+          "date": "2026-09-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/_7.25.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 200901457,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.25.5"
+        },
+        {
+          "version": "7.25.0",
+          "date": "2026-08-31",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/_7.25.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 209621209,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.25.0"
+        },
+        {
+          "version": "10.0.7",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/_10.0.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 72368633,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "10.0.7"
+        },
+        {
+          "version": "19.0",
+          "date": "2026-08-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/_19.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 177471097,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.0"
+        },
         {
           "version": "4.2.5",
           "date": "2026-08-20",
