@@ -13005,17 +13005,25 @@
       "type": 1,
       "bundleID": "co.detail.duo",
       "bundleIdentifier": "co.detail.duo",
-      "version": "5.7.1",
-      "versionDate": "2026-08-05",
+      "version": "6.0.0",
+      "versionDate": "2026-09-13",
       "fullDate": "20260805225931",
-      "size": 242113543,
+      "size": 215731567,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Detail_5.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Detail_5.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/Detail_6.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
       "versions": [
+        {
+          "version": "6.0.0",
+          "date": "2026-09-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/Detail_6.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 215731567,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.0.0"
+        },
         {
           "version": "5.7.1",
           "date": "2026-08-05",
@@ -155629,9 +155637,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Teleprompter for Video Pro\n\nTweak: Subscription Unlocked\n\nVersion: 1.0.114\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
       "iconURL": "https://mypleasure.zxcvbn.fyi/07ad26f4-ec1e-4cfe-a96a-cec0671e0b6b/icon.jpg",
-      "version": "1.0.132",
-      "size": 37752365,
+      "version": "1.0.133",
+      "size": 40017907,
       "versions": [
+        {
+          "version": "1.0.133",
+          "date": "2026-09-13",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1521",
+          "size": 40017907,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.0.133"
+        },
         {
           "version": "1.0.132",
           "date": "2026-09-10",
@@ -155665,7 +155681,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-10"
+      "versionDate": "2026-09-13"
     },
     {
       "name": "Wedsly Planning",
