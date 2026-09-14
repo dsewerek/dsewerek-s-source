@@ -4386,17 +4386,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "26.6.0",
-      "versionDate": "2026-09-08",
+      "version": "27.0.0",
+      "versionDate": "2026-09-14",
       "fullDate": "20260807003514",
-      "size": 32974832,
+      "size": 41942066,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Athlytic_26.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Athlytic_27.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "27.0.0",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Athlytic_27.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 41942066,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "27.0.0"
+        },
         {
           "version": "26.6.0",
           "date": "2026-09-08",
@@ -16389,17 +16397,25 @@
       "type": 1,
       "bundleID": "tech.miidii.MDClock",
       "bundleIdentifier": "tech.miidii.MDClock",
-      "version": "2.72",
-      "versionDate": "2026-09-02",
+      "version": "2.73",
+      "versionDate": "2026-09-14",
       "fullDate": "20260805081507",
-      "size": 201949514,
+      "size": 335357019,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/MDClock_2.71_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/MDClock_2.72_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/MDClock_2.73_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "versions": [
+        {
+          "version": "2.73",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/MDClock_2.73_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 335357019,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.73"
+        },
         {
           "version": "2.72",
           "date": "2026-09-02",
@@ -63961,17 +63977,25 @@
       "type": 1,
       "bundleID": "com.upskew.encode.ios",
       "bundleIdentifier": "com.upskew.encode.ios",
-      "version": "6.21.0",
-      "versionDate": "2026-07-05",
+      "version": "6.22.0",
+      "versionDate": "2026-09-14",
       "fullDate": "20260705033119",
-      "size": 42339921,
+      "size": 46616170,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2026/Encode_6.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-07-2026/Encode_6.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Encode_6.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.upskew.encode.ios.png",
       "versions": [
+        {
+          "version": "6.22.0",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Encode_6.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 46616170,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.22.0"
+        },
         {
           "version": "6.21.0",
           "date": "2026-07-05",
@@ -80251,17 +80275,25 @@
       "type": 1,
       "bundleID": "com.frontpocketsoftware.happyscale",
       "bundleIdentifier": "com.frontpocketsoftware.happyscale",
-      "version": "2026.6.3",
-      "versionDate": "2026-09-02",
+      "version": "2026.7",
+      "versionDate": "2026-09-14",
       "fullDate": "20260602214943",
-      "size": 28001910,
+      "size": 42087969,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-06-2026/HappyScale_2026.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/HappyScale_2026.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/HappyScale_2026.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontpocketsoftware.happyscale.png",
       "versions": [
+        {
+          "version": "2026.7",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/HappyScale_2026.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 42087969,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2026.7"
+        },
         {
           "version": "2026.6.3",
           "date": "2026-09-02",
@@ -108037,17 +108069,25 @@
       "type": 1,
       "bundleID": "tech.miidii.AlbumManager",
       "bundleIdentifier": "tech.miidii.AlbumManager",
-      "version": "2.2.2",
-      "versionDate": "2026-01-27",
+      "version": "2.3",
+      "versionDate": "2026-09-14",
       "fullDate": "20260127220029",
-      "size": 17693410,
+      "size": 17673174,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/KKPhoto_2.2.2_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-01-2026/KKPhoto_2.2.2_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/KKPhoto_2.3_IAP_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.AlbumManager.png",
       "versions": [
+        {
+          "version": "2.3",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/KKPhoto_2.3_IAP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 17673174,
+          "localizedDescription": "Injected with IAP",
+          "buildVersion": "2.3"
+        },
         {
           "version": "2.2.2",
           "date": "2026-01-27",
@@ -120586,17 +120626,25 @@
       "type": 1,
       "bundleID": "tech.miidii.SquareDude",
       "bundleIdentifier": "tech.miidii.SquareDude",
-      "version": "1.5.1",
-      "versionDate": "2025-12-14",
+      "version": "1.6",
+      "versionDate": "2026-09-14",
       "fullDate": "20251214223749",
-      "size": 19534622,
+      "size": 24017544,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/SquareDude_1.5.1_IAP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-12-2025/SquareDude_1.5.1_IAP_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/SquareDude_1.6_IAP_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with IAP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.SquareDude.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.SquareDude.png",
       "versions": [
+        {
+          "version": "1.6",
+          "date": "2026-09-14",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/SquareDude_1.6_IAP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 24017544,
+          "localizedDescription": "Injected with IAP",
+          "buildVersion": "1.6"
+        },
         {
           "version": "1.5.1",
           "date": "2025-12-14",
@@ -146601,9 +146649,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Countdown - Pretty Progress\n\nTweak: Pro Unlocked\n\nVersion: 2.0.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2252",
       "iconURL": "https://mypleasure.zxcvbn.fyi/f40f313f-96d6-4b7f-8371-ce14e6c9f8fd/icon.jpg",
-      "version": "2.1.3",
-      "size": 125551333,
+      "version": "2.1.4",
+      "size": 128485959,
       "versions": [
+        {
+          "version": "2.1.4",
+          "date": "2026-09-14",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2252",
+          "size": 128485959,
+          "localizedDescription": "Track time with beautiful countdown widgets on your Home Screen and Lock Screen. Get the results you want by adding beautiful ALWAYS ON motivational countdowns to the device you use every day.\r\n\r\nOn your wrist? On your Mac? Pretty Progress works there, too. Our objective is to support you achieve your goals.\r\n\r\nWe beautifully track your goals so you don’t have to. What better place to remind yourself of the things that matter than the devices you use every day?\r\n\r\nYour life goals, your health routines, your personal habits, when your newborn arrives, the deadline of your PhD or your mother’s birthday…\r\n\r\nNo matter what your goal is. Pretty Progress gives you beautiful countdowns with widgets to customize and track them all:\r\n\r\n- Count up &",
+          "buildVersion": "2.1.4"
+        },
         {
           "version": "2.1.3",
           "date": "2026-08-09",
@@ -146645,7 +146701,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-09"
+      "versionDate": "2026-09-14"
     },
     {
       "name": "Push Training",
