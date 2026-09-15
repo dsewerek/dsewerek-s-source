@@ -14139,17 +14139,25 @@
       "type": 1,
       "bundleID": "com.wikiloc.wikiloc",
       "bundleIdentifier": "com.wikiloc.wikiloc",
-      "version": "3.30.4",
-      "versionDate": "2026-09-08",
+      "version": "3.30.5",
+      "versionDate": "2026-09-15",
       "fullDate": "20260805211338",
-      "size": 107585981,
+      "size": 107588010,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Wikiloc_3.30.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Wikiloc_3.30.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Wikiloc_3.30.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wikiloc.wikiloc.png",
       "versions": [
+        {
+          "version": "3.30.5",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Wikiloc_3.30.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 107588010,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.30.5"
+        },
         {
           "version": "3.30.4",
           "date": "2026-09-08",
@@ -14759,17 +14767,25 @@
       "type": 1,
       "bundleID": "com.joytunes.asla",
       "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.10.92",
-      "versionDate": "2026-09-10",
+      "version": "9.10.93",
+      "versionDate": "2026-09-15",
       "fullDate": "20260805164215",
-      "size": 158910455,
+      "size": 159027275,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SimplyPiano_9.10.84_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/SimplyPiano_9.10.92_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/SimplyPiano_9.10.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "versions": [
+        {
+          "version": "9.10.93",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/SimplyPiano_9.10.93_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 159027275,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.10.93"
+        },
         {
           "version": "9.10.92",
           "date": "2026-09-10",
@@ -21238,17 +21254,25 @@
       "type": 1,
       "bundleID": "com.lightricks.Enlight-Video",
       "bundleIdentifier": "com.lightricks.Enlight-Video",
-      "version": "2.87",
-      "versionDate": "2026-09-06",
+      "version": "2.87.1",
+      "versionDate": "2026-09-15",
       "fullDate": "20260804141258",
-      "size": 398916977,
+      "size": 402739867,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Videoleap_2.85_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-09-2026/Videoleap_2.87_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Videoleap_2.87.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Enlight-Video.png",
       "versions": [
+        {
+          "version": "2.87.1",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Videoleap_2.87.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 402739867,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.87.1"
+        },
         {
           "version": "2.87",
           "date": "2026-09-06",
@@ -32505,17 +32529,25 @@
       "type": 1,
       "bundleID": "com.khanov.BlockerX",
       "bundleIdentifier": "com.khanov.BlockerX",
-      "version": "6.6.2",
-      "versionDate": "2026-08-18",
+      "version": "6.6.3",
+      "versionDate": "2026-09-15",
       "fullDate": "20260731184808",
-      "size": 61783746,
+      "size": 67121727,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/1Blocker_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/1Blocker_6.6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/1Blocker_6.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
       "versions": [
+        {
+          "version": "6.6.3",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/1Blocker_6.6.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 67121727,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.6.3"
+        },
         {
           "version": "6.6.2",
           "date": "2026-08-18",
@@ -36840,17 +36872,25 @@
       "type": 1,
       "bundleID": "com.tranzmate.tranzmate1",
       "bundleIdentifier": "com.tranzmate.tranzmate1",
-      "version": "5.200.0",
-      "versionDate": "2026-09-09",
+      "version": "5.200.1",
+      "versionDate": "2026-09-15",
       "fullDate": "20260729122034",
-      "size": 144405111,
+      "size": 144403933,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Moovit_5.197.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Moovit_5.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Moovit_5.200.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tranzmate.tranzmate1.png",
       "versions": [
+        {
+          "version": "5.200.1",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Moovit_5.200.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 144403933,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "5.200.1"
+        },
         {
           "version": "5.200.0",
           "date": "2026-09-09",
@@ -43060,17 +43100,25 @@
       "type": 1,
       "bundleID": "archery.storify",
       "bundleIdentifier": "archery.storify",
-      "version": "1.278.0",
-      "versionDate": "2026-09-14",
+      "version": "1.278.1",
+      "versionDate": "2026-09-15",
       "fullDate": "20260727153225",
-      "size": 181855536,
+      "size": 181855995,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Mojo_1.273.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Mojo_1.278.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Mojo_1.278.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/archery.storify.png",
       "versions": [
+        {
+          "version": "1.278.1",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Mojo_1.278.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 181855995,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.278.1"
+        },
         {
           "version": "1.278.0",
           "date": "2026-09-14",
@@ -116274,10 +116322,10 @@
       "type": 1,
       "bundleID": "ai.befreed.freed-frontend-rn",
       "bundleIdentifier": "ai.befreed.freed-frontend-rn",
-      "version": "4.5.5",
-      "versionDate": "2026-08-12",
+      "version": "4.5.8",
+      "versionDate": "2026-09-15",
       "fullDate": "20251223160843",
-      "size": 103888029,
+      "size": 108336086,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/BeFreed_4.1.7_Unlocked_All_Functions_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2147",
       "developerName": "",
@@ -116285,6 +116333,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.befreed.freed-frontend-rn.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.befreed.freed-frontend-rn.png",
       "versions": [
+        {
+          "version": "4.5.8",
+          "date": "2026-09-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2147",
+          "size": 108336086,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "4.5.8"
+        },
         {
           "version": "4.5.5",
           "date": "2026-08-12",
@@ -154841,11 +154897,51 @@
       "name": "رشاقة",
       "bundleIdentifier": "com.madarsoft.fitness",
       "localizedDescription": "from @blatants |\n----------------\n📱 Rashaqa Home Workout & Diet\n\n🆔 Bundle ID: com.madarsoft.fitness\n⬆️ Updated to: 16.3\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Ignore the \"Premium\" button all features should work.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-08-2026/_19.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/_19.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6028b4cc-a40e-468d-9d10-51facaba30b6/icon.jpg",
-      "version": "19.0",
-      "size": 177471097,
+      "version": "19.1",
+      "size": 249795197,
       "versions": [
+        {
+          "version": "19.1",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/_19.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 249795197,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.1"
+        },
+        {
+          "version": "4.3",
+          "date": "2026-09-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/_4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 368576398,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.3"
+        },
+        {
+          "version": "7.25.5",
+          "date": "2026-09-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-09-2026/_7.25.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 200901457,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.25.5"
+        },
+        {
+          "version": "7.25.0",
+          "date": "2026-08-31",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/_7.25.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 209621209,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.25.0"
+        },
+        {
+          "version": "10.0.7",
+          "date": "2026-08-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/_10.0.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 72368633,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "10.0.7"
+        },
         {
           "version": "19.0",
           "date": "2026-08-21",
@@ -156151,7 +156247,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-21"
+      "versionDate": "2026-09-15"
     },
     {
       "name": "Teleprompter",
@@ -178046,6 +178142,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10112",
+          "marketingVersion": "3.4.0-alpha.20260915.ca6ccfa",
+          "date": "2026-09-15",
+          "localizedDescription": "Alpha build ca6ccfa · 2026-09-15\n\nChanges in this build:\n• ci(testflight): distribute nightlies to external groups after upload\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 728052318,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10107",
           "marketingVersion": "3.4.0-alpha.20260908.f0b3581",
           "date": "2026-09-08",
@@ -178229,8 +178335,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-08",
-      "size": 727733000,
+      "versionDate": "2026-09-15",
+      "size": 728052318,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
