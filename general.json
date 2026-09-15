@@ -11161,17 +11161,25 @@
       "type": 1,
       "bundleID": "com.apalonapps.pdffree",
       "bundleIdentifier": "com.apalonapps.pdffree",
-      "version": "2.12.2",
-      "versionDate": "2026-09-08",
+      "version": "2.12.3",
+      "versionDate": "2026-09-15",
       "fullDate": "20260806032331",
-      "size": 124740051,
+      "size": 124739685,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Scanner_2.11.20_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Scanner_2.12.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Scanner_2.12.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.pdffree.png",
       "versions": [
+        {
+          "version": "2.12.3",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Scanner_2.12.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 124739685,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "2.12.3"
+        },
         {
           "version": "2.12.2",
           "date": "2026-09-08",
@@ -15437,17 +15445,25 @@
       "type": 1,
       "bundleID": "co.codeleap.bearable",
       "bundleIdentifier": "co.codeleap.bearable",
-      "version": "1.0.610",
-      "versionDate": "2026-09-09",
+      "version": "1.0.611",
+      "versionDate": "2026-09-15",
       "fullDate": "20260805140628",
-      "size": 61922365,
+      "size": 61289522,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Bearable_1.0.607_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Bearable_1.0.610_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Bearable_1.0.611_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.codeleap.bearable.png",
       "versions": [
+        {
+          "version": "1.0.611",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Bearable_1.0.611_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 61289522,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.0.611"
+        },
         {
           "version": "1.0.610",
           "date": "2026-09-09",
@@ -54689,17 +54705,25 @@
       "type": 1,
       "bundleID": "com.edjing.edjingdjturntable",
       "bundleIdentifier": "com.edjing.edjingdjturntable",
-      "version": "9.1.10",
-      "versionDate": "2026-09-08",
+      "version": "9.2.0",
+      "versionDate": "2026-09-15",
       "fullDate": "20260720145309",
-      "size": 186525927,
+      "size": 186429432,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/edjingMix_9.1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/edjingMix_9.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/edjingMix_9.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
       "versions": [
+        {
+          "version": "9.2.0",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/edjingMix_9.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 186429432,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.2.0"
+        },
         {
           "version": "9.1.10",
           "date": "2026-09-08",
@@ -55813,17 +55837,25 @@
       "type": 1,
       "bundleID": "com.mwm.guitartuner",
       "bundleIdentifier": "com.mwm.guitartuner",
-      "version": "4.01.04",
-      "versionDate": "2026-08-31",
+      "version": "4.01.05",
+      "versionDate": "2026-09-15",
       "fullDate": "20260717132806",
-      "size": 297616373,
+      "size": 301958889,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2026/TunerPro_4.01.03_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-08-2026/TunerPro_4.01.04_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/TunerPro_4.01.05_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
       "versions": [
+        {
+          "version": "4.01.05",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/TunerPro_4.01.05_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 301958889,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.01.05"
+        },
         {
           "version": "4.01.04",
           "date": "2026-08-31",
@@ -73675,17 +73707,25 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "446.0.0",
-      "versionDate": "2026-09-09",
+      "version": "447.0.0",
+      "versionDate": "2026-09-15",
       "fullDate": "20260610115226",
       "size": 91750400,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.31/f4644a1f-5ad3-492b-a90b-a01a82dfa93R.ipa",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/d8560d00-2788-4b01-9f0a-ef6e0389539R.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "447.0.0",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/d8560d00-2788-4b01-9f0a-ef6e0389539R.ipa",
+          "size": 91750400,
+          "localizedDescription": "Just look up information for SCInsta if you're confused about usage",
+          "buildVersion": "447.0.0"
+        },
         {
           "version": "446.0.0",
           "date": "2026-09-09",
@@ -110153,17 +110193,25 @@
       "type": 1,
       "bundleID": "com.google.ios.youtube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.36.6",
-      "versionDate": "2026-09-08",
+      "version": "21.37.4",
+      "versionDate": "2026-09-15",
       "fullDate": "20260113071103",
       "size": 130097628,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/YouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.31/8ad4f859-8757-4837-a251-b6f84b0633YM.ipa",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/83412e1f-cc33-4d97-b08a-7c1436bb7cYM.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "versions": [
+        {
+          "version": "21.37.4",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/83412e1f-cc33-4d97-b08a-7c1436bb7cYM.ipa",
+          "size": 130097628,
+          "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
+          "buildVersion": "21.37.4"
+        },
         {
           "version": "21.36.6",
           "date": "2026-09-08",
@@ -113197,10 +113245,10 @@
       "type": 1,
       "bundleID": "com.fifteenjugglers.solarwatch",
       "bundleIdentifier": "com.fifteenjugglers.solarwatch",
-      "version": "2026.27",
-      "versionDate": "2026-09-13",
+      "version": "2026.27.2",
+      "versionDate": "2026-09-15",
       "fullDate": "20251230194316",
-      "size": 71206471,
+      "size": 73898060,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/SolarWatch_2026.15_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
       "developerName": "",
@@ -113208,6 +113256,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifteenjugglers.solarwatch.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fifteenjugglers.solarwatch.png",
       "versions": [
+        {
+          "version": "2026.27.2",
+          "date": "2026-09-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2284",
+          "size": 73898060,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "2026.27.2"
+        },
         {
           "version": "2026.27",
           "date": "2026-09-13",
@@ -153021,11 +153077,19 @@
       "name": "Flourish",
       "bundleIdentifier": "vladchechura.AffirmationsEN",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Flourish - Daily Affirmations\n\nTweak: Subscription Unlocked\n\nVersion: 1.8.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/8a5fe6e7-b144-4ae6-b69f-2595f1074f0e/Flourish_-_Daily_Affirmations-v1.8.1-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2406",
       "iconURL": "https://mypleasure.zxcvbn.fyi/4d2c24f1-453d-4168-8422-d1be6405fa1a/icon.jpg",
-      "version": "1.8.1",
-      "size": 95677017,
+      "version": "1.9.4",
+      "size": 70848266,
       "versions": [
+        {
+          "version": "1.9.4",
+          "date": "2026-09-15",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2406",
+          "size": 70848266,
+          "localizedDescription": "Subscription Unlocked",
+          "buildVersion": "1.9.4"
+        },
         {
           "version": "1.8.1",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/8a5fe6e7-b144-4ae6-b69f-2595f1074f0e/Flourish_-_Daily_Affirmations-v1.8.1-riftysipas.ipa",
@@ -153075,7 +153139,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-15"
     },
     {
       "name": "Yoga Wave",
