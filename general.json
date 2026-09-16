@@ -23886,17 +23886,25 @@
       "type": 1,
       "bundleID": "com.frameoneapps.Crsel",
       "bundleIdentifier": "com.frameoneapps.Crsel",
-      "version": "1.4.9",
-      "versionDate": "2026-09-09",
+      "version": "1.5.0",
+      "versionDate": "2026-09-16",
       "fullDate": "20260804012510",
-      "size": 122177647,
+      "size": 122315360,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Crsel_1.4.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-09-2026/Crsel_1.4.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Crsel_1.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "versions": [
+        {
+          "version": "1.5.0",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Crsel_1.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 122315360,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.5.0"
+        },
         {
           "version": "1.4.9",
           "date": "2026-09-09",
@@ -27398,17 +27406,25 @@
       "type": 1,
       "bundleID": "com.solveit.lut-studio",
       "bundleIdentifier": "com.solveit.lut-studio",
-      "version": "4.0.4",
-      "versionDate": "2026-09-04",
+      "version": "4.0.5",
+      "versionDate": "2026-09-16",
       "fullDate": "20260803142749",
-      "size": 111753056,
+      "size": 156921134,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/LUTStudio_3.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-09-2026/LUTStudio_4.0.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/LUTStudio_4.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
       "versions": [
+        {
+          "version": "4.0.5",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/LUTStudio_4.0.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 156921134,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.0.5"
+        },
         {
           "version": "4.0.4",
           "date": "2026-09-04",
@@ -53837,17 +53853,25 @@
       "type": 1,
       "bundleID": "tech.sketchar.ios",
       "bundleIdentifier": "tech.sketchar.ios",
-      "version": "10.8.1",
-      "versionDate": "2026-08-18",
+      "version": "10.8.2",
+      "versionDate": "2026-09-16",
       "fullDate": "20260721105952",
-      "size": 170391090,
+      "size": 170394571,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/Sketchar_10.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Sketchar_10.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Sketchar_10.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.sketchar.ios.png",
       "versions": [
+        {
+          "version": "10.8.2",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Sketchar_10.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 170394571,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "10.8.2"
+        },
         {
           "version": "10.8.1",
           "date": "2026-08-18",
@@ -57583,17 +57607,25 @@
       "type": 1,
       "bundleID": "com.kinemaster.kios",
       "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.2.1",
-      "versionDate": "2026-09-10",
+      "version": "8.2.2",
+      "versionDate": "2026-09-16",
       "fullDate": "20260714184116",
-      "size": 157000568,
+      "size": 157151512,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2026/KineMaster_8.1.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/KineMaster_8.2.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/KineMaster_8.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "versions": [
+        {
+          "version": "8.2.2",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/KineMaster_8.2.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 157151512,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "8.2.2"
+        },
         {
           "version": "8.2.1",
           "date": "2026-09-10",
@@ -146731,9 +146763,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sticky Widgets\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2352",
       "iconURL": "https://mypleasure.zxcvbn.fyi/129f46dc-33e3-4c84-8501-211b44d3a913/icon.jpg",
-      "version": "5.1.1",
-      "size": 57227199,
+      "version": "5.2.1",
+      "size": 61161748,
       "versions": [
+        {
+          "version": "5.2.1",
+          "date": "2026-09-16",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2352",
+          "size": 61161748,
+          "localizedDescription": "Subscription Unlocked",
+          "buildVersion": "5.2.1"
+        },
         {
           "version": "5.1.1",
           "date": "2026-08-08",
@@ -146807,7 +146847,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-08"
+      "versionDate": "2026-09-16"
     },
     {
       "name": "Lake",
@@ -153785,11 +153825,19 @@
       "name": "Factly",
       "bundleIdentifier": "vladchechura.FactsEN",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Factly - Learn Something New\n\nTweak: Premium Unlocked\n\nVersion: 1.2.6\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/e492222b-c570-44c3-9ee7-7cf0d666a2ea/Factly_-_Learn_something_new-v1.2.6-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2407",
       "iconURL": "https://mypleasure.zxcvbn.fyi/74203a3e-322a-4de8-b9d2-7b66fe46e441/icon.jpg",
-      "version": "1.2.6",
-      "size": 65499059,
+      "version": "1.3.2",
+      "size": 74746011,
       "versions": [
+        {
+          "version": "1.3.2",
+          "date": "2026-09-16",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2407",
+          "size": 74746011,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "1.3.2"
+        },
         {
           "version": "1.2.6",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/e492222b-c570-44c3-9ee7-7cf0d666a2ea/Factly_-_Learn_something_new-v1.2.6-riftysipas.ipa",
@@ -153807,7 +153855,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-16"
     },
     {
       "name": "Yellow T",
@@ -155089,11 +155137,19 @@
       "name": "رشاقة",
       "bundleIdentifier": "com.madarsoft.fitness",
       "localizedDescription": "from @blatants |\n----------------\n📱 Rashaqa Home Workout & Diet\n\n🆔 Bundle ID: com.madarsoft.fitness\n⬆️ Updated to: 16.3\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Ignore the \"Premium\" button all features should work.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/_19.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/_19.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6028b4cc-a40e-468d-9d10-51facaba30b6/icon.jpg",
-      "version": "19.1",
-      "size": 249795197,
+      "version": "19.2",
+      "size": 250081876,
       "versions": [
+        {
+          "version": "19.2",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/_19.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 250081876,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.2"
+        },
         {
           "version": "19.1",
           "date": "2026-09-15",
@@ -156439,7 +156495,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-15"
+      "versionDate": "2026-09-16"
     },
     {
       "name": "Teleprompter",
@@ -178334,6 +178390,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10122",
+          "marketingVersion": "3.4.0-alpha.20260916.97c95f5",
+          "date": "2026-09-16",
+          "localizedDescription": "Alpha build 97c95f5 · 2026-09-16\n\nChanges in this build:\n• ci: stop failing the SPM job on build-only modules\n• ci: run the PVWebServer tests\n• fix(webserver): validate the source name on move and copy\n• fix(cheevos): store the RetroArch token, not the password\n• fix(webserver): stop serving retroarch.cfg and scrub it on logout\n• fix(webserver): escape directory names in the uploader breadcrumb\n• fix(webserver): escape all HTML metacharacters in error responses\n• fix(ecosystem): keep ecosystem-fetch downloads inside the import container\n• test(cheevos): unbreak PVCheevosTests compilation\n• [Auto] Update skin catalog seed data (#3686)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 729176378,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10112",
           "marketingVersion": "3.4.0-alpha.20260915.ca6ccfa",
           "date": "2026-09-15",
@@ -178527,8 +178593,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-15",
-      "size": 728052318,
+      "versionDate": "2026-09-16",
+      "size": 729176378,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
