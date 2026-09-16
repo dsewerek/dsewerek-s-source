@@ -41926,6 +41926,14 @@
           "buildVersion": "5.13.1"
         },
         {
+          "version": "5.13.2",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/GentlerStreak_5.13.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 235822383,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.13.2"
+        },
+        {
           "version": "5.13.0",
           "date": "2026-09-14",
           "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/GentlerStreak_5.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
@@ -52479,17 +52487,25 @@
       "type": 1,
       "bundleID": "app.tripsy.ios",
       "bundleIdentifier": "app.tripsy.ios",
-      "version": "3.10.0",
-      "versionDate": "2026-09-15",
+      "version": "3.10.1",
+      "versionDate": "2026-09-16",
       "fullDate": "20260722181545",
-      "size": 93305204,
+      "size": 93439519,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Tripsy_3.8.15_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Tripsy_3.10.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Tripsy_3.10.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.tripsy.ios.png",
       "versions": [
+        {
+          "version": "3.10.1",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Tripsy_3.10.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 93439519,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.10.1"
+        },
         {
           "version": "3.10.0",
           "date": "2026-09-15",
@@ -58669,17 +58685,25 @@
       "type": 1,
       "bundleID": "com.hasankassem.mockup",
       "bundleIdentifier": "com.hasankassem.mockup",
-      "version": "4.4",
-      "versionDate": "2026-09-12",
+      "version": "4.4.1",
+      "versionDate": "2026-09-16",
       "fullDate": "20260711094459",
-      "size": 50617441,
+      "size": 50614139,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2026/Mockup_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Mockup_4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Mockup_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
       "versions": [
+        {
+          "version": "4.4.1",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Mockup_4.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 50614139,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.4.1"
+        },
         {
           "version": "4.4",
           "date": "2026-09-12",
