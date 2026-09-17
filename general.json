@@ -6709,6 +6709,14 @@
           "buildVersion": "1.11.4"
         },
         {
+          "version": "1.11.6",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/SimplyDraw_1.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 54194269,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.11.6"
+        },
+        {
           "version": "1.7.5",
           "date": "2026-09-01",
           "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/SimplyDraw_1.7.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
@@ -41622,17 +41630,25 @@
       "type": 1,
       "bundleID": "com.apalonapps.wlf",
       "bundleIdentifier": "com.apalonapps.wlf",
-      "version": "4.18.20",
-      "versionDate": "2026-08-26",
+      "version": "4.1.13",
+      "versionDate": "2026-09-17",
       "fullDate": "20260728182346",
-      "size": 84442236,
+      "size": 170498811,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Weather_4.1.10_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/Weather_4.18.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/Weather_4.1.13_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wlf.png",
       "versions": [
+        {
+          "version": "4.1.13",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/Weather_4.1.13_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 170498811,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.1.13"
+        },
         {
           "version": "4.18.20",
           "date": "2026-08-26",
@@ -47968,17 +47984,25 @@
       "type": 1,
       "bundleID": "boomer.Smart-Video",
       "bundleIdentifier": "boomer.Smart-Video",
-      "version": "13.34.0",
-      "versionDate": "2026-09-14",
+      "version": "27.0.1",
+      "versionDate": "2026-09-18",
       "fullDate": "20260723233153",
-      "size": 121815234,
+      "size": 70440185,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Captions_13.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Captions_13.34.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/Widgy_27.0.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
       "versions": [
+        {
+          "version": "27.0.1",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/Widgy_27.0.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 70440185,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "27.0.1"
+        },
         {
           "version": "13.34.0",
           "date": "2026-09-14",
@@ -69150,17 +69174,25 @@
       "type": 1,
       "bundleID": "com.LEMO.LemoFM",
       "bundleIdentifier": "com.LEMO.LemoFM",
-      "version": "1.11.4",
-      "versionDate": "2026-08-16",
+      "version": "1.12.0",
+      "versionDate": "2026-09-18",
       "fullDate": "20260628173735",
-      "size": 108345885,
+      "size": 109762467,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2026/LEMOFM_1.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-08-2026/LEMOFM_1.11.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/LEMOFM_1.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
       "versions": [
+        {
+          "version": "1.12.0",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/LEMOFM_1.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 109762467,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.12.0"
+        },
         {
           "version": "1.11.4",
           "date": "2026-08-16",
@@ -69404,17 +69436,25 @@
       "type": 1,
       "bundleID": "com.leapingcoyote.rungo",
       "bundleIdentifier": "com.leapingcoyote.rungo",
-      "version": "7.3",
-      "versionDate": "2026-08-25",
+      "version": "7.3.4",
+      "versionDate": "2026-09-18",
       "fullDate": "20260626041757",
-      "size": 44200271,
+      "size": 44200236,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/RunGo_7.2.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-08-2026/RunGo_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/RunGo_7.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
       "versions": [
+        {
+          "version": "7.3.4",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/RunGo_7.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 44200236,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.3.4"
+        },
         {
           "version": "7.3",
           "date": "2026-08-25",
@@ -126636,10 +126676,10 @@
       "type": 1,
       "bundleID": "com.condor.digital.Tide-Over",
       "bundleIdentifier": "com.condor.digital.Tide-Over",
-      "version": "7.3.12",
-      "versionDate": "2026-07-15",
+      "version": "27.0.2",
+      "versionDate": "2026-09-17",
       "fullDate": "20250924041339",
-      "size": 183857498,
+      "size": 169871177,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2025/TideGuide_7.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
       "developerName": "",
@@ -126647,6 +126687,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.condor.digital.Tide-Over.png",
       "versions": [
+        {
+          "version": "27.0.2",
+          "date": "2026-09-17",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2249",
+          "size": 169871177,
+          "localizedDescription": "The award winning tide app for Apple Watch, iPhone, iPad and Mac. Never miss a tide, sunset, or beautiful day on the water. Tide Guide features tide and marine weather conditions from trusted data providers worldwide. It's beautiful, powerful, and provides easy access to thousands of different tide stations around the world.\r\n\r\n# Apple Design Award & App Store App of the Year Finalist\r\n\r\n\r\n# Built for Apple Watch\r\nGorgeous full screen charts provide detailed tide and weather conditions. Each chart is dynamic and can switch between other conditions and views with just a tap.\r\n\r\n\r\n# Monthly & Yearly Tide Tables\r\nView detailed forecasts for 10 days, and tide tables for the next 12 months. Various display options allow for powerful layout customizat",
+          "buildVersion": "27.0.2"
+        },
         {
           "version": "7.3.12",
           "date": "2026-07-15",
@@ -143319,6 +143367,13 @@
       "iconURL": "https://raw.githubusercontent.com/NavicApp/Branding/refs/heads/main/icons/ios.png",
       "versions": [
         {
+          "version": "1.0.0",
+          "buildVersion": "56",
+          "date": "2026-09-17T16:52:29Z",
+          "size": 21399507,
+          "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha56/Navic.ipa"
+        },
+        {
           "version": "1.0.0-alpha55",
           "date": "2026-09-12T23:43:57Z",
           "size": 19482674,
@@ -143417,10 +143472,10 @@
         "https://github.com/NavicApp/Branding/blob/main/screenshots/lyrics.png?raw=true",
         "https://github.com/NavicApp/Branding/blob/main/screenshots/player.png?raw=true"
       ],
-      "version": "1.0.0-alpha55",
-      "versionDate": "2026-09-12",
-      "size": 19482674,
-      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha55/Navic.ipa"
+      "version": "1.0.0",
+      "versionDate": "2026-09-17",
+      "size": 21399507,
+      "downloadURL": "https://github.com/ssalggnikool/Navic/releases/download/v1.0.0-alpha56/Navic.ipa"
     },
     {
       "name": "emuThreeDS",
@@ -155425,11 +155480,19 @@
       "name": "رشاقة",
       "bundleIdentifier": "com.madarsoft.fitness",
       "localizedDescription": "from @blatants |\n----------------\n📱 Rashaqa Home Workout & Diet\n\n🆔 Bundle ID: com.madarsoft.fitness\n⬆️ Updated to: 16.3\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Ignore the \"Premium\" button all features should work.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/_19.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/_19.5_Pro_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6028b4cc-a40e-468d-9d10-51facaba30b6/icon.jpg",
-      "version": "19.3",
-      "size": 249809166,
+      "version": "19.5",
+      "size": 250414680,
       "versions": [
+        {
+          "version": "19.5",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/_19.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 250414680,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.5"
+        },
         {
           "version": "19.3",
           "date": "2026-09-17",
@@ -156791,7 +156854,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-17"
+      "versionDate": "2026-09-18"
     },
     {
       "name": "Teleprompter",
