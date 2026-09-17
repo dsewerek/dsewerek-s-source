@@ -11671,6 +11671,14 @@
           "buildVersion": "26.20.0"
         },
         {
+          "version": "26.20.1",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/Premiere_26.20.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 106603755,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.20.1"
+        },
+        {
           "version": "26.19.1",
           "date": "2026-09-05",
           "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-09-2026/Premiere_26.19.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
@@ -44264,17 +44272,25 @@
       "type": 1,
       "bundleID": "com.readdle.ReaddleDocsIPad",
       "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-      "version": "8.22.4",
-      "versionDate": "2026-09-15",
+      "version": "8.22.5",
+      "versionDate": "2026-09-17",
       "fullDate": "20260727140617",
-      "size": 313634063,
+      "size": 313371524,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Documents_8.20.6_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/Documents_8.22.4_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/Documents_8.22.5_Plus_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.ReaddleDocsIPad.png",
       "versions": [
+        {
+          "version": "8.22.5",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/Documents_8.22.5_Plus_%40thisismanpreets_apptesters.org.ipa",
+          "size": 313371524,
+          "localizedDescription": "Injected with Plus",
+          "buildVersion": "8.22.5"
+        },
         {
           "version": "8.22.4",
           "date": "2026-09-15",
@@ -54799,17 +54815,25 @@
       "type": 1,
       "bundleID": "com.djitlabs.pixelcolor",
       "bundleIdentifier": "com.djitlabs.pixelcolor",
-      "version": "6.01.02",
-      "versionDate": "2026-09-10",
+      "version": "6.02.00",
+      "versionDate": "2026-09-17",
       "fullDate": "20260720184516",
-      "size": 54291928,
+      "size": 54666442,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/PixelColor_5.54.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/PixelColor_6.01.02_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/PixelColor_6.02.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.djitlabs.pixelcolor.png",
       "versions": [
+        {
+          "version": "6.02.00",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/PixelColor_6.02.00_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 54666442,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.02.00"
+        },
         {
           "version": "6.01.02",
           "date": "2026-09-10",
@@ -56165,17 +56189,25 @@
       "type": 1,
       "bundleID": "com.mwm.guitartuner",
       "bundleIdentifier": "com.mwm.guitartuner",
-      "version": "4.01.05",
-      "versionDate": "2026-09-15",
+      "version": "4.01.06",
+      "versionDate": "2026-09-17",
       "fullDate": "20260717132806",
-      "size": 301958889,
+      "size": 304927928,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-07-2026/TunerPro_4.01.03_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/TunerPro_4.01.05_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/TunerPro_4.01.06_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.guitartuner.png",
       "versions": [
+        {
+          "version": "4.01.06",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/TunerPro_4.01.06_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 304927928,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.01.06"
+        },
         {
           "version": "4.01.05",
           "date": "2026-09-15",
@@ -112243,10 +112275,10 @@
       "type": 1,
       "bundleID": "com.unofficialcalculators.payplan",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.32",
-      "versionDate": "2026-09-10",
+      "version": "4.2.33",
+      "versionDate": "2026-09-17",
       "fullDate": "20260101215442",
-      "size": 164260440,
+      "size": 165969757,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/BillTracker_4.1.25_Pro_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
       "developerName": "",
@@ -112254,6 +112286,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "versions": [
+        {
+          "version": "4.2.33",
+          "date": "2026-09-17",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+          "size": 165969757,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "4.2.33"
+        },
         {
           "version": "4.2.32",
           "date": "2026-09-10",
