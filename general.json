@@ -1883,17 +1883,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.629",
-      "versionDate": "2026-09-15",
+      "version": "0.1.630",
+      "versionDate": "2026-09-18",
       "fullDate": "20260807020601",
-      "size": 129622864,
+      "size": 129693697,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/RiseSleep_0.1.629_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/RiseSleep_0.1.630_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.630",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/RiseSleep_0.1.630_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 129693697,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.630"
+        },
         {
           "version": "0.1.629",
           "date": "2026-09-15",
@@ -6292,17 +6300,25 @@
       "type": 1,
       "bundleID": "com.grailr.CARROTweather",
       "bundleIdentifier": "com.grailr.CARROTweather",
-      "version": "6.9",
-      "versionDate": "2026-09-14",
+      "version": "6.9.1",
+      "versionDate": "2026-09-18",
       "fullDate": "20260806232345",
-      "size": 298080181,
+      "size": 298099592,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/CARROT_6.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/CARROT_6.9_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/CARROT_6.9.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grailr.CARROTweather.png",
       "versions": [
+        {
+          "version": "6.9.1",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/CARROT_6.9.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 298099592,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "6.9.1"
+        },
         {
           "version": "6.9",
           "date": "2026-09-14",
@@ -25125,17 +25141,25 @@
       "type": 1,
       "bundleID": "com.pixite.pigment",
       "bundleIdentifier": "com.pixite.pigment",
-      "version": "3.15",
-      "versionDate": "2026-09-14",
+      "version": "3.15.1",
+      "versionDate": "2026-09-19",
       "fullDate": "20260803191729",
-      "size": 160045505,
+      "size": 160046215,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Pigment_3.14_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/Pigment_3.15_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/Pigment_3.15.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.pixite.pigment.png",
       "versions": [
+        {
+          "version": "3.15.1",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/Pigment_3.15.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 160046215,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.15.1"
+        },
         {
           "version": "3.15",
           "date": "2026-09-14",
@@ -98243,17 +98267,25 @@
       "type": 1,
       "bundleID": "com.vitalii.mind",
       "bundleIdentifier": "com.vitalii.mind",
-      "version": "2.5.9",
-      "versionDate": "2026-09-11",
+      "version": "2.5.10",
+      "versionDate": "2026-09-19",
       "fullDate": "20260428185452",
-      "size": 187446015,
+      "size": 187461432,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-04-2026/Mindllama_2.5.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/Mindllama_2.5.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/Mindllama_2.5.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vitalii.mind.png",
       "versions": [
+        {
+          "version": "2.5.10",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/Mindllama_2.5.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 187461432,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.5.10"
+        },
         {
           "version": "2.5.9",
           "date": "2026-09-11",
@@ -155552,11 +155584,19 @@
       "name": "رشاقة",
       "bundleIdentifier": "com.madarsoft.fitness",
       "localizedDescription": "from @blatants |\n----------------\n📱 Rashaqa Home Workout & Diet\n\n🆔 Bundle ID: com.madarsoft.fitness\n⬆️ Updated to: 16.3\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Ignore the \"Premium\" button all features should work.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/_19.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/_19.6_Pro_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6028b4cc-a40e-468d-9d10-51facaba30b6/icon.jpg",
-      "version": "19.5",
-      "size": 250414680,
+      "version": "19.6",
+      "size": 250412096,
       "versions": [
+        {
+          "version": "19.6",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/_19.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 250412096,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.6"
+        },
         {
           "version": "19.5",
           "date": "2026-09-18",
@@ -155564,6 +155604,14 @@
           "size": 250414680,
           "localizedDescription": "Injected with Pro",
           "buildVersion": "19.5"
+        },
+        {
+          "version": "4.3.1",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/_4.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 368950842,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.3.1"
         },
         {
           "version": "19.3",
@@ -156926,7 +156974,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-18"
+      "versionDate": "2026-09-19"
     },
     {
       "name": "Teleprompter",
