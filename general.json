@@ -33413,17 +33413,25 @@
       "type": 1,
       "bundleID": "com.snowcorp.epik",
       "bundleIdentifier": "com.snowcorp.epik",
-      "version": "7.4.0",
-      "versionDate": "2026-09-01",
+      "version": "7.4.10",
+      "versionDate": "2026-09-18",
       "fullDate": "20260731184754",
-      "size": 202131603,
+      "size": 200718202,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/EPIK_7.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/EPIK_7.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/EPIK_7.4.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.epik.png",
       "versions": [
+        {
+          "version": "7.4.10",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/EPIK_7.4.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 200718202,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.4.10"
+        },
         {
           "version": "7.4.0",
           "date": "2026-09-01",
@@ -55615,17 +55623,25 @@
       "type": 1,
       "bundleID": "com.ahmetserdarkaradeniz.Phocus",
       "bundleIdentifier": "com.ahmetserdarkaradeniz.Phocus",
-      "version": "3.4.7",
-      "versionDate": "2026-09-12",
+      "version": "3.4.8",
+      "versionDate": "2026-09-18",
       "fullDate": "20260718122442",
-      "size": 286145478,
+      "size": 286770054,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-07-2026/Phocus_3.4.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Phocus_3.4.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/Phocus_3.4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ahmetserdarkaradeniz.Phocus.png",
       "versions": [
+        {
+          "version": "3.4.8",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/Phocus_3.4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 286770054,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.4.8"
+        },
         {
           "version": "3.4.7",
           "date": "2026-09-12",
@@ -166284,6 +166300,15 @@
           "size": 259700000,
           "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.0/ManicEMU.v2.0.0.SideloadJIT.ipa",
           "localizedDescription": "This is a major release focused on a redesigned interface, expanded platform support, and advanced features. Landscape browsing, library management, and external controller navigation have been rebuilt. It also adds several new systems and brings Netplay to eligible Libretro cores.\n\nBefore You Update\n- Dreamcast (Flycast): Existing save states will no longer work as of 2.0.0. Convert important save states to in-game saves before updating, or back up the `Flycast/dc` folder yourself.\n- Wii: A BootMii-format `keys.bin` is required.\n- Symbian: Install firmware in Settings first (`.ROM`; S60v2 and later also need `.RPKG`).\n- GameCube / Wii: The core is still being optimized, so heat and frame drops should still be expected.\n- MAME: A number of lesser-used arcade systems have been trimmed. Some obscure titles may no longer run.\n\nInterface\nLandscape\n- A new landscape library, with most landscape pages redesigned.\n- Built-in dynamic backgrounds. You can use or upload ShaderToy (GLSL) scripts to customize them. Only single-Image scripts are supported; complex scripts may increase battery use or heat.\n- Multiple customizable card carousel styles.\n- Focused background: when a game is selected, its banner can be used as the landscape focus backdrop.\n- background music feature in landscape mode—besides built-in tracks, you can upload your own music files to use as background music.\n- built in 12 sets of navigation and focus sound effects.\n\nGame Options and Shortcuts\n- A unified options list and interaction model throughout the app.\n- Available actions are automatically arranged and regrouped for the current context.\n- Advanced reordering: customize the order and grouping of options.\n- A redesigned in-game shortcut menu. Shortcuts can appear on supported skins and in the in-game menu.\n\nNavigation and Input\n- A global focus and navigation system for iPhone and iPad. You can browse and interact entirely with a controller or keyboard.\n- Hold Command or the controller’s Select button to view the shortcut cheatsheet.\n- A unified navigation bar for more consistent browsing and editing.\n- Many long-press and hidden actions have been replaced with more conventional, iOS-style interactions.\n- Batch management and actions.\n- Adaptive rotation throughout the app.\n- Controllers can be assigned to a player slot. On cores that expect a keyboard, controller inputs can be mapped to keyboard events.\n\nFeatures\nLibrary and Artwork\n- Covers now support separate icon and banner artwork. Box art is used in regular lists, icons in square layouts, and banners as the landscape focus backdrop.\n- Online artwork from Libretro Thumbnails and SteamGridDB (Grids / Heroes / Logos / Icons; SteamGridDB requires your own API key).\n- Switching platform or category rematches cover art.\n\nGame Data\n- Game metadata: auto-match, search the database, or edit it yourself (developer, publisher, series, genre, release date, region, overview, and more).\n- ESRB ratings and matching icons. Rating icons can be hidden in Settings.\n- A redesigned save-state manager with import and export.\n- Scoped settings: the same option can be stored at game, platform, or global level, and each can be cleared or reset independently.\n- batch scraping for covers, icons, and banners.\n\nShaders and Skins\n- Real-time shader preview, without loading the shader first.\n- Redesigned default GBA skin.\n- Flex skins now support customizing button size and position.\n\nAchievements, Cheats, and Netplay\n- RetroAchievements pages are easier to read and load faster.\n- MultiSet support: earn subset achievements without a patched ROM. Switching the achievement list only changes what is shown; it does not affect which sets you can unlock while playing.\n- Online cheat database: search, multi-select add, and bookmarks.\n- Netplay for many Libretro cores: host or join a room, public lobby, LAN scan, relay, spectator mode, and room password. Your Adventurer Card nickname is used as the Netplay display name. You can now trade treasured Pokémon with friends over the network, or go head-to-head on arcade systems.\n- Rewind: add it to the shortcut menu, a controller mapping, or TriggerPro, then touch and hold to use it.\n\nAdvanced Features and Import\n- Core Settings: intended for advanced users. Incorrect values may prevent games from launching. Settings can be reset per game or per platform.\n- Settings now include an Adventurer Card, with a customizable nickname and avatar.\n- Import games from DukeX.\n- Import games from Armsx2.\n- PS1 now supports importing `.bin` files directly.\n\nNew Systems and Cores\nSymbian (EKA2L1)\n- Supports S60v1, N-Gage 1.0, S60v2, S60v3, N-Gage 2.0, S60v5, and Symbian^3.\n- Touch input, firmware management, and system apps.\n- Legacy / PPL / TXM JIT.\n\nPC Engine (Beetle PCE)\n- Supports TurboGrafx-16, TurboGrafx-CD, and SuperGrafx, with subcategory switching.\n\nNeo Geo Pocket / Color (Beetle NeoPop)\n- Supports Neo Geo Pocket and Neo Geo Pocket Color, with subcategory switching.\n\nCommodore 64 (VICE x64sc)\n- Full keyboard support, with switching between gamepad and keyboard skins.\n\nAmiga (PUAE)\n- Full keyboard support, with switching between gamepad and keyboard skins.\n\nGameCube / Wii (Dolphin)\n- Legacy / PPL / TXM JIT.\n- Wii: Wiimote sideways mode.\n- Dolphin cheats, including Action Replay Max decryption.\n- Wiimote skins for Wii\n\nOther Cores\n- Mesen-S added for SNES / GB / GBC.\n- gpSP added for GBA, and can be switched with mGBA and VBA-M.\n\n\nJIT Fixes and Improvements\n- Fixed JIT failing on TXM devices running iOS 26.6 and later.\n- Revised TXM device detection.\n- N64 GLideN64 and ParaLLEl RDP now both support JIT.\n\nCore Updates\nThe following cores have been updated to the latest upstream stable releases.\n- 3DS (Azahar, Citra)\n- PS1 (Beetle PSX HW)\n- DOS (DOSBox Pure)\n- Dreamcast (Flycast) — see the save-state migration note above\n- NDS (melonDS)\n- PSP (PPSSPP)\n- N64 (Mupen64Plus)\n\nFixes\n\n- Numerous bug fixes and performance optimizations",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "2.0.1",
+          "buildVersion": "12",
+          "date": "2026-9-18T17:30:47+08:00",
+          "size": 275100000,
+          "downloadURL": "https://github.com/Manic-EMU/ManicEMU/releases/download/v2.0.1/ManicEMU.v2.0.1.SideloadJIT.ipa",
+          "localizedDescription": "- Added WonderSwan support\n- Added NAOMI, Atomiswave, and System SP arcade support\n- Added Flash support\n  · Skin button binding\n  · Hardware keyboard input\n  · Software keyboard input\n  · Touch input\n- Built-in, self-contained JIT — no external debugger required\n- Added Slow Motion\n- Improved GameCube and Wii performance\n- GameCube now supports multi-disc games\n- Improved Wii motion controls\n- Simulate the Wii IR pointer by touch\n- Add games from other emulators via a link\n- Fixed some arcade systems that wouldn’t run\n- Fixed Dreamcast games running too fast\n- Fixed PSP crashes\n- Added NDS lid open/close\n- Improved rotation: with orientation lock on in Control Center, the app no longer snaps back to portrait\n- In-game shortcut tips can now be turned off\n- Landscape library can disable carousel style\n- Smoother landscape carousel scrolling\n- MultiDisc Helper supports more formats\n- Hardware keyboard input for Symbian, Amiga, and C64\n- Added RomM support\n  · LAN self-hosted servers only\n  · Sync only for games imported from RomM\n  · Manual sync only, from the service card’s long-press menu\n  · Pull ROMs, covers, metadata, manuals, and game saves\n- Fixed a launch timeout that could quit the app on older devices\n- N64 now supports ROMs larger than 64 MB",
           "minOSVersion": "15.0"
         },
         {
