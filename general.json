@@ -9775,17 +9775,25 @@
       "type": 1,
       "bundleID": "com.yengshine.proccd",
       "bundleIdentifier": "com.yengshine.proccd",
-      "version": "6.8",
-      "versionDate": "2026-09-17",
+      "version": "6.8.1",
+      "versionDate": "2026-09-19",
       "fullDate": "20260806104525",
-      "size": 290745206,
+      "size": 290745744,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/ProCCD_6.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/ProCCD_6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/ProCCD_6.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
       "versions": [
+        {
+          "version": "6.8.1",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/ProCCD_6.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 290745744,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "6.8.1"
+        },
         {
           "version": "6.8",
           "date": "2026-09-17",
@@ -15483,17 +15491,25 @@
       "type": 1,
       "bundleID": "com.aiarlabs.prequel",
       "bundleIdentifier": "com.aiarlabs.prequel",
-      "version": "2.100.1",
-      "versionDate": "2026-09-17",
+      "version": "2.100.2",
+      "versionDate": "2026-09-19",
       "fullDate": "20260805145139",
-      "size": 253167155,
+      "size": 253214625,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/PREQUEL_2.97.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/PREQUEL_2.100.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/PREQUEL_2.100.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
       "versions": [
+        {
+          "version": "2.100.2",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/PREQUEL_2.100.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 253214625,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.100.2"
+        },
         {
           "version": "2.100.1",
           "date": "2026-09-17",
@@ -57419,17 +57435,25 @@
       "type": 1,
       "bundleID": "com.frontrow.vlog",
       "bundleIdentifier": "com.frontrow.vlog",
-      "version": "2.19.0",
-      "versionDate": "2026-09-01",
+      "version": "2.20.0",
+      "versionDate": "2026-09-19",
       "fullDate": "20260715060042",
-      "size": 467497036,
+      "size": 469877331,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2026/VlogNow_2.17.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-09-2026/VlogNow_2.19.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/VlogNow_2.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
       "versions": [
+        {
+          "version": "2.20.0",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/VlogNow_2.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 469877331,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.20.0"
+        },
         {
           "version": "2.19.0",
           "date": "2026-09-01",
@@ -110761,17 +110785,25 @@
       "type": 1,
       "bundleID": "com.google.ios.youtube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.37.4",
-      "versionDate": "2026-09-15",
+      "version": "21.37.5",
+      "versionDate": "2026-09-19",
       "fullDate": "20260113071103",
       "size": 130097628,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/YouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/83412e1f-cc33-4d97-b08a-7c1436bb7cYM.ipa",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/9c9431a1-fda3-4476-8dc5-e9c8fe1bfYM2.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.32/9c9431a1-fda3-4476-8dc5-e9c8fe1bfYM2.ipa",
+          "size": 130097628,
+          "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
+          "buildVersion": "21.37.5"
+        },
         {
           "version": "21.37.4",
           "date": "2026-09-15",
@@ -186193,6 +186225,17 @@
       "versions": [
         {
           "version": "alpha-ios",
+          "buildVersion": "2026.09.19.0208",
+          "date": "2026-09-19T02:08:04.000Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha/Non-Jailbroken.ipa",
+          "size": 91356947,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "alpha-ios",
           "buildVersion": "alpha-ios",
           "date": "2026-09-08T09:46:21.239Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -186251,8 +186294,8 @@
         }
       ],
       "version": "alpha-ios",
-      "versionDate": "2026-09-08",
-      "size": 1,
+      "versionDate": "2026-09-19",
+      "size": 91356947,
       "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha/Non-Jailbroken.ipa"
     },
     {
