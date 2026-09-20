@@ -3824,17 +3824,25 @@
       "type": 1,
       "bundleID": "com.wellocution.iosapp",
       "bundleIdentifier": "com.wellocution.iosapp",
-      "version": "4.4.3",
-      "versionDate": "2026-09-17",
+      "version": "4.4.4",
+      "versionDate": "2026-09-20",
       "fullDate": "20260807012024",
-      "size": 121977030,
+      "size": 124029000,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/BoldVoice_4.2.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/BoldVoice_4.4.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/BoldVoice_4.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
       "versions": [
+        {
+          "version": "4.4.4",
+          "date": "2026-09-20",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/BoldVoice_4.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 124029000,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.4.4"
+        },
         {
           "version": "4.4.3",
           "date": "2026-09-17",
@@ -41716,17 +41724,25 @@
       "type": 1,
       "bundleID": "Cristian-Teichner.Analogue",
       "bundleIdentifier": "Cristian-Teichner.Analogue",
-      "version": "1.5.0",
-      "versionDate": "2026-07-28",
+      "version": "1.6.0",
+      "versionDate": "2026-09-20",
       "fullDate": "20260728190426",
-      "size": 603895861,
+      "size": 591313878,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Analogue_1.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Analogue_1.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Analogue_1.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
       "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2026-09-20",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Analogue_1.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 591313878,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.6.0"
+        },
         {
           "version": "1.5.0",
           "date": "2026-07-28",
@@ -149746,9 +149762,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Solar Smash\n\nTweak: No Ads\n\nVersion: 2.6.4\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2357",
       "iconURL": "https://mypleasure.zxcvbn.fyi/8b342d4c-a0f2-44e7-bc64-ba1ec5edde69/icon.jpg",
-      "version": "2.7.3",
-      "size": 315427431,
+      "version": "2.7.5",
+      "size": 322090639,
       "versions": [
+        {
+          "version": "2.7.5",
+          "date": "2026-09-20",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2357",
+          "size": 322090639,
+          "localizedDescription": "No Ads",
+          "buildVersion": "2.7.5"
+        },
         {
           "version": "2.7.3",
           "date": "2026-08-02",
@@ -149782,7 +149806,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-02"
+      "versionDate": "2026-09-20"
     },
     {
       "name": "Remodel AI",
