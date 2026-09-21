@@ -1063,14 +1063,23 @@
       "name": "BoldVoice",
       "bundleIdentifier": "com.wellocution.iosapp",
       "developerName": "AppTesters IPA Repo",
-      "version": "4.4.3",
-      "versionDate": "2026-09-17",
-      "size": 121977030,
+      "version": "4.4.4",
+      "versionDate": "2026-09-20",
+      "size": 124029000,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wellocution.iosapp.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/BoldVoice_4.4.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/BoldVoice_4.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "4.4.4",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | BoldVoice: Accent Training  • Bundle ID: com.wellocution.iosapp • Updated to: 4.4.4 • Minimum iOS: 15.5 • Patched • Modifier: Subscription",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/BoldVoice_4.4.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 124029000,
+          "minOSVersion": "14.0",
+          "buildVersion": "4.4.4"
+        },
         {
           "version": "4.4.3",
           "date": "2026-09-17",
@@ -2473,14 +2482,23 @@
       "name": "RiseSleep",
       "bundleIdentifier": "com.risesci.nyx",
       "developerName": "AppTesters IPA Repo",
-      "version": "0.1.630",
-      "versionDate": "2026-09-19",
-      "size": 129693697,
+      "version": "0.1.631",
+      "versionDate": "2026-09-20",
+      "size": 129775587,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/RiseSleep_0.1.630_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/RiseSleep_0.1.631_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "0.1.631",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | RISE: Sleep Tracker  • Bundle ID: com.risesci.nyx • Updated to: 1.631.0 • Minimum iOS: 15.1 • Patched • Modifier: Subscription Unlocked • ",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/RiseSleep_0.1.631_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 129775587,
+          "minOSVersion": "14.0",
+          "buildVersion": "0.1.631"
+        },
         {
           "version": "0.1.630",
           "date": "2026-09-19",
@@ -6108,14 +6126,23 @@
       "name": "Astra",
       "bundleIdentifier": "com.vertventures.stella",
       "developerName": "@riftysIPAlibrary",
-      "version": "3.12.58",
-      "versionDate": "2026-09-18",
-      "size": 96749258,
+      "version": "3.12.60",
+      "versionDate": "2026-09-20",
+      "size": 96675099,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.45  Notes: press restore if subscription isn't unlocked  Patched ",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7352.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7970-Astra%20-%20Life%20Advice-v3.12.58-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8006-Astra%20-%20Life%20Advice-v3.12.60-riftysipas.ipa",
       "versions": [
+        {
+          "version": "3.12.60",
+          "date": "2026-09-20",
+          "localizedDescription": "@riftysIPAlibrary | Astra - Life Advice  Tweak: Subscription Unlocked  Version: 3.12.60  Notes: press restore if subscription isn't unlocked  Patched ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8006-Astra%20-%20Life%20Advice-v3.12.60-riftysipas.ipa",
+          "size": 96675099,
+          "minOSVersion": "14.0",
+          "buildVersion": "3.12.60"
+        },
         {
           "version": "3.12.58",
           "date": "2026-09-18",
@@ -14296,14 +14323,23 @@
       "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "@riftysIPAlibrary",
-      "version": "7.4.5",
-      "versionDate": "2026-09-18",
-      "size": 84936973,
+      "version": "7.4.6",
+      "versionDate": "2026-09-20",
+      "size": 93210288,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Block Blast!  Tweak: No Ads  Version: 7.3.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bundle ",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7344.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7952-Block%20Blast%21-v7.4.5-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16620-Block%20Blast%21%20-%20KamoHacks%20%5B7.4.6%5D.ipa",
       "versions": [
+        {
+          "version": "7.4.6",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Block Blast! 🆕⬆️⬆️  🔩Hack Features🔩  ✅Infinite Revive ✅Score Multiplier ✅Auto Win ✅PREMIUM  📄Buy Your Own Certificate Tap Here 🛒Apple ID ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16620-Block%20Blast%21%20-%20KamoHacks%20%5B7.4.6%5D.ipa",
+          "size": 93210288,
+          "minOSVersion": "14.0",
+          "buildVersion": "7.4.6"
+        },
         {
           "version": "7.4.5",
           "date": "2026-09-18",
@@ -19270,14 +19306,23 @@
       "name": "TikTok",
       "bundleIdentifier": "com.zhiliaoapp.musically",
       "developerName": "iOSDecrypted",
-      "version": "46.9.0",
-      "versionDate": "2026-09-16",
-      "size": 482361412,
+      "version": "47.1.0",
+      "versionDate": "2026-09-20",
+      "size": 1029691271,
       "minOSVersion": "14.0",
       "localizedDescription": "iOSDecrypted | ✔️ Successfully processed IPA File ⚙️ Description Custom tweak file injected. --- Custom tweak file injected.  💝 Support Our Work | @io",
       "iconURL": "https://fastsign.dev/tg-icon/iosdecrypted/191574.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/462-TikTok%2046.9.0%20%28Infinitok%29%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/218445-%5BTG@tiktokbetaipa%5D_47.1.0_RS.ipa",
       "versions": [
+        {
+          "version": "47.1.0",
+          "date": "2026-09-20",
+          "localizedDescription": "iOSDecrypted | Builds of TikTok 📀  🪧Build Version: 47.1.0 (471018) ⭐️RX: RXTikTok License ⭐️GT: GTok ⭐️RS: RustTikTok Cracked 🔨AS: ASJTikTok ⚗️IN: Inf",
+          "downloadURL": "https://fastsign.dev/tg-ipa/iosdecrypted/218445-%5BTG@tiktokbetaipa%5D_47.1.0_RS.ipa",
+          "size": 1029691271,
+          "minOSVersion": "14.0",
+          "buildVersion": "47.1.0"
+        },
         {
           "version": "46.9.0",
           "date": "2026-09-16",
@@ -21179,14 +21224,23 @@
       "name": "Gizmo",
       "bundleIdentifier": "io.gonative.ios.xqdyad",
       "developerName": "@Sa1y0miii",
-      "version": "3.2.71",
-      "versionDate": "2026-09-15",
-      "size": 67280329,
+      "version": "3.2.77",
+      "versionDate": "2026-09-20",
+      "size": 67200114,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Gizmo: AI Flashcards 🧸 Min.iOS: [16.4+] 🧀 App version: [3.1.26] !upd  🪼 App Store: https://apps.apple.com/app/id1610516671 📮 Notes: Subsc",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10957.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12899-%E2%80%8EGizmo:%20AI%20Tutor_v3.2.71_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13248-%E2%80%8EGizmo:%20AI%20Tutor_v3.2.77_tg@Sa1y0miii.ipa",
       "versions": [
+        {
+          "version": "3.2.77",
+          "date": "2026-09-20",
+          "localizedDescription": "@Sa1y0miii | Gizmo: AI Flashcards 🧸 Min.iOS: [16.4+] 🧀 App version: [3.2.77] !upd  🪼 App Store: https://apps.apple.com/app/id1610516671 📮 Notes: Subsc",
+          "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13248-%E2%80%8EGizmo:%20AI%20Tutor_v3.2.77_tg@Sa1y0miii.ipa",
+          "size": 67200114,
+          "minOSVersion": "14.0",
+          "buildVersion": "3.2.77"
+        },
         {
           "version": "3.2.71",
           "date": "2026-09-15",
@@ -28578,14 +28632,23 @@
       "name": "Bunpo",
       "bundleIdentifier": "com.N2BunpouApp.yuki",
       "developerName": "@riftysIPAlibrary",
-      "version": "3.24.0",
-      "versionDate": "2026-09-12",
-      "size": 106603172,
+      "version": "3.25.0",
+      "versionDate": "2026-09-20",
+      "size": 106889184,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.20.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7324.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7828-Bunpo:%20Learn%20Japanese-v3.24.0-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8001-Bunpo:%20Learn%20Japanese-v3.25.0-riftysipas.ipa",
       "versions": [
+        {
+          "version": "3.25.0",
+          "date": "2026-09-20",
+          "localizedDescription": "@riftysIPAlibrary | Bunpo: Learn Japanese  Tweak: Platinum Unlocked  Version: 3.25.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8001-Bunpo:%20Learn%20Japanese-v3.25.0-riftysipas.ipa",
+          "size": 106889184,
+          "minOSVersion": "14.0",
+          "buildVersion": "3.25.0"
+        },
         {
           "version": "3.24.0",
           "date": "2026-09-12",
@@ -30815,6 +30878,15 @@
           "buildVersion": "4.82"
         },
         {
+          "version": "4.83",
+          "date": "2026-09-20",
+          "localizedDescription": "@riftysIPAlibrary | NoteCircle: To Do, Checklist  Tweak: Plus Unlocked  Version: 4.83  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8003-NoteCircle:%20To%20Do,%20Checklist-v4.83-riftysipas.ipa",
+          "size": 16016927,
+          "minOSVersion": "14.0",
+          "buildVersion": "4.83"
+        },
+        {
           "version": "4.81",
           "date": "2026-09-02",
           "localizedDescription": "@riftysIPAlibrary | NoteCircle: To Do, Checklist  Tweak: Plus Unlocked  Version: 4.81  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS",
@@ -33032,6 +33104,15 @@
           "size": 14647446,
           "minOSVersion": "14.0",
           "buildVersion": "3.5.5"
+        },
+        {
+          "version": "3.5.6",
+          "date": "2026-09-20",
+          "localizedDescription": "@riftysIPAlibrary | VocaCircle: AI Smart Flashcard  Tweak: Subscription Unlocked  Version: 3.5.6  Patched ✓  @riftysIPAlibrary  Additional Information",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8002-VocaCircle:%20AI%20Smart%20Flashcard-v3.5.6-riftysipas.ipa",
+          "size": 14651560,
+          "minOSVersion": "14.0",
+          "buildVersion": "3.5.6"
         },
         {
           "version": "3.5.4",
@@ -36621,14 +36702,23 @@
       "name": "Feelly",
       "bundleIdentifier": "com.codersb.feelly",
       "developerName": "@Sa1y0miii",
-      "version": "2.8.5",
-      "versionDate": "2026-09-19",
-      "size": 58351280,
+      "version": "2.8.7",
+      "versionDate": "2026-09-20",
+      "size": 58388704,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Feelly - Daily Mood Journal 🧸 Min.iOS: [17.6+] 🧀 App version: [2.8.2] !upd  🪼 App Store: https://apps.apple.com/app/id1636166205 📮 Notes:",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10883.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13185-%E2%80%8E%20Feelly_v2.8.5_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13242-%E2%80%8E%20Feelly_v2.8.7_tg@Sa1y0miii.ipa",
       "versions": [
+        {
+          "version": "2.8.7",
+          "date": "2026-09-20",
+          "localizedDescription": "@Sa1y0miii | Feelly - Daily Mood Journal 🧸 Min.iOS: [17.6+] 🧀 App version: [2.8.7] !upd  🪼 App Store: https://apps.apple.com/app/id1636166205 📮 Notes:",
+          "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13242-%E2%80%8E%20Feelly_v2.8.7_tg@Sa1y0miii.ipa",
+          "size": 58388704,
+          "minOSVersion": "14.0",
+          "buildVersion": "2.8.7"
+        },
         {
           "version": "2.8.5",
           "date": "2026-09-19",
@@ -37342,14 +37432,23 @@
       "name": "扫描全能王",
       "bundleIdentifier": "com.intsig.CamScannerLite",
       "developerName": "@blatants",
-      "version": "7.25.5",
-      "versionDate": "2026-09-08",
-      "size": 200901457,
+      "version": "7.26.5",
+      "versionDate": "2026-09-20",
+      "size": 221318175,
       "minOSVersion": "14.0",
       "localizedDescription": "@blatants | CamScanner - PDF Scanner App  • Bundle ID: com.intsig.CamScannerLite • Updated to: 7.23.0 • Minimum iOS: 13.0 • Patched • Modifier: VIP Un",
       "iconURL": "https://fastsign.dev/tg-icon/blatants/11431.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12024-CamScanner_PDF_Scanner_App_v7_25_5_VIP_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12333-CamScanner_PDF_Scanner_App_v7_26_5_VIP_Unlocked_blatant_Patched.ipa",
       "versions": [
+        {
+          "version": "7.26.5",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | CamScanner - PDF Scanner App  • Bundle ID: com.intsig.CamScannerLite • Updated to: 7.26.5 • Minimum iOS: 15.0 • Patched • Modifier: VIP Un",
+          "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12333-CamScanner_PDF_Scanner_App_v7_26_5_VIP_Unlocked_blatant_Patched.ipa",
+          "size": 221318175,
+          "minOSVersion": "14.0",
+          "buildVersion": "7.26.5"
+        },
         {
           "version": "7.25.5",
           "date": "2026-09-08",
@@ -40444,14 +40543,23 @@
       "name": "YouTube Music",
       "bundleIdentifier": "com.google.ios.youtubemusic",
       "developerName": "@compiledipas",
-      "version": "9.37.2",
-      "versionDate": "2026-09-15",
-      "size": 109169583,
+      "version": "8.21.3",
+      "versionDate": "2026-09-20",
+      "size": 95542949,
       "minOSVersion": "14.0",
       "localizedDescription": "@compiledipas | YTMusicUltimate+ v2.4.1 YTM v9.31.4 YouMusicPiP is removed  Injected with: Return-YouTube-Music-Dislikes, YTMABConfig, and VolumeBoost",
       "iconURL": "https://fastsign.dev/tg-icon/compiledipas/1303.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/455-YTMUltimate+%209.37.2%20No%20PIP%20%5B@ipavault%5D.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/516-YTMUltimate+%208.21.3%20No%20PIP%20%5B@ipavault%5D.ipa",
       "versions": [
+        {
+          "version": "8.21.3",
+          "date": "2026-09-20",
+          "localizedDescription": "Variant: YTMUltimate+ · No PiP",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/516-YTMUltimate+%208.21.3%20No%20PIP%20%5B@ipavault%5D.ipa",
+          "size": 95542949,
+          "minOSVersion": "14.0",
+          "buildVersion": "8.21.3"
+        },
         {
           "version": "9.37.2",
           "date": "2026-09-15",
@@ -41548,14 +41656,23 @@
       "name": "Swiftgram",
       "bundleIdentifier": "app.swiftgram.ios",
       "developerName": "AppTesters IPA Repo",
-      "version": "12.9.2",
-      "versionDate": "2026-08-04",
-      "size": 84836056,
+      "version": "12.9.3",
+      "versionDate": "2026-09-21",
+      "size": 84241406,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Premium",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Swiftgram_12.9.2_Premium_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/522-Swiftgram%2012.9.3%20TF%20%28MxGram%29%20%5B@ipavault%5D.ipa",
       "versions": [
+        {
+          "version": "12.9.3",
+          "date": "2026-09-21",
+          "localizedDescription": "Variant: TF MxGram",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/522-Swiftgram%2012.9.3%20TF%20%28MxGram%29%20%5B@ipavault%5D.ipa",
+          "size": 84241406,
+          "minOSVersion": "14.0",
+          "buildVersion": "12.9.3"
+        },
         {
           "version": "12.9.2",
           "date": "2026-08-04",
@@ -46095,14 +46212,23 @@
       "name": "Stndrd",
       "bundleIdentifier": "uni.cbum",
       "developerName": "@blatants",
-      "version": "4.1.58",
-      "versionDate": "2026-09-14",
-      "size": 142966939,
+      "version": "4.1.59",
+      "versionDate": "2026-09-21",
+      "size": 143623000,
       "minOSVersion": "14.0",
       "localizedDescription": "@blatants | STNDRD Workout & Fitness Plans  • Bundle ID: uni.cbum • Updated to: 4.1.50 • Minimum iOS: 15.6 • Patched • Modifier: Subscription Unlocked",
       "iconURL": "https://fastsign.dev/tg-icon/blatants/11419.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/Stndrd_4.1.58_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Stndrd_4.1.59_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "4.1.59",
+          "date": "2026-09-21",
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Stndrd_4.1.59_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 143623000,
+          "minOSVersion": "14.0",
+          "buildVersion": "4.1.59"
+        },
         {
           "version": "4.1.58",
           "date": "2026-09-14",
@@ -55103,14 +55229,23 @@
       "name": "GrowMe",
       "bundleIdentifier": "com.book.summaries.reading",
       "developerName": "AppTesters IPA Repo",
-      "version": "1.3.7",
-      "versionDate": "2026-09-10",
-      "size": 143414374,
+      "version": "1.3.8",
+      "versionDate": "2026-09-20",
+      "size": 144373325,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12095-GrowMe_Lazy_Reading_v1_3_7_Subscription_Unlocked_blatant_Patched.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/GrowMe_1.3.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "1.3.8",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | GrowMe: Lazy Reading  • Bundle ID: com.book.summaries.reading • Updated to: 1.3.8 • Minimum iOS: 17.0 • Patched • Modifier: Subscription U",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/GrowMe_1.3.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 144373325,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.3.8"
+        },
         {
           "version": "1.3.7",
           "date": "2026-09-10",
@@ -55736,14 +55871,23 @@
       "name": "Ironotes",
       "bundleIdentifier": "com.ironotes.Ironotes",
       "developerName": "@Sa1y0miii",
-      "version": "1.229",
-      "versionDate": "2026-09-19",
-      "size": 69927670,
+      "version": "1.230",
+      "versionDate": "2026-09-20",
+      "size": 69926359,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Simple Workout Log - IRONOTES 🧸 Min.iOS: [16.6+] 🧀 App version: [1.194] !upd  🪼 App Store: https://apps.apple.com/app/id1550970850 📮 Note",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10766.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13167-%E2%80%8ESimple%20Workout%20Log_v1.207_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13251-%E2%80%8ESimple%20Workout%20Log_v1.208_tg@Sa1y0miii.ipa",
       "versions": [
+        {
+          "version": "1.230",
+          "date": "2026-09-20",
+          "localizedDescription": "@Sa1y0miii | Simple Workout Log - IRONOTES 🧸 Min.iOS: [16.6+] 🧀 App version: [1.208] !upd  🪼 App Store: https://apps.apple.com/app/id1550970850 📮 Note",
+          "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13251-%E2%80%8ESimple%20Workout%20Log_v1.208_tg@Sa1y0miii.ipa",
+          "size": 69926359,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.230"
+        },
         {
           "version": "1.229",
           "date": "2026-09-19",
@@ -71590,14 +71734,23 @@
       "name": "Analogue",
       "bundleIdentifier": "Cristian-Teichner.Analogue",
       "developerName": "AppTesters IPA Repo",
-      "version": "1.5.0",
-      "versionDate": "2026-07-29",
-      "size": 603895861,
+      "version": "1.6.0",
+      "versionDate": "2026-09-20",
+      "size": 591313878,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Analogue_1.5.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12337-Analogue_%E2%80%93_Film_Camera_v1_6_Subscription_Unlocked_blatant_Patched.ipa",
       "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | Analogue – Film Camera  • Bundle ID: Cristian-Teichner.Analogue • Updated to: 1.6 • Minimum iOS: 18.0 • Patched • Modifier: Subscription U",
+          "downloadURL": "https://fastsign.dev/tg-ipa/blatants/12337-Analogue_%E2%80%93_Film_Camera_v1_6_Subscription_Unlocked_blatant_Patched.ipa",
+          "size": 591313878,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.6.0"
+        },
         {
           "version": "1.5.0",
           "date": "2026-07-29",
@@ -74197,14 +74350,23 @@
       "name": "ShutEye",
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
       "developerName": "AppTesters IPA Repo",
-      "version": "3.5.3",
-      "versionDate": "2026-09-04",
-      "size": 507488232,
+      "version": "3.5.4",
+      "versionDate": "2026-09-20",
+      "size": 510861852,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Premium",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/ShutEye_3.5.3_Premium_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/ShutEye_3.5.4_Premium_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "3.5.4",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | ShutEye®: Sleep Tracker, Sound  • Bundle ID: health.sleep.sounds.tracker.alarm.calm • Updated to: 3.5.4 • Minimum iOS: 16.0 • Patched • Mo",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/ShutEye_3.5.4_Premium_@thisismanpreets_apptesters.org.ipa",
+          "size": 510861852,
+          "minOSVersion": "14.0",
+          "buildVersion": "3.5.4"
+        },
         {
           "version": "3.5.3",
           "date": "2026-09-04",
@@ -75393,14 +75555,23 @@
       "name": "Alpenglow",
       "bundleIdentifier": "com.andydev.alpenglow",
       "developerName": "@Sa1y0miii",
-      "version": "12.0.2",
-      "versionDate": "2026-09-18",
-      "size": 82398151,
+      "version": "12.0.3",
+      "versionDate": "2026-09-20",
+      "size": 81626760,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Alpenglow: Sunset Prediction 🧸 Min.iOS: [18.0+] 🧀 App version: [11.3] !upd  🪼 App Store: https://apps.apple.com/app/id978589174 📮 Notes: ",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10568.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13149-%E2%80%8ESunset%20Predictio%E2%80%A6_v12.0.2_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8007-Alpenglow:%20Sunset%20Prediction-v12.0.3-riftysipas.ipa",
       "versions": [
+        {
+          "version": "12.0.3",
+          "date": "2026-09-20",
+          "localizedDescription": "@riftysIPAlibrary | Alpenglow: Sunset Prediction  Tweak: Pro Unlocked  Version: 12.0.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min O",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8007-Alpenglow:%20Sunset%20Prediction-v12.0.3-riftysipas.ipa",
+          "size": 81626760,
+          "minOSVersion": "14.0",
+          "buildVersion": "12.0.3"
+        },
         {
           "version": "12.0.2",
           "date": "2026-09-18",
@@ -79597,14 +79768,23 @@
       "name": "Shapeyard",
       "bundleIdentifier": "app.chudo",
       "developerName": "AppTesters IPA Repo",
-      "version": "5.26",
-      "versionDate": "2026-09-18",
-      "size": 86669383,
+      "version": "5.28",
+      "versionDate": "2026-09-20",
+      "size": 86595594,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/Shapeyard_5.26_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Shapeyard_5.28_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "5.28",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | 3D Modeling, Design: Shapeyard  • Bundle ID: app.chudo • Updated to: 5.28 • Minimum iOS: 16.0 • Patched • Modifier: Subscription Unlocked ",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Shapeyard_5.28_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 86595594,
+          "minOSVersion": "14.0",
+          "buildVersion": "5.28"
+        },
         {
           "version": "5.26",
           "date": "2026-09-18",
@@ -84803,14 +84983,23 @@
       "name": "Township",
       "bundleIdentifier": "com.playrix.township-ios",
       "developerName": "@kamohacks",
-      "version": "39.0.0",
-      "versionDate": "2026-09-19",
-      "size": 218490597,
+      "version": "39.0.2",
+      "versionDate": "2026-09-20",
+      "size": 218464776,
       "minOSVersion": "14.0",
       "localizedDescription": "@kamohacks | Township 🆕⬆️⬆️  🔩Hack Features🔩 ✅Freeze Currencies  📄Buy Your Own Certificate Tap Here 📱Apple ID With Paid Games Tap here 💬Group Chat Tap",
       "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16302.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16602-Township%20-%20KamoHacks%20%5B39.0.0%5D.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16619-Township%20-%20KamoHacks%20%5B39.0.2%5D.ipa",
       "versions": [
+        {
+          "version": "39.0.2",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Township 🆕⬆️⬆️  🔩Hack Features🔩 ✅Freeze Currencies  📄Buy Your Own Certificate Tap Here 🛒Apple ID With Paid Games Tap here 💙Group Chat Tap",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16619-Township%20-%20KamoHacks%20%5B39.0.2%5D.ipa",
+          "size": 218464776,
+          "minOSVersion": "14.0",
+          "buildVersion": "39.0.2"
+        },
         {
           "version": "39.0.0",
           "date": "2026-09-19",
@@ -84924,14 +85113,23 @@
       "name": "Airport City",
       "bundleIdentifier": "com.gameinsight.airportcity",
       "developerName": "@kamohacks",
-      "version": "8.50.00",
-      "versionDate": "2026-07-21",
-      "size": 273087828,
+      "version": "8.51.00",
+      "versionDate": "2026-09-20",
+      "size": 236251546,
       "minOSVersion": "14.0",
       "localizedDescription": "@kamohacks | Airport City 🆕⬆️⬆️  🔩Hack Features🔩 ✅Free Store (Not Free iap)  📄Buy Your Own Certificate Tap Here 📱Apple ID With Paid Games Tap here 💬Gr",
       "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16297.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16297-Airport%20City%20-%20KamoHacks%20%5B8.50.00%5D.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16616-Airport%20City%20-%20KamoHacks%20%5B8.51.00%5D.ipa",
       "versions": [
+        {
+          "version": "8.51.00",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Airport City 🆕⬆️⬆️  🔩Hack Features🔩 ✅Free Store (Not Free iap)  📄Buy Your Own Certificate Tap Here 🛒Apple ID With Paid Games Tap here 💙Gr",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16616-Airport%20City%20-%20KamoHacks%20%5B8.51.00%5D.ipa",
+          "size": 236251546,
+          "minOSVersion": "14.0",
+          "buildVersion": "8.51.00"
+        },
         {
           "version": "8.50.00",
           "date": "2026-07-21",
@@ -86486,14 +86684,23 @@
       "name": "YaoYao",
       "bundleIdentifier": "hltek.YaoYao",
       "developerName": "@Sa1y0miii",
-      "version": "26.08.20",
-      "versionDate": "2026-09-12",
-      "size": 113933985,
+      "version": "26.09.19",
+      "versionDate": "2026-09-20",
+      "size": 113955546,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | YaoYao: Jump Rope 🧸 Min.iOS: [15.0+] 🧀 App version: [4.2.45] !updᵕ̈ 🪼 App Store: https://apps.apple.com/ua/app/yaoyao-jump-rope/id1179393",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10354.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12764-%E2%80%8E%20YaoYao_v26.08.20_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13239-%E2%80%8E%20YaoYao_v26.09.19_tg@Sa1y0miii.ipa",
       "versions": [
+        {
+          "version": "26.09.19",
+          "date": "2026-09-20",
+          "localizedDescription": "@Sa1y0miii | YaoYao: Jump Rope 🧸 Min.iOS: [15.0+] 🧀 App version: [26.09.19] !updᵕ̈ 🪼 App Store: https://apps.apple.com/ua/app/yaoyao-jump-rope/id11793",
+          "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13239-%E2%80%8E%20YaoYao_v26.09.19_tg@Sa1y0miii.ipa",
+          "size": 113955546,
+          "minOSVersion": "14.0",
+          "buildVersion": "26.09.19"
+        },
         {
           "version": "26.08.20",
           "date": "2026-09-12",
@@ -90316,14 +90523,23 @@
       "name": "Zerocam",
       "bundleIdentifier": "com.rodriguezrama.LutCam",
       "developerName": "@Sa1y0miii",
-      "version": "5.0.0",
-      "versionDate": "2026-07-18",
-      "size": 20936703,
+      "version": "6.0",
+      "versionDate": "2026-09-20",
+      "size": 23759863,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Zerocam | Anti-AI Camera 🧸 Min.iOS: [18.0+] 🧀 App version: [5.0.0] !upd  🪼 App Store: https://apps.apple.com/app/id6483933438 📮 Notes: Su",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10261.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/10261-%E2%80%8E%20zerocam_v5.0.0_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13236-%E2%80%8E%20zerocam_v6.0_tg@Sa1y0miii.ipa",
       "versions": [
+        {
+          "version": "6.0",
+          "date": "2026-09-20",
+          "localizedDescription": "@Sa1y0miii | Zerocam | Anti-AI Camera 🧸 Min.iOS: [18.0+] 🧀 App version: [6.0] !upd  🪼 App Store: https://apps.apple.com/app/id6483933438 📮 Notes: Subs",
+          "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13236-%E2%80%8E%20zerocam_v6.0_tg@Sa1y0miii.ipa",
+          "size": 23759863,
+          "minOSVersion": "14.0",
+          "buildVersion": "6.0"
+        },
         {
           "version": "5.0.0",
           "date": "2026-07-18",
@@ -93151,14 +93367,23 @@
       "name": "Firefly",
       "bundleIdentifier": "vix.fitness",
       "developerName": "@Sa1y0miii",
-      "version": "4.6.36",
-      "versionDate": "2026-08-08",
-      "size": 144379898,
+      "version": "4.6.39",
+      "versionDate": "2026-09-20",
+      "size": 146264915,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Firefly: AI Fitness Trainer 🧸 Min.iOS: [17.0+] 🧀 App version: [4.6.35] !upd  🪼 App Store: https://apps.apple.com/app/id6464440707 📮 Notes",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10083.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/11029-%E2%80%8E%20Firefly_v4.6.36_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13254-%E2%80%8E%20Firefly_v4.6.39_tg@Sa1y0miii.ipa",
       "versions": [
+        {
+          "version": "4.6.39",
+          "date": "2026-09-20",
+          "localizedDescription": "@Sa1y0miii | Firefly: AI Fitness Trainer 🧸 Min.iOS: [17.0+] 🧀 App version: [4.6.39] !upd  🪼 App Store: https://apps.apple.com/app/id6464440707 📮 Notes",
+          "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13254-%E2%80%8E%20Firefly_v4.6.39_tg@Sa1y0miii.ipa",
+          "size": 146264915,
+          "minOSVersion": "14.0",
+          "buildVersion": "4.6.39"
+        },
         {
           "version": "4.6.36",
           "date": "2026-08-08",
@@ -102529,6 +102754,15 @@
           "buildVersion": "6.7.9"
         },
         {
+          "version": "6.7.10",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | Thenx: Calisthenics Training  • Bundle ID: com.calisthenics.thenx • Updated to: 6.8.0 • Minimum iOS: 16.0 • Patched • Modifier: Subscripti",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Thenx_6.7.10_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 150144710,
+          "minOSVersion": "14.0",
+          "buildVersion": "6.7.10"
+        },
+        {
           "version": "6.7.8",
           "date": "2026-09-15",
           "localizedDescription": "Injected with Subscription Unlocked",
@@ -102868,14 +103102,23 @@
       "name": "NotePlan",
       "bundleIdentifier": "co.noteplan.NotePlan3",
       "developerName": "AppTesters IPA Repo",
-      "version": "3.21.2",
-      "versionDate": "2026-08-12",
-      "size": 119957061,
+      "version": "3.21.3",
+      "versionDate": "2026-09-21",
+      "size": 134023883,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11569-NotePlan_To_Do_List_&_Notes_v3_21_2_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NotePlan_3.21.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "3.21.3",
+          "date": "2026-09-21",
+          "localizedDescription": "@blatants | NotePlan - To-Do List & Notes  • Bundle ID: co.noteplan.NotePlan3 • Updated to: 3.21.3 • Minimum iOS: 15.0 • Patched • Modifier: Subscript",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NotePlan_3.21.3_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 134023883,
+          "minOSVersion": "14.0",
+          "buildVersion": "3.21.3"
+        },
         {
           "version": "3.21.2",
           "date": "2026-08-12",
@@ -103470,14 +103713,23 @@
       "name": "MobileScanner",
       "bundleIdentifier": "com.glority.everlens",
       "developerName": "AppTesters IPA Repo",
-      "version": "2.26.0",
-      "versionDate": "2026-09-09",
-      "size": 106264467,
+      "version": "2.26.1",
+      "versionDate": "2026-09-20",
+      "size": 111037622,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glority.everlens.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/MobileScanner_2.26.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/MobileScanner_2.26.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "2.26.1",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | Mobile Scanner App - Scan PDF  • Bundle ID: com.glority.everlens • Updated to: 2.26.1 • Minimum iOS: 15.0 • Patched • Modifier: Subscripti",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/MobileScanner_2.26.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 111037622,
+          "minOSVersion": "14.0",
+          "buildVersion": "2.26.1"
+        },
         {
           "version": "2.26.0",
           "date": "2026-09-09",
@@ -104728,14 +104980,23 @@
       "name": "Paste",
       "bundleIdentifier": "com.wiheads.paste",
       "developerName": "AppTesters IPA Repo",
-      "version": "6.6.10",
-      "versionDate": "2026-09-04",
-      "size": 83260472,
+      "version": "7.0.0",
+      "versionDate": "2026-09-21",
+      "size": 127479432,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11989-Paste_%E2%80%93_Limitless_Clipboard_v6_6_10_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Paste_7.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "7.0.0",
+          "date": "2026-09-21",
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Paste_7.0.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 127479432,
+          "minOSVersion": "14.0",
+          "buildVersion": "7.0.0"
+        },
         {
           "version": "6.6.10",
           "date": "2026-09-04",
@@ -156635,14 +156896,32 @@
       "name": "Mockview",
       "bundleIdentifier": "com.kavsoft.MockviewApp",
       "developerName": "TTJB IPA Repo",
-      "version": "4.0.4",
-      "versionDate": "2026-07-18",
-      "size": 74310720,
+      "version": "5.0.1",
+      "versionDate": "2026-09-20",
+      "size": 147152922,
       "minOSVersion": "14.0",
       "localizedDescription": "Chức năng đã thêm: Subscription mở khoá  - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
       "iconURL": "https://gh-proxy.com/raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
-      "downloadURL": "https://proxy-files.thuthuatjb.com/apps?=apptesters-org/AppTesters_Repo/releases/download/12-09-2025/Mockview_4.0.4_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Mockview_5.0.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "5.0.1",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | Mockview - Mockup Generator  • Bundle ID: com.kavsoft.MockviewApp • Updated to: 5.0.1 • Minimum iOS: 17.0 • Patched • Modifier: Subscripti",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Mockview_5.0.1_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 147152922,
+          "minOSVersion": "14.0",
+          "buildVersion": "5.0.1"
+        },
+        {
+          "version": "5.0",
+          "date": "2026-09-20",
+          "localizedDescription": "@blatants | Mockview - Mockup Generator  • Bundle ID: com.kavsoft.MockviewApp • Updated to: 5.0 • Minimum iOS: 17.0 • Patched • Modifier: Subscription",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Mockview_5.0_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 147151080,
+          "minOSVersion": "14.0",
+          "buildVersion": "5.0"
+        },
         {
           "version": "4.0.4",
           "date": "2026-07-18",
@@ -199117,14 +199396,23 @@
       "name": "NWN:EE",
       "bundleIdentifier": "com.overhaulgames.nwnee",
       "developerName": "ipaomtk.com",
-      "version": "1.0.7",
-      "versionDate": "2025-03-02",
-      "size": 0,
+      "version": "1.0.8",
+      "versionDate": "2026-09-20",
+      "size": 2147483647,
       "minOSVersion": "14.0",
       "localizedDescription": "ipaomtk.com | Neverwinter Nights IPA newcomers and veterans alike are invited to delve into its ‌enchanting realms from the palm‌ of their hand. In th",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/03/Neverwinter-Nights-150x150.webp",
-      "downloadURL": "https://file.ipaomtk.com/ipa/Neverwinter-Nights-IPAOMTK.COM.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1731-Neverwinter%20Nights%20%5Bv1.0.8%5D%28tg@ipa_dark%29.ipa",
       "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2026-09-20",
+          "localizedDescription": "@ipa_dark | 🔄 Neverwinter Nights - appstore  🇷🇺 Классическая ролевая игра во вселенной Dungeons & Dragons, где нужно создать персонажа, исследовать го",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1731-Neverwinter%20Nights%20%5Bv1.0.8%5D%28tg@ipa_dark%29.ipa",
+          "size": 2147483647,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.0.8"
+        },
         {
           "version": "1.0.7",
           "date": "2025-03-02",
@@ -301064,14 +301352,23 @@
       "name": "GTA: VC - Definitive VH",
       "bundleIdentifier": "com.rockstargames.gtavc.de",
       "developerName": "TTJB IPA Repo",
-      "version": "1.72.42919648",
-      "versionDate": "2026-07-12",
+      "version": "1.90.0",
+      "versionDate": "2026-09-20",
       "size": 2147483647,
       "minOSVersion": "14.0",
       "localizedDescription": "Chức năng đã thêm: Việt Hóa. Đã mở khoá không cần tài khoản - IPA đã được kiểm tra và tổng hợp bởi TTJB Team",
       "iconURL": "https://ipa.thuthuatjb.com/view/img/GTAVCDE.png",
-      "downloadURL": "https://archive.org/download/gta-vh-ttjb/GTA:%20Vice%20City%20_1.72.42919648_VH_TTJB.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1732-GTA:%20Vice%20City%20%5Bv1.90.0%5D%28tg@ipa_dark%29.ipa",
       "versions": [
+        {
+          "version": "1.90.0",
+          "date": "2026-09-20",
+          "localizedDescription": "@ipa_dark | 🔄 GTA: Vice City - Definitive  🇷🇺 Криминальный экшен с открытым миром, действие которого разворачивается в Майами 1980-х годов: предстоит ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1732-GTA:%20Vice%20City%20%5Bv1.90.0%5D%28tg@ipa_dark%29.ipa",
+          "size": 2147483647,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.90.0"
+        },
         {
           "version": "1.72.42919648",
           "date": "2026-07-12",
@@ -313174,14 +313471,23 @@
       "name": "Hempire",
       "bundleIdentifier": "ca.lbcstudios.hempire",
       "developerName": "ipaomtk.com",
-      "version": "2.47.5",
-      "versionDate": "2026-09-02",
-      "size": 108385822,
+      "version": "2.48.1",
+      "versionDate": "2026-09-20",
+      "size": 116214687,
       "minOSVersion": "14.0",
       "localizedDescription": "ipaomtk.com | Hempire-Weed Growing IPA MOD (Unlocked, VIP) is a fun and addictive game that is perfect for anyone who enjoys simulation games. The MOD",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/07/Hempire-Weed-Growing-Game-150x150.webp",
-      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16496-Hempire%20-%20KamoHacks%20%5B2.47.5%5D.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16618-Hempire%20-%20KamoHacks%20%5B2.48.1%5D.ipa",
       "versions": [
+        {
+          "version": "2.48.1",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Hempire - Weed Growing 🆕⬆️⬆️  🔩Hack Features🔩 ✅VIP Enabled ✅Infinite Cash ✅Infinite Diamonds ✅Infinite Resources ✅Auto Complete Quest ✅By",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16618-Hempire%20-%20KamoHacks%20%5B2.48.1%5D.ipa",
+          "size": 116214687,
+          "minOSVersion": "14.0",
+          "buildVersion": "2.48.1"
+        },
         {
           "version": "2.47.5",
           "date": "2026-09-02",
@@ -337962,14 +338268,23 @@
       "name": "Rumi",
       "bundleIdentifier": "com.gp.rumi",
       "developerName": "@Sa1y0miii",
-      "version": "1.7.0",
-      "versionDate": "2026-09-16",
-      "size": 64778047,
+      "version": "1.7.2",
+      "versionDate": "2026-09-20",
+      "size": 64719417,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Digital Camera - Rumi Cam 🧸 Min.iOS: [15.6+] 🧀 App version: [1.5.0]⠀new! 🪼 App Store: https://apps.apple.com/app/id6768312391 📮 Notes: Su",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/11195.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/12984-%E2%80%8EDigital%20Camera_v1.7.0_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13257-%E2%80%8EDigital%20Camera_v1.7.2_tg@Sa1y0miii.ipa",
       "versions": [
+        {
+          "version": "1.7.2",
+          "date": "2026-09-20",
+          "localizedDescription": "@Sa1y0miii | Digital Camera - Rumi Cam 🧸 Min.iOS: [15.6+] 🧀 App version: [1.7.2] !upd  🪼 App Store: https://apps.apple.com/app/id6768312391 📮 Notes: S",
+          "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/13257-%E2%80%8EDigital%20Camera_v1.7.2_tg@Sa1y0miii.ipa",
+          "size": 64719417,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.7.2"
+        },
         {
           "version": "1.7.0",
           "date": "2026-09-16",
@@ -342168,14 +342483,23 @@
       "name": "Petty",
       "bundleIdentifier": "zachsim.one.Petty",
       "developerName": "@riftysIPAlibrary",
-      "version": "8.1.7",
-      "versionDate": "2026-09-16",
-      "size": 20529568,
+      "version": "8.1.8",
+      "versionDate": "2026-09-20",
+      "size": 20556454,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Petty: Petrol Prices Australia  Tweak: Premium Unlocked  Version: 8.1.4  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7616.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/7922-Petty:%20Petrol%20Prices%20Australia-v8.1.7-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8008-Petty:%20Petrol%20Prices%20Australia-v8.1.8-riftysipas.ipa",
       "versions": [
+        {
+          "version": "8.1.8",
+          "date": "2026-09-20",
+          "localizedDescription": "@riftysIPAlibrary | Petty: Petrol Prices Australia  Tweak: Premium Unlocked  Version: 8.1.8  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8008-Petty:%20Petrol%20Prices%20Australia-v8.1.8-riftysipas.ipa",
+          "size": 20556454,
+          "minOSVersion": "14.0",
+          "buildVersion": "8.1.8"
+        },
         {
           "version": "8.1.7",
           "date": "2026-09-16",
@@ -343768,14 +344092,23 @@
       "name": "Hold the Tile!",
       "bundleIdentifier": "com.KamenInteractive.HoldtheTile",
       "developerName": "@kamohacks",
-      "version": "1.0.1",
-      "versionDate": "2026-09-10",
-      "size": 156036872,
+      "version": "1.0.2",
+      "versionDate": "2026-09-20",
+      "size": 155590829,
       "minOSVersion": "14.0",
       "localizedDescription": "@kamohacks | Hold the Tile! 🆕  🔩Hack Features🔩 ✅Damage Multiplier → boost your units' attack power ✅Defence Multiplier → strengthen your army's resili\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16533.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16533-Hold%20the%20Tile%21%20-%20KamoHacks%20%5B1.0.1%5D.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16617-Hold%20the%20Tile%21%20-%20KamoHacks%20%5B1.0.2%5D.ipa",
       "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Hold the Tile! 🆕⬆️⬆️  🔩Hack Features🔩 ✅Damage Multiplier → boost your units' attack power ✅Defence Multiplier → strengthen your army's re",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16617-Hold%20the%20Tile%21%20-%20KamoHacks%20%5B1.0.2%5D.ipa",
+          "size": 155590829,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.0.2"
+        },
         {
           "version": "1.0.1",
           "date": "2026-09-10",
@@ -345534,6 +345867,2268 @@
       "icon": "https://fastsign.dev/tg-icon/ipa-dark/1728.png",
       "bundleID": "com.Friedemann.SlotsAndDaggers",
       "fullDate": "20260920030037",
+      "type": 1
+    },
+    {
+      "name": "Life Is Strange",
+      "bundleIdentifier": "com.squareenix.lis",
+      "developerName": "@kamohacks",
+      "version": "2.01.1",
+      "versionDate": "2026-09-20",
+      "size": 919090618,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@kamohacks | Life Is Strange 🆕  🔩Hack Features🔩 ✅Full Game Unlocked → all episodes and content accessible  📄Buy Your Own Certificate Tap Here 🛒Apple I\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16623.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16623-Life%20Is%20Strange%20-%20KamoHacks%20%5B2.01.1%5D.ipa",
+      "versions": [
+        {
+          "version": "2.01.1",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Life Is Strange 🆕  🔩Hack Features🔩 ✅Full Game Unlocked → all episodes and content accessible  📄Buy Your Own Certificate Tap Here 🛒Apple I",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16623-Life%20Is%20Strange%20-%20KamoHacks%20%5B2.01.1%5D.ipa",
+          "size": 919090618,
+          "minOSVersion": "14.0",
+          "buildVersion": "2.01.1"
+        }
+      ],
+      "subtitle": "@kamohacks | Life Is Strange 🆕  🔩Hack Features🔩 ✅Full Game Unlocked → all episodes and content accessible  📄Buy Your Own Certificate Tap Here 🛒Apple I",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/kamohacks/16623.png",
+      "bundleID": "com.squareenix.lis",
+      "fullDate": "20260920230737",
+      "type": 1
+    },
+    {
+      "name": "여고생과 리셋중!",
+      "bundleIdentifier": "com.supercandy.resetworld",
+      "developerName": "@kamohacks",
+      "version": "1.0.45",
+      "versionDate": "2026-09-20",
+      "size": 513425220,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@kamohacks | Isekai Reset! - Idle RPG 🆕  🔩Hack Features🔩 ✅Damage Multiplier → boost your attack output  ✅Never Die → survive any encounter  ✅No ADS →\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16622.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16622-%E1%84%8B%E1%85%A7%E1%84%80%E1%85%A9%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%AA_%E1%84%85%E1%85%B5%E1%84%89%E1%85%A6%E1%86%BA%E1%84%8C%E1%85%AE%E1%86%BC%21_KamoHacks_1_0_45.ipa",
+      "versions": [
+        {
+          "version": "1.0.45",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Isekai Reset! - Idle RPG 🆕  🔩Hack Features🔩 ✅Damage Multiplier → boost your attack output  ✅Never Die → survive any encounter  ✅No ADS → ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16622-%E1%84%8B%E1%85%A7%E1%84%80%E1%85%A9%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%AA_%E1%84%85%E1%85%B5%E1%84%89%E1%85%A6%E1%86%BA%E1%84%8C%E1%85%AE%E1%86%BC%21_KamoHacks_1_0_45.ipa",
+          "size": 513425220,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.0.45"
+        }
+      ],
+      "subtitle": "@kamohacks | Isekai Reset! - Idle RPG 🆕  🔩Hack Features🔩 ✅Damage Multiplier → boost your attack output  ✅Never Die → survive any encounter  ✅No ADS → ",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/kamohacks/16622.png",
+      "bundleID": "com.supercandy.resetworld",
+      "fullDate": "20260920230737",
+      "type": 1
+    },
+    {
+      "name": "Airplane Manager",
+      "bundleIdentifier": "com.horusent.airplane.manager.tycoon",
+      "developerName": "@kamohacks",
+      "version": "0.1.6",
+      "versionDate": "2026-09-20",
+      "size": 147362145,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@kamohacks | Airplane Manager Tycoon Empire 🆕  🔩Hack Features🔩 ✅ADS NO → removes forced ad interruptions ✅Gems Enough → abundant premium currency for\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/kamohacks/16621.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16621-Airplane%20Manager%20-%20KamoHacks%20%5B0.1.6%5D.ipa",
+      "versions": [
+        {
+          "version": "0.1.6",
+          "date": "2026-09-20",
+          "localizedDescription": "@kamohacks | Airplane Manager Tycoon Empire 🆕  🔩Hack Features🔩 ✅ADS NO → removes forced ad interruptions ✅Gems Enough → abundant premium currency for ",
+          "downloadURL": "https://fastsign.dev/tg-ipa/kamohacks/16621-Airplane%20Manager%20-%20KamoHacks%20%5B0.1.6%5D.ipa",
+          "size": 147362145,
+          "minOSVersion": "14.0",
+          "buildVersion": "0.1.6"
+        }
+      ],
+      "subtitle": "@kamohacks | Airplane Manager Tycoon Empire 🆕  🔩Hack Features🔩 ✅ADS NO → removes forced ad interruptions ✅Gems Enough → abundant premium currency for ",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/kamohacks/16621.png",
+      "bundleID": "com.horusent.airplane.manager.tycoon",
+      "fullDate": "20260920230737",
+      "type": 1
+    },
+    {
+      "name": "This Is the Police",
+      "bundleIdentifier": "com.hg.titp",
+      "developerName": "@ipa_dark",
+      "version": "1.1.4",
+      "versionDate": "2026-09-20",
+      "size": 789460014,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@ipa_dark | 🔄 This is the Police - appstore  🇷🇺 Приключенческая стратегия, в которой предстоит управлять полицейским участком, распределять ресурсы, р\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/ipa-dark/1730.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1730-This%20is%20the%20Police%20%5Bv1.1.4%5D%28tg@ipa_dark%29.ipa",
+      "versions": [
+        {
+          "version": "1.1.4",
+          "date": "2026-09-20",
+          "localizedDescription": "@ipa_dark | 🔄 This is the Police - appstore  🇷🇺 Приключенческая стратегия, в которой предстоит управлять полицейским участком, распределять ресурсы, р",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipa-dark/1730-This%20is%20the%20Police%20%5Bv1.1.4%5D%28tg@ipa_dark%29.ipa",
+          "size": 789460014,
+          "minOSVersion": "14.0",
+          "buildVersion": "1.1.4"
+        }
+      ],
+      "subtitle": "@ipa_dark | 🔄 This is the Police - appstore  🇷🇺 Приключенческая стратегия, в которой предстоит управлять полицейским участком, распределять ресурсы, р",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/ipa-dark/1730.png",
+      "bundleID": "com.hg.titp",
+      "fullDate": "20260920230737",
+      "type": 1
+    },
+    {
+      "name": "HoursTracker",
+      "bundleIdentifier": "com.carlosribas.HoursTrackerLite",
+      "developerName": "@riftysIPAlibrary",
+      "version": "8.3.1",
+      "versionDate": "2026-09-20",
+      "size": 32845250,
+      "minOSVersion": "14.0",
+      "localizedDescription": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8004.png",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8004-Hours%20Tracker:%20Time%20Tracking-v8.3.1-riftysipas.ipa",
+      "versions": [
+        {
+          "version": "8.3.1",
+          "date": "2026-09-20",
+          "localizedDescription": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8004-Hours%20Tracker:%20Time%20Tracking-v8.3.1-riftysipas.ipa",
+          "size": 32845250,
+          "minOSVersion": "14.0",
+          "buildVersion": "8.3.1"
+        }
+      ],
+      "subtitle": "@riftysIPAlibrary | Hours Tracker: Time Tracking  Tweak: Premium Unlocked  Version: 8.3.1  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi",
+      "tintColor": "000000",
+      "icon": "https://fastsign.dev/tg-icon/riftysipalibrary/8004.png",
+      "bundleID": "com.carlosribas.HoursTrackerLite",
+      "fullDate": "20260920230737",
+      "type": 1
+    },
+    {
+      "name": "Spoti.pw (v0.20.0 - Not Patched) IPAVault",
+      "bundleIdentifier": "com.spotify.client.ios.spoti.pw.0.20.0.not.patched.9.1.84",
+      "developerName": "Spotify",
+      "version": "9.1.84",
+      "versionDate": "2026-09-20",
+      "size": 134069433,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.84%20%28Spoti.pw%29%20No%20Plugins.ipa",
+      "versions": [
+        {
+          "version": "9.1.84",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.84%20%28Spoti.pw%29%20No%20Plugins.ipa",
+          "size": 134069433,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.84"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify.",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.spoti.pw.0.20.0.not.patched.9.1.84",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "Spoti.pw (v0.20.0 - Patched) IPAVault",
+      "bundleIdentifier": "com.spotify.client.ios.spoti.pw.0.20.0.patched.9.1.84",
+      "developerName": "Spotify",
+      "version": "9.1.84",
+      "versionDate": "2026-09-20",
+      "size": 134901071,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.84%20%28Spoti.pw%29%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "9.1.84",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify%209.1.84%20%28Spoti.pw%29%20%5B@ipavault%5D.ipa",
+          "size": 134901071,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.84"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify.",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.spoti.pw.0.20.0.patched.9.1.84",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTMusicUltimate+ (iOS 15+ Support - Patched - No YouMusicPiP)",
+      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.no.youmusicpip.ios15+.patched",
+      "developerName": "YouTube",
+      "version": "8.21.3",
+      "versionDate": "2026-09-20",
+      "size": 95542949,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%208.21.3%20No%20PIP%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "8.21.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%208.21.3%20No%20PIP%20%5B@ipavault%5D.ipa",
+          "size": 95542949,
+          "minOSVersion": "14.0",
+          "buildVersion": "8.21.3"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, and Downlo",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.no.youmusicpip.ios15+.patched",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTMusicUltimate+ (iOS 15+ Support - Patched)",
+      "bundleIdentifier": "com.google.ios.youtube.music.ytmusicultimateplus.ios15+.patched",
+      "developerName": "YouTube",
+      "version": "8.21.3",
+      "versionDate": "2026-09-20",
+      "size": 95552957,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%208.21.3%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "8.21.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTMUltimate+%208.21.3%20%5B@ipavault%5D.ipa",
+          "size": 95552957,
+          "minOSVersion": "14.0",
+          "buildVersion": "8.21.3"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT, YouMusicPi",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "bundleID": "com.google.ios.youtube.music.ytmusicultimateplus.ios15+.patched",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouMod (2.0.0) + Bonus Tweaks (iOSDecrypted)",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.iosdecrypted",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 135319223,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. This IPA was gotten from https://t.me/iosdecrypted.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.37.5_YM.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888. This IPA was gotten from https://t.me/iosdecrypted.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.37.5_YM.ipa",
+          "size": 135319223,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888. This IPA was gotten from https://t.me/iosdecrypted.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youmod.2.0.0.iosdecrypted",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKACE (1.0.0) - Bonus Tweaks (iOSDecrypted)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace.1.0.0.bonus.iOSDecrypted",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 137258218,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig,\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.37.5_KC.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig,",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.37.5_KC.ipa",
+          "size": 137258218,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: YouPiP, Return YouTube Dislikes, DontEatMyContent, NoYTPremium, YTABConfig,",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkace.1.0.0.bonus.iOSDecrypted",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKACE (1.0.0) - Bonus Tweaks (IPAVault) iOS 16+",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace.1.0.0.bonus.ipavault.ios16",
+      "developerName": "YouTube",
+      "version": "21.33.6",
+      "versionDate": "2026-09-20",
+      "size": 127364043,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTube\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20%28YTKACE%201.0.0%29%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "21.33.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTube",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20%28YTKACE%201.0.0%29%20%5B@ipavault%5D.ipa",
+          "size": 127364043,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.6"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTube",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkace.1.0.0.bonus.ipavault.ios16",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKACE (1.0.0) - Bonus Tweaks (IPAVault)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace.1.0.0.bonus.ipavault",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 135612653,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTube\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.37.5%20%28YTKACE%201.0.0%29%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTube",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.37.5%20%28YTKACE%201.0.0%29%20%5B@ipavault%5D.ipa",
+          "size": 135612653,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: YTABConfig, YTweaks, YouPIP, VolumeBoostYT, DontEatMyContent, ReturnYouTube",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkace.1.0.0.bonus.ipavault",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKACE (1.0.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace.1.0.0",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 136694474,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. Source Code: https://github.com/itzzace/YTKACE\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_1.0.0_YouTube_21.37.5.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. Source Code: https://github.com/itzzace/YTKACE",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_1.0.0_YouTube_21.37.5.ipa",
+          "size": 136694474,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. Source Code: https://github.com/itzzace/YTKACE",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkace.1.0.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - iOSDecrypted)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.5.2.2.iOSDecrypted",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 144654752,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YouPiP, Re\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.37.5_YP.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YouPiP, Re",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.37.5_YP.ipa",
+          "size": 144654752,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YouPiP, Re",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.5.2.2.iOSDecrypted",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouMod (2.0.0) + Bonus Tweaks (Drifty)",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.drifty",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 134314624,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.37.5_v2.0.0.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.37.5_v2.0.0.ipa",
+          "size": 134314624,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youmod.2.0.0.drifty",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKACE (0.9.3) - Bonus Tweaks (Drifty)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace.0.9.3.bonus.Drifty",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 135541279,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. Source code: https://github.com/itzzace/YTKACE\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_0.9.3_YouTube_iOS16_21.37.5_rootless.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. Source code: https://github.com/itzzace/YTKACE",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTKACE_0.9.3_YouTube_iOS16_21.37.5_rootless.ipa",
+          "size": 135541279,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. Source code: https://github.com/itzzace/YTKACE",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkace.0.9.3.bonus.Drifty",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked (5.2.2) - v21.37.5",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.5.2.2.21.37.5",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 145425588,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.37.5.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.37.5_YTPlus_v5.2.2_cracked%5Btg@tubevault%5D.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.37.5.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.37.5_YTPlus_v5.2.2_cracked%5Btg@tubevault%5D.ipa",
+          "size": 145425588,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.37.5.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.5.2.2.21.37.5",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "MaxMusic (1.1 - No YouMusicPiP)",
+      "bundleIdentifier": "com.google.ios.youtube.music.maxmusic.no.youmusicpip",
+      "developerName": "YouTube",
+      "version": "9.37.2",
+      "versionDate": "2026-09-20",
+      "size": 106508994,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT and Downloa\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_no_YMP_2.4.1_9.37.2.ipa",
+      "versions": [
+        {
+          "version": "9.37.2",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT and Downloa",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_no_YMP_2.4.1_9.37.2.ipa",
+          "size": 106508994,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.37.2"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, VolumeBoostYT and Downloa",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "bundleID": "com.google.ios.youtube.music.maxmusic.no.youmusicpip",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "MaxMusic (1.1)",
+      "bundleIdentifier": "com.google.ios.youtube.music.maxmusic",
+      "developerName": "YouTube",
+      "version": "9.37.2",
+      "versionDate": "2026-09-20",
+      "size": 106518711,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP, VolumeBoostY\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.37.2.ipa",
+      "versions": [
+        {
+          "version": "9.37.2",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP, VolumeBoostY",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxMusic_2.4.1_9.37.2.ipa",
+          "size": 106518711,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.37.2"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube Music. This comes with the following tweaks: Return-YouTube-Music-Dislikes, YTMABConfig, YouMusicPiP, VolumeBoostY",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "bundleID": "com.google.ios.youtube.music.maxmusic",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouMod (2.0.0) + Bonus Tweaks (Jayden)",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.jayden",
+      "developerName": "YouTube",
+      "version": "21.37.4",
+      "versionDate": "2026-09-20",
+      "size": 130338267,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.37.4_v2.0.ipa",
+      "versions": [
+        {
+          "version": "21.37.4",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.37.4_v2.0.ipa",
+          "size": 130338267,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.4"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youmod.2.0.0.jayden",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlusYTweaks (5.2.2 - iOS SDK 16.5)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplusytweaks.ios.sdk.16.5.latest",
+      "developerName": "YouTube",
+      "version": "21.37.5",
+      "versionDate": "2026-09-20",
+      "size": 139396991,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube with the following tweaks: YouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTIco\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_custom_SDK16.5_v21.37.5.ipa",
+      "versions": [
+        {
+          "version": "21.37.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube with the following tweaks: YouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTIco",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_custom_SDK16.5_v21.37.5.ipa",
+          "size": 139396991,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube with the following tweaks: YouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTIco",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplusytweaks.ios.sdk.16.5.latest",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "MaxTube (1.6.2) - iOS 16+ Support",
+      "bundleIdentifier": "com.google.ios.youtube.maxtube.5.2.2.21.33.6",
+      "developerName": "YouTube",
+      "version": "21.33.6",
+      "versionDate": "2026-09-20",
+      "size": 136185289,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.33.6_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "21.33.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more ",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.33.6_5.2.2.ipa",
+          "size": 136185289,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.6"
+        }
+      ],
+      "subtitle": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more ",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.maxtube.5.2.2.21.33.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "MaxTube (1.6.2)",
+      "bundleIdentifier": "com.google.ios.youtube.maxtube.5.2.2.21.37.4",
+      "developerName": "YouTube",
+      "version": "21.37.4",
+      "versionDate": "2026-09-20",
+      "size": 139165727,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is an enhancer for YouTube on iOS, featuring over hundred customizable options but with the latest version freed and with more tweaks than the or\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.37.4_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "21.37.4",
+          "date": "2026-09-20",
+          "localizedDescription": "This is an enhancer for YouTube on iOS, featuring over hundred customizable options but with the latest version freed and with more tweaks than the or",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.37.4_5.2.2.ipa",
+          "size": 139165727,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.37.4"
+        }
+      ],
+      "subtitle": "This is an enhancer for YouTube on iOS, featuring over hundred customizable options but with the latest version freed and with more tweaks than the or",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.maxtube.5.2.2.21.37.4",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "MaxTube (1.6.2) - Downgraded to 20.21.6",
+      "bundleIdentifier": "com.google.ios.youtube.maxtube.5.2.2.20.21.6",
+      "developerName": "YouTube",
+      "version": "20.21.6",
+      "versionDate": "2026-09-20",
+      "size": 121166518,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_20.21.6_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "20.21.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more ",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_20.21.6_5.2.2.ipa",
+          "size": 121166518,
+          "minOSVersion": "14.0",
+          "buildVersion": "20.21.6"
+        }
+      ],
+      "subtitle": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more ",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.maxtube.5.2.2.20.21.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "MaxTube (1.6.2) - Downgraded to 21.24.3",
+      "bundleIdentifier": "com.google.ios.youtube.maxtube.5.2.2.21.24.3",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 129173086,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.24.3_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more ",
+          "downloadURL": "https://repo.ballermc.com/tubevault/MaxTube_21.24.3_5.2.2.ipa",
+          "size": 129173086,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is a mod for YouTube on iOS/iPadOS, featuring over hundred customizable options but with the latest version of YTPlus/YTLite freed and with more ",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.maxtube.5.2.2.21.24.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "GSpotify (v1.0 - Patched) iOSDecrypted",
+      "bundleIdentifier": "com.spotify.client.ios.gspotify.1.0.patched.9.1.82.iosdecrypted",
+      "developerName": "Spotify",
+      "version": "9.1.82",
+      "versionDate": "2026-09-20",
+      "size": 134218818,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DSP_9.1.82_GS.ipa",
+      "versions": [
+        {
+          "version": "9.1.82",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DSP_9.1.82_GS.ipa",
+          "size": 134218818,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.82"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.gspotify.1.0.patched.9.1.82.iosdecrypted",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "EeveeSpotify (v6.8.8 - Patched) iOSDecrypted",
+      "bundleIdentifier": "com.spotify.client.ios.eevee.6.8.8.patched.9.1.82.iosdecrypted",
+      "developerName": "Spotify",
+      "version": "9.1.82",
+      "versionDate": "2026-09-20",
+      "size": 136950776,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DSP_9.1.82_ES.ipa",
+      "versions": [
+        {
+          "version": "9.1.82",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DSP_9.1.82_ES.ipa",
+          "size": 136950776,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.82"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.eevee.6.8.8.patched.9.1.82.iosdecrypted",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mark02-2012.5.2.2.21.36.6",
+      "developerName": "YouTube",
+      "version": "21.36.6",
+      "versionDate": "2026-09-20",
+      "size": 137965349,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.36.6_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "21.36.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.36.6_5.2.2.ipa",
+          "size": 137965349,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.36.6"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mark02-2012.5.2.2.21.36.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012) Downgraded to 21.33.6",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mark02-2012.5.2.2.21.33.6",
+      "developerName": "YouTube",
+      "version": "21.33.6",
+      "versionDate": "2026-09-20",
+      "size": 135753407,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.33.6_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "21.33.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.33.6_5.2.2.ipa",
+          "size": 135753407,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.6"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mark02-2012.5.2.2.21.33.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012) Downgraded to 21.24.3",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mark02-2012.5.2.2.21.24.3",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 128741215,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.24.3_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_21.24.3_5.2.2.ipa",
+          "size": 128741215,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YTLite, Yo",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mark02-2012.5.2.2.21.24.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - Mark02-2012) Downgraded to 20.21.6",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.5.2.2.Mark02-2012.20.21.6",
+      "developerName": "YouTube",
+      "version": "20.21.6",
+      "versionDate": "2026-09-20",
+      "size": 120753339,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YYouPiP, Y\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_20.21.6_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "20.21.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YYouPiP, Y",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTPlus_20.21.6_5.2.2.ipa",
+          "size": 120753339,
+          "minOSVersion": "14.0",
+          "buildVersion": "20.21.6"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YYouPiP, Y",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.5.2.2.Mark02-2012.20.21.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouMod (2.0.0) + Bonus Tweaks (IPAVault) iOS 16+",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.ipavault.ios16plus",
+      "developerName": "YouTube",
+      "version": "21.33.6",
+      "versionDate": "2026-09-20",
+      "size": 128408354,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20%28YouMod%202.0.0%29%20%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "21.33.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube%2021.33.6%20%28YouMod%202.0.0%29%20%5B@ipavault%5D.ipa",
+          "size": 128408354,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.6"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube.  This mod was created by Tonwalter888.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youmod.2.0.0.ipavault.ios16plus",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouTube Music Ultimate Enchanced",
+      "bundleIdentifier": "com.google.ios.youtube.music.ultimate.enhanced",
+      "developerName": "YouTube",
+      "version": "9.33.6",
+      "versionDate": "2026-09-20",
+      "size": 103482151,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.33.6Moe-Ultimate2.4.1Patched.ipa",
+      "versions": [
+        {
+          "version": "9.33.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.33.6Moe-Ultimate2.4.1Patched.ipa",
+          "size": 103482151,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.33.6"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
+      "bundleID": "com.google.ios.youtube.music.ultimate.enhanced",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "MoeMulti (10.18)",
+      "bundleIdentifier": "com.google.ios.youtube.moemulti.10.18",
+      "developerName": "YouTube",
+      "version": "21.33.5",
+      "versionDate": "2026-09-20",
+      "size": 190530956,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.33.5Moe-Multi10.18Patched.ipa",
+      "versions": [
+        {
+          "version": "21.33.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD",
+          "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.33.5Moe-Multi10.18Patched.ipa",
+          "size": 190530956,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.5"
+        }
+      ],
+      "subtitle": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.moemulti.10.18",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "SY (2.0)",
+      "bundleIdentifier": "com.google.ios.youtube.sy.2.0",
+      "developerName": "YouTube",
+      "version": "21.33.5",
+      "versionDate": "2026-09-20",
+      "size": 153349538,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is contains the SY tweak for YouTube.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/4dv69jahlpamynxah32gy/_YouTube21.33.5Moe-SY2.0Patched.ipa?rlkey=mw2fb3t7tmw362p6detyyjm55&st=yv6yby4d&dl=1",
+      "versions": [
+        {
+          "version": "21.33.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is contains the SY tweak for YouTube.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/4dv69jahlpamynxah32gy/_YouTube21.33.5Moe-SY2.0Patched.ipa?rlkey=mw2fb3t7tmw362p6detyyjm55&st=yv6yby4d&dl=1",
+          "size": 153349538,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.5"
+        }
+      ],
+      "subtitle": "This is contains the SY tweak for YouTube.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.sy.2.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "LRD Cracked (1.13)",
+      "bundleIdentifier": "com.google.ios.youtube.lrd.cracked.1.13",
+      "developerName": "YouTube",
+      "version": "21.33.5",
+      "versionDate": "2026-09-20",
+      "size": 153945836,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a cracked version of the paid LRD tweak for YouTube.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/xu07ef21xj3uxjs0ib0fr/_YouTube21.33.5Moe-LRD1.13CrackedPatched.ipa?rlkey=q9a6vkziyz86pms64k15qw5fs&st=s6thugxq&dl=1",
+      "versions": [
+        {
+          "version": "21.33.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a cracked version of the paid LRD tweak for YouTube.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/xu07ef21xj3uxjs0ib0fr/_YouTube21.33.5Moe-LRD1.13CrackedPatched.ipa?rlkey=q9a6vkziyz86pms64k15qw5fs&st=s6thugxq&dl=1",
+          "size": 153945836,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.5"
+        }
+      ],
+      "subtitle": "This is a cracked version of the paid LRD tweak for YouTube.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.lrd.cracked.1.13",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "DLTube Cracked (2.16.3)",
+      "bundleIdentifier": "com.google.ios.youtube.dltube.cracked.2.16.3",
+      "developerName": "YouTube",
+      "version": "21.33.5",
+      "versionDate": "2026-09-20",
+      "size": 150222529,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a cracked version of DLTube tweak for YouTube.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/stf002w9p0geixnntvqz2/_YouTube21.33.5Moe-DLTube2.16.3CrackedPatched.ipa?rlkey=35g6umvdpamqqld79fqh85ze4&st=tstv6goq&dl=1",
+      "versions": [
+        {
+          "version": "21.33.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a cracked version of DLTube tweak for YouTube.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/stf002w9p0geixnntvqz2/_YouTube21.33.5Moe-DLTube2.16.3CrackedPatched.ipa?rlkey=35g6umvdpamqqld79fqh85ze4&st=tstv6goq&dl=1",
+          "size": 150222529,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.5"
+        }
+      ],
+      "subtitle": "This is a cracked version of DLTube tweak for YouTube.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.dltube.cracked.2.16.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouPro + Bonus Tweaks (0.3 - Moe)",
+      "bundleIdentifier": "com.google.ios.youtube.youproextra.0.3.moe",
+      "developerName": "YouTube",
+      "version": "21.33.5",
+      "versionDate": "2026-09-20",
+      "size": 149942414,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.33.5Moe-YouPro0.3Patched.ipa",
+      "versions": [
+        {
+          "version": "21.33.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+          "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.33.5Moe-YouPro0.3Patched.ipa",
+          "size": 149942414,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youproextra.0.3.moe",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouMod (1.3.0) + Bonus Tweaks (Moe)",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.1.3.0.moe",
+      "developerName": "YouTube",
+      "version": "21.33.5",
+      "versionDate": "2026-09-20",
+      "size": 150102776,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.33.5Moe-YouMod1.3.0Patched.ipa",
+      "versions": [
+        {
+          "version": "21.33.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro",
+          "downloadURL": "https://repo.ballermc.com/tubevault/_YouTube21.33.5Moe-YouMod1.3.0Patched.ipa",
+          "size": 150102776,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.33.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youmod.1.3.0.moe",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "EeveeSpotify (v6.8.8) - Liquid Glass + Patched",
+      "bundleIdentifier": "com.spotify.client.ios.eevee.6.8.8.liquidglass.patched.9.1.76",
+      "developerName": "Spotify",
+      "version": "9.1.76",
+      "versionDate": "2026-09-20",
+      "size": 136322970,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8_Spotify_v9.1.76_Patched_LG.ipa",
+      "versions": [
+        {
+          "version": "9.1.76",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!",
+          "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8_Spotify_v9.1.76_Patched_LG.ipa",
+          "size": 136322970,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.76"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify. This enables Liquid Glass effect on the app. This does not work with sidestore or livecontainer!!",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.eevee.6.8.8.liquidglass.patched.9.1.76",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "EeveeSpotify (v6.8.8) - Liquid Glass",
+      "bundleIdentifier": "com.spotify.client.ios.eevee.6.8.8.liquidglass.9.1.76",
+      "developerName": "Spotify",
+      "version": "9.1.76",
+      "versionDate": "2026-09-20",
+      "size": 133646632,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8_Spotify_v9.1.76_LG.ipa",
+      "versions": [
+        {
+          "version": "9.1.76",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify. This enables Liquid Glass effect on the app.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8_Spotify_v9.1.76_LG.ipa",
+          "size": 133646632,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.76"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify. This enables Liquid Glass effect on the app.",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.eevee.6.8.8.liquidglass.9.1.76",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "EeveeSpotify (v6.8.8 - Patched)",
+      "bundleIdentifier": "com.spotify.client.ios.eevee.6.8.8.patched.9.1.76",
+      "developerName": "Spotify",
+      "version": "9.1.76",
+      "versionDate": "2026-09-20",
+      "size": 131874912,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8-9.1.76_Patched.ipa",
+      "versions": [
+        {
+          "version": "9.1.76",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+          "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8-9.1.76_Patched.ipa",
+          "size": 131874912,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.76"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify. This does not work with sidestore or livecontainer!!",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.eevee.6.8.8.patched.9.1.76",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "EeveeSpotify (v6.8.8)",
+      "bundleIdentifier": "com.spotify.client.ios.eevee.6.8.8.9.1.76",
+      "developerName": "Spotify",
+      "version": "9.1.76",
+      "versionDate": "2026-09-20",
+      "size": 129276854,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of Spotify.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8-9.1.76.ipa",
+      "versions": [
+        {
+          "version": "9.1.76",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of Spotify.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/EeveeSpotify-6.6.8-9.1.76.ipa",
+          "size": 129276854,
+          "minOSVersion": "14.0",
+          "buildVersion": "9.1.76"
+        }
+      ],
+      "subtitle": "This is a modded version of Spotify.",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.eevee.6.8.8.9.1.76",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "KiraTuno (3.1.0)",
+      "bundleIdentifier": "com.google.ios.youtube.kiratuno.3.1.0",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 119818777,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: FLEXHelperForYT, YTAnotherMiniplayer, YouGetCaption, YTweaks, YouShare, You\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/KiraTuno.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: FLEXHelperForYT, YTAnotherMiniplayer, YouGetCaption, YTweaks, YouShare, You",
+          "downloadURL": "https://repo.ballermc.com/tubevault/KiraTuno.ipa",
+          "size": 119818777,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: FLEXHelperForYT, YTAnotherMiniplayer, YouGetCaption, YTweaks, YouShare, You",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.kiratuno.3.1.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlusYTweaks (5.2.2 - iOS SDK 14)",
+      "bundleIdentifier": "com.google.ios.youtube.ytplusytweaks.ios.sdk.14",
+      "developerName": "YouTube",
+      "version": "19.20.2",
+      "versionDate": "2026-09-20",
+      "size": 203645977,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube with the following tweaks: YouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTIco\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_5.2.2+Tweaks_SDK16.5_v19.20.2.ipa",
+      "versions": [
+        {
+          "version": "19.20.2",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube with the following tweaks: YouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTIco",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YTPlusYTweaks_5.2.2+Tweaks_SDK16.5_v19.20.2.ipa",
+          "size": 203645977,
+          "minOSVersion": "14.0",
+          "buildVersion": "19.20.2"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube with the following tweaks: YouPiP, YTUHD, Return YouTube Dislikes, YouQuality, DontEatMyContent, YTABConfig, YTIco",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplusytweaks.ios.sdk.14",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.23.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.23.0",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 136050241,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. Sidestore is no longer supported.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.23_Cracked%5Blowiqentity%5D.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. Sidestore is no longer supported.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.23_Cracked%5Blowiqentity%5D.ipa",
+          "size": 136050241,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall. Sidestore is no longer supported.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.23.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.21.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.21.0",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 135180455,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30_lowiqentity_5.21.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30_lowiqentity_5.21.ipa",
+          "size": 135180455,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.21.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouPro (1.3.2)",
+      "bundleIdentifier": "com.google.ios.youtube.youpro.1.3.2.ipastar",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 144504164,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube with YouPro added.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouPro-fixlogin.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube with YouPro added.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouPro-fixlogin.ipa",
+          "size": 144504164,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube with YouPro added.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youpro.1.3.2.ipastar",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.17.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.17.0",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 136141417,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30_YTKillerPlus_5.17.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30_YTKillerPlus_5.17.ipa",
+          "size": 136141417,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.17.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.18.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.18.0",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 135180624,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.18_Cracked%5Blowiqentity%5D.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.18_Cracked%5Blowiqentity%5D.ipa",
+          "size": 135180624,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.18.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.19.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.19.0",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 135158300,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.19_Cracked%5Blowiqentity%5D.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.19_Cracked%5Blowiqentity%5D.ipa",
+          "size": 135158300,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.19.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.20.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.20.0",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 135160110,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.20_Cracked%5Blowiqentity%5D.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.20_Cracked%5Blowiqentity%5D.ipa",
+          "size": 135160110,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.20.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.14.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.14.0",
+      "developerName": "YouTube",
+      "version": "21.29.3",
+      "versionDate": "2026-09-20",
+      "size": 135652451,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.29.3_YTKillerPlus_5.14_Cracked%5Blowiqentity%5D.ipa",
+      "versions": [
+        {
+          "version": "21.29.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.29.3_YTKillerPlus_5.14_Cracked%5Blowiqentity%5D.ipa",
+          "size": 135652451,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.29.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.14.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.16.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.16.0",
+      "developerName": "YouTube",
+      "version": "21.30.5",
+      "versionDate": "2026-09-20",
+      "size": 136095666,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.16_Cracked%5Blowiqentity%5D.ipa",
+      "versions": [
+        {
+          "version": "21.30.5",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.30.5_YTKillerPlus_5.16_Cracked%5Blowiqentity%5D.ipa",
+          "size": 136095666,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.30.5"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.16.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.13.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.13.0",
+      "developerName": "YouTube",
+      "version": "21.29.3",
+      "versionDate": "2026-09-20",
+      "size": 136671523,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.29.3_YTKillerPlus_5.13_Cracked%5Blowiqentity%5D.ipa",
+      "versions": [
+        {
+          "version": "21.29.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_21.29.3_YTKillerPlus_5.13_Cracked%5Blowiqentity%5D.ipa",
+          "size": 136671523,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.29.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.13.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.10.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.10.0",
+      "developerName": "YouTube",
+      "version": "21.29.3",
+      "versionDate": "2026-09-20",
+      "size": 135158253,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/8ks3shpx0d20auyqhtzxs/YTKPlus-5.10-YouTube-21.29.3-Cracked-lowiqentity.ipa?rlkey=zj4cxbqzdvoxjqeml5w2x3vt5&st=enutmobb&dl=1",
+      "versions": [
+        {
+          "version": "21.29.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/8ks3shpx0d20auyqhtzxs/YTKPlus-5.10-YouTube-21.29.3-Cracked-lowiqentity.ipa?rlkey=zj4cxbqzdvoxjqeml5w2x3vt5&st=enutmobb&dl=1",
+          "size": 135158253,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.29.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.10.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.11.0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.11.0",
+      "developerName": "YouTube",
+      "version": "21.29.3",
+      "versionDate": "2026-09-20",
+      "size": 135164167,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/6dd3syitqf5buhcc2m2i1/YouTube_21.29.3_YTKillerPlus_5.11_Cracked-lowiqentity.ipa?rlkey=8zutdcbx09yby41blcc4dsqqe&st=56yyfr03&dl=1",
+      "versions": [
+        {
+          "version": "21.29.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/6dd3syitqf5buhcc2m2i1/YouTube_21.29.3_YTKillerPlus_5.11_Cracked-lowiqentity.ipa?rlkey=8zutdcbx09yby41blcc4dsqqe&st=56yyfr03&dl=1",
+          "size": 135164167,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.29.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.11.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouPro + Bonus Tweaks (0.3 - Moe) - Downgraded to 21.24.3",
+      "bundleIdentifier": "com.google.ios.youtube.youproextra.0.3.moe.21.24.3",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 129707648,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.24.3Moe-YouPro0.3Patched.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.24.3Moe-YouPro0.3Patched.ipa",
+          "size": 129707648,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youproextra.0.3.moe.21.24.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouMod (1.3.0) + Bonus Tweaks (Moe) - Downgraded to 21.24.3",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.1.3.0.moe.21.24.3",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 129868022,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.24.3Moe-YouMod1.3.0Patched.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.24.3Moe-YouMod1.3.0Patched.ipa",
+          "size": 129868022,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youmod.1.3.0.moe.21.24.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked + Bonus Tweaks (5.9.9 - mrdrvt99)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.9.9.bonus",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 132347150,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This includes the following tweaks: YouQuality, YouTubeDislikesReturn, DontEatMyCont\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/q8y5igty8ajm2zhtjhcai/YTKillerPlus_21.24.3_5.9.9.ipa?rlkey=3xmzvjtf7q4q2otk6gsaou11n&st=hmkhyfuz&dl=1",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This includes the following tweaks: YouQuality, YouTubeDislikesReturn, DontEatMyCont",
+          "downloadURL": "https://www.dropbox.com/scl/fi/q8y5igty8ajm2zhtjhcai/YTKillerPlus_21.24.3_5.9.9.ipa?rlkey=3xmzvjtf7q4q2otk6gsaou11n&st=hmkhyfuz&dl=1",
+          "size": 132347150,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall. This includes the following tweaks: YouQuality, YouTubeDislikesReturn, DontEatMyCont",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.9.9.bonus",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.9.9)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.9.9",
+      "developerName": "YouTube",
+      "version": "21.28.3",
+      "versionDate": "2026-09-20",
+      "size": 134906028,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ms3frq8m1beqhe2um0jld/YouTube_21.28.3_YTKillerPlus_5.9.9-cracked-lowiqentity.ipa?rlkey=s8ob4jf1uk87vs45uq8y7mnfe&st=7pgpxpjq&dl=1",
+      "versions": [
+        {
+          "version": "21.28.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/ms3frq8m1beqhe2um0jld/YouTube_21.28.3_YTKillerPlus_5.9.9-cracked-lowiqentity.ipa?rlkey=s8ob4jf1uk87vs45uq8y7mnfe&st=7pgpxpjq&dl=1",
+          "size": 134906028,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.28.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.9.9",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked + Bonus Tweaks (5.9.4 - mrdrvt99)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.5.9.4.bonus",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 136088386,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This requires a paid dev cert to work!! This comes with the following tweaks: DontEa\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/0sot3ijc89psnp9nd7hks/YTKillerPlus_21.24.3_5.9.4.ipa?rlkey=k6hagydeijdaybmx73lmv9i7m&st=dvkv4des&dl=1",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This requires a paid dev cert to work!! This comes with the following tweaks: DontEa",
+          "downloadURL": "https://www.dropbox.com/scl/fi/0sot3ijc89psnp9nd7hks/YTKillerPlus_21.24.3_5.9.4.ipa?rlkey=k6hagydeijdaybmx73lmv9i7m&st=dvkv4des&dl=1",
+          "size": 136088386,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall. This requires a paid dev cert to work!! This comes with the following tweaks: DontEa",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.5.9.4.bonus",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked (5.2.2) Downgraded to 20.21.6",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.5.2.2.20.21.6",
+      "developerName": "YouTube",
+      "version": "20.21.6",
+      "versionDate": "2026-09-20",
+      "size": 124097398,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v20.21.6_YTPlus_5.2.2_cracked%5Btg@tubevault%5D.ipa",
+      "versions": [
+        {
+          "version": "20.21.6",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v20.21.6_YTPlus_5.2.2_cracked%5Btg@tubevault%5D.ipa",
+          "size": 124097398,
+          "minOSVersion": "14.0",
+          "buildVersion": "20.21.6"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.5.2.2.20.21.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - mrdrvt99) Downgraded to 21.24.3",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.5.2.2.21.24.3",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 128952154,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: DontEatMyC\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.24.3_5.2.2.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: DontEatMyC",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubePlus_21.24.3_5.2.2.ipa",
+          "size": 128952154,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: DontEatMyC",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.mrdrvt99.5.2.2.21.24.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked + Bonus Tweaks (5.2.2 - iOSDecrypted) Downgraded to 21.24.3",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.bonus.5.2.2.iOSDecrypted.21.24.3",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 139375171,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YouPiP, Re\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.24.3_YP.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YouPiP, Re",
+          "downloadURL": "https://repo.ballermc.com/tubevault/%5BTG@i_osd%5DYT_21.24.3_YP.ipa",
+          "size": 139375171,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake). This includes the following tweaks: YouPiP, Re",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.bonus.5.2.2.iOSDecrypted.21.24.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked (5.2.2) Downgraded to 21.24.3",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.5.2.2.21.24.3",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 138396363,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.24.3.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.24.3_YTPlus_5.2.2_cracked%5Btg@tubevault%5D.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.24.3.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube_v21.24.3_YTPlus_5.2.2_cracked%5Btg@tubevault%5D.ipa",
+          "size": 138396363,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake), and updated to 21.24.3.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.5.2.2.21.24.3",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTPlus/YTLite Cracked (5.2.2) Downgraded to 21.16.2",
+      "bundleIdentifier": "com.google.ios.youtube.ytplus.cracked.5.2.2.21.16.2",
+      "developerName": "YouTube",
+      "version": "21.16.2",
+      "versionDate": "2026-09-20",
+      "size": 132793033,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/ytp_5.2.2+21.16.2_patch_zarzel.ipa",
+      "versions": [
+        {
+          "version": "21.16.2",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)",
+          "downloadURL": "https://repo.ballermc.com/tubevault/ytp_5.2.2+21.16.2_patch_zarzel.ipa",
+          "size": 132793033,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.16.2"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTPlus, without the Patreon DRM. This was cracked by Zarzel (shinewake)",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytplus.cracked.5.2.2.21.16.2",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.9.4)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.9.4",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 135758951,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. Sidestore is not supported.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/ry0l3mk7ou9eqz4agwu9z/YouTube_21.24_YTKillerPlus_5.9.4-lowiqentity.ipa?rlkey=ykpdv2pukdjjsy2pmo3o8utw6&st=rwruxj04&dl=1",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. Sidestore is not supported.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/ry0l3mk7ou9eqz4agwu9z/YouTube_21.24_YTKillerPlus_5.9.4-lowiqentity.ipa?rlkey=ykpdv2pukdjjsy2pmo3o8utw6&st=rwruxj04&dl=1",
+          "size": 135758951,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall. Sidestore is not supported.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.lowiqentity.5.9.4",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked + Bonus Tweaks (5.8.8 - itzzace0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.bonus.5.8.8",
+      "developerName": "YouTube",
+      "version": "21.26.4",
+      "versionDate": "2026-09-20",
+      "size": 136302727,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. **This does not work with sidestore!!** This comes with the following tweaks: DontEa\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/p4ijl7e0dfy1geva83pso/YouTube_v21.26.4_ytkp_v5.8.8_ace_extra.ipa?rlkey=t453ok8z3l0apjezroh4mgwzf&st=fpf0tnjk&dl=1",
+      "versions": [
+        {
+          "version": "21.26.4",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. **This does not work with sidestore!!** This comes with the following tweaks: DontEa",
+          "downloadURL": "https://www.dropbox.com/scl/fi/p4ijl7e0dfy1geva83pso/YouTube_v21.26.4_ytkp_v5.8.8_ace_extra.ipa?rlkey=t453ok8z3l0apjezroh4mgwzf&st=fpf0tnjk&dl=1",
+          "size": 136302727,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.26.4"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall. **This does not work with sidestore!!** This comes with the following tweaks: DontEa",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.bonus.5.8.8",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked + Bonus Tweaks (5.7.6 - itzzace0)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.bonus.itzzace0.5.7.6",
+      "developerName": "YouTube",
+      "version": "21.26.4",
+      "versionDate": "2026-09-20",
+      "size": 136302826,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This includes the following tweaks: DontEatMyContent, Gonerino, SideloadKeychainFix,\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/om3kauhf4yobobvslnnae/YouTube_v21.26.4_ytkp_5.7.6_ace_extra_cracked.ipa?rlkey=6rz3a8fe8rjf5ikhul7vf5gpr&st=sp0tpscd&dl=1",
+      "versions": [
+        {
+          "version": "21.26.4",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This includes the following tweaks: DontEatMyContent, Gonerino, SideloadKeychainFix,",
+          "downloadURL": "https://www.dropbox.com/scl/fi/om3kauhf4yobobvslnnae/YouTube_v21.26.4_ytkp_5.7.6_ace_extra_cracked.ipa?rlkey=6rz3a8fe8rjf5ikhul7vf5gpr&st=sp0tpscd&dl=1",
+          "size": 136302826,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.26.4"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall. This includes the following tweaks: DontEatMyContent, Gonerino, SideloadKeychainFix,",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.bonus.itzzace0.5.7.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.7.6)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.5.7.6",
+      "developerName": "YouTube",
+      "version": "21.26.4",
+      "versionDate": "2026-09-20",
+      "size": 133678329,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/eo7sxc1v959h799gsr58y/YouTube_v21.26.4_ytkp_v5.7.6_ace._cracked.ipa?rlkey=esq1fn3xp4yph4ps0pje9nekl&st=1qlbi4gv&dl=1",
+      "versions": [
+        {
+          "version": "21.26.4",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall.",
+          "downloadURL": "https://www.dropbox.com/scl/fi/eo7sxc1v959h799gsr58y/YouTube_v21.26.4_ytkp_v5.7.6_ace._cracked.ipa?rlkey=esq1fn3xp4yph4ps0pje9nekl&st=1qlbi4gv&dl=1",
+          "size": 133678329,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.26.4"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall.",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.5.7.6",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YTKillerPlus Cracked (5.8.8)",
+      "bundleIdentifier": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.5.8.8",
+      "developerName": "YouTube",
+      "version": "21.26.4",
+      "versionDate": "2026-09-20",
+      "size": 134017680,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This requires a paid dev cert to work!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://www.dropbox.com/scl/fi/pyojo86z4rw4wfqpr1ico/YouTube_v21.26.4_ytkp_v5.8.8_ace.ipa?rlkey=0wjzk1tur1p6gu8reszqsrxgh&st=pk93blck&dl=1",
+      "versions": [
+        {
+          "version": "21.26.4",
+          "date": "2026-09-20",
+          "localizedDescription": "This is the cracked version of YTKillerPlus, without the paywall. This requires a paid dev cert to work!!",
+          "downloadURL": "https://www.dropbox.com/scl/fi/pyojo86z4rw4wfqpr1ico/YouTube_v21.26.4_ytkp_v5.8.8_ace.ipa?rlkey=0wjzk1tur1p6gu8reszqsrxgh&st=pk93blck&dl=1",
+          "size": 134017680,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.26.4"
+        }
+      ],
+      "subtitle": "This is the cracked version of YTKillerPlus, without the paywall. This requires a paid dev cert to work!!",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkillerplus.cracked.itzzace0.5.8.8",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "YouMod + Bonus Tweaks (1.3.0 - mrdrvt99)",
+      "bundleIdentifier": "com.google.ios.youtube.youmod.bonus.tweaks.mrdrvt99.1.3.0",
+      "developerName": "YouTube",
+      "version": "21.24.3",
+      "versionDate": "2026-09-20",
+      "size": 119918587,
+      "minOSVersion": "14.0",
+      "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, Gonerino, IAmYouTube, iSponsorBlock, libcolorpicker, YouC\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.24.3_1.3.0.ipa",
+      "versions": [
+        {
+          "version": "21.24.3",
+          "date": "2026-09-20",
+          "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, Gonerino, IAmYouTube, iSponsorBlock, libcolorpicker, YouC",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouMod_21.24.3_1.3.0.ipa",
+          "size": 119918587,
+          "minOSVersion": "14.0",
+          "buildVersion": "21.24.3"
+        }
+      ],
+      "subtitle": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, Gonerino, IAmYouTube, iSponsorBlock, libcolorpicker, YouC",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youmod.bonus.tweaks.mrdrvt99.1.3.0",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "Null's Brawl",
+      "bundleIdentifier": "nb.nb.ios",
+      "developerName": "Supercell",
+      "version": "57.325",
+      "versionDate": "2026-09-21",
+      "size": 195238232,
+      "minOSVersion": "14.0",
+      "localizedDescription": "A private brawl stars server with all items unlocked!  Status: ✅🌟🔥\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://files.catbox.moe/l9tlpa.png",
+      "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa",
+      "versions": [
+        {
+          "version": "57.325",
+          "date": "2026-09-21",
+          "localizedDescription": "A private brawl stars server with all items unlocked!  Status: ✅🌟🔥",
+          "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb57.325_b67e0e9d.ipa",
+          "size": 195238232,
+          "minOSVersion": "14.0",
+          "buildVersion": "57.325"
+        }
+      ],
+      "subtitle": "A private brawl stars server with all items unlocked!  Status: ✅🌟🔥",
+      "tintColor": "000000",
+      "icon": "https://files.catbox.moe/l9tlpa.png",
+      "bundleID": "nb.nb.ios",
+      "fullDate": "20260921030035",
+      "type": 1
+    },
+    {
+      "name": "Paid: Minecraft",
+      "bundleIdentifier": "com.unknown.paidminecraft",
+      "developerName": "SamHub",
+      "version": "auto-updates",
+      "versionDate": "2026-09-20",
+      "size": 72351744,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/32/f8/e6/32f8e65f-4979-da2a-1f27-0e51ab444ed4/source/100x100bb.jpg",
+      "downloadURL": "https://files.ipaspot.app/minecraft.ipa",
+      "versions": [
+        {
+          "version": "auto-updates",
+          "date": "2026-09-20",
+          "localizedDescription": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.",
+          "downloadURL": "https://files.ipaspot.app/minecraft.ipa",
+          "size": 72351744,
+          "minOSVersion": "14.0",
+          "buildVersion": "auto-updates"
+        }
+      ],
+      "subtitle": "Explore infinite worlds and build everything from the simplest of homes to the grandest of castles.",
+      "tintColor": "000000",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/32/f8/e6/32f8e65f-4979-da2a-1f27-0e51ab444ed4/source/100x100bb.jpg",
+      "bundleID": "com.unknown.paidminecraft",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "Hacked: Angry Birds 2",
+      "bundleIdentifier": "com.unknown.hackedangrybirds2",
+      "developerName": "SamHub",
+      "version": "3.15.4",
+      "versionDate": "2026-09-20",
+      "size": 72351744,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Hack Features: Infinite Currencies (spend some/get some)\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/28/9e/07/289e07cd-3bd4-bea5-95c9-bcf37b150713/source/512x512bb.jpg",
+      "downloadURL": "https://files.ipaspot.app/angry2hack.ipa",
+      "versions": [
+        {
+          "version": "3.15.4",
+          "date": "2026-09-20",
+          "localizedDescription": "Hack Features: Infinite Currencies (spend some/get some)",
+          "downloadURL": "https://files.ipaspot.app/angry2hack.ipa",
+          "size": 72351744,
+          "minOSVersion": "14.0",
+          "buildVersion": "3.15.4"
+        }
+      ],
+      "subtitle": "Hack Features: Infinite Currencies (spend some/get some)",
+      "tintColor": "000000",
+      "icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/28/9e/07/289e07cd-3bd4-bea5-95c9-bcf37b150713/source/512x512bb.jpg",
+      "bundleID": "com.unknown.hackedangrybirds2",
+      "fullDate": "20260920233139",
+      "type": 1
+    },
+    {
+      "name": "Tweaked: Picsart",
+      "bundleIdentifier": "com.unknown.tweakedpicsart",
+      "developerName": "SamHub",
+      "version": "23.1.2",
+      "versionDate": "2026-09-20",
+      "size": 72351744,
+      "minOSVersion": "14.0",
+      "localizedDescription": "Tweaked verison of PicsArt\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://files.ipaspot.app/img/593.png",
+      "downloadURL": "https://files.ipaspot.app/picsart.ipa",
+      "versions": [
+        {
+          "version": "23.1.2",
+          "date": "2026-09-20",
+          "localizedDescription": "Tweaked verison of PicsArt",
+          "downloadURL": "https://files.ipaspot.app/picsart.ipa",
+          "size": 72351744,
+          "minOSVersion": "14.0",
+          "buildVersion": "23.1.2"
+        }
+      ],
+      "subtitle": "Tweaked verison of PicsArt",
+      "tintColor": "000000",
+      "icon": "https://files.ipaspot.app/img/593.png",
+      "bundleID": "com.unknown.tweakedpicsart",
+      "fullDate": "20260920233139",
       "type": 1
     }
   ]

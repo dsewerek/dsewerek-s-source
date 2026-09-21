@@ -26666,17 +26666,25 @@
       "type": 1,
       "bundleID": "uni.cbum",
       "bundleIdentifier": "uni.cbum",
-      "version": "4.1.58",
-      "versionDate": "2026-09-13",
+      "version": "4.1.59",
+      "versionDate": "2026-09-21",
       "fullDate": "20260803160131",
-      "size": 142966939,
+      "size": 143623000,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Stndrd_4.1.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/Stndrd_4.1.58_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Stndrd_4.1.59_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
       "versions": [
+        {
+          "version": "4.1.59",
+          "date": "2026-09-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Stndrd_4.1.59_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 143623000,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.1.59"
+        },
         {
           "version": "4.1.58",
           "date": "2026-09-13",
@@ -42864,17 +42872,25 @@
       "type": 1,
       "bundleID": "health.sleep.sounds.tracker.alarm.calm",
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
-      "version": "3.5.3",
-      "versionDate": "2026-09-03",
+      "version": "3.5.4",
+      "versionDate": "2026-09-21",
       "fullDate": "20260727205325",
-      "size": 507488232,
+      "size": 510861852,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/ShutEye_3.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/ShutEye_3.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/ShutEye_3.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "versions": [
+        {
+          "version": "3.5.4",
+          "date": "2026-09-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/ShutEye_3.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 510861852,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.5.4"
+        },
         {
           "version": "3.5.3",
           "date": "2026-09-03",
@@ -71305,17 +71321,25 @@
       "type": 1,
       "bundleID": "co.noteplan.NotePlan3",
       "bundleIdentifier": "co.noteplan.NotePlan3",
-      "version": "3.21.2",
-      "versionDate": "2026-08-11",
+      "version": "3.21.3",
+      "versionDate": "2026-09-21",
       "fullDate": "20260618005907",
-      "size": 119957061,
+      "size": 134023883,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-06-2026/NotePlan_3.21.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-08-2026/NotePlan_3.21.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NotePlan_3.21.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.noteplan.NotePlan3.png",
       "versions": [
+        {
+          "version": "3.21.3",
+          "date": "2026-09-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NotePlan_3.21.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 134023883,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.21.3"
+        },
         {
           "version": "3.21.2",
           "date": "2026-08-11",
@@ -77513,17 +77537,25 @@
       "type": 1,
       "bundleID": "com.wiheads.paste",
       "bundleIdentifier": "com.wiheads.paste",
-      "version": "6.6.10",
-      "versionDate": "2026-09-03",
+      "version": "7.0.0",
+      "versionDate": "2026-09-21",
       "fullDate": "20260609164601",
-      "size": 83260472,
+      "size": 127479432,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-06-2026/Paste_6.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/Paste_6.6.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Paste_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wiheads.paste.png",
       "versions": [
+        {
+          "version": "7.0.0",
+          "date": "2026-09-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Paste_7.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 127479432,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.0.0"
+        },
         {
           "version": "6.6.10",
           "date": "2026-09-03",
@@ -122940,17 +122972,25 @@
       "type": 1,
       "bundleID": "com.kavsoft.MockviewApp",
       "bundleIdentifier": "com.kavsoft.MockviewApp",
-      "version": "5.0",
-      "versionDate": "2026-09-20",
+      "version": "5.0.1",
+      "versionDate": "2026-09-21",
       "fullDate": "20251204051420",
-      "size": 147151080,
+      "size": 147152922,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/Mockview_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Mockview_5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Mockview_5.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
       "versions": [
+        {
+          "version": "5.0.1",
+          "date": "2026-09-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Mockview_5.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 147152922,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.0.1"
+        },
         {
           "version": "5.0",
           "date": "2026-09-20",
@@ -128771,10 +128811,10 @@
       "type": 1,
       "bundleID": "com.duuro.moneyCoach",
       "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "12.0",
-      "versionDate": "2026-09-13",
+      "version": "12.0.2",
+      "versionDate": "2026-09-20",
       "fullDate": "20250823192618",
-      "size": 122180839,
+      "size": 124052352,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/MoneyCoach_10.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
       "developerName": "",
@@ -128782,6 +128822,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
       "versions": [
+        {
+          "version": "12.0.2",
+          "date": "2026-09-20",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
+          "size": 124052352,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "12.0.2"
+        },
         {
           "version": "12.0",
           "date": "2026-09-13",
@@ -154118,9 +154166,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Petty: Petrol Prices Australia\n\nTweak: Premium Unlocked\n\nVersion: 7.5.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2125",
       "iconURL": "https://mypleasure.zxcvbn.fyi/bdb3bf73-1c92-483f-9376-a93375100169/icon.jpg",
-      "version": "8.1.7",
-      "size": 25258692,
+      "version": "8.1.8",
+      "size": 25794980,
       "versions": [
+        {
+          "version": "8.1.8",
+          "date": "2026-09-21",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2125",
+          "size": 25794980,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "8.1.8"
+        },
         {
           "version": "8.1.7",
           "date": "2026-09-16",
@@ -154170,7 +154226,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-16"
+      "versionDate": "2026-09-21"
     },
     {
       "name": "Race Master",
@@ -159818,11 +159874,19 @@
       "name": "HoursTracker",
       "bundleIdentifier": "com.carlosribas.HoursTrackerLite",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Hours Tracker: Time Tracking\n\nTweak: Premium Unlocked\n\nVersion: 7.3.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/1ee2244c-1bbe-4870-987f-079fc22a0186/Hours_Tracker__Time_Tracking-v7.3.4-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2408",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c2326758-3fcd-4ca3-b7d6-df9b6edcf495/icon.jpg",
-      "version": "7.3.4",
-      "size": 22086735,
+      "version": "8.3.1",
+      "size": 40111200,
       "versions": [
+        {
+          "version": "8.3.1",
+          "date": "2026-09-21",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2408",
+          "size": 40111200,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "8.3.1"
+        },
         {
           "version": "7.3.4",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/1ee2244c-1bbe-4870-987f-079fc22a0186/Hours_Tracker__Time_Tracking-v7.3.4-riftysipas.ipa",
@@ -159832,7 +159896,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-21"
     },
     {
       "name": "Ochi",
