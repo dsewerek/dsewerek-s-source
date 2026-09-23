@@ -1673,17 +1673,25 @@
       "type": 1,
       "bundleID": "com.lyftaios",
       "bundleIdentifier": "com.lyftaios",
-      "version": "1.160",
-      "versionDate": "2026-09-12",
+      "version": "1.161",
+      "versionDate": "2026-09-23",
       "fullDate": "20260807041633",
-      "size": 59142034,
+      "size": 57954703,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Lyfta_1.153_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Lyfta_1.160_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Lyfta_1.161_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "versions": [
+        {
+          "version": "1.161",
+          "date": "2026-09-23",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Lyfta_1.161_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 57954703,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.161"
+        },
         {
           "version": "1.160",
           "date": "2026-09-12",
@@ -13631,17 +13639,25 @@
       "type": 1,
       "bundleID": "com.shred.shredlabs",
       "bundleIdentifier": "com.shred.shredlabs",
-      "version": "5.5.3",
-      "versionDate": "2026-09-03",
+      "version": "5.5.4",
+      "versionDate": "2026-09-23",
       "fullDate": "20260805225415",
-      "size": 102554852,
+      "size": 152612795,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SHRED_5.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/SHRED_5.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/SHRED_5.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shred.shredlabs.png",
       "versions": [
+        {
+          "version": "5.5.4",
+          "date": "2026-09-23",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/SHRED_5.5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 152612795,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.5.4"
+        },
         {
           "version": "5.5.3",
           "date": "2026-09-03",
@@ -17649,17 +17665,25 @@
       "type": 1,
       "bundleID": "com.locket.Locket",
       "bundleIdentifier": "com.locket.Locket",
-      "version": "2.64.0",
-      "versionDate": "2026-09-12",
+      "version": "2.65.1",
+      "versionDate": "2026-09-23",
       "fullDate": "20260805050342",
-      "size": 101543080,
+      "size": 94711436,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Locket_2.58.1_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/Locket_2.64.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Locket_2.65.1_Gold_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Gold",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "versions": [
+        {
+          "version": "2.65.1",
+          "date": "2026-09-23",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Locket_2.65.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+          "size": 94711436,
+          "localizedDescription": "Injected with Gold",
+          "buildVersion": "2.65.1"
+        },
         {
           "version": "2.64.0",
           "date": "2026-09-12",
@@ -31327,17 +31351,25 @@
       "type": 1,
       "bundleID": "com.camerasideas.InstaShot",
       "bundleIdentifier": "com.camerasideas.InstaShot",
-      "version": "1.99.1",
-      "versionDate": "2026-09-10",
+      "version": "2.0.0",
+      "versionDate": "2026-09-23",
       "fullDate": "20260801185736",
-      "size": 167537581,
+      "size": 168072936,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/InShot_1.98.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-09-2026/InShot_1.99.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/InShot_2.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.camerasideas.InstaShot.png",
       "versions": [
+        {
+          "version": "2.0.0",
+          "date": "2026-09-23",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/InShot_2.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 168072936,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "2.0.0"
+        },
         {
           "version": "1.99.1",
           "date": "2026-09-10",
@@ -38438,17 +38470,25 @@
       "type": 1,
       "bundleID": "com.kingsoft.office.g.wpsoffice",
       "bundleIdentifier": "com.kingsoft.office.g.wpsoffice",
-      "version": "26.9.1",
-      "versionDate": "2026-09-16",
+      "version": "26.9.2",
+      "versionDate": "2026-09-23",
       "fullDate": "20260729081923",
-      "size": 327739170,
+      "size": 328238516,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/wpsoffice_26.7.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/wpsoffice_26.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/wpsoffice_26.9.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kingsoft.office.g.wpsoffice.png",
       "versions": [
+        {
+          "version": "26.9.2",
+          "date": "2026-09-23",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/wpsoffice_26.9.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 328238516,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "26.9.2"
+        },
         {
           "version": "26.9.1",
           "date": "2026-09-16",
@@ -122196,8 +122236,8 @@
       "type": 1,
       "bundleID": "com.myswimpro.apps.MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.5.1",
-      "versionDate": "2026-09-06",
+      "version": "9.5.3",
+      "versionDate": "2026-09-23",
       "fullDate": "20251215171429",
       "size": 59312394,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/MySwimPro_8.34.4_Pro_%40thisismanpreets_apptesters.org.ipa",
@@ -122207,6 +122247,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
       "versions": [
+        {
+          "version": "9.5.3",
+          "date": "2026-09-23",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+          "size": 59312394,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "9.5.3"
+        },
         {
           "version": "9.5.1",
           "date": "2026-09-06",
@@ -126494,17 +126542,25 @@
       "type": 1,
       "bundleID": "com.zeus.EasyCopy",
       "bundleIdentifier": "com.zeus.EasyCopy",
-      "version": "3.4.0",
-      "versionDate": "2025-10-13",
+      "version": "4.0.0",
+      "versionDate": "2026-09-23",
       "fullDate": "20251013210412",
-      "size": 32279357,
+      "size": 36480212,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/Clipboard_3.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-10-2025/Clipboard_3.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Clipboard_4.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zeus.EasyCopy.png",
       "versions": [
+        {
+          "version": "4.0.0",
+          "date": "2026-09-23",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Clipboard_4.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 36480212,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "4.0.0"
+        },
         {
           "version": "3.4.0",
           "date": "2025-10-13",
@@ -157900,11 +157956,19 @@
       "name": "Tomb of the Mask",
       "bundleIdentifier": "com.happymagenta.fromcore",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tomb of the Mask: Pixel Maze\n\nTweak:\n\n - Unlimited Coins\n - Unlimited Energy\n - Unlimited Skip Tickets\n - No Ads\n - All Masks Unlocked\n\nVersion: 1.21.2\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/ca64f2e4-51ca-4978-a5b9-faf9937c3b32/Tomb_of_the_Mask__Pixel_Maze-v1.21.2-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2409",
       "iconURL": "https://mypleasure.zxcvbn.fyi/d843db2d-4a2e-48c7-b4a9-7fd89baf8661/icon.jpg",
-      "version": "1.21.2",
-      "size": 71840603,
+      "version": "1.26.0",
+      "size": 85992510,
       "versions": [
+        {
+          "version": "1.26.0",
+          "date": "2026-09-23",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2409",
+          "size": 85992510,
+          "localizedDescription": "Unlimited Coins,",
+          "buildVersion": "1.26.0"
+        },
         {
           "version": "1.21.2",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/ca64f2e4-51ca-4978-a5b9-faf9937c3b32/Tomb_of_the_Mask__Pixel_Maze-v1.21.2-riftysipas.ipa",
@@ -157938,7 +158002,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-23"
     },
     {
       "name": "Amethyst",
