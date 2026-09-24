@@ -17023,17 +17023,25 @@
       "type": 1,
       "bundleID": "com.zerone.hidesktop",
       "bundleIdentifier": "com.zerone.hidesktop",
-      "version": "5.1.07",
-      "versionDate": "2026-09-18",
+      "version": "5.1.10",
+      "versionDate": "2026-09-24",
       "fullDate": "20260805073924",
-      "size": 330532143,
+      "size": 359413725,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/HiWidget_5.0.07_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/HiWidget_5.1.07_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/iScreen_5.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
       "versions": [
+        {
+          "version": "5.1.10",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/iScreen_5.1.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 359413725,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.1.10"
+        },
         {
           "version": "5.1.07",
           "date": "2026-09-18",
@@ -32057,17 +32065,25 @@
       "type": 1,
       "bundleID": "in.muditbhargava.LookUp",
       "bundleIdentifier": "in.muditbhargava.LookUp",
-      "version": "13.0.2",
-      "versionDate": "2026-09-17",
+      "version": "13.0.3",
+      "versionDate": "2026-09-24",
       "fullDate": "20260801114644",
-      "size": 140536188,
+      "size": 140624758,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/LookUp_12.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/LookUp_13.0.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/LookUp_13.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
       "versions": [
+        {
+          "version": "13.0.3",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/LookUp_13.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 140624758,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "13.0.3"
+        },
         {
           "version": "13.0.2",
           "date": "2026-09-17",
@@ -121968,17 +121984,25 @@
       "type": 1,
       "bundleID": "com.penguinbit.fastdownload",
       "bundleIdentifier": "com.penguinbit.fastdownload",
-      "version": "1.5.22",
-      "versionDate": "2025-12-16",
+      "version": "1.6.0",
+      "versionDate": "2026-09-24",
       "fullDate": "20251216071435",
-      "size": 16409630,
+      "size": 17624882,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/fGet_1.5.22_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/fGet_1.5.22_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/fGet_1.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.penguinbit.fastdownload.png",
       "versions": [
+        {
+          "version": "1.6.0",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/fGet_1.6.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 17624882,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.6.0"
+        },
         {
           "version": "1.5.22",
           "date": "2025-12-16",
@@ -147481,7 +147505,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 12824047,
+      "size": 13515131,
       "screenshots": {
         "iphone": [
           {
@@ -147511,6 +147535,15 @@
       },
       "versions": [
         {
+          "version": "3.1.11",
+          "date": "2026-09-23",
+          "localizedDescription": "Transitions to mounting the DDI via cryptex, should fix issues with the iPhone 18 Pro series.\n\nWhat's Changed\n Add Malloc Debugging by @Leviidev in https://github.com/StikDebug/StikDebug/pull/460\n\nNew Contributors\n @Leviidev made their first contribution in https://github.com/StikDebug/StikDebug/pull/460\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.10...3.1.11",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.11/StikDebug-3.1.11.ipa",
+          "size": 13515131,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.1.11"
+        },
+        {
           "version": "3.1.10",
           "date": "2026-08-27",
           "localizedDescription": "Full Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.9...3.1.10\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.9...3.1.10",
@@ -147529,9 +147562,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.1.10",
-      "versionDate": "2026-08-27",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.10/StikDebug-3.1.10.ipa"
+      "version": "3.1.11",
+      "versionDate": "2026-09-23",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.11/StikDebug-3.1.11.ipa"
     },
     {
       "name": "StikPair",
@@ -155226,9 +155259,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: VisualMind: AI MindMap/Chatbot\n\nTweak: Subscription Unlocked\n\nVersion: 1.4.13\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2375",
       "iconURL": "https://mypleasure.zxcvbn.fyi/dd744253-b264-4f1c-8d9f-25678699c5f3/icon.jpg",
-      "version": "1.6.1",
-      "size": 23311902,
+      "version": "1.6.2",
+      "size": 25633805,
       "versions": [
+        {
+          "version": "1.6.2",
+          "date": "2026-09-24",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2375",
+          "size": 25633805,
+          "localizedDescription": "Premium Unlocked",
+          "buildVersion": "1.6.2"
+        },
         {
           "version": "1.6.1",
           "date": "2026-08-19",
@@ -155254,7 +155295,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-19"
+      "versionDate": "2026-09-24"
     },
     {
       "name": "IFTTT",
@@ -187225,6 +187266,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "134",
+          "date": "2026-09-24T01:26:42.747Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-134/Non-Jailbroken.ipa",
+          "size": 92534396,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "110",
           "date": "2026-09-22T09:22:13.931Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -187338,9 +187390,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-09-22",
-      "size": 91908673,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-110/Non-Jailbroken.ipa"
+      "versionDate": "2026-09-24",
+      "size": 92534396,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-134/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
