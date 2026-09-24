@@ -30014,17 +30014,25 @@
       "type": 1,
       "bundleID": "nutrition.coach",
       "bundleIdentifier": "nutrition.coach",
-      "version": "2.3.0",
-      "versionDate": "2026-08-28",
+      "version": "2.4.0",
+      "versionDate": "2026-09-24",
       "fullDate": "20260803113251",
-      "size": 75698984,
+      "size": 77240602,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/NutriCoach_2.2.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-08-2026/NutriCoach_2.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/NutriCoach_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/nutrition.coach.png",
       "versions": [
+        {
+          "version": "2.4.0",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/NutriCoach_2.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 77240602,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.4.0"
+        },
         {
           "version": "2.3.0",
           "date": "2026-08-28",
@@ -71676,17 +71684,25 @@
       "type": 1,
       "bundleID": "com.calisthenics.thenx",
       "bundleIdentifier": "com.calisthenics.thenx",
-      "version": "6.7.10",
-      "versionDate": "2026-09-20",
+      "version": "6.8.1",
+      "versionDate": "2026-09-24",
       "fullDate": "20260623151533",
-      "size": 150144710,
+      "size": 150194757,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-06-2026/Thenx_6.7.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Thenx_6.7.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/Thenx_6.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.calisthenics.thenx.png",
       "versions": [
+        {
+          "version": "6.8.1",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/Thenx_6.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 150194757,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.8.1"
+        },
         {
           "version": "6.7.10",
           "date": "2026-09-20",
@@ -122108,6 +122124,14 @@
           "buildVersion": "1.6.0"
         },
         {
+          "version": "1.6.1",
+          "date": "2026-09-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/fGet_1.6.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 17626218,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.6.1"
+        },
+        {
           "version": "1.5.22",
           "date": "2025-12-16",
           "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/fGet_1.5.22_Pro_%40thisismanpreets_apptesters.org.ipa",
@@ -149081,11 +149105,19 @@
       "name": "Da Vinci Eye",
       "bundleIdentifier": "com.cumbemg.davinci",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Da Vinci Eye: AR Trace & Draw\n\nTweak: Subscription Unlocked\n\nVersion: 4.6.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/d5c3a886-673d-4731-9020-877de8d27d32/Da_Vinci_Eye__AR_Trace___Draw-v4.6.0-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
       "iconURL": "https://mypleasure.zxcvbn.fyi/136a15d4-25d0-4a9e-9285-5a1d950e52ec/icon.jpg",
-      "version": "4.6.0",
-      "size": 104002937,
+      "version": "5.0.0",
+      "size": 127640774,
       "versions": [
+        {
+          "version": "5.0.0",
+          "date": "2026-09-24",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1437",
+          "size": 127640774,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "5.0.0"
+        },
         {
           "version": "4.6.0",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/d5c3a886-673d-4731-9020-877de8d27d32/Da_Vinci_Eye__AR_Trace___Draw-v4.6.0-riftysipas.ipa",
@@ -149111,7 +149143,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-09-24"
     },
     {
       "name": "Dark Noise",
