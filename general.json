@@ -16497,17 +16497,25 @@
       "type": 1,
       "bundleID": "com.readdle.PDFExpert5",
       "bundleIdentifier": "com.readdle.PDFExpert5",
-      "version": "7.26",
-      "versionDate": "2026-09-14",
+      "version": "7.26.1",
+      "versionDate": "2026-09-25",
       "fullDate": "20260805110051",
-      "size": 183741659,
+      "size": 183710991,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/PDFExpert_7.25.10_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-09-2026/PDFExpert_7.26_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/PDFExpert_7.26.1_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.PDFExpert5.png",
       "versions": [
+        {
+          "version": "7.26.1",
+          "date": "2026-09-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/PDFExpert_7.26.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 183710991,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "7.26.1"
+        },
         {
           "version": "7.26",
           "date": "2026-09-14",
@@ -24382,17 +24390,25 @@
       "type": 1,
       "bundleID": "com.frameoneapps.Crsel",
       "bundleIdentifier": "com.frameoneapps.Crsel",
-      "version": "1.5.3",
-      "versionDate": "2026-09-22",
+      "version": "1.5.4",
+      "versionDate": "2026-09-25",
       "fullDate": "20260804012510",
-      "size": 148238352,
+      "size": 148240842,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Crsel_1.4.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Crsel_1.5.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Crsel_1.5.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "versions": [
+        {
+          "version": "1.5.4",
+          "date": "2026-09-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Crsel_1.5.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 148240842,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.5.4"
+        },
         {
           "version": "1.5.3",
           "date": "2026-09-22",
@@ -56283,17 +56299,25 @@
       "type": 1,
       "bundleID": "club.boxbox.widgets-ios",
       "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.5.1",
-      "versionDate": "2026-09-15",
+      "version": "5.5.2",
+      "versionDate": "2026-09-25",
       "fullDate": "20260719162443",
-      "size": 121665803,
+      "size": 121671376,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/BoxBox_5.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/BoxBox_5.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/BoxBox_5.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "versions": [
+        {
+          "version": "5.5.2",
+          "date": "2026-09-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/BoxBox_5.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 121671376,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "5.5.2"
+        },
         {
           "version": "5.5.1",
           "date": "2026-09-15",
@@ -59893,17 +59917,25 @@
       "type": 1,
       "bundleID": "com.hasankassem.mockup",
       "bundleIdentifier": "com.hasankassem.mockup",
-      "version": "4.4.2",
-      "versionDate": "2026-09-20",
+      "version": "4.5",
+      "versionDate": "2026-09-25",
       "fullDate": "20260711094459",
-      "size": 50689286,
+      "size": 52114205,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-07-2026/Mockup_4.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Mockup_4.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Mockup_4.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hasankassem.mockup.png",
       "versions": [
+        {
+          "version": "4.5",
+          "date": "2026-09-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Mockup_4.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 52114205,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.5"
+        },
         {
           "version": "4.4.2",
           "date": "2026-09-20",
@@ -113483,10 +113515,10 @@
       "type": 1,
       "bundleID": "com.unofficialcalculators.payplan",
       "bundleIdentifier": "com.unofficialcalculators.payplan",
-      "version": "4.2.36",
-      "versionDate": "2026-09-23",
+      "version": "4.2.37",
+      "versionDate": "2026-09-25",
       "fullDate": "20260101215442",
-      "size": 163614454,
+      "size": 165017984,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/BillTracker_4.1.25_Pro_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
       "developerName": "",
@@ -113494,6 +113526,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.unofficialcalculators.payplan.png",
       "versions": [
+        {
+          "version": "4.2.37",
+          "date": "2026-09-25",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2127",
+          "size": 165017984,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "4.2.37"
+        },
         {
           "version": "4.2.36",
           "date": "2026-09-23",
@@ -159055,11 +159095,19 @@
       "name": "Water Reminder",
       "bundleIdentifier": "com.vgfit.waterreminder",
       "localizedDescription": "from @blatants |\n----------------\n📱 Water Reminder - Daily Tracker\n\n🆔 Bundle ID: \ncom.vgfit.waterreminder\n📊 Version: 1.9.29\n🔧 Minimum iOS: 12.0\n\n✅ Patched\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-09-2026/WaterReminder_1.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/WaterReminder_1.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6c1c9d9e-620a-45f2-9369-648b5d1c3671/icon.jpg",
-      "version": "1.10.1",
-      "size": 39600486,
+      "version": "1.11.2",
+      "size": 51888030,
       "versions": [
+        {
+          "version": "1.11.2",
+          "date": "2026-09-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/WaterReminder_1.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 51888030,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.11.2"
+        },
         {
           "version": "1.10.1",
           "date": "2026-09-02",
@@ -159077,7 +159125,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-02"
+      "versionDate": "2026-09-25"
     },
     {
       "name": "365Scores",
@@ -187482,6 +187530,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "140",
+          "date": "2026-09-25T02:07:30.469Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-140/Non-Jailbroken.ipa",
+          "size": 92781462,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "138",
           "date": "2026-09-24T06:16:40.736Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -187628,9 +187687,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-09-24",
-      "size": 92541183,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-138/Non-Jailbroken.ipa"
+      "versionDate": "2026-09-25",
+      "size": 92781462,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-140/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
