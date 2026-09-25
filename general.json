@@ -15585,17 +15585,25 @@
       "type": 1,
       "bundleID": "com.leshko.cloudplayer",
       "bundleIdentifier": "com.leshko.cloudplayer",
-      "version": "8.8",
-      "versionDate": "2026-08-05",
+      "version": "8.9",
+      "versionDate": "2026-09-25",
       "fullDate": "20260805150654",
-      "size": 88466009,
+      "size": 112592454,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Evermusic_8.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Evermusic_8.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Evermusic_8.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.cloudplayer.png",
       "versions": [
+        {
+          "version": "8.9",
+          "date": "2026-09-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/Evermusic_8.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 112592454,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.9"
+        },
         {
           "version": "8.8",
           "date": "2026-08-05",
@@ -46818,17 +46826,25 @@
       "type": 1,
       "bundleID": "ru.routes.peakvisor",
       "bundleIdentifier": "ru.routes.peakvisor",
-      "version": "5.114",
-      "versionDate": "2026-09-24",
+      "version": "5.115",
+      "versionDate": "2026-09-25",
       "fullDate": "20260724205645",
-      "size": 159317930,
+      "size": 159530561,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/PeakVisor_5.103_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/PeakVisor_5.114_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/PeakVisor_5.115_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "versions": [
+        {
+          "version": "5.115",
+          "date": "2026-09-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/PeakVisor_5.115_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 159530561,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.115"
+        },
         {
           "version": "5.114",
           "date": "2026-09-24",
@@ -158989,9 +159005,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Crossword Master - Word Puzzle\n\nTweak: Free IAP\n\nVersion: 1.10.0\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2173",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c8e51a71-024d-4453-9249-ca63e2961caa/icon.jpg",
-      "version": "2.2.0",
-      "size": 91697788,
+      "version": "2.3.0",
+      "size": 97101718,
       "versions": [
+        {
+          "version": "2.3.0",
+          "date": "2026-09-25",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2173",
+          "size": 97101718,
+          "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
+          "buildVersion": "2.3.0"
+        },
         {
           "version": "2.2.0",
           "date": "2026-09-08",
@@ -159025,7 +159049,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-08"
+      "versionDate": "2026-09-25"
     },
     {
       "name": "Water Reminder",
@@ -187458,6 +187482,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "138",
+          "date": "2026-09-24T06:16:40.736Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-138/Non-Jailbroken.ipa",
+          "size": 92541183,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "135",
           "date": "2026-09-24T03:20:31.189Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -187594,8 +187629,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-09-24",
-      "size": 92536222,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-135/Non-Jailbroken.ipa"
+      "size": 92541183,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-138/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
