@@ -120651,10 +120651,10 @@
       "type": 1,
       "bundleID": "com.shinobiapp.shinobi",
       "bundleIdentifier": "com.shinobiapp.shinobi",
-      "version": "1.4.7",
-      "versionDate": "2026-09-14",
+      "version": "1.5.0",
+      "versionDate": "2026-09-26",
       "fullDate": "20251217174557",
-      "size": 59800274,
+      "size": 58788507,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Shinobi_1.2.6_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
       "developerName": "",
@@ -120662,6 +120662,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shinobiapp.shinobi.png",
       "versions": [
+        {
+          "version": "1.5.0",
+          "date": "2026-09-26",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2238",
+          "size": 58788507,
+          "localizedDescription": "- unlocked subscription\r\n\r\nwarning: restart app if subscription isn't unlocked\r\n\r\nLearn Japanese through illustrated stories, native audio, shadowing, quizzes, and interactive reading tools.",
+          "buildVersion": "1.5.0"
+        },
         {
           "version": "1.4.7",
           "date": "2026-09-14",
