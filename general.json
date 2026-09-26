@@ -114873,10 +114873,10 @@
       "type": 1,
       "bundleID": "io.fadel.Spiik",
       "bundleIdentifier": "io.fadel.Spiik",
-      "version": "1.0.134",
-      "versionDate": "2026-08-12",
+      "version": "1.0.142",
+      "versionDate": "2026-09-26",
       "fullDate": "20251231182143",
-      "size": 37939904,
+      "size": 40902077,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-12-2025/Spiik_1.0.111_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2154",
       "developerName": "",
@@ -114884,6 +114884,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.Spiik.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.fadel.Spiik.png",
       "versions": [
+        {
+          "version": "1.0.142",
+          "date": "2026-09-26",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2154",
+          "size": 40902077,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "1.0.142"
+        },
         {
           "version": "1.0.134",
           "date": "2026-08-12",
@@ -180353,6 +180361,16 @@
         },
         {
           "version": "3.4.0",
+          "buildVersion": "10222",
+          "marketingVersion": "3.4.0-alpha.20260926.d27b8be",
+          "date": "2026-09-26",
+          "localizedDescription": "Alpha build d27b8be · 2026-09-26\n\nChanges in this build:\n• [Agent] Bound on-demand BIOS downloads in the launch path (#3700)\n• [Agent] Replace stale thin-wrapper BIOS copies atomically (#3699)\n• [Agent] fix(video): apply scaling mode in Dolphin, PPSSPP and RetroArch wrapper (#3695)\n• build(dolphin): bump dolphin-ios (bench loadStateSlot deadlock fix, perf matrix results)\n• [Agent] Show iCloud BIOS availability and download status in the BIOS list (#3698)\n• [Agent] Fix stale thin-wrapper BIOS copies and slow optional-BIOS launch check (#3697)\n• [Agent] test(pvui): get PVUI unit tests compiling and passing in CI (#3696)\n• update dolphin core\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 730535894,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10184",
           "marketingVersion": "3.4.0-alpha.20260925.c1b68fd",
           "date": "2026-09-25",
@@ -187678,6 +187696,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "169",
+          "date": "2026-09-26T17:37:45.977Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-169/Non-Jailbroken.ipa",
+          "size": 93305526,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "151",
           "date": "2026-09-25T11:18:53.987Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -187846,9 +187875,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-09-25",
-      "size": 92903453,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-151/Non-Jailbroken.ipa"
+      "versionDate": "2026-09-26",
+      "size": 93305526,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-169/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
