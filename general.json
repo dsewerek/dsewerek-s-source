@@ -111929,17 +111929,25 @@
       "type": 1,
       "bundleID": "com.google.ios.youtube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.38.2",
-      "versionDate": "2026-09-22",
+      "version": "21.38.3",
+      "versionDate": "2026-09-26",
       "fullDate": "20260113071103",
       "size": 130097628,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/YouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.33/300acd75-b5dd-4e6f-bf94-ced3deb9ecYM.ipa",
+      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.34/b811fc29-a1ea-43b5-b469-5608acb912YM.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "versions": [
+        {
+          "version": "21.38.3",
+          "date": "2026-09-26",
+          "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.34/b811fc29-a1ea-43b5-b469-5608acb912YM.ipa",
+          "size": 130097628,
+          "localizedDescription": "https://t.me/+rvcObIvOpctiMDI9\n\nA modified version of Youtube",
+          "buildVersion": "21.38.3"
+        },
         {
           "version": "21.38.2",
           "date": "2026-09-22",
