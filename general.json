@@ -13389,17 +13389,25 @@
       "type": 1,
       "bundleID": "co.detail.duo",
       "bundleIdentifier": "co.detail.duo",
-      "version": "6.0.1",
-      "versionDate": "2026-09-17",
+      "version": "6.0.2",
+      "versionDate": "2026-09-27",
       "fullDate": "20260805225931",
-      "size": 215271408,
+      "size": 208726025,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Detail_5.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/Detail_6.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
       "versions": [
+        {
+          "version": "6.0.2",
+          "date": "2026-09-27",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2226",
+          "size": 208726025,
+          "localizedDescription": "Detail combines the simplicity of a camera app with the power of a professional AI video editor. Whether you're creating a 60-second reaction video, a polished YouTube vlog, a 30-minute interview or podcast, or going live to thousands of viewers, you can do it all in one place with Detail.\r\n\r\n\r\nINSTANT VIDEO WITH AI AUTO-EDIT\r\n\r\nRecord or import a video and let AI Auto-Edit do the rest. Detail's AI finds the best moments, removes silences, and creates ready-to-share shorts and reels automatically. Instant video — record, done.\r\n\r\n\r\nAI DIRECTOR — YOUR PERSONAL TELEPROMPTER\r\n\r\nStay on script with AI Director, your conversational teleprompter guide. It listens as you speak and keeps you on track, so every take is your best take. Perfect for con",
+          "buildVersion": "6.0.2"
+        },
         {
           "version": "6.0.1",
           "date": "2026-09-17",
@@ -105091,17 +105099,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "26.36.74",
-      "versionDate": "2026-09-14",
+      "version": "26.37.76",
+      "versionDate": "2026-09-27",
       "fullDate": "20260319003304",
-      "size": 163125151,
+      "size": 165394634,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254543-a770n/net.whatsapp.WhatsApp_26.36.74_watusi3_1.3.24_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-mz0m0/net.whatsapp.WhatsApp_26.37.76_watusi3_1.3.25_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
+        {
+          "version": "26.37.76",
+          "date": "2026-09-27T08:27:42+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.37.X\n- Fixed Unlimited Pinned Chats blocking pinned chats from being unpinned.\n- Fixed Keep Edited Messages History showing the edited text in place of the original message.\n- Keep Edited Messages History now also records edits made in disappearing chats, edits made from a linked device, and edited media captions.\n- Fixed the statuses bar on the chats list not appearing at all for some accounts on WhatsApp's new internal status storage.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-mz0m0/net.whatsapp.WhatsApp_26.37.76_watusi3_1.3.25_sl.ipa",
+          "size": 165394634,
+          "buildVersion": "26.37.76"
+        },
         {
           "version": "26.36.74",
           "date": "2026-09-14T08:10:31+00:00",
@@ -106005,17 +106021,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsAppSMB",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "26.36.74",
-      "versionDate": "2026-09-14",
+      "version": "26.37.76",
+      "versionDate": "2026-09-27",
       "fullDate": "20260319003256",
-      "size": 169697185,
+      "size": 172094487,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WABusiness_26.9.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254542-4tn0i/net.whatsapp.WhatsAppSMB_26.36.74_watusi3_1.3.24_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-1sado/net.whatsapp.WhatsAppSMB_26.37.76_watusi3_1.3.25_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "versions": [
+        {
+          "version": "26.37.76",
+          "date": "2026-09-27T08:27:42+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.37.X\n- Fixed Unlimited Pinned Chats blocking pinned chats from being unpinned.\n- Fixed Keep Edited Messages History showing the edited text in place of the original message.\n- Keep Edited Messages History now also records edits made in disappearing chats, edits made from a linked device, and edited media captions.\n- Fixed the statuses bar on the chats list not appearing at all for some accounts on WhatsApp's new internal status storage.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-1sado/net.whatsapp.WhatsAppSMB_26.37.76_watusi3_1.3.25_sl.ipa",
+          "size": 172094487,
+          "buildVersion": "26.37.76"
+        },
         {
           "version": "26.36.74",
           "date": "2026-09-14T08:10:31+00:00",
@@ -167232,6 +167256,14 @@
       },
       "versions": [
         {
+          "version": "26.37.76",
+          "date": "2026-09-27T08:27:42+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.37.X\n- Fixed Unlimited Pinned Chats blocking pinned chats from being unpinned.\n- Fixed Keep Edited Messages History showing the edited text in place of the original message.\n- Keep Edited Messages History now also records edits made in disappearing chats, edits made from a linked device, and edited media captions.\n- Fixed the statuses bar on the chats list not appearing at all for some accounts on WhatsApp's new internal status storage.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-nr5ug/com.fouadraheb.watusi_26.37.76_watusi3_1.3.25_sl.ipa",
+          "size": 162977543,
+          "buildVersion": "26.37.76"
+        },
+        {
           "version": "26.36.74",
           "date": "2026-09-14T08:10:31+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.36.X\n- Fixed notifications reappearing after being cleared.\n- Fixed Split Long Videos not splitting status videos on newer WhatsApp versions.\n- Fixed the chat bar mic button not picking up the theme's tint color on WhatsApp's new circular mic button.",
@@ -167328,13 +167360,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.36.74",
-      "versionDate": "2026-09-14",
+      "version": "26.37.76",
+      "versionDate": "2026-09-27",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254542-0emm6/com.fouadraheb.watusi_26.36.74_watusi3_1.3.24_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201795-nr5ug/com.fouadraheb.watusi_26.37.76_watusi3_1.3.25_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073110-ujq9m/com.fouadraheb.watusi_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 160720180
+      "size": 162977543
     },
     {
       "id": "SMB-SL-Duplicate",
@@ -167376,6 +167408,14 @@
         }
       },
       "versions": [
+        {
+          "version": "26.37.76",
+          "date": "2026-09-27T08:27:42+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.37.X\n- Fixed Unlimited Pinned Chats blocking pinned chats from being unpinned.\n- Fixed Keep Edited Messages History showing the edited text in place of the original message.\n- Keep Edited Messages History now also records edits made in disappearing chats, edits made from a linked device, and edited media captions.\n- Fixed the statuses bar on the chats list not appearing at all for some accounts on WhatsApp's new internal status storage.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201794-cpbzq/com.fouadraheb.watusiSMB_26.37.76_watusi3_1.3.25_sl.ipa",
+          "size": 169631035,
+          "buildVersion": "26.37.76"
+        },
         {
           "version": "26.36.74",
           "date": "2026-09-14T08:10:31+00:00",
@@ -167473,13 +167513,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.36.74",
-      "versionDate": "2026-09-14",
+      "version": "26.37.76",
+      "versionDate": "2026-09-27",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1789385254542-021al/com.fouadraheb.watusiSMB_26.36.74_watusi3_1.3.24_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790498201794-cpbzq/com.fouadraheb.watusiSMB_26.37.76_watusi3_1.3.25_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073109-rwea7/com.fouadraheb.watusiSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 167253084
+      "size": 169631035
     },
     {
       "appPermissions": {
