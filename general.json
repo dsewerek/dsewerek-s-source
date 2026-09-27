@@ -150735,9 +150735,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Scenic Motorcycle Navigation\n\nTweak: Premium Unlocked\n\nVersion: 4.24\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2239",
       "iconURL": "https://mypleasure.zxcvbn.fyi/8efa3420-6fc9-456c-9c80-d11583505053/icon.jpg",
-      "version": "4.43",
-      "size": 148853473,
+      "version": "4.45",
+      "size": 154641751,
       "versions": [
+        {
+          "version": "4.45",
+          "date": "2026-09-26",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2239",
+          "size": 154641751,
+          "localizedDescription": "TAKE THE SCENIC ROUTE — The app motorcycle riders swear by. 30 million hours ridden, 200,000+ user-designed routes, 4.7 star rating worldwide.\r\n\r\nGET THERE YOUR WAY — Curvy routes, beauty routes, unpaved adventures. Scenic finds the twistiest roads automatically, anywhere in the world. You choose how to get there — the rest is just riding.\r\n\r\nPLAN LIKE A PRO — Drop pins, set stops, pick your routing mode. Share your route with fellow riders before you even leave.\r\n\r\nDISCOVER EPIC ROADS — Browse thousands of routes shared and rated by local riders. Search any area, generate a round trip, or import a GPX, Google Maps link, or KML file. All your routes, one app.\r\n\r\nFOCUS ON THE ROAD — Turn-by-turn navigation, glove-friendly controls, an",
+          "buildVersion": "4.45"
+        },
         {
           "version": "4.43",
           "date": "2026-08-09",
@@ -150795,7 +150803,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-09"
+      "versionDate": "2026-09-26"
     },
     {
       "name": "Arch",
@@ -180367,6 +180375,16 @@
           "localizedDescription": "Alpha build d27b8be · 2026-09-26\n\nChanges in this build:\n• [Agent] Bound on-demand BIOS downloads in the launch path (#3700)\n• [Agent] Replace stale thin-wrapper BIOS copies atomically (#3699)\n• [Agent] fix(video): apply scaling mode in Dolphin, PPSSPP and RetroArch wrapper (#3695)\n• build(dolphin): bump dolphin-ios (bench loadStateSlot deadlock fix, perf matrix results)\n• [Agent] Show iCloud BIOS availability and download status in the BIOS list (#3698)\n• [Agent] Fix stale thin-wrapper BIOS copies and slow optional-BIOS launch check (#3697)\n• [Agent] test(pvui): get PVUI unit tests compiling and passing in CI (#3696)\n• update dolphin core\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
           "size": 730535894,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
+          "buildVersion": "10223",
+          "marketingVersion": "3.4.0-alpha.20260926.50e52a6",
+          "date": "2026-09-26",
+          "localizedDescription": "Alpha build 50e52a6 · 2026-09-26\n\nChanges in this build:\n• [Agent] Make the 60s cloud ROM download timeout actually fire (#3703)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 730448536,
           "minOSVersion": "17.0"
         },
         {
