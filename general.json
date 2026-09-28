@@ -81991,17 +81991,25 @@
       "type": 1,
       "bundleID": "com.agiletortoise.Drafts5",
       "bundleIdentifier": "com.agiletortoise.Drafts5",
-      "version": "54.0.4",
-      "versionDate": "2026-09-22",
+      "version": "54.0.5",
+      "versionDate": "2026-09-28",
       "fullDate": "20260603234543",
-      "size": 49335214,
+      "size": 49347112,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-06-2026/Drafts_53.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Drafts_54.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Drafts_54.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agiletortoise.Drafts5.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agiletortoise.Drafts5.png",
       "versions": [
+        {
+          "version": "54.0.5",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Drafts_54.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 49347112,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "54.0.5"
+        },
         {
           "version": "54.0.4",
           "date": "2026-09-22",
@@ -129979,10 +129987,10 @@
       "type": 1,
       "bundleID": "com.duuro.moneyCoach",
       "bundleIdentifier": "com.duuro.moneyCoach",
-      "version": "12.0.2",
-      "versionDate": "2026-09-20",
+      "version": "12.1",
+      "versionDate": "2026-09-28",
       "fullDate": "20250823192618",
-      "size": 124052352,
+      "size": 122357448,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/MoneyCoach_10.5.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
       "developerName": "",
@@ -129990,6 +129998,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duuro.moneyCoach.png",
       "versions": [
+        {
+          "version": "12.1",
+          "date": "2026-09-28",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2158",
+          "size": 122357448,
+          "localizedDescription": "Features:\r\n- subscription unlocked",
+          "buildVersion": "12.1"
+        },
         {
           "version": "12.0.2",
           "date": "2026-09-20",
@@ -147969,7 +147985,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 13515131,
+      "size": 13544301,
       "screenshots": {
         "iphone": [
           {
@@ -147999,6 +148015,15 @@
       },
       "versions": [
         {
+          "version": "3.1.12",
+          "date": "2026-09-27",
+          "localizedDescription": "Should fix issues with DDI for iOS versions below 26.4.\r\nAlso, lots of fixes for JIT scripts and location simulation keepalives.\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.11...3.1.12",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.12/StikDebug-3.1.12.ipa",
+          "size": 13544301,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.1.12"
+        },
+        {
           "version": "3.1.11",
           "date": "2026-09-23",
           "localizedDescription": "Transitions to mounting the DDI via cryptex, should fix issues with the iPhone 18 Pro series.\n\nWhat's Changed\n Add Malloc Debugging by @Leviidev in https://github.com/StikDebug/StikDebug/pull/460\n\nNew Contributors\n @Leviidev made their first contribution in https://github.com/StikDebug/StikDebug/pull/460\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.10...3.1.11",
@@ -148026,9 +148051,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.1.11",
-      "versionDate": "2026-09-23",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.11/StikDebug-3.1.11.ipa"
+      "version": "3.1.12",
+      "versionDate": "2026-09-27",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.12/StikDebug-3.1.12.ipa"
     },
     {
       "name": "StikPair",
