@@ -1673,17 +1673,25 @@
       "type": 1,
       "bundleID": "com.lyftaios",
       "bundleIdentifier": "com.lyftaios",
-      "version": "1.161",
-      "versionDate": "2026-09-23",
+      "version": "1.162",
+      "versionDate": "2026-09-28",
       "fullDate": "20260807041633",
-      "size": 57954703,
+      "size": 63089299,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Lyfta_1.153_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Lyfta_1.161_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Lyfta_1.162_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "versions": [
+        {
+          "version": "1.162",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Lyfta_1.162_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 63089299,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.162"
+        },
         {
           "version": "1.161",
           "date": "2026-09-23",
@@ -9959,17 +9967,25 @@
       "type": 1,
       "bundleID": "com.yengshine.proccd",
       "bundleIdentifier": "com.yengshine.proccd",
-      "version": "6.8.2",
-      "versionDate": "2026-09-22",
+      "version": "6.8.3",
+      "versionDate": "2026-09-29",
       "fullDate": "20260806104525",
-      "size": 290745996,
+      "size": 290747696,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/ProCCD_6.5.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/ProCCD_6.8.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/ProCCD_6.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yengshine.proccd.png",
       "versions": [
+        {
+          "version": "6.8.3",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/ProCCD_6.8.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 290747696,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "6.8.3"
+        },
         {
           "version": "6.8.2",
           "date": "2026-09-22",
@@ -10523,17 +10539,25 @@
       "type": 1,
       "bundleID": "com.agent.super.extension.safari",
       "bundleIdentifier": "com.agent.super.extension.safari",
-      "version": "4.6.5",
-      "versionDate": "2026-09-13",
+      "version": "4.6.7",
+      "versionDate": "2026-09-29",
       "fullDate": "20260806082450",
-      "size": 28283069,
+      "size": 29711224,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/superagent_4.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/superagent_4.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/superagent_4.6.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.agent.super.extension.safari.png",
       "versions": [
+        {
+          "version": "4.6.7",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/superagent_4.6.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 29711224,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.6.7"
+        },
         {
           "version": "4.6.5",
           "date": "2026-09-13",
@@ -10749,17 +10773,25 @@
       "type": 2,
       "bundleID": "com.elevateapp.elevate",
       "bundleIdentifier": "com.elevateapp.elevate",
-      "version": "5.258.0",
-      "versionDate": "2026-09-22",
+      "version": "5.259.0",
+      "versionDate": "2026-09-28",
       "fullDate": "20260806035354",
-      "size": 433251572,
+      "size": 433454276,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Elevate_5.251.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Elevate_5.258.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Elevate_5.259.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.elevate.png",
       "versions": [
+        {
+          "version": "5.259.0",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Elevate_5.259.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 433454276,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.259.0"
+        },
         {
           "version": "5.258.0",
           "date": "2026-09-22",
@@ -17849,17 +17881,25 @@
       "type": 1,
       "bundleID": "com.locket.Locket",
       "bundleIdentifier": "com.locket.Locket",
-      "version": "2.66.0",
-      "versionDate": "2026-09-26",
+      "version": "2.66.1",
+      "versionDate": "2026-09-28",
       "fullDate": "20260805050342",
-      "size": 94922484,
+      "size": 94796280,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Locket_2.58.1_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-09-2026/Locket_2.66.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Locket_2.66.1_Gold_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Gold",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "versions": [
+        {
+          "version": "2.66.1",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Locket_2.66.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+          "size": 94796280,
+          "localizedDescription": "Injected with Gold",
+          "buildVersion": "2.66.1"
+        },
         {
           "version": "2.66.0",
           "date": "2026-09-26",
@@ -23716,17 +23756,25 @@
       "type": 1,
       "bundleID": "com.gingerlabs.Notability",
       "bundleIdentifier": "com.gingerlabs.Notability",
-      "version": "16.12.3",
-      "versionDate": "2026-09-23",
+      "version": "16.12.4",
+      "versionDate": "2026-09-29",
       "fullDate": "20260804034043",
-      "size": 262794812,
+      "size": 262963395,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Notability_16.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Notability_16.12.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Notability_16.12.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
       "versions": [
+        {
+          "version": "16.12.4",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Notability_16.12.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 262963395,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "16.12.4"
+        },
         {
           "version": "16.12.3",
           "date": "2026-09-23",
@@ -24840,17 +24888,25 @@
       "type": 1,
       "bundleID": "com.duolingo.DuolingoMobile",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
-      "version": "7.141.1",
-      "versionDate": "2026-09-23",
+      "version": "7.142.0",
+      "versionDate": "2026-09-29",
       "fullDate": "20260804004952",
-      "size": 211594836,
+      "size": 212538356,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Duolingo_7.134.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/Duolingo_7.141.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Duolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.duolingo.DuolingoMobile.png",
       "versions": [
+        {
+          "version": "7.142.0",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Duolingo_7.142.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 212538356,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "7.142.0"
+        },
         {
           "version": "7.141.1",
           "date": "2026-09-23",
@@ -25428,17 +25484,25 @@
       "type": 1,
       "bundleID": "app.swiftgram.ios",
       "bundleIdentifier": "app.swiftgram.ios",
-      "version": "12.9.2",
-      "versionDate": "2026-08-04",
+      "version": "12.9.3",
+      "versionDate": "2026-09-28",
       "fullDate": "20260804002441",
-      "size": 84836056,
+      "size": 84601423,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Swiftgram_12.9.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Swiftgram_12.9.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Swiftgram_12.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.swiftgram.ios.png",
       "versions": [
+        {
+          "version": "12.9.3",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Swiftgram_12.9.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 84601423,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "12.9.3"
+        },
         {
           "version": "12.9.2",
           "date": "2026-08-04",
@@ -32281,17 +32345,25 @@
       "type": 1,
       "bundleID": "in.muditbhargava.LookUp",
       "bundleIdentifier": "in.muditbhargava.LookUp",
-      "version": "13.0.3",
-      "versionDate": "2026-09-24",
+      "version": "13.0.4",
+      "versionDate": "2026-09-29",
       "fullDate": "20260801114644",
-      "size": 140624758,
+      "size": 140572431,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/LookUp_12.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/LookUp_13.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/LookUp_13.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/in.muditbhargava.LookUp.png",
       "versions": [
+        {
+          "version": "13.0.4",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/LookUp_13.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 140572431,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "13.0.4"
+        },
         {
           "version": "13.0.3",
           "date": "2026-09-24",
@@ -32839,17 +32911,25 @@
       "type": 1,
       "bundleID": "com.evolve.helm",
       "bundleIdentifier": "com.evolve.helm",
-      "version": "3.203.0",
-      "versionDate": "2026-09-21",
+      "version": "3.204.0",
+      "versionDate": "2026-09-29",
       "fullDate": "20260731194820",
-      "size": 133817419,
+      "size": 134772072,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/Rest_3.197.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/Rest_3.203.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Rest_3.204.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "versions": [
+        {
+          "version": "3.204.0",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Rest_3.204.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 134772072,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.204.0"
+        },
         {
           "version": "3.203.0",
           "date": "2026-09-21",
@@ -43536,17 +43616,25 @@
       "type": 1,
       "bundleID": "health.sleep.sounds.tracker.alarm.calm",
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
-      "version": "3.5.4",
-      "versionDate": "2026-09-21",
+      "version": "3.5.5",
+      "versionDate": "2026-09-29",
       "fullDate": "20260727205325",
-      "size": 510861852,
+      "size": 516653223,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/ShutEye_3.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/ShutEye_3.5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/ShutEye_3.5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "versions": [
+        {
+          "version": "3.5.5",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/ShutEye_3.5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 516653223,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.5.5"
+        },
         {
           "version": "3.5.4",
           "date": "2026-09-21",
@@ -50442,17 +50530,25 @@
       "type": 1,
       "bundleID": "com.crossforward.WidgetSmith",
       "bundleIdentifier": "com.crossforward.WidgetSmith",
-      "version": "8.6.1",
-      "versionDate": "2026-09-22",
+      "version": "8.7",
+      "versionDate": "2026-09-28",
       "fullDate": "20260723151407",
-      "size": 157592280,
+      "size": 157812250,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Widgetsmith_8.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/Widgetsmith_8.6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Widgetsmith_8.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.crossforward.WidgetSmith.png",
       "versions": [
+        {
+          "version": "8.7",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Widgetsmith_8.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 157812250,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.7"
+        },
         {
           "version": "8.6.1",
           "date": "2026-09-22",
@@ -50958,17 +51054,25 @@
       "type": 1,
       "bundleID": "se.resenatverket.FlightRadar24-Free",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
-      "version": "11.11.1",
-      "versionDate": "2026-09-18",
+      "version": "11.12.0",
+      "versionDate": "2026-09-29",
       "fullDate": "20260723124554",
-      "size": 226603950,
+      "size": 229402519,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Flightradar24_11.8.0_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/Flightradar24_11.11.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Flightradar24_11.12.0_Gold_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Gold",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
       "versions": [
+        {
+          "version": "11.12.0",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Flightradar24_11.12.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+          "size": 229402519,
+          "localizedDescription": "Injected with Gold",
+          "buildVersion": "11.12.0"
+        },
         {
           "version": "11.11.1",
           "date": "2026-09-18",
@@ -51248,17 +51352,25 @@
       "type": 1,
       "bundleID": "com.leshko.flap",
       "bundleIdentifier": "com.leshko.flap",
-      "version": "7.6",
-      "versionDate": "2026-07-23",
+      "version": "7.7",
+      "versionDate": "2026-09-29",
       "fullDate": "20260723040928",
-      "size": 83188846,
+      "size": 86039090,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Flacbox_7.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Flacbox_7.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Flacbox_7.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leshko.flap.png",
       "versions": [
+        {
+          "version": "7.7",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Flacbox_7.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 86039090,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.7"
+        },
         {
           "version": "7.6",
           "date": "2026-07-23",
@@ -53165,17 +53277,25 @@
       "type": 1,
       "bundleID": "com.iPwners.Plonkan",
       "bundleIdentifier": "com.iPwners.Plonkan",
-      "version": "13.46",
-      "versionDate": "2026-09-08",
+      "version": "13.47",
+      "versionDate": "2026-09-29",
       "fullDate": "20260722181550",
-      "size": 115352210,
+      "size": 116421496,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Buddy_13.43_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-09-2026/Buddy_13.46_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Buddy_13.47_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.iPwners.Plonkan.png",
       "versions": [
+        {
+          "version": "13.47",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Buddy_13.47_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 116421496,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "13.47"
+        },
         {
           "version": "13.46",
           "date": "2026-09-08",
@@ -56169,17 +56289,25 @@
       "type": 1,
       "bundleID": "com.edjing.edjingdjturntable",
       "bundleIdentifier": "com.edjing.edjingdjturntable",
-      "version": "9.2.2",
-      "versionDate": "2026-09-21",
+      "version": "9.3.0",
+      "versionDate": "2026-09-28",
       "fullDate": "20260720145309",
-      "size": 187240267,
+      "size": 191814562,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/edjingMix_9.1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/edjingMix_9.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/edjingMix_9.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.edjing.edjingdjturntable.png",
       "versions": [
+        {
+          "version": "9.3.0",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/edjingMix_9.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 191814562,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.3.0"
+        },
         {
           "version": "9.2.2",
           "date": "2026-09-21",
@@ -57811,17 +57939,25 @@
       "type": 1,
       "bundleID": "com.wakdev.wdnfc",
       "bundleIdentifier": "com.wakdev.wdnfc",
-      "version": "3.3.1",
-      "versionDate": "2026-09-21",
+      "version": "3.4",
+      "versionDate": "2026-09-29",
       "fullDate": "20260716230506",
-      "size": 7242461,
+      "size": 7325847,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/NFCTools_3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/NFCTools_3.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/NFCTools_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
       "versions": [
+        {
+          "version": "3.4",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/NFCTools_3.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 7325847,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.4"
+        },
         {
           "version": "3.3.1",
           "date": "2026-09-21",
@@ -58523,17 +58659,25 @@
       "type": 1,
       "bundleID": "com.frontrow.vlog",
       "bundleIdentifier": "com.frontrow.vlog",
-      "version": "2.20.0",
-      "versionDate": "2026-09-19",
+      "version": "2.21.0",
+      "versionDate": "2026-09-29",
       "fullDate": "20260715060042",
-      "size": 469877331,
+      "size": 470457590,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2026/VlogNow_2.17.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/VlogNow_2.20.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/VlogNow_2.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
       "versions": [
+        {
+          "version": "2.21.0",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/VlogNow_2.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 470457590,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.21.0"
+        },
         {
           "version": "2.20.0",
           "date": "2026-09-19",
@@ -67324,17 +67468,25 @@
       "type": 1,
       "bundleID": "com.adguard.AdguardExtension",
       "bundleIdentifier": "com.adguard.AdguardExtension",
-      "version": "4.5.22",
-      "versionDate": "2026-08-26",
+      "version": "4.5.23",
+      "versionDate": "2026-09-28",
       "fullDate": "20260701204614",
-      "size": 41961608,
+      "size": 47248412,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/AdGuard_4.5.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-08-2026/AdGuard_4.5.22_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/AdGuard_4.5.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "versions": [
+        {
+          "version": "4.5.23",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/AdGuard_4.5.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 47248412,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.5.23"
+        },
         {
           "version": "4.5.22",
           "date": "2026-08-26",
@@ -119269,10 +119421,10 @@
       "type": 1,
       "bundleID": "com.vertventures.stella",
       "bundleIdentifier": "com.vertventures.stella",
-      "version": "3.12.60",
-      "versionDate": "2026-09-21",
+      "version": "3.12.64",
+      "versionDate": "2026-09-28",
       "fullDate": "20251219170419",
-      "size": 104961250,
+      "size": 102841761,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/Astra_3.11.37_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
       "developerName": "",
@@ -119280,6 +119432,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vertventures.stella.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.vertventures.stella.png",
       "versions": [
+        {
+          "version": "3.12.64",
+          "date": "2026-09-28",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2159",
+          "size": 102841761,
+          "localizedDescription": "Features:\r\n- subscription unlocked\r\n\r\nNotes: press restore if subscription isn't unlocked\r\nNotes: press restore if subscription isn't unlocked",
+          "buildVersion": "3.12.64"
+        },
         {
           "version": "3.12.60",
           "date": "2026-09-21",
@@ -148121,7 +148281,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 13544301,
+      "size": 13544310,
       "screenshots": {
         "iphone": [
           {
@@ -148150,6 +148310,15 @@
         }
       },
       "versions": [
+        {
+          "version": "3.1.13",
+          "date": "2026-09-28",
+          "localizedDescription": "Fix MeloCafé auto assign\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.12...3.1.13",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.13/StikDebug-3.1.13.ipa",
+          "size": 13544310,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.1.13"
+        },
         {
           "version": "3.1.12",
           "date": "2026-09-27",
@@ -148187,9 +148356,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.1.12",
-      "versionDate": "2026-09-27",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.12/StikDebug-3.1.12.ipa"
+      "version": "3.1.13",
+      "versionDate": "2026-09-28",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.13/StikDebug-3.1.13.ipa"
     },
     {
       "name": "StikPair",
@@ -149420,9 +149589,17 @@
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Countdown - Pretty Progress\n\nTweak: Pro Unlocked\n\nVersion: 2.0.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2252",
       "iconURL": "https://mypleasure.zxcvbn.fyi/f40f313f-96d6-4b7f-8371-ce14e6c9f8fd/icon.jpg",
-      "version": "2.1.4",
-      "size": 128485959,
+      "version": "2.1.8",
+      "size": 127053723,
       "versions": [
+        {
+          "version": "2.1.8",
+          "date": "2026-09-28",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2252",
+          "size": 127053723,
+          "localizedDescription": "Track time with beautiful countdown widgets on your Home Screen and Lock Screen. Get the results you want by adding beautiful ALWAYS ON motivational countdowns to the device you use every day.\r\n\r\nOn your wrist? On your Mac? Pretty Progress works there, too. Our objective is to support you achieve your goals.\r\n\r\nWe beautifully track your goals so you don’t have to. What better place to remind yourself of the things that matter than the devices you use every day?\r\n\r\nYour life goals, your health routines, your personal habits, when your newborn arrives, the deadline of your PhD or your mother’s birthday…\r\n\r\nNo matter what your goal is. Pretty Progress gives you beautiful countdowns with widgets to customize and track them all:\r\n\r\n- Count up &",
+          "buildVersion": "2.1.8"
+        },
         {
           "version": "2.1.4",
           "date": "2026-09-14",
@@ -149472,7 +149649,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-14"
+      "versionDate": "2026-09-28"
     },
     {
       "name": "Push Training",
@@ -167336,6 +167513,14 @@
       },
       "versions": [
         {
+          "version": "448.0.0",
+          "date": "2026-09-28T18:38:54+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 448.\n- New Reels Limit (replaces Reels Scrolling): daily reels or minutes limit per place, with usage stats, a 7-day chart and break reminders.\n- New Tappable Links (General): web links in captions and comments can now be tapped to open. On by default.\n- Deleted Messages Log: new Show in Chat — opens the chat and jumps to where the message was (tap text entries or long-press any entry).\n- Hide Buttons is now Post Buttons and Reel Buttons: show, hide, or hide just the count of each button, plus the like and repost confirmations.\n- Feed, Reels and Stories Filtering, and the new button pages, moved from Interface into the Feed, Reels and Stories sections.\n- Moved Stories \"Hide Suggested Users\" into Stories Filtering.\n- Profile Tracking: safer watchlist checks — they start a few seconds after launch, pause for a day if Instagram limits the account, and run at most every 2 hours.\n- Fixed Full Last Active Date not showing in chats.\n- Fixed \"Music for you\" and \"Suggested for you\" cards still showing in Stories.\n- Notifications now use the Solid background by default, and Toast text lines up next to its icon.\n- Fixed IG+ Story Preview showing the upsell instead of the story when long-pressing an avatar outside the stories bar (comments, DMs, search, activity, feed posts).",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790621057583-b8dfz/com.fouadraheb.regram_448.0.0_regram_6.3_sl.ipa",
+          "size": 269624337,
+          "buildVersion": "448.0.0"
+        },
+        {
           "version": "447.0.0",
           "date": "2026-09-21T16:46:03+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 447.\n- New in-app notification system. Several notifications can now show at once, stacked, instead of one at a time.\n- Notifications come in two looks — Banner (full width, default) and Toast (small pill) — set globally or per feature under Settings > Notifications.\n- New Notification History: every notification Regram showed, filterable by feature, and tapping one opens what the banner would have opened.\n- New Stories Filtering page under Interface > Stories Tray, with a switch per card IG inserts between stories: Join Trending, Popular, Your Turn, Music, Restyle, Meta AI, Threads and other cards.\n- New Reels Playback Controls: open them three ways — long-press the ••• button, a floating button you can drag anywhere on the reel, or the Regram action button — for a sheet with play/pause, a scrubber with elapsed and remaining time, a six-stop speed selector (0.5× to 2×), auto-advance, keep speed, mute, full screen, Picture in Picture, save the current frame, and a reels-only volume. Kept speed applies to every reel and survives relaunch.\n- Profile > Spoofing is now one page with a live preview, a master switch, and a section per value: followers, following, posts, verified badge, and the new username and display name spoofs. With the master switch off nothing spoofing-related runs at all. The names show everywhere in the app but stay on your device — your real account is untouched, and Edit Profile always shows the real values.\n- Reels auto-advance now also moves past sponsored reels instead of leaving them looping.\n- New “Leave Chat After Seen” option under Messages > Send Seen On... — closes the chat and goes back to the inbox after you send seen from the bar button or the + menu.\n- Open in Regram Safari extension now shows a banner on Instagram pages with an Open button, so links reach Regram on the first page instead of only after tapping the reel or Open in Instagram.\n- New Ads section: one place for hiding ads, with a Hide All Ads master switch plus per-place switches for Feed, Stories, Explore and Reels. Your existing ad settings carry over, and the old spots under Feed / Reels Filtering and Interface now link to the new section.\n- Added Crash Logs under App Utilities. Regram now writes a report whenever IG crashes, so you can read it, search it, and share it when reporting a problem.\n- Device ID: added a required warning screen explaining who the feature is for before masking can be turned on, plus a How It Works page answering the common questions.\n- Fixed “Fix Pop-ups & Emoji” not staying off. The setting was stored in the App Group container, which is missing on apps signed without App Group support, so the switch turned itself back on.\n- Fixed the story mark-seen button menu showing the previous account's name and the wrong exclude/include action after moving to the next story.\n- What's New now has a Previous Versions button — browse the highlights of every Regram release since 5.0.",
@@ -167472,13 +167657,13 @@
           "buildVersion": "413.0.0"
         }
       ],
-      "version": "447.0.0",
-      "versionDate": "2026-09-21",
+      "version": "448.0.0",
+      "versionDate": "2026-09-28",
       "versionDescription": "",
       "fullDate": "20260721194857",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790010075535-ndbov/com.fouadraheb.regram_447.0.0_regram_6.2_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790621057583-b8dfz/com.fouadraheb.regram_448.0.0_regram_6.3_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1784664131112-9uylf/com.fouadraheb.regram_439.0.0_regram_5.2.1_sl.ipa",
-      "size": 266408268
+      "size": 269624337
     },
     {
       "id": "WA-SL-Duplicate",
@@ -180664,6 +180849,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10224",
+          "marketingVersion": "3.4.0-alpha.20260928.aeb1a03",
+          "date": "2026-09-28",
+          "localizedDescription": "Alpha build aeb1a03 · 2026-09-28\n\nChanges in this build:\n• [Agent] Register touch clicks and hardware keys on thin-wrapper cores (Atari ST) (#3704)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 730847376,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10191",
           "marketingVersion": "3.4.0-alpha.20260926.89f166d",
           "date": "2026-09-26",
@@ -180907,8 +181102,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-26",
-      "size": 730480960,
+      "versionDate": "2026-09-28",
+      "size": 730847376,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -188019,6 +188214,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "170",
+          "date": "2026-09-26T22:31:31.414Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-170/Non-Jailbroken.ipa",
+          "size": 93306177,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "169",
           "date": "2026-09-26T17:37:45.977Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -188199,8 +188405,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-09-26",
-      "size": 93305526,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-169/Non-Jailbroken.ipa"
+      "size": 93306177,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-170/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
