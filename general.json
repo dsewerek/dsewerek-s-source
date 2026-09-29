@@ -186396,17 +186396,89 @@
       "type": 1,
       "bundleID": "tech.miidii.MDBlank",
       "bundleIdentifier": "tech.miidii.MDBlank",
-      "version": "4.3",
-      "versionDate": "2026-09-13",
+      "version": "4.3.2",
+      "versionDate": "2026-09-29",
       "fullDate": "20260820073226",
-      "size": 368576398,
+      "size": 368949922,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/_4.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-09-2026/_4.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/_4.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
       "versions": [
+        {
+          "version": "4.3.2",
+          "date": "2026-09-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/_4.3.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 368949922,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.3.2"
+        },
+        {
+          "version": "19.7",
+          "date": "2026-09-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/_19.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 253462025,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.7"
+        },
+        {
+          "version": "7.26.6",
+          "date": "2026-09-22",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/_7.26.6_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 221318325,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.26.6"
+        },
+        {
+          "version": "19.6",
+          "date": "2026-09-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-09-2026/_19.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 250412096,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.6"
+        },
+        {
+          "version": "4.3.1",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/_4.3.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 368950842,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.3.1"
+        },
+        {
+          "version": "19.5",
+          "date": "2026-09-18",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-09-2026/_19.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 250414680,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.5"
+        },
+        {
+          "version": "19.3",
+          "date": "2026-09-17",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-09-2026/_19.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 249809166,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.3"
+        },
+        {
+          "version": "19.2",
+          "date": "2026-09-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/_19.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 250081876,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.2"
+        },
+        {
+          "version": "19.1",
+          "date": "2026-09-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-09-2026/_19.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 249795197,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "19.1"
+        },
         {
           "version": "4.3",
           "date": "2026-09-13",
