@@ -61607,17 +61607,25 @@
       "type": 1,
       "bundleID": "com.damtechdesigns.wa.story",
       "bundleIdentifier": "com.damtechdesigns.wa.story",
-      "version": "2026.05",
-      "versionDate": "2026-09-21",
+      "version": "2026.06",
+      "versionDate": "2026-09-30",
       "fullDate": "20260710020542",
-      "size": 67963394,
+      "size": 68241344,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/PureStatus_2026.04_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-09-2026/PureStatus_2026.05_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/PureStatus_2026.06_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
       "versions": [
+        {
+          "version": "2026.06",
+          "date": "2026-09-30",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/PureStatus_2026.06_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 68241344,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2026.06"
+        },
         {
           "version": "2026.05",
           "date": "2026-09-21",
@@ -114549,10 +114557,10 @@
       "type": 2,
       "bundleID": "com.ToweringTower.KnightLancer",
       "bundleIdentifier": "com.ToweringTower.KnightLancer",
-      "version": "1.66",
-      "versionDate": "2026-09-06",
+      "version": "1.67",
+      "versionDate": "2026-09-30",
       "fullDate": "20260101215437",
-      "size": 117144452,
+      "size": 118436272,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-01-2026/KnightLancer_1.57_IAP_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
       "developerName": "",
@@ -114560,6 +114568,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ToweringTower.KnightLancer.png",
       "versions": [
+        {
+          "version": "1.67",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2066",
+          "size": 118436272,
+          "localizedDescription": "Feature:\r\n\r\n- in app purchase",
+          "buildVersion": "1.67"
+        },
         {
           "version": "1.66",
           "date": "2026-09-06",
