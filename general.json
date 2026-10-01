@@ -58939,17 +58939,25 @@
       "type": 1,
       "bundleID": "com.frontrow.vlog",
       "bundleIdentifier": "com.frontrow.vlog",
-      "version": "2.21.0",
-      "versionDate": "2026-09-29",
+      "version": "2.22.0",
+      "versionDate": "2026-10-01",
       "fullDate": "20260715060042",
-      "size": 470457590,
+      "size": 469751907,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2026/VlogNow_2.17.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/VlogNow_2.21.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/VlogNow_2.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frontrow.vlog.png",
       "versions": [
+        {
+          "version": "2.22.0",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/VlogNow_2.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 469751907,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.22.0"
+        },
         {
           "version": "2.21.0",
           "date": "2026-09-29",
@@ -70232,17 +70240,25 @@
       "type": 1,
       "bundleID": "com.bravolol.bravoLang.chineseDictionary",
       "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
-      "version": "35.8",
-      "versionDate": "2026-09-03",
+      "version": "36.1",
+      "versionDate": "2026-10-01",
       "fullDate": "20260630094134",
-      "size": 22915615,
+      "size": 11967430,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2026/UnifiedDictionary_35.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/UnifiedDictionary_35.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/UnifiedDictionary_36.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
       "versions": [
+        {
+          "version": "36.1",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/UnifiedDictionary_36.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 11967430,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "36.1"
+        },
         {
           "version": "35.8",
           "date": "2026-09-03",
@@ -188804,6 +188820,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "177",
+          "date": "2026-10-01T04:59:01.557Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-177/Non-Jailbroken.ipa",
+          "size": 93396534,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "176",
           "date": "2026-10-01T00:22:53.007Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -189017,8 +189044,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-01",
-      "size": 93338293,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-176/Non-Jailbroken.ipa"
+      "size": 93396534,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-177/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
