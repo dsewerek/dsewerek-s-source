@@ -4950,17 +4950,25 @@
       "type": 1,
       "bundleID": "com.campmobile.snow",
       "bundleIdentifier": "com.campmobile.snow",
-      "version": "15.4.1",
-      "versionDate": "2026-09-22",
+      "version": "15.4.6",
+      "versionDate": "2026-10-01",
       "fullDate": "20260807002951",
-      "size": 175752807,
+      "size": 175818771,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/SNOW_15.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/SNOW_15.4.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SNOW_15.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
       "versions": [
+        {
+          "version": "15.4.6",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SNOW_15.4.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 175818771,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "15.4.6"
+        },
         {
           "version": "15.4.1",
           "date": "2026-09-22",
@@ -7701,17 +7709,25 @@
       "type": 1,
       "bundleID": "com.ideation.Stress",
       "bundleIdentifier": "com.ideation.Stress",
-      "version": "3.4.0",
-      "versionDate": "2026-09-12",
+      "version": "3.4.1",
+      "versionDate": "2026-10-01",
       "fullDate": "20260806131634",
-      "size": 353228694,
+      "size": 354763091,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/StressWatch_3.3.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/StressWatch_3.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/StressWatch_3.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ideation.Stress.png",
       "versions": [
+        {
+          "version": "3.4.1",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/StressWatch_3.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 354763091,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.4.1"
+        },
         {
           "version": "3.4.0",
           "date": "2026-09-12",
@@ -33697,17 +33713,25 @@
       "type": 1,
       "bundleID": "com.khanov.BlockerX",
       "bundleIdentifier": "com.khanov.BlockerX",
-      "version": "6.6.4",
-      "versionDate": "2026-09-23",
+      "version": "6.6.5",
+      "versionDate": "2026-10-01",
       "fullDate": "20260731184808",
-      "size": 67135485,
+      "size": 67208408,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/1Blocker_6.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-09-2026/1Blocker_6.6.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/1Blocker_6.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.khanov.BlockerX.png",
       "versions": [
+        {
+          "version": "6.6.5",
+          "date": "2026-10-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/1Blocker_6.6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 67208408,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.6.5"
+        },
         {
           "version": "6.6.4",
           "date": "2026-09-23",
@@ -39442,17 +39466,25 @@
       "type": 1,
       "bundleID": "com.zhiliaoapp.musically",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "46.4.0",
-      "versionDate": "2026-08-15",
+      "version": "47.0.0",
+      "versionDate": "2026-09-30",
       "fullDate": "20260729020716",
-      "size": 455015739,
+      "size": 475692342,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/BHTikTokPlus_46.2.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1971",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1833",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "versions": [
+        {
+          "version": "47.0.0",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1833",
+          "size": 475692342,
+          "localizedDescription": "Features\r\n\r\nNo Ads\r\nDownload Videos\r\nDownload Musics\r\nShow/Hide UI button\r\nCopy video decription\r\nCopy video link\r\nCopy Music link\r\nAuto Play Next Video\r\nShow progress bar\r\nConfirm like\r\nConfirm comment like\r\nConfirm comment dislike\r\nConfirm follow\r\nSave profile image\r\nCopy profile information\r\nExtend bio\r\nExtend comment\r\nAlways open in Safari\r\nChanging region\r\nFake verify blue mark\r\nFake Follower count\r\nFake Following count\r\nPadlock",
+          "buildVersion": "47.0.0"
+        },
         {
           "version": "46.4.0",
           "date": "2026-08-15",
@@ -65121,17 +65153,25 @@
       "type": 1,
       "bundleID": "com.burbn.barcelona",
       "bundleIdentifier": "com.burbn.barcelona",
-      "version": "442.0",
-      "versionDate": "2026-08-13",
+      "version": "449.0",
+      "versionDate": "2026-09-30",
       "fullDate": "20260707010347",
-      "size": 115529696,
+      "size": 119997598,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/Threads_437.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1851",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2038",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.barcelona.png",
       "versions": [
+        {
+          "version": "449.0",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2038",
+          "size": 119997598,
+          "localizedDescription": "features:\r\n• 120hz\r\n• Screen recording touch trajectory\r\n• Do not stop music \r\n• LoadControl three-finger long press disable/load plugin\r\n\r\nTweak 2 - \r\nThreadSaver:\r\n • Remove ads\r\n • Save images/videos\r\n(Tap the three dots menu in the top right corner of the post to save)\r\n\r\nTested on iOS 17.0 iOS26.6",
+          "buildVersion": "449.0"
+        },
         {
           "version": "442.0",
           "date": "2026-08-13",
@@ -107310,10 +107350,10 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.20",
-      "versionDate": "2026-08-27",
+      "version": "12.31",
+      "versionDate": "2026-09-30",
       "fullDate": "20260312080709",
-      "size": 241068595,
+      "size": 265281673,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
       "developerName": "",
@@ -107321,6 +107361,14 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.31",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
+          "size": 265281673,
+          "localizedDescription": "• 120Hz support\r\n• Screen recording path indicator\r\n• NeoFreeBird 5.3 beta fix applied\r\n• Plugin settings (ad removal, video downloading, custom icons, etc.) – Tweets & Replies – Reply via web",
+          "buildVersion": "12.31"
+        },
         {
           "version": "12.20",
           "date": "2026-08-27",
@@ -148025,13 +148073,21 @@
         "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-6.webp",
         "https://img.ipa4fun.com/cc/d5/84/529479190-screenshot-7.webp"
       ],
-      "version": "18.400.7",
-      "versionDate": "2026-07-11",
+      "version": "18.600.7",
+      "versionDate": "2026-09-30",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1860",
       "versionDescription": "• Link now only installs latest version.",
-      "size": 466201463,
+      "size": 562104922,
       "beta": false,
       "versions": [
+        {
+          "version": "18.600.7",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1860",
+          "size": 562104922,
+          "localizedDescription": "Private server that allows you to create and build keep in mind this doesn’t actually save",
+          "buildVersion": "18.600.7"
+        },
         {
           "version": "18.400.7",
           "date": "2026-07-11",
@@ -167067,6 +167123,14 @@
       "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/com.baconmania.jessi.png",
       "versions": [
         {
+          "version": "1.1",
+          "date": "2026-09-30T04:56:03Z",
+          "localizedDescription": "Changelog:\n\nadded a built in JIT enabler! you no longer need to use StikDebug in order to enable JIT. this currently only supports iOS 17.4+, but I plan on adding a method that uses darksword in the future\nremoved the swipe gestures that mostly just got in the way of deleting servers/files\nadded support for java 8 on iOS 26+\nadded an \"api keyless\" way of downloading mods, modpacks, datapacks, and resource packs from CurseForge. technically it still uses an api key on the backend, but you're no longer required to enter one yourself in settings\nadded an automatic resource pack merger, which allows you to install multiple resource packs on your server\nfixed issues with iOS 27+\nfixed maxpro's bug, as well as plenty of other random bugs\nfixed playit.gg integration\nminor UI/UX enhancements\nadded a couple of easter eggs\nremoved herobrine\n",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1/JESSI.ipa",
+          "size": 12086786,
+          "buildVersion": "1.1"
+        },
+        {
           "version": "1.0.1",
           "date": "2026-03-30T23:25:32Z",
           "localizedDescription": "Changelog:\nJava 25 support (required for minecraft 26.1+)",
@@ -167131,10 +167195,10 @@
           "buildVersion": "b2"
         }
       ],
-      "version": "1.0.1",
-      "versionDate": "2026-03-30",
-      "size": 9284359,
-      "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.0.1/JESSI.ipa"
+      "version": "1.1",
+      "versionDate": "2026-09-30",
+      "size": 12086786,
+      "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1/JESSI.ipa"
     },
     {
       "name": "Bunny (TestFlight)",
@@ -175062,10 +175126,10 @@
       "type": 1,
       "bundleID": "com.supercell.laser",
       "bundleIdentifier": "com.supercell.laser",
-      "version": "68.279",
-      "versionDate": "2026-07-15",
+      "version": "69.252",
+      "versionDate": "2026-09-30",
       "fullDate": "20260715043210",
-      "size": 1144159565,
+      "size": 1241740305,
       "down": "https://appstore.sidelix.vip/download-repo-source/1946",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1946",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2183",
@@ -175083,6 +175147,14 @@
         "Tweaked Game"
       ],
       "versions": [
+        {
+          "version": "69.252",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1946",
+          "size": 1241740305,
+          "localizedDescription": "Fast paced 3v3 & 5v5 MOBA and Battle Royale made for mobile! Play online with friends or solo across a variety of PvP arena game modes in under three minutes.\r\n\r\n\r\nUnlock and upgrade dozens of Brawlers with powerful super abilities, star powers and gadgets! Collect unique skins to stand out and show off. Battle in a variety of mysterious arena locations within the MOBA Brawliverse!\r\n\r\n\r\n\r\n\r\n◉ BATTLE IN MULTIPLE GAME MODES:\r\n\r\n\r\n▶ Gem Grab (3v3,5v5): Team up for real time 3v3 and 5v5 MOBA arena PvP battles against online players from across the world. Team up to battle and out strategize the opposing team. Collect and hold 10 gems to win, but get fragged and lose your gems.\r\n\r\n\r\n▶ Showdown (solo/duo): A MOBA battle royale style fight for su",
+          "buildVersion": "69.252"
+        },
         {
           "version": "68.279",
           "date": "2026-07-15",
@@ -177799,10 +177871,10 @@
       "type": 1,
       "bundleID": "com.ndemiccreations.plagueinc",
       "bundleIdentifier": "com.ndemiccreations.plagueinc",
-      "version": "1.23.0",
-      "versionDate": "2026-05-31",
+      "version": "1.25.3",
+      "versionDate": "2026-09-30",
       "fullDate": "20260531233638",
-      "size": 77495392,
+      "size": 77769378,
       "down": "https://appstore.sidelix.vip/download-repo-source/1879",
       "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1879",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2116",
@@ -177820,6 +177892,14 @@
         "Free Paid Apps"
       ],
       "versions": [
+        {
+          "version": "1.25.3",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1879",
+          "size": 77769378,
+          "localizedDescription": "Can you infect the world? Plague Inc. is a unique mix of high strategy and terrifyingly realistic simulation.\r\n \r\nYour pathogen has just infected 'Patient Zero'. Now you must bring about the end of human history by evolving a deadly, global Plague whilst adapting against everything humanity can do to defend itself.\r\n \r\nBrilliantly executed with innovative gameplay and built from the ground up for iPhone & iPad, Plague Inc. evolves the strategy genre and pushes mobile gaming (and you) to new levels. It’s You vs. the world - only the strongest can survive!\r\n \r\n◈◈◈ #1 top game globally with well over a billion games played ◈◈◈\r\n \r\nPlague Inc. is a global hit with over a million 5 star ratings and features in newspapers such as The Eco",
+          "buildVersion": "1.25.3"
+        },
         {
           "version": "1.23.0",
           "date": "2026-05-31",
@@ -181257,6 +181337,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10241",
+          "marketingVersion": "3.4.0-alpha.20261001.ff172d6",
+          "date": "2026-10-01",
+          "localizedDescription": "Alpha build ff172d6 · 2026-10-01\n\nChanges in this build:\n• build(dolphin): bump dolphin-ios to 28f0e24fb6 (Controller Hub phase 2)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 730794826,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10233",
           "marketingVersion": "3.4.0-alpha.20260929.52f8768",
           "date": "2026-09-29",
@@ -181530,8 +181620,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-09-29",
-      "size": 730891785,
+      "versionDate": "2026-10-01",
+      "size": 730794826,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -188714,6 +188804,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "176",
+          "date": "2026-10-01T00:22:53.007Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-176/Non-Jailbroken.ipa",
+          "size": 93338293,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "174",
           "date": "2026-09-29T07:29:03.715Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -188915,9 +189016,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-09-29",
-      "size": 93317628,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-174/Non-Jailbroken.ipa"
+      "versionDate": "2026-10-01",
+      "size": 93338293,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-176/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -188952,6 +189053,331 @@
           "size": 19234839,
           "localizedDescription": "Pro Unlocked",
           "buildVersion": "2.6.0"
+        }
+      ]
+    },
+    {
+      "name": "Neverwinter Nights (Paid App)",
+      "type": 1,
+      "bundleID": "com.overhaulgames.nwnee",
+      "bundleIdentifier": "com.overhaulgames.nwnee",
+      "version": "1.0.8",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930235842",
+      "size": 2703949396,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2418",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2418",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2654",
+      "appstore_download_count": 10,
+      "developerName": "sidelix",
+      "localizedDescription": "Neverwinter Nights is a classic Dungeons & Dragons RPG— enhanced for iOS! Explore 100+ hours of gameplay including the original campaign, plus six free DLC adventures. Play solo or team up with friends for a grand adventure across the Forgotten Realms.\r\n\r\nDEVICE RECOMMENDATION\r\nOptimized for iPads\r\nRecommended for iPhones with screen sizes of 6 inches or larger \r\n\r\nCONTENT\r\nNeverwinter Nights (Classic Campaign)\r\nShadows of Undrentide (Free DLC)\r\nHordes of the Underdark (Free DLC)\r\nKingmaker (Free DLC)\r\nShadowGuard (Free DLC)\r\nWitch’s Wake (Free DLC)\r\nAdventure Pack (Free DLC)\r\n\r\n\r\nFEATURES\r\nRe-engineered UI for iPads and iPhones\r\n- Virtual joystick and context sensitive button makes gameplay easy\r\n- UI Scales automatically or can be set to y",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd9bfde093a.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd9bfde093a.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "1.0.8",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2418",
+          "size": 2703949396,
+          "localizedDescription": "Neverwinter Nights is a classic Dungeons & Dragons RPG— enhanced for iOS! Explore 100+ hours of gameplay including the original campaign, plus six free DLC adventures. Play solo or team up with friends for a grand adventure across the Forgotten Realms.\r\n\r\nDEVICE RECOMMENDATION\r\nOptimized for iPads\r\nRecommended for iPhones with screen sizes of 6 inches or larger \r\n\r\nCONTENT\r\nNeverwinter Nights (Classic Campaign)\r\nShadows of Undrentide (Free DLC)\r\nHordes of the Underdark (Free DLC)\r\nKingmaker (Free DLC)\r\nShadowGuard (Free DLC)\r\nWitch’s Wake (Free DLC)\r\nAdventure Pack (Free DLC)\r\n\r\n\r\nFEATURES\r\nRe-engineered UI for iPads and iPhones\r\n- Virtual joystick and context sensitive button makes gameplay easy\r\n- UI Scales automatically or can be set to y",
+          "buildVersion": "1.0.8"
+        }
+      ]
+    },
+    {
+      "name": "Alien Shooter World (Paid App)",
+      "type": 1,
+      "bundleID": "com.sigma-team.alienshooterfree",
+      "bundleIdentifier": "com.sigma-team.alienshooterfree",
+      "version": "7.2.1",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930233154",
+      "size": 62325685,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2417",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2417",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2653",
+      "appstore_download_count": 4,
+      "developerName": "sidelix",
+      "localizedDescription": "The updated version of the legendary Alien Shooter is already available on all iOS devices!\r\n\r\nNow you can save the world from monsters together with your friends in co-op mode: invite friends to a squad or find new allies using auto-selection.\r\n\r\n\r\n\r\nThanks to the updated weapon system, you can choose equipment based on your playstyle. Combine different types of weapons or armor in one set, pick up perks for your needs, change equipment depending on the task.\r\n\r\nMore than 20 arenas with unique bosses, new combat mechanics, special enemies and champions. Fulfill contracts and explore the roadmap to get better weapons and discover new activities.\r\n\r\nWhat awaits you inside?\r\n\r\n- Hours of gameplay: three main story maps, a lot of additional mission",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd9bc59bfed.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd9bc59bfed.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "7.2.1",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2417",
+          "size": 62325685,
+          "localizedDescription": "The updated version of the legendary Alien Shooter is already available on all iOS devices!\r\n\r\nNow you can save the world from monsters together with your friends in co-op mode: invite friends to a squad or find new allies using auto-selection.\r\n\r\n\r\n\r\nThanks to the updated weapon system, you can choose equipment based on your playstyle. Combine different types of weapons or armor in one set, pick up perks for your needs, change equipment depending on the task.\r\n\r\nMore than 20 arenas with unique bosses, new combat mechanics, special enemies and champions. Fulfill contracts and explore the roadmap to get better weapons and discover new activities.\r\n\r\nWhat awaits you inside?\r\n\r\n- Hours of gameplay: three main story maps, a lot of additional mission",
+          "buildVersion": "7.2.1"
+        }
+      ]
+    },
+    {
+      "name": "Alien Shooter 2 - Reloaded (Paid App)",
+      "type": 1,
+      "bundleID": "com.sigmateam.as2reloaded",
+      "bundleIdentifier": "com.sigmateam.as2reloaded",
+      "version": "1.1.1",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930233007",
+      "size": 273424059,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2416",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2416",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2652",
+      "appstore_download_count": 5,
+      "developerName": "sidelix",
+      "localizedDescription": "Alien Shooter 2 (Alien Shooter - Vengeance) is a large-scale sequel to the first part of Alien Shooter. This is the unique alloy of arcade action and RPG elements which combines well-established world of classical games and unmatched dynamics of the first part.\r\n\r\nThe ENHANCED version of the legendary top-down PC Alien Shooter 2 game is now available on your iOS device!\r\n\r\nDeserted military complex. Hordes of merciless creatures. You. \r\nYour mission is simple – clear the base and stop the alien invasion. \r\n\r\n---------------------------------------------------\r\nALIEN SHOOTER 2 – HIGHLIGHTS\r\n---------------------------------------------------\r\n- No in-game purchases and persuasive ads!\r\n- Hours of gameplay with and engaging story mode and tons",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd9b5b82d5f.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd9b5b82d5f.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2416",
+          "size": 273424059,
+          "localizedDescription": "Alien Shooter 2 (Alien Shooter - Vengeance) is a large-scale sequel to the first part of Alien Shooter. This is the unique alloy of arcade action and RPG elements which combines well-established world of classical games and unmatched dynamics of the first part.\r\n\r\nThe ENHANCED version of the legendary top-down PC Alien Shooter 2 game is now available on your iOS device!\r\n\r\nDeserted military complex. Hordes of merciless creatures. You. \r\nYour mission is simple – clear the base and stop the alien invasion. \r\n\r\n---------------------------------------------------\r\nALIEN SHOOTER 2 – HIGHLIGHTS\r\n---------------------------------------------------\r\n- No in-game purchases and persuasive ads!\r\n- Hours of gameplay with and engaging story mode and tons",
+          "buildVersion": "1.1.1"
+        }
+      ]
+    },
+    {
+      "name": "Alien Shooter - Survive (Paid App)",
+      "type": 1,
+      "bundleID": "com.sigma-team.AlienShooter",
+      "bundleIdentifier": "com.sigma-team.AlienShooter",
+      "version": "1.2.4",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930232928",
+      "size": 49553835,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2415",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2415",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2651",
+      "appstore_download_count": 3,
+      "developerName": "sidelix",
+      "localizedDescription": "This is a SPECIAL version of the legendary Alien Shooter game, created upon the numerous gamers' requests from all over the world!\r\nTry Survive mode, gain top results, share your achievements using Game Center and compete with the others across the Globe.\r\n\r\n\"With a wonderful array of weapons, non-stop action, splendid graphics, eerie music and a wonderful adventure setting, Alien Shooter is a game that delivers on every front.\" - Game Tunnel\r\n\r\nDeserted military complex. Hordes of merciless creatures. Here you are. Your mission is simple – clear the base so there are just dead monsters' corpses left around.\r\n\r\n- Enjoy user friendly control schemes with auto-aim option available!\r\n- stand up to the huge crowds of monsters appearing on one scre",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd9b390198b.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd9b390198b.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "1.2.4",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2415",
+          "size": 49553835,
+          "localizedDescription": "This is a SPECIAL version of the legendary Alien Shooter game, created upon the numerous gamers' requests from all over the world!\r\nTry Survive mode, gain top results, share your achievements using Game Center and compete with the others across the Globe.\r\n\r\n\"With a wonderful array of weapons, non-stop action, splendid graphics, eerie music and a wonderful adventure setting, Alien Shooter is a game that delivers on every front.\" - Game Tunnel\r\n\r\nDeserted military complex. Hordes of merciless creatures. Here you are. Your mission is simple – clear the base so there are just dead monsters' corpses left around.\r\n\r\n- Enjoy user friendly control schemes with auto-aim option available!\r\n- stand up to the huge crowds of monsters appearing on one scre",
+          "buildVersion": "1.2.4"
+        }
+      ]
+    },
+    {
+      "name": "Reckless Getaway 2: Car Chase (Hacked)",
+      "type": 1,
+      "bundleID": "com.pixelbite.getaway2",
+      "bundleIdentifier": "com.pixelbite.getaway2",
+      "version": "1.5.097",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930232854",
+      "size": 164872213,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2414",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2414",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2650",
+      "appstore_download_count": 6,
+      "developerName": "sidelix",
+      "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd9b218c9ed.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd9b218c9ed.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Tweaked Game",
+        "Free in app purchases"
+      ],
+      "versions": [
+        {
+          "version": "1.5.097",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2414",
+          "size": 164872213,
+          "localizedDescription": "Features:\r\n- Free Purchases\r\n\r\nSteps to use this hack:\r\n\r\nTap \"Buy,\" then \"Cancel\"\r\n\r\nYou won't be charged",
+          "buildVersion": "1.5.097"
+        }
+      ]
+    },
+    {
+      "name": "Alpin Quest PRO – Outdoor GPS (Paid App)",
+      "type": 1,
+      "bundleID": "com.alpinquest.app",
+      "bundleIdentifier": "com.alpinquest.app",
+      "version": "10.0.60+1950",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930230914",
+      "size": 22052227,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2413",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2413",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2649",
+      "appstore_download_count": 1,
+      "developerName": "sidelix",
+      "localizedDescription": "ALPINE QUEST PRO - Outdoor GPS\r\nAlpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files.\r\n\r\nMILITARY & TACTICAL USE\r\nMGRS (Military Grid Reference System) — Full military coordinate support\r\n\r\nUSNG (United States National Grid) and UTM grid systems\r\n\r\nDTG (Date-Time Group) time format — Zulu and local time\r\n\r\nMilitary grid lines (MGRS grid overlay) on the map\r\n\r\nTactical movement and route planning\r\n\r\nFull offline functionality — Operation without cellular network\r\n\r\nAll data on device — No s",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd967c29159.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd967c29159.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "10.0.60+1950",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2413",
+          "size": 22052227,
+          "localizedDescription": "ALPINE QUEST PRO - Outdoor GPS\r\nAlpine Quest is an advanced GPS navigation and field management application developed for military personnel, geological and survey engineers, field staff, tactical units, mountaineers, hunters, and off-road professionals. It is used worldwide with 32-language support. Using ArcGIS and QGIS project files.\r\n\r\nMILITARY & TACTICAL USE\r\nMGRS (Military Grid Reference System) — Full military coordinate support\r\n\r\nUSNG (United States National Grid) and UTM grid systems\r\n\r\nDTG (Date-Time Group) time format — Zulu and local time\r\n\r\nMilitary grid lines (MGRS grid overlay) on the map\r\n\r\nTactical movement and route planning\r\n\r\nFull offline functionality — Operation without cellular network\r\n\r\nAll data on device — No s",
+          "buildVersion": "10.0.60+1950"
+        }
+      ]
+    },
+    {
+      "name": "Alien Shooter - Last Hope (Paid App)",
+      "type": 1,
+      "bundleID": "com.sigmateam.alienshooter.lasthope",
+      "bundleIdentifier": "com.sigmateam.alienshooter.lasthope",
+      "version": "1.0",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930230653",
+      "size": 96680244,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2412",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2412",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2648",
+      "appstore_download_count": 1,
+      "developerName": "sidelix",
+      "localizedDescription": "The war with monster invasion is going on.\r\nOpposition Force is almost out of resources.\r\nThe number of battleworthy is decreasing within every single day.\r\n\r\nOne of research laboratories succeeds to create the weapon ready to strengthen the Opposition and change the course of war radically...\r\n\r\nYou have to get into research center, find new weapon and improve it on the battlefield directly.\r\n\r\n- New chapter in history of the legendary game, including 10 story missions.\r\n- Autonomous weapon changing game experience radically and bringing in tons of tactical opportunities.\r\n- Total lack of in-game purchases and obtrusive ads.\r\n- Ability to play in offline mode.\r\n- Crowds of monsters on one screen.\r\n- Non-vanishing remains of the enemies.\r\n\r\nThe ",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd95e43f780.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd95e43f780.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2412",
+          "size": 96680244,
+          "localizedDescription": "The war with monster invasion is going on.\r\nOpposition Force is almost out of resources.\r\nThe number of battleworthy is decreasing within every single day.\r\n\r\nOne of research laboratories succeeds to create the weapon ready to strengthen the Opposition and change the course of war radically...\r\n\r\nYou have to get into research center, find new weapon and improve it on the battlefield directly.\r\n\r\n- New chapter in history of the legendary game, including 10 story missions.\r\n- Autonomous weapon changing game experience radically and bringing in tons of tactical opportunities.\r\n- Total lack of in-game purchases and obtrusive ads.\r\n- Ability to play in offline mode.\r\n- Crowds of monsters on one screen.\r\n- Non-vanishing remains of the enemies.\r\n\r\nThe ",
+          "buildVersion": "1.0"
+        }
+      ]
+    },
+    {
+      "name": "My Talking Tom+ (Apple Arcade)",
+      "type": 1,
+      "bundleID": "com.outfit7.mytalkingtom.arcade",
+      "bundleIdentifier": "com.outfit7.mytalkingtom.arcade",
+      "version": "25.4.1",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930230124",
+      "size": 141639816,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2411",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2411",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2647",
+      "appstore_download_count": 3,
+      "developerName": "sidelix",
+      "localizedDescription": "Talking Tom is the cat making every day a fun adventure.\r\n\r\nPlayers adopt this virtual pet, keep him happy and help him explore his world.\r\n\r\n- Talking Tom can really talk\r\n- Fashion and furniture items to collect\r\n- Mini games add action, adventure and fun\r\n- Travel destinations are waiting to be explored\r\n- Photo albums to be filled with memories\r\n- And more\r\n\r\nCustomer support: support@outfit7.com",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd941082d38.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd941082d38.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Apple - Arcade Games"
+      ],
+      "versions": [
+        {
+          "version": "25.4.1",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2411",
+          "size": 141639816,
+          "localizedDescription": "Talking Tom is the cat making every day a fun adventure.\r\n\r\nPlayers adopt this virtual pet, keep him happy and help him explore his world.\r\n\r\n- Talking Tom can really talk\r\n- Fashion and furniture items to collect\r\n- Mini games add action, adventure and fun\r\n- Travel destinations are waiting to be explored\r\n- Photo albums to be filled with memories\r\n- And more\r\n\r\nCustomer support: support@outfit7.com",
+          "buildVersion": "25.4.1"
+        }
+      ]
+    },
+    {
+      "name": "This Is the Police (Paid App)",
+      "type": 1,
+      "bundleID": "com.hg.titp",
+      "bundleIdentifier": "com.hg.titp",
+      "version": "1.1.4",
+      "versionDate": "2026-09-30",
+      "fullDate": "20260930230103",
+      "size": 791389456,
+      "down": "https://appstore.sidelix.vip/download-repo-source/2410",
+      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2410",
+      "download_page_url": "https://appstore.sidelix.vip/apps/11/2646",
+      "appstore_download_count": 14,
+      "developerName": "sidelix",
+      "localizedDescription": "Dive into a deep story of corruption, crime and intrigue. Take the role of gritty Police Chief Jack Boyd, and come face to face with the ugly underbelly of Freeburg, a city spiraling the drain. Will Jack reach his retirement with a nice stack of bills, or will he end up broken ... or worse? \r\n\r\nManage your staff, respond to emergencies, and investigate crimes in a city on the brink of chaos. The mafia underworld maneuvers behind the scenes, sinking their claws ever deeper into the city, even as the mayor is ready to exploit every situation to his political advantage. \r\n\r\nChoose your approach to each situation as it unfolds. Sometimes you’ll be responding to a developing crisis at a crime scene, or negotiating with Freeburg’s crime bosses. So",
+      "icon": "https://appstore.sidelix.vip/images/icon_6abd93c932675.jpg",
+      "iconURL": "https://appstore.sidelix.vip/images/icon_6abd93c932675.jpg",
+      "requires_trollstore": false,
+      "requires_jailbreak": false,
+      "install_notes": "After installing, go to Settings > General > VPN & Device Management to trust the certificate.",
+      "support_url": "https://nabzclan.vip/threads/official-nabz-clan-social-medias.13/",
+      "developer_url": "https://appstore.sidelix.vip/developer/11",
+      "tags": [
+        "Free Paid Apps"
+      ],
+      "versions": [
+        {
+          "version": "1.1.4",
+          "date": "2026-09-30",
+          "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2410",
+          "size": 791389456,
+          "localizedDescription": "Dive into a deep story of corruption, crime and intrigue. Take the role of gritty Police Chief Jack Boyd, and come face to face with the ugly underbelly of Freeburg, a city spiraling the drain. Will Jack reach his retirement with a nice stack of bills, or will he end up broken ... or worse? \r\n\r\nManage your staff, respond to emergencies, and investigate crimes in a city on the brink of chaos. The mafia underworld maneuvers behind the scenes, sinking their claws ever deeper into the city, even as the mayor is ready to exploit every situation to his political advantage. \r\n\r\nChoose your approach to each situation as it unfolds. Sometimes you’ll be responding to a developing crisis at a crime scene, or negotiating with Freeburg’s crime bosses. So",
+          "buildVersion": "1.1.4"
         }
       ]
     }
