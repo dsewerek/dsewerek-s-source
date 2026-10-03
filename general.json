@@ -46242,17 +46242,25 @@
       "type": 1,
       "bundleID": "com.videobrowser.ios",
       "bundleIdentifier": "com.videobrowser.ios",
-      "version": "624200",
-      "versionDate": "2026-09-29",
+      "version": "624300",
+      "versionDate": "2026-10-03",
       "fullDate": "20260727042433",
-      "size": 44531368,
+      "size": 44616334,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/VideoLite_623300_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/VideoLite_624200_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/VideoLite_624300_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.videobrowser.ios.png",
       "versions": [
+        {
+          "version": "624300",
+          "date": "2026-10-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/VideoLite_624300_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 44616334,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "624300"
+        },
         {
           "version": "624200",
           "date": "2026-09-29",
@@ -49440,17 +49448,25 @@
       "type": 1,
       "bundleID": "boomer.Smart-Video",
       "bundleIdentifier": "boomer.Smart-Video",
-      "version": "13.36.1",
-      "versionDate": "2026-09-29",
+      "version": "13.37.0",
+      "versionDate": "2026-10-03",
       "fullDate": "20260723233153",
-      "size": 125154743,
+      "size": 121844625,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Captions_13.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/Captions_13.36.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Captions_13.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
       "versions": [
+        {
+          "version": "13.37.0",
+          "date": "2026-10-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Captions_13.37.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 121844625,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "13.37.0"
+        },
         {
           "version": "13.36.1",
           "date": "2026-09-29",
@@ -62039,17 +62055,25 @@
       "type": 1,
       "bundleID": "com.damtechdesigns.wa.story",
       "bundleIdentifier": "com.damtechdesigns.wa.story",
-      "version": "2026.07",
-      "versionDate": "2026-10-02",
+      "version": "2026.08",
+      "versionDate": "2026-10-03",
       "fullDate": "20260710020542",
-      "size": 68355647,
+      "size": 68544178,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/PureStatus_2026.04_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2026/PureStatus_2026.07_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/PureStatus_2026.08_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.damtechdesigns.wa.story.png",
       "versions": [
+        {
+          "version": "2026.08",
+          "date": "2026-10-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/PureStatus_2026.08_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 68544178,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2026.08"
+        },
         {
           "version": "2026.07",
           "date": "2026-10-02",
@@ -89171,17 +89195,25 @@
       "type": 1,
       "bundleID": "com.cuilingshi.fileextract",
       "bundleIdentifier": "com.cuilingshi.fileextract",
-      "version": "5.18",
-      "versionDate": "2026-09-16",
+      "version": "6.1",
+      "versionDate": "2026-10-03",
       "fullDate": "20260521234716",
-      "size": 54843523,
+      "size": 54830476,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2026/Unzip_5.15_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-09-2026/Unzip_5.18_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Unzip_6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cuilingshi.fileextract.png",
       "versions": [
+        {
+          "version": "6.1",
+          "date": "2026-10-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Unzip_6.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 54830476,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.1"
+        },
         {
           "version": "5.18",
           "date": "2026-09-16",
@@ -125124,17 +125156,25 @@
       "type": 1,
       "bundleID": "com.kavsoft.MockviewApp",
       "bundleIdentifier": "com.kavsoft.MockviewApp",
-      "version": "5.0.3",
-      "versionDate": "2026-09-24",
+      "version": "5.0.4",
+      "versionDate": "2026-10-03",
       "fullDate": "20251204051420",
-      "size": 147192395,
+      "size": 111254952,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-12-2025/Mockview_4.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/Mockview_5.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Mockview_5.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kavsoft.MockviewApp.png",
       "versions": [
+        {
+          "version": "5.0.4",
+          "date": "2026-10-03",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-10-2026/Mockview_5.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 111254952,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.0.4"
+        },
         {
           "version": "5.0.3",
           "date": "2026-09-24",
@@ -167427,6 +167467,14 @@
       "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/com.baconmania.jessi.png",
       "versions": [
         {
+          "version": "1.1.1",
+          "date": "2026-10-02T03:30:11Z",
+          "localizedDescription": "this is just a hotfix to fix a couple of issues. changelog:\n\nfixed playit codesigning issues (again)\npaper servers now download plugins from the mod manager rather than fabric mods\n",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.1/JESSI.ipa",
+          "size": 12089113,
+          "buildVersion": "1.1.1"
+        },
+        {
           "version": "1.1",
           "date": "2026-09-30T04:56:03Z",
           "localizedDescription": "Changelog:\n\nadded a built in JIT enabler! you no longer need to use StikDebug in order to enable JIT. this currently only supports iOS 17.4+, but I plan on adding a method that uses darksword in the future\nremoved the swipe gestures that mostly just got in the way of deleting servers/files\nadded support for java 8 on iOS 26+\nadded an \"api keyless\" way of downloading mods, modpacks, datapacks, and resource packs from CurseForge. technically it still uses an api key on the backend, but you're no longer required to enter one yourself in settings\nadded an automatic resource pack merger, which allows you to install multiple resource packs on your server\nfixed issues with iOS 27+\nfixed maxpro's bug, as well as plenty of other random bugs\nfixed playit.gg integration\nminor UI/UX enhancements\nadded a couple of easter eggs\nremoved herobrine\n",
@@ -167499,10 +167547,10 @@
           "buildVersion": "b2"
         }
       ],
-      "version": "1.1",
-      "versionDate": "2026-09-30",
-      "size": 12086786,
-      "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1/JESSI.ipa"
+      "version": "1.1.1",
+      "versionDate": "2026-10-02",
+      "size": 12089113,
+      "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.1/JESSI.ipa"
     },
     {
       "name": "Bunny (TestFlight)",
