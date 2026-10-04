@@ -15335,17 +15335,25 @@
       "type": 1,
       "bundleID": "com.joytunes.asla",
       "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.10.94",
-      "versionDate": "2026-10-01",
+      "version": "9.10.95",
+      "versionDate": "2026-10-04",
       "fullDate": "20260805164215",
-      "size": 162646405,
+      "size": 164604912,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SimplyPiano_9.10.84_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/SimplyPiano_9.10.94_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/SimplyPiano_9.10.95_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "versions": [
+        {
+          "version": "9.10.95",
+          "date": "2026-10-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/SimplyPiano_9.10.95_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 164604912,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.10.95"
+        },
         {
           "version": "9.10.94",
           "date": "2026-10-01",
@@ -27354,17 +27362,25 @@
       "type": 1,
       "bundleID": "uni.cbum",
       "bundleIdentifier": "uni.cbum",
-      "version": "4.1.60",
-      "versionDate": "2026-09-28",
+      "version": "4.1.61",
+      "versionDate": "2026-10-04",
       "fullDate": "20260803160131",
-      "size": 143662464,
+      "size": 144941417,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Stndrd_4.1.50_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2026/Stndrd_4.1.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/Stndrd_4.1.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/uni.cbum.png",
       "versions": [
+        {
+          "version": "4.1.61",
+          "date": "2026-10-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-10-2026/Stndrd_4.1.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 144941417,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.1.61"
+        },
         {
           "version": "4.1.60",
           "date": "2026-09-28",
@@ -181729,6 +181745,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10323",
+          "marketingVersion": "3.4.0-alpha.20261004.5332dc5",
+          "date": "2026-10-04",
+          "localizedDescription": "Alpha build 5332dc5 · 2026-10-04\n\nChanges in this build:\n• build(retro): stop shipping PVRetroArch.framework\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 654351908,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10275",
           "marketingVersion": "3.4.0-alpha.20261002.23cfa34",
           "date": "2026-10-02",
@@ -182032,8 +182058,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-02",
-      "size": 731329153,
+      "versionDate": "2026-10-04",
+      "size": 654351908,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -189216,6 +189242,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "191",
+          "date": "2026-10-04T02:14:42.498Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-191/Non-Jailbroken.ipa",
+          "size": 93586425,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "189",
           "date": "2026-10-03T23:55:42.916Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -189483,9 +189520,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-10-03",
-      "size": 93581005,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-189/Non-Jailbroken.ipa"
+      "versionDate": "2026-10-04",
+      "size": 93586425,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-191/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
