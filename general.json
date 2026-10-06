@@ -1907,17 +1907,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.633",
-      "versionDate": "2026-09-29",
+      "version": "0.1.634",
+      "versionDate": "2026-10-07",
       "fullDate": "20260807020601",
-      "size": 130005109,
+      "size": 129027285,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/RiseSleep_0.1.633_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/RiseSleep_0.1.634_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.634",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/RiseSleep_0.1.634_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 129027285,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.634"
+        },
         {
           "version": "0.1.633",
           "date": "2026-09-29",
@@ -4530,17 +4538,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "27.0.3",
-      "versionDate": "2026-10-05",
+      "version": "27.0.4",
+      "versionDate": "2026-10-06",
       "fullDate": "20260807003514",
-      "size": 44215354,
+      "size": 44399875,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/Athlytic_27.0.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Athlytic_27.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "27.0.4",
+          "date": "2026-10-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Athlytic_27.0.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 44399875,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "27.0.4"
+        },
         {
           "version": "27.0.3",
           "date": "2026-10-05",
@@ -13233,17 +13249,25 @@
       "type": 1,
       "bundleID": "com.offlinemusic",
       "bundleIdentifier": "com.offlinemusic",
-      "version": "3.9.5",
-      "versionDate": "2026-09-12",
+      "version": "3.9.6",
+      "versionDate": "2026-10-07",
       "fullDate": "20260806011215",
-      "size": 111018500,
+      "size": 112303901,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/OfflineMusic_3.9.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-09-2026/OfflineMusic_3.9.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/OfflineMusic_3.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.offlinemusic.png",
       "versions": [
+        {
+          "version": "3.9.6",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/OfflineMusic_3.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 112303901,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.9.6"
+        },
         {
           "version": "3.9.5",
           "date": "2026-09-12",
@@ -20033,17 +20057,25 @@
       "type": 1,
       "bundleID": "com.myfitnesspal.mfp",
       "bundleIdentifier": "com.myfitnesspal.mfp",
-      "version": "26.39.0",
-      "versionDate": "2026-09-30",
+      "version": "26.40.0",
+      "versionDate": "2026-10-07",
       "fullDate": "20260805011153",
-      "size": 212633415,
+      "size": 213437434,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/MyFitnessPal_26.31.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-09-2026/MyFitnessPal_26.39.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/MyFitnessPal_26.40.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myfitnesspal.mfp.png",
       "versions": [
+        {
+          "version": "26.40.0",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/MyFitnessPal_26.40.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 213437434,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.40.0"
+        },
         {
           "version": "26.39.0",
           "date": "2026-09-30",
@@ -48366,17 +48398,25 @@
       "type": 1,
       "bundleID": "com.aoklab.fewerphotos",
       "bundleIdentifier": "com.aoklab.fewerphotos",
-      "version": "3.4.16",
-      "versionDate": "2026-09-22",
+      "version": "3.5.0",
+      "versionDate": "2026-10-06",
       "fullDate": "20260724165038",
-      "size": 95919626,
+      "size": 159883458,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/swipewipe_3.4.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-09-2026/swipewipe_3.4.16_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/swipewipe_3.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
       "versions": [
+        {
+          "version": "3.5.0",
+          "date": "2026-10-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/swipewipe_3.5.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 159883458,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.5.0"
+        },
         {
           "version": "3.4.16",
           "date": "2026-09-22",
@@ -55601,17 +55641,25 @@
       "type": 1,
       "bundleID": "com.cloud-compiler",
       "bundleIdentifier": "com.cloud-compiler",
-      "version": "6.4.0",
-      "versionDate": "2026-10-06",
+      "version": "6.4.1",
+      "versionDate": "2026-10-07",
       "fullDate": "20260721220250",
-      "size": 22200104,
+      "size": 22200454,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/CodeSnackIDE_6.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/CodeSnackIDE_6.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/CodeSnackIDE_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cloud-compiler.png",
       "versions": [
+        {
+          "version": "6.4.1",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/CodeSnackIDE_6.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 22200454,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.4.1"
+        },
         {
           "version": "6.4.0",
           "date": "2026-10-06",
@@ -182035,6 +182083,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10357",
+          "marketingVersion": "3.4.0-alpha.20261006.2be44ff",
+          "date": "2026-10-06",
+          "localizedDescription": "Alpha build 2be44ff · 2026-10-06\n\nChanges in this build:\n• fix(testflight): retry transient network errors when distributing\n• fix(ci): don't split submodule paths on spaces in init verification\n• fix(ci): catch cloned-but-empty submodules after a failed init\n• feat(release): --notes-file for TestFlight \"What to Test\" text\n• ci(testflight): list the real changes in \"What to Test\" (#3728)\n• fix(netplay): make the bridge-state sink @Sendable for Xcode 26.3\n• fix(maint): re-launch under Python 3.11+ when started by an older one\n• fix(maint): terminal-only jobs, faster status, submodule-aware audit\n• fix(maint): order staleness by commit, not time; verify no-change runs\n• feat(scripts): add maint, a registry and dashboard for maintenance jobs\n• chore(scripts): sort Scripts/ into folders, drop dead scripts\n• update contributors\n• feat(dolphin): match iCube defaults, expose all CIR flags\n• dolphin core update\n• package resolved update\n• perf(library): drop per-entry package check from file index scan\n• fix(cloud): stop 0xDEAD10CC kills from sync work at suspension\n• feat(netplay): Dolphin boots every player into the game together\n• feat(launch): let the user unblock a stuck game launch\n• feat(netplay): mGBA link cable over the network with lockstep\n• fix(dolphin): keep the tvOS render view above the GPU view\n• build(dolphin): compile native netplay against this Dolphin revision\n• feat(netplay): Mednafen hosting with the embedded mednafen-server\n• feat(netplay): PPSSPP ad hoc for the native and libretro cores\n• feat(netplay): host start and restart-on-host steps for cores\n• docs: plan for native-core netplay (Mednafen, PPSSPP, Dolphin, mGBA)\n• fix(netplay): Game Center joins real addresses; relay off by default\n• fix(netplay): make thin-wrapper netplay actually exchange packets\n• chore: drop leftovers of the deleted RetroArch wrapper\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 654455005,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10323",
           "marketingVersion": "3.4.0-alpha.20261004.5332dc5",
           "date": "2026-10-04",
@@ -182368,8 +182426,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-04",
-      "size": 654351908,
+      "versionDate": "2026-10-06",
+      "size": 654455005,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -189552,6 +189610,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "251",
+          "date": "2026-10-06T11:24:32.190Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-251/Non-Jailbroken.ipa",
+          "size": 93646112,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "239",
           "date": "2026-10-06T09:22:34.755Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -189864,8 +189933,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-06",
-      "size": 93643031,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-239/Non-Jailbroken.ipa"
+      "size": 93646112,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-251/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
