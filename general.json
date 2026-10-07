@@ -60047,17 +60047,25 @@
       "type": 1,
       "bundleID": "com.kinemaster.kios",
       "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.2.3",
-      "versionDate": "2026-10-01",
+      "version": "8.2.4",
+      "versionDate": "2026-10-07",
       "fullDate": "20260714184116",
-      "size": 157193107,
+      "size": 157218255,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2026/KineMaster_8.1.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-10-2026/KineMaster_8.2.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/KineMaster_8.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "versions": [
+        {
+          "version": "8.2.4",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/KineMaster_8.2.4_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 157218255,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "8.2.4"
+        },
         {
           "version": "8.2.3",
           "date": "2026-10-01",
@@ -60593,17 +60601,25 @@
       "type": 1,
       "bundleID": "com.path36.SpliceFree",
       "bundleIdentifier": "com.path36.SpliceFree",
-      "version": "4.28.70",
-      "versionDate": "2026-09-24",
+      "version": "4.28.71",
+      "versionDate": "2026-10-07",
       "fullDate": "20260714153044",
-      "size": 107355412,
+      "size": 107410721,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2026/Splice_4.28.68_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-09-2026/Splice_4.28.70_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Splice_4.28.71_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.path36.SpliceFree.png",
       "versions": [
+        {
+          "version": "4.28.71",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Splice_4.28.71_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 107410721,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.28.71"
+        },
         {
           "version": "4.28.70",
           "date": "2026-09-24",
@@ -72588,17 +72604,25 @@
       "type": 1,
       "bundleID": "fontskeyboard.fonts",
       "bundleIdentifier": "fontskeyboard.fonts",
-      "version": "8.4.54",
-      "versionDate": "2026-06-24",
+      "version": "8.4.55",
+      "versionDate": "2026-10-07",
       "fullDate": "20260624135315",
-      "size": 64078132,
+      "size": 68434991,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2026/Fonts_8.4.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2026/Fonts_8.4.54_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Fonts_8.4.55_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fontskeyboard.fonts.png",
       "versions": [
+        {
+          "version": "8.4.55",
+          "date": "2026-10-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-10-2026/Fonts_8.4.55_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 68434991,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.4.55"
+        },
         {
           "version": "8.4.54",
           "date": "2026-06-24",
@@ -167861,6 +167885,14 @@
       "iconURL": "https://raw.githubusercontent.com/Dan1elTheMan1el/IOS-Repo/refs/heads/main/scrapedIcons/com.baconmania.jessi.png",
       "versions": [
         {
+          "version": "1.1.2",
+          "date": "2026-10-06T07:24:52Z",
+          "localizedDescription": "changelog:\n\nproper jailbreak support! jailbroken users can now install JESSI via a package manager instead of having to install TrollStore/TrollStore Lite\nPumpkinMC support (still requires JIT)\nPumpkinMC plugin downloading support\nPumpkinMC plugin permission manager\nJIT enabler now probes for a loopback VPN connection rather than relying on LocalDevVPN\n",
+          "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.2/JESSI.ipa",
+          "size": 12168815,
+          "buildVersion": "1.1.2"
+        },
+        {
           "version": "1.1.1",
           "date": "2026-10-02T03:30:11Z",
           "localizedDescription": "this is just a hotfix to fix a couple of issues. changelog:\n\nfixed playit codesigning issues (again)\npaper servers now download plugins from the mod manager rather than fabric mods\n",
@@ -167941,10 +167973,10 @@
           "buildVersion": "b2"
         }
       ],
-      "version": "1.1.1",
-      "versionDate": "2026-10-02",
-      "size": 12089113,
-      "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.1/JESSI.ipa"
+      "version": "1.1.2",
+      "versionDate": "2026-10-06",
+      "size": 12168815,
+      "downloadURL": "https://github.com/Baconium/JESSI/releases/download/1.1.2/JESSI.ipa"
     },
     {
       "name": "Bunny (TestFlight)",
