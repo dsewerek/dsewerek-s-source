@@ -182251,6 +182251,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10478",
+          "marketingVersion": "3.4.0-alpha.20261009.588fc4d",
+          "date": "2026-10-09",
+          "localizedDescription": "Alpha build 588fc4d · 2026-10-09\n\nChanges in this build:\n• fix(skins): own-surface cores get both skin screens, not the smallest one\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 664357146,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10476",
           "marketingVersion": "3.4.0-alpha.20261008.34df2e9",
           "date": "2026-10-08",
@@ -182624,8 +182634,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-08",
-      "size": 663941362,
+      "versionDate": "2026-10-09",
+      "size": 664357146,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
