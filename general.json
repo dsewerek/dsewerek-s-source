@@ -113545,17 +113545,27 @@
       "type": 1,
       "bundleID": "com.google.ios.youtube",
       "bundleIdentifier": "com.google.ios.youtube",
-      "version": "21.40.5",
-      "versionDate": "2026-10-05",
+      "version": "21.20.4",
+      "versionDate": "2026-10-09",
       "fullDate": "20260113071103",
-      "size": 130097628,
+      "size": 154391978,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-01-2026/YouTubeOLED_21.02.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.35/dca9895e-50a3-49a6-b4fb-afd10174a2YM.ipa",
+      "downloadURL": "https://archive.org/download/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-21204-305.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.google.ios.youtube.png",
       "versions": [
+        {
+          "version": "21.20.4",
+          "date": "2026-10-09T00:00:00-05:00",
+          "size": 154391978,
+          "downloadURL": "https://archive.org/download/YouTubeRebornPlus_19.10.5-4.2.6/yt-uYE-21204-305.ipa",
+          "minOSVersion": "16.0",
+          "releaseNotes": "Current YouTube IPA: \"21.20.4\"\nCurrent uYou Version: \"3.0.5 (Unofficial)\"\n\nRELEASE 21.20.4 - 3.0.5: (2026-10-09)\n\n• Updated for YouTube 21.20.4\n• Reworked uYou downloads (now finish reliably)\n• Added uYouEnhanced Debug Logs\n• Restored BigYTMiniPlayer\n• Fixed 25 reported issues\n• Bug fixes and stability improvements",
+          "localizedDescription": "Current YouTube IPA: \"21.20.4\"\nCurrent uYou Version: \"3.0.5 (Unofficial)\"\n\nRELEASE 21.20.4 - 3.0.5: (2026-10-09)\n\n• Updated for YouTube 21.20.4\n• Reworked uYou downloads (now finish reliably)\n• Added uYouEnhanced Debug Logs\n• Restored BigYTMiniPlayer\n• Fixed 25 reported issues\n• Bug fixes and stability improvements",
+          "buildVersion": "21.20.4"
+        },
         {
           "version": "21.40.5",
           "date": "2026-10-05",
@@ -182257,6 +182267,16 @@
           "localizedDescription": "Alpha build 588fc4d · 2026-10-09\n\nChanges in this build:\n• fix(skins): own-surface cores get both skin screens, not the smallest one\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
           "size": 664357146,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
+          "buildVersion": "10479",
+          "marketingVersion": "3.4.0-alpha.20261009.15fc665",
+          "date": "2026-10-09",
+          "localizedDescription": "Alpha build 15fc665 · 2026-10-09\n\nChanges in this build:\n• fix(skins): look up the dual-screen pair with the renderer's traits\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 664469500,
           "minOSVersion": "17.0"
         },
         {
