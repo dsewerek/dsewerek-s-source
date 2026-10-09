@@ -145094,6 +145094,16 @@
       "subtitle": "An alternative App Store for iOS.",
       "versions": [
         {
+          "version": "2.3.1b",
+          "date": "2026-10-09T13:00:00-04:00",
+          "localizedDescription": "NEW\n\nRandomize Bundle IDs\n• New experimental feature in AltStore’s settings\n• Randomizes bundle IDs for sideloaded apps\n\nIMPROVED\n• Improved error messages for common Remote AltServer connection issues\n\nFIXED\n• Fixed 2FA codes not appearing when signing in (thanks @IgoSzaFIIT!)\n• Fixed \"BGTaskSchedulerErrorDomain error 3\" alert when setting up Remote AltServer on iOS 27+\n• Fixed apps not refreshing in background\n• Fixed asking to sign-in before setting up Remote AltServer",
+          "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_1_b.ipa",
+          "size": 40602347,
+          "sha256": "173534b619ed80cfd64396ef1d267a99d460b4cbc240b4d7b2d384d714df131f",
+          "minOSVersion": "17.4",
+          "buildVersion": "2.3.1b"
+        },
+        {
           "version": "2.3rc",
           "date": "2026-09-11T14:00:00-04:00",
           "localizedDescription": "NEW\n\nRemote AltServer Onboarding\n• New in-app guide to easily set up on-device sideloading\n• Get started in seconds with easy to follow instructions\n• Tap “Set-Up Remote AltServer” in settings\n\nOn-Device Pairing (iOS 27+)\n• Install and sideload apps without ever touching a computer!\n• Set up remote AltServer without manually pairing with AltServer\n\nIMPROVED\n• Improved remote AltServer reliability\n• No longer need to restart app after pairing with remote AltServer\n• Ignores “Couldn’t reach remote AltServer” error when refreshing apps in background without VPN\n\nFIXED\n• Fixed crash when refreshing multiple apps with local AltServer",
@@ -145339,14 +145349,14 @@
           "buildVersion": "1.6b1"
         }
       ],
-      "version": "2.3rc",
-      "versionDate": "2026-09-11",
+      "version": "2.3.1b",
+      "versionDate": "2026-10-09",
       "versionDescription": "This beta fixes the \"no provisioning profile with the requested identifier…\" error when sideloading or refreshing apps.\n\n⚠️ You must manually install this update by downloading the latest AltServer beta from Patreon and using it to re-reinstall AltStore. You do not need to delete AltStore first.",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_rc.ipa",
+      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_1_b.ipa",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis beta release of AltStore adds support for 3rd party sources, allowing you to download apps from other developers directly through AltStore.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
-      "size": 40652725,
+      "size": 40602347,
       "category": "utilities",
       "beta": true,
       "patreon": {
