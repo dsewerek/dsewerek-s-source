@@ -76779,17 +76779,25 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "450.0.0",
-      "versionDate": "2026-10-05",
+      "version": "450.1.0",
+      "versionDate": "2026-10-10",
       "fullDate": "20260610115226",
-      "size": 91750400,
+      "size": 280748738,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.35/df4685bb-4a2f-4c5d-acf4-b0b5f301172R.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1791633150600-5s3m7/com.burbn.instagram_450.1.0_regram_6.4_sl_noplugs.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "450.1.0",
+          "date": "2026-10-10T11:48:47+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 450.1.\n- New Story Playback Controls: speed, scrubbing, skip, volume, mute, Picture in Picture, save frame and next person for stories. Open with a long-press on •••, the new playback button or the action button. Stop Auto Advance moved there too.\n- Reels Playback Controls: new previous/next reel and skip buttons (5s by default). When paused, skip steps one frame; hold to repeat. Also available as floating button actions.\n- New Media Watch (Profile Tracking): watched accounts can have their new stories, posts, reels and profile pictures saved automatically, shown in the events list and viewable there.\n- New per-account Media screen: all saved media by type, a Deleted filter, full-screen viewer, and export to Photos or the Vault.\n- Profile Tracking now centers on the Watchlist: it opens on Watchlist | Changes, and recording profile visits is optional (off by default).\n- Profile Tracking: now tracks links and their titles, pronouns, category, account type and contact info.\n- Profile Tracking: fixed false profile picture changes, mostly on accounts without a picture.\n- New Save All Media on the profile action button: posts, carousels, reels, stories and the profile picture in bulk.\n- Instants: new Manually Mark as Seen. Viewed instants stay unseen until you tap the eye button.\n- Reel Buttons: hide IG's new Save button on Reels, or just its count.\n- Redesigned Tab Bar editor: live preview, add or hide tabs with + and −, and changes apply without relaunching.\n- Tab Bar: add custom tabs, like IG's Saved and Notifications or Regram screens such as the Vault, Downloads and Settings.\n- Tab Bar: hold any tab to open a screen of your choice (Home still opens Regram Settings).\n- Detect IG Links moved to the Tab Bar editor as Explore's hold action (your setting carries over).\n- Stacked Toast notifications now share one width instead of zig-zagging.\n- Downloads: filter chips above the list, plus a Select button to delete many downloads at once, with or without their media.\n- Fixed Hide Chats and the DM refresh confirmation not working on IG's new chats list.\n- Fixed video Instants downloading as a photo.\n- Fixed IG crashing at launch on some accounts.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1791633150600-5s3m7/com.burbn.instagram_450.1.0_regram_6.4_sl_noplugs.ipa",
+          "size": 280748738,
+          "buildVersion": "450.1.0"
+        },
         {
           "version": "450.0.0",
           "date": "2026-10-05",
@@ -168903,6 +168911,14 @@
       },
       "versions": [
         {
+          "version": "450.1.0",
+          "date": "2026-10-10T11:48:47+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 450.1.\n- New Story Playback Controls: speed, scrubbing, skip, volume, mute, Picture in Picture, save frame and next person for stories. Open with a long-press on •••, the new playback button or the action button. Stop Auto Advance moved there too.\n- Reels Playback Controls: new previous/next reel and skip buttons (5s by default). When paused, skip steps one frame; hold to repeat. Also available as floating button actions.\n- New Media Watch (Profile Tracking): watched accounts can have their new stories, posts, reels and profile pictures saved automatically, shown in the events list and viewable there.\n- New per-account Media screen: all saved media by type, a Deleted filter, full-screen viewer, and export to Photos or the Vault.\n- Profile Tracking now centers on the Watchlist: it opens on Watchlist | Changes, and recording profile visits is optional (off by default).\n- Profile Tracking: now tracks links and their titles, pronouns, category, account type and contact info.\n- Profile Tracking: fixed false profile picture changes, mostly on accounts without a picture.\n- New Save All Media on the profile action button: posts, carousels, reels, stories and the profile picture in bulk.\n- Instants: new Manually Mark as Seen. Viewed instants stay unseen until you tap the eye button.\n- Reel Buttons: hide IG's new Save button on Reels, or just its count.\n- Redesigned Tab Bar editor: live preview, add or hide tabs with + and −, and changes apply without relaunching.\n- Tab Bar: add custom tabs, like IG's Saved and Notifications or Regram screens such as the Vault, Downloads and Settings.\n- Tab Bar: hold any tab to open a screen of your choice (Home still opens Regram Settings).\n- Detect IG Links moved to the Tab Bar editor as Explore's hold action (your setting carries over).\n- Stacked Toast notifications now share one width instead of zig-zagging.\n- Downloads: filter chips above the list, plus a Select button to delete many downloads at once, with or without their media.\n- Fixed Hide Chats and the DM refresh confirmation not working on IG's new chats list.\n- Fixed video Instants downloading as a photo.\n- Fixed IG crashing at launch on some accounts.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1791633150599-mb4fm/com.fouadraheb.regram_450.1.0_regram_6.4_sl.ipa",
+          "size": 278062480,
+          "buildVersion": "450.1.0"
+        },
+        {
           "version": "448.0.0",
           "date": "2026-09-28T18:38:54+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 448.\n- New Reels Limit (replaces Reels Scrolling): daily reels or minutes limit per place, with usage stats, a 7-day chart and break reminders.\n- New Tappable Links (General): web links in captions and comments can now be tapped to open. On by default.\n- Deleted Messages Log: new Show in Chat — opens the chat and jumps to where the message was (tap text entries or long-press any entry).\n- Hide Buttons is now Post Buttons and Reel Buttons: show, hide, or hide just the count of each button, plus the like and repost confirmations.\n- Feed, Reels and Stories Filtering, and the new button pages, moved from Interface into the Feed, Reels and Stories sections.\n- Moved Stories \"Hide Suggested Users\" into Stories Filtering.\n- Profile Tracking: safer watchlist checks — they start a few seconds after launch, pause for a day if Instagram limits the account, and run at most every 2 hours.\n- Fixed Full Last Active Date not showing in chats.\n- Fixed \"Music for you\" and \"Suggested for you\" cards still showing in Stories.\n- Notifications now use the Solid background by default, and Toast text lines up next to its icon.\n- Fixed IG+ Story Preview showing the upsell instead of the story when long-pressing an avatar outside the stories bar (comments, DMs, search, activity, feed posts).",
@@ -169047,13 +169063,13 @@
           "buildVersion": "413.0.0"
         }
       ],
-      "version": "448.0.0",
-      "versionDate": "2026-09-28",
+      "version": "450.1.0",
+      "versionDate": "2026-10-10",
       "versionDescription": "",
       "fullDate": "20260721194857",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790621057583-b8dfz/com.fouadraheb.regram_448.0.0_regram_6.3_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1791633150599-mb4fm/com.fouadraheb.regram_450.1.0_regram_6.4_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1784664131112-9uylf/com.fouadraheb.regram_439.0.0_regram_5.2.1_sl.ipa",
-      "size": 269624337
+      "size": 278062480
     },
     {
       "id": "WA-SL-Duplicate",
@@ -189858,6 +189874,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "284",
+          "date": "2026-10-10T08:15:57.039Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-284/Non-Jailbroken.ipa",
+          "size": 93609842,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "277",
           "date": "2026-10-08T11:02:45.147Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190213,9 +190240,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-10-08",
-      "size": 93534350,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-277/Non-Jailbroken.ipa"
+      "versionDate": "2026-10-10",
+      "size": 93609842,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-284/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -190623,6 +190650,17 @@
       ],
       "versions": [
         {
+          "version": "1.0.0+1791610021",
+          "buildVersion": "1791610021",
+          "date": "2026-10-10",
+          "localizedDescription": "iFly 1.0.0 (build 1791610021) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1791610021/iFly-1.0.0-1791610021.ipa",
+          "size": 131251868,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
           "version": "1.0.0+1791436698",
           "buildVersion": "1791436698",
           "date": "2026-10-09",
@@ -190634,10 +190672,10 @@
           "isBeta": true
         }
       ],
-      "version": "1.0.0+1791436698",
-      "versionDate": "2026-10-09",
-      "size": 131240690,
-      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1791436698/iFly-1.0.0-1791436698.ipa"
+      "version": "1.0.0+1791610021",
+      "versionDate": "2026-10-10",
+      "size": 131251868,
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1791610021/iFly-1.0.0-1791610021.ipa"
     }
   ]
 }
