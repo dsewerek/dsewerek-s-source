@@ -182287,6 +182287,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10594",
+          "marketingVersion": "3.4.0-alpha.20261011.566a4d0",
+          "date": "2026-10-11",
+          "localizedDescription": "Alpha build 566a4d0 · 2026-10-11\n\nChanges in this build:\n• update dolphin core\n• fix build\n• update dolphin core\n• docs(diag): Spotlight is the only run-marker extension now\n• fix(spotlight): drop dead init run marker, pin batch map overload\n• fix(spotlight): sort by primary key so index batches are stable\n• test(support): cover ExtensionRunMarker jetsam heuristics\n• perf(extensions): bound Spotlight/TopShelf Realm reads, stop trapping\n• feat(diag): detect app-extension terminations via App Group markers\n• feat(diag): surface MetricKit jetsam and 0xdead10cc exit metrics\n• docs: design spec for Lost Files Scanner (library health)\n• docs: record local branch triage and unfinished work\n• fix(skins): apply pause picks live and refresh the selector\n• fix(patching): qualify SwiftUI List/Section in patch views\n• fix(mupen): give the video plugin a stable default framebuffer\n• fix(patching): unbreak PVUI and PVLibrary CI after #3734\n• feat: complete local game patching (import, variants, BPS/IPS create) (#3734)\n• fix(core): mmap CHD/disk images in thin VFS for MAME stutter (#3735)\n• update dolphin module\n• fix(webdav): answer Finder's Depth probes without stalling the mount\n• feat(thin): load zipped ROMs natively, in memory, or from the cache\n• fix(build): restore Dependencies and rcheevos submodule gitlinks\n• feat(skins): remove the pressed-button highlight shapes\n• fix(ci): pass --trust so the headless Cursor agent starts\n• docs(roadmap): 27 cores pruned, five kept deprecated\n• feat(ui): show the RetroArch mark on libretro cores\n• chore(cores): keep Bliss, CrabEMU and VBA-M as deprecated native cores\n• feat(cores): drop the \"(RetroArch)\" suffix from libretro core names\n• chore(cores): keep Atari800 and Gambatte as deprecated native cores\n• docs: retired cores run via the thin wrapper only where a replacement exists\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 660434141,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10500",
           "marketingVersion": "3.4.0-alpha.20261010.15795ce",
           "date": "2026-10-10",
@@ -182700,8 +182710,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-10",
-      "size": 664304011,
+      "versionDate": "2026-10-11",
+      "size": 660434141,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -189884,6 +189894,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "293",
+          "date": "2026-10-11T04:56:14.788Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-293/Non-Jailbroken.ipa",
+          "size": 96932312,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "288",
           "date": "2026-10-10T20:29:33.090Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190272,9 +190293,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-10-10",
-      "size": 93583581,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-288/Non-Jailbroken.ipa"
+      "versionDate": "2026-10-11",
+      "size": 96932312,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-293/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
