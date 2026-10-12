@@ -149605,7 +149605,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 13544310,
+      "size": 13544340,
       "screenshots": {
         "iphone": [
           {
@@ -149634,6 +149634,15 @@
         }
       },
       "versions": [
+        {
+          "version": "3.1.14",
+          "date": "2026-10-12",
+          "localizedDescription": "Add Husk support\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.13...3.1.14",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.14/StikDebug-3.1.14.ipa",
+          "size": 13544340,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.1.14"
+        },
         {
           "version": "3.1.13",
           "date": "2026-09-28",
@@ -149680,9 +149689,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.1.13",
-      "versionDate": "2026-09-28",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.13/StikDebug-3.1.13.ipa"
+      "version": "3.1.14",
+      "versionDate": "2026-10-12",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.14/StikDebug-3.1.14.ipa"
     },
     {
       "name": "StikPair",
@@ -182287,6 +182296,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10601",
+          "marketingVersion": "3.4.0-alpha.20261012.3024067",
+          "date": "2026-10-12",
+          "localizedDescription": "Alpha build 3024067 · 2026-10-12\n\nChanges in this build:\n• feat(storage): LibraryLocation as the single source of the library root\n• fix(lookup): stop re-extracting bundled databases on every launch (#3737)\n• docs(spec): library storage locations and user-picked shared folder\n• fix(lite): own Realm file and no iCloud sync\n• fix(library): relink save states orphaned by Lite's core prune\n• fix(savestates): tolerate a save state whose core row was deleted\n• fix(cloudkit): don't crash uploading a save state with no core\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 660218886,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10594",
           "marketingVersion": "3.4.0-alpha.20261011.566a4d0",
           "date": "2026-10-11",
@@ -182710,8 +182729,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-11",
-      "size": 660434141,
+      "versionDate": "2026-10-12",
+      "size": 660218886,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -189894,6 +189913,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "297",
+          "date": "2026-10-11T21:26:52.959Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-297/Non-Jailbroken.ipa",
+          "size": 96932399,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "296",
           "date": "2026-10-11T09:48:11.055Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190305,8 +190335,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-11",
-      "size": 96932382,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-296/Non-Jailbroken.ipa"
+      "size": 96932399,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-297/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
