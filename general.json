@@ -149629,7 +149629,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 13544340,
+      "size": 13543234,
       "screenshots": {
         "iphone": [
           {
@@ -149658,6 +149658,15 @@
         }
       },
       "versions": [
+        {
+          "version": "3.1.15",
+          "date": "2026-10-15",
+          "localizedDescription": "Full Changelog: https://github.com/StikDebug/StikDebug/compare/3.1.14...3.1.15",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa",
+          "size": 13543234,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.1.15"
+        },
         {
           "version": "3.1.14",
           "date": "2026-10-12",
@@ -149713,9 +149722,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.1.14",
-      "versionDate": "2026-10-12",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.14/StikDebug-3.1.14.ipa"
+      "version": "3.1.15",
+      "versionDate": "2026-10-15",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa"
     },
     {
       "name": "StikPair",
