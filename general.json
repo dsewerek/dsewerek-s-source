@@ -145655,6 +145655,16 @@
       "subtitle": "Classic games in your pocket.",
       "versions": [
         {
+          "version": "2.0.7",
+          "marketingVersion": "2.0rc (175)",
+          "buildVersion": "175",
+          "date": "2026-10-16T12:00:00-04:00",
+          "localizedDescription": "NEW\n\nDLC\n• Custom in-game experiences for Pokémon games, built by our team\n• Unlock event items, receive rare Pokémon, and more\n• Start an event from the Pause Menu while playing\n• First event available now for Pokémon Emerald!\n\nCustom Filters\n• New Experimental Feature for using custom game screen filters\n• Includes two presets for every system, such as CRT and original Game Boy\n• Import your own filters from the Files app\n\nIMPROVED\n• Dynamically updates “Audio” settings icon to reflect current volume level\n• Open files browser directly upon tapping \"+\" button\n• Change fast forward speed via per-game settings\n• Restored the “Choose” button when no Nintendo WFC server is selected\n• Updated larger devices to show three games on game selection screen\n• Renamed “Minor Settings” to “Lil’ Settings”\n• Updated the previous sync status screen for iOS 26\n• Removed the redundant RetroAchievements heading from per-game settings\n• Limited the number of games shown in Recents\n• Updated the RetroAchievements description in per-game settings\n\nFIXED\n• Fixed fast forward and load state buttons disappearing when RetroAchievements are enabled\n• Fixed settings icons showing incorrect colors in light and dark mode\n• Fixed controller input picker appearing blue instead of purple on iOS 26\n• Fixed animated controller skins missing buttons in skin selection screen\n• Fixed importing .md files for Sega Genesis games\n• Fixed screenshot notifications appearing behind the pause menu\n• Fixed online multiplayer help text appearing when a Nintendo WFC server is already selected\n• Fixed RetroAchievements achievement notifications sometimes not appearing\n• Fixed crash when resizing Pause Menu to very small sizes\n• Fixed not disabling hardcore mode for games\n• Fixed app hanging indefinitely when showing cheats",
+          "downloadURL": "https://www.patreon.com/file?h=105173733&m=765526235",
+          "size": 207427358,
+          "minOSVersion": "17.4"
+        },
+        {
           "version": "2.0.4",
           "marketingVersion": "2.0b5 (163)",
           "buildVersion": "163",
@@ -145891,14 +145901,14 @@
           "buildVersion": "1.4b2"
         }
       ],
-      "version": "2.0.4",
-      "versionDate": "2026-07-28",
+      "version": "2.0.7",
+      "versionDate": "2026-10-16",
       "versionDescription": "\"Contributors\" screen\n• See everyone who has contributed to Delta\n• View associated Pull Requests for contributed features\n\nPREVIOUS BETA\n• “Respect Silent Mode” setting\n• Automatically mutes game audio if another app is playing audio\n• Browse CheatBase for all known cheats for games (thanks Noah Keck @horn978)",
-      "downloadURL": "https://www.patreon.com/file?h=105173733&m=707106638",
+      "downloadURL": "https://www.patreon.com/file?h=105173733&m=765526235",
       "localizedDescription": "The next consoles for Delta are coming: this beta version of Delta brings support for playing Nintendo DS and Sega Genesis games!\n\nPlease report any issues you find to support@altstore.io. Thanks!",
       "iconURL": "https://cdn.altstore.io/file/altstore/images/delta/Delta4.png",
       "tintColor": "8A28F7",
-      "size": 198680846,
+      "size": 207427358,
       "category": "games",
       "beta": true,
       "patreon": {
@@ -190002,6 +190012,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "346",
+          "date": "2026-10-16T16:58:50.531Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-346/Non-Jailbroken.ipa",
+          "size": 97848863,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "344",
           "date": "2026-10-16T04:59:10.519Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190490,8 +190511,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-16",
-      "size": 97848847,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-344/Non-Jailbroken.ipa"
+      "size": 97848863,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-346/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
