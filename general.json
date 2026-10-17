@@ -150026,6 +150026,15 @@
       "versions": [
         {
           "version": "0.9",
+          "date": "2026-10-16",
+          "localizedDescription": "A small build update for 0.9 with a number of bug fixes.\n\n• Fixed some pages not loading in webtoon reader\n• Improved webtoon reader memory usage (hopefully fixes crash after reading multiple chapters)\n• Fixed crash when searching anywhere in the macOS app\n• Various other bug fixes",
+          "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa",
+          "size": 14753154,
+          "minOSVersion": "15.0",
+          "buildVersion": "4"
+        },
+        {
+          "version": "0.9",
           "date": "2026-09-03",
           "localizedDescription": "• OCR dictionary support (iOS 18+): import Yomitan•compatible dictionaries in the app and look up words while reading.\n• Suwayomi built•in source: read and track from a Suwayomi instance, just like Komga and Kavita.\n• Auto scroll for webtoon reader: enable and press the play button to scroll without touching your device.\n• Fixed CloudFlare handling: CloudFlare issues that caused external sources to break should be resolved.\n• Overall performance improvements: the library loads much faster (@Amqx), and the webtoon reader was improved.\n• Source stability fixes and disable option: the issue where sources were causing the app to crash should not happen again, and now you can even disable a source that is broken until it receives an update.\n• Many more things: see [the website](https://aidoku.app/release•notes/) for a more complete list.",
           "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa",
@@ -150053,9 +150062,9 @@
         }
       ],
       "version": "0.9",
-      "versionDate": "2026-09-03",
-      "size": 11864382,
-      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9/Aidoku.ipa"
+      "versionDate": "2026-10-16",
+      "size": 14753154,
+      "downloadURL": "https://github.com/Aidoku/Aidoku/releases/download/v0.9-4/Aidoku.ipa"
     },
     {
       "name": "Reveri",
@@ -182365,6 +182374,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10836",
+          "marketingVersion": "3.4.0-alpha.20261017.3520a91",
+          "date": "2026-10-17",
+          "localizedDescription": "Alpha build 3520a91 · 2026-10-17\n\nChanges in this build:\n• fix(build): drop duplicate Provenance-Dev keys left by the develop merge\n• fix(build): archive Provenance (AppStore) with Xcode 27\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 774605188,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10799",
           "marketingVersion": "3.4.0-alpha.20261015.ef3cebc",
           "date": "2026-10-15",
@@ -182828,8 +182847,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-15",
-      "size": 769299756,
+      "versionDate": "2026-10-17",
+      "size": 774605188,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -190012,6 +190031,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "348",
+          "date": "2026-10-17T00:02:00.393Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-348/Non-Jailbroken.ipa",
+          "size": 97849228,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "346",
           "date": "2026-10-16T16:58:50.531Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190510,9 +190540,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-10-16",
-      "size": 97848863,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-346/Non-Jailbroken.ipa"
+      "versionDate": "2026-10-17",
+      "size": 97849228,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-348/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
