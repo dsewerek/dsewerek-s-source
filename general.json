@@ -160948,11 +160948,19 @@
       "name": "互动教程 for iOS开发",
       "bundleIdentifier": "com.tapinfinity.HdjcXcode7",
       "localizedDescription": "from @blatants |\n----------------\n📱 Tutorials for iOS programming\n\n🆔 Bundle ID: \ncom.tapinfinity.HdjcXcode7\n📊 Version: 13.1\n🔧 Minimum iOS: 11.0\n\n✅ Patched\n💎 Modifier: Pro Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-10-2026/foriOS_13.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2026/foriOS_13.3_Pro_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/da9b8f68-36a0-4d64-bf83-263cc6357156/icon.jpg",
-      "version": "13.2",
-      "size": 43616507,
+      "version": "13.3",
+      "size": 43616502,
       "versions": [
+        {
+          "version": "13.3",
+          "date": "2026-10-19",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-10-2026/foriOS_13.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 43616502,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "13.3"
+        },
         {
           "version": "13.2",
           "date": "2026-10-05",
@@ -160978,7 +160986,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-10-05"
+      "versionDate": "2026-10-19"
     },
     {
       "name": "MyVocab",
