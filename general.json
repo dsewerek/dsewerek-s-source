@@ -39914,17 +39914,26 @@
       "type": 1,
       "bundleID": "com.zhiliaoapp.musically",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "47.0.0",
-      "versionDate": "2026-09-30",
+      "version": "47.4.0",
+      "versionDate": "2026-10-19",
       "fullDate": "20260729020716",
-      "size": 475692342,
+      "size": 504394824,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/BHTikTokPlus_46.2.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1833",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.4.0.Infinitok.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "versions": [
+        {
+          "version": "47.4.0",
+          "date": "2026-10-19",
+          "localizedDescription": "• TikTok updated to v47.4.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.4.0.Infinitok.ipa",
+          "size": 504394824,
+          "sha256": "d9b5f1e50f6cb46b2a55508ee8e66ba121e05abdc6332514358c645d6d0a084e",
+          "buildVersion": "47.4.0"
+        },
         {
           "version": "47.0.0",
           "date": "2026-09-30",
@@ -52678,17 +52687,26 @@
       "type": 1,
       "bundleID": "com.facebook.Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
-      "version": "570.0.0",
-      "versionDate": "2026-07-22",
+      "version": "584.0.0",
+      "versionDate": "2026-10-19",
       "fullDate": "20260722185618",
-      "size": 198238456,
+      "size": 239358167,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Facebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Facebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v584.0.0.iQFace.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "versions": [
+        {
+          "version": "584.0.0",
+          "date": "2026-10-19",
+          "localizedDescription": "• Facebook updated to v584.0.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v584.0.0.iQFace.ipa",
+          "size": 239358167,
+          "sha256": "cbe3b7571e3150d3026c218eddda97c07316356fe3c109af39cd4787d2efe326",
+          "buildVersion": "584.0.0"
+        },
         {
           "version": "570.0.0",
           "date": "2026-07-22",
@@ -53698,17 +53716,26 @@
       "type": 1,
       "bundleID": "com.facebook.Messenger",
       "bundleIdentifier": "com.facebook.Messenger",
-      "version": "571.0.0",
-      "versionDate": "2026-07-22",
+      "version": "584.0.0",
+      "versionDate": "2026-10-17",
       "fullDate": "20260722184606",
-      "size": 108526761,
+      "size": 125027873,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Messenger_571.0.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Messenger_571.0.0_Plus_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v584.0.0.Flow.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Messenger.png",
       "versions": [
+        {
+          "version": "584.0.0",
+          "date": "2026-10-17",
+          "localizedDescription": "• Messenger updated to v584.0.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Messenger.v584.0.0.Flow.ipa",
+          "size": 125027873,
+          "sha256": "c4e97e93781e2fc6abbfa415d9d8610ab17c13bd403df816626ee3b3e184404c",
+          "buildVersion": "584.0.0"
+        },
         {
           "version": "571.0.0",
           "date": "2026-07-22",
@@ -75722,17 +75749,26 @@
       "type": 1,
       "bundleID": "com.soundcloud.TouchApp",
       "bundleIdentifier": "com.soundcloud.TouchApp",
-      "version": "8.71.0",
-      "versionDate": "2026-07-28",
+      "version": "8.83.0",
+      "versionDate": "2026-10-19",
       "fullDate": "20260612114343",
-      "size": 117581520,
+      "size": 227377895,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-06-2026/SoundCloud_8.64.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud++.v8.71.0.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.83.0.NexaSC.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.soundcloud.TouchApp.png",
       "versions": [
+        {
+          "version": "8.83.0",
+          "date": "2026-10-19",
+          "localizedDescription": "• SoundCloud updated to v8.83.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud.v8.83.0.NexaSC.ipa",
+          "size": 227377895,
+          "sha256": "372650e63febf9bd7f5ddf20b7cd7a74d9e038074bcb0fd5928095dd2b21cbb2",
+          "buildVersion": "8.83.0"
+        },
         {
           "date": "2026-07-28",
           "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/SoundCloud++.v8.71.0.ipa",
@@ -76779,17 +76815,25 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "451.0.0",
-      "versionDate": "2026-10-13",
+      "version": "452.0.1",
+      "versionDate": "2026-10-20",
       "fullDate": "20260610115226",
-      "size": 91750400,
+      "size": 296298875,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.35/7843d00a-e2fb-4d34-948a-fb02d8d528R2.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-g1phx/com.burbn.instagram_452.0.1_regram_6.5_sl_noplugs.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "452.0.1",
+          "date": "2026-10-20T11:18:03+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 451 and 452.\n- Reels Limit: fixed crash when opening a reel from feed on IG 452.\n- Messages Only: own settings page, switches in place (no restart), automatic schedule (times + days, switch instantly or ask first), optional Profile tab, Shortcuts links.\n- Remove Tracking from Links: now also strips IG's new random tracking params (e.g. ?rpxt=, ?dlrf=).\n- Follow Requests: warns before you send a follow request to someone who rejected one before (on by default).\n- Follow Requests: new Received tab — tracks who asks to follow you and whether you approved, declined or they withdrew. Confirm/Delete right from the list, repeat requesters marked, new requests badged. Turn on Track Received Requests in settings.\n- Follow Requests: redesigned list with filter chips (with counts) and clearer empty states.\n- Reels Buttons: hide the new Shop Similar button.\n- Feed: option to hide the full screen button that pops up over reels.\n- Explore: option to hide the Suggested for you accounts in search. Hide Search History now also hides the empty Recent header.\n- Media Watch: fixed new posts not being saved; posts that failed to save are retried; refresh says when it's paused.\n- Media Watch: Select All in the Media screen, and Delete All Saved Media for every account at once (accounts list or settings).\n- Profile Tracking: Watchlist can sort by Recently visited again (default while visits are recorded), so opened profiles move to the top.\n- Restart alert: clearer buttons (Restart Now / Later) and says your change is already saved.\n- Fixed ads (and Hide Reels) in the Explore grid.\n- Fixed Profile Tracking badges on profiles not opening when tapped.\n- Fixed IG freezing on Reels when the Share button is hidden.\n- Fixed custom tabs not opening after adding or logging out of an account.\n- Fixed profiles from Stories Archive viewers and other lists closing all screens first instead of opening on top.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-g1phx/com.burbn.instagram_452.0.1_regram_6.5_sl_noplugs.ipa",
+          "size": 296298875,
+          "buildVersion": "452.0.1"
+        },
         {
           "version": "451.0.0",
           "date": "2026-10-13",
@@ -108246,17 +108290,26 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.31",
-      "versionDate": "2026-09-30",
+      "version": "12.35",
+      "versionDate": "2026-10-16",
       "fullDate": "20260312080709",
-      "size": 265281673,
+      "size": 266435836,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2161",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.35.+.NFB.v7.2.0.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.35",
+          "date": "2026-10-16",
+          "localizedDescription": "• X updated to v12.35\n• NFB updated to v7.2.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.35.+.NFB.v7.2.0.ipa",
+          "size": 266435836,
+          "sha256": "3361a5c0607e4da12d4584f10d43bb7177974b33b21fd186b95dcf0336c853e8",
+          "buildVersion": "12.35"
+        },
         {
           "version": "12.31",
           "date": "2026-09-30",
@@ -133613,14 +133666,14 @@
       "bundleIdentifier": "science.xnu.undecimus",
       "developerName": "Pwn20wnd",
       "subtitle": "The most advanced jailbreak tool.",
-      "version": "8.0.2",
-      "versionDate": "2021-12-29",
+      "version": "8.1.0",
+      "versionDate": "2026-10-20",
       "versionDescription": "# v8.0.2 Release\n\n- Add exploit guidance to improve reliability on A12-A13 iPhones running iOS 14.6-14.8\r\n- Fix exploit reliability on iPhone XS devices running iOS 14.6-14.8",
-      "downloadURL": "https://unc0ver.dev/downloads/8.0.2/9e44edfbfd1905cadf23c3b9ad1d5bed683ce061/unc0ver_Release_8.0.2.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/unc0ver.Release.v8.1.0.ipa",
       "localizedDescription": "unc0ver is an advanced jailbreaking tool for iOS devices. Jailbreaking with unc0ver unlocks the true power of your iDevice. Customize the appearance of your device, gain full control over how your device operates, obtain access to hidden features of iOS, and more.\n\nCompatibility:\n* unc0ver supports iOS 11.0 through to iOS 14.3 (Excluding 13.5.1 and 13.3.1)\n\nStability:\n* Utilizing the latest stable APT and Mobile Substrate, stability is guaranteed.\n\nSecurity:\n* Utilizing native system sandbox exceptions, security remains intact while enabling access to jailbreak files.",
       "iconURL": "https://i.imgur.com/5aehDxj.png",
       "tintColor": "#101216",
-      "size": 54489484,
+      "size": 54475719,
       "screenshotURLs": [
         "https://i.imgur.com/ItMaRRV.png",
         "https://i.imgur.com/bjzyqpY.png",
@@ -133629,6 +133682,16 @@
       ],
       "absoluteVersion": "8.0.2",
       "versions": [
+        {
+          "version": "8.1.0",
+          "date": "2026-10-20",
+          "localizedDescription": "• unc0ver updated to v8.1.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/unc0ver.Release.v8.1.0.ipa",
+          "size": 54475719,
+          "sha256": "c7c68d0b74de3b91633f63f39f140f41bb1c5f28bef475d6066ee5af380ea649",
+          "minOSVersion": "11.0",
+          "buildVersion": "8.1.0"
+        },
         {
           "version": "8.0.2",
           "date": "2021-12-29T21:35:42Z",
@@ -147126,6 +147189,14 @@
       ],
       "versions": [
         {
+          "version": "2.2.0-1",
+          "date": "2026-07-19",
+          "localizedDescription": "• iTorrent updated to v2.2.0-1",
+          "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.2.0-1/iTorrent.ipa",
+          "size": 24288935,
+          "buildVersion": "2.2.0-1"
+        },
+        {
           "version": "2.0.14-1",
           "date": "2025-01-08",
           "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/iTorrent-2.0.14-1.ipa",
@@ -147224,10 +147295,10 @@
           "buildVersion": "1.7.4.1"
         }
       ],
-      "version": "2.0.14-1",
-      "versionDate": "2025-01-08",
-      "size": 7027297,
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/01-08-2025/iTorrent-2.0.14-1.ipa"
+      "version": "2.2.0-1",
+      "versionDate": "2026-07-19",
+      "size": 24288935,
+      "downloadURL": "https://github.com/XITRIX/iTorrent/releases/download/v2.2.0-1/iTorrent.ipa"
     },
     {
       "name": "GBA4iOS",
@@ -149018,14 +149089,22 @@
         "https://ellekit.space/dopamine/assets/screenshot_one.png",
         "https://ellekit.space/dopamine/assets/screenshot_two.png"
       ],
-      "version": "2.4.1",
+      "version": "3.0.12",
       "minOSVersion_0": "15.0.0",
       "maxOSVersion_0": "16.5.1",
-      "versionDate": "2025-02-25",
-      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/2.4.1/Dopamine.ipa",
+      "versionDate": "2026-10-20",
+      "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.12/Dopamine.ipa",
       "versionDescription": "• Fix support for iOS 16.0.x [2.4 regression]\n• (See older update notes on official github page as this is only for 2.4.1)",
-      "size": 47700000,
+      "size": 55420784,
       "versions": [
+        {
+          "version": "3.0.12",
+          "date": "2026-10-20",
+          "localizedDescription": "• Dopamine updated to v3.0.12",
+          "downloadURL": "https://github.com/opa334/Dopamine/releases/download/3.0.12/Dopamine.ipa",
+          "size": 55420784,
+          "buildVersion": "3.0.12"
+        },
         {
           "version": "2.4.1",
           "minOSVersion_0": "15.0.0",
@@ -169040,6 +169119,14 @@
       },
       "versions": [
         {
+          "version": "452.0.1",
+          "date": "2026-10-20T11:18:03+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 451 and 452.\n- Reels Limit: fixed crash when opening a reel from feed on IG 452.\n- Messages Only: own settings page, switches in place (no restart), automatic schedule (times + days, switch instantly or ask first), optional Profile tab, Shortcuts links.\n- Remove Tracking from Links: now also strips IG's new random tracking params (e.g. ?rpxt=, ?dlrf=).\n- Follow Requests: warns before you send a follow request to someone who rejected one before (on by default).\n- Follow Requests: new Received tab — tracks who asks to follow you and whether you approved, declined or they withdrew. Confirm/Delete right from the list, repeat requesters marked, new requests badged. Turn on Track Received Requests in settings.\n- Follow Requests: redesigned list with filter chips (with counts) and clearer empty states.\n- Reels Buttons: hide the new Shop Similar button.\n- Feed: option to hide the full screen button that pops up over reels.\n- Explore: option to hide the Suggested for you accounts in search. Hide Search History now also hides the empty Recent header.\n- Media Watch: fixed new posts not being saved; posts that failed to save are retried; refresh says when it's paused.\n- Media Watch: Select All in the Media screen, and Delete All Saved Media for every account at once (accounts list or settings).\n- Profile Tracking: Watchlist can sort by Recently visited again (default while visits are recorded), so opened profiles move to the top.\n- Restart alert: clearer buttons (Restart Now / Later) and says your change is already saved.\n- Fixed ads (and Hide Reels) in the Explore grid.\n- Fixed Profile Tracking badges on profiles not opening when tapped.\n- Fixed IG freezing on Reels when the Share button is hidden.\n- Fixed custom tabs not opening after adding or logging out of an account.\n- Fixed profiles from Stories Archive viewers and other lists closing all screens first instead of opening on top.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-rlxv7/com.fouadraheb.regram_452.0.1_regram_6.5_sl.ipa",
+          "size": 293405643,
+          "buildVersion": "452.0.1"
+        },
+        {
           "version": "450.1.0",
           "date": "2026-10-10T11:48:47+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 450.1.\n- New Story Playback Controls: speed, scrubbing, skip, volume, mute, Picture in Picture, save frame and next person for stories. Open with a long-press on •••, the new playback button or the action button. Stop Auto Advance moved there too.\n- Reels Playback Controls: new previous/next reel and skip buttons (5s by default). When paused, skip steps one frame; hold to repeat. Also available as floating button actions.\n- New Media Watch (Profile Tracking): watched accounts can have their new stories, posts, reels and profile pictures saved automatically, shown in the events list and viewable there.\n- New per-account Media screen: all saved media by type, a Deleted filter, full-screen viewer, and export to Photos or the Vault.\n- Profile Tracking now centers on the Watchlist: it opens on Watchlist | Changes, and recording profile visits is optional (off by default).\n- Profile Tracking: now tracks links and their titles, pronouns, category, account type and contact info.\n- Profile Tracking: fixed false profile picture changes, mostly on accounts without a picture.\n- New Save All Media on the profile action button: posts, carousels, reels, stories and the profile picture in bulk.\n- Instants: new Manually Mark as Seen. Viewed instants stay unseen until you tap the eye button.\n- Reel Buttons: hide IG's new Save button on Reels, or just its count.\n- Redesigned Tab Bar editor: live preview, add or hide tabs with + and −, and changes apply without relaunching.\n- Tab Bar: add custom tabs, like IG's Saved and Notifications or Regram screens such as the Vault, Downloads and Settings.\n- Tab Bar: hold any tab to open a screen of your choice (Home still opens Regram Settings).\n- Detect IG Links moved to the Tab Bar editor as Explore's hold action (your setting carries over).\n- Stacked Toast notifications now share one width instead of zig-zagging.\n- Downloads: filter chips above the list, plus a Select button to delete many downloads at once, with or without their media.\n- Fixed Hide Chats and the DM refresh confirmation not working on IG's new chats list.\n- Fixed video Instants downloading as a photo.\n- Fixed IG crashing at launch on some accounts.",
@@ -169192,13 +169279,13 @@
           "buildVersion": "413.0.0"
         }
       ],
-      "version": "450.1.0",
-      "versionDate": "2026-10-10",
+      "version": "452.0.1",
+      "versionDate": "2026-10-20",
       "versionDescription": "",
       "fullDate": "20260721194857",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1791633150599-mb4fm/com.fouadraheb.regram_450.1.0_regram_6.4_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-rlxv7/com.fouadraheb.regram_452.0.1_regram_6.5_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1784664131112-9uylf/com.fouadraheb.regram_439.0.0_regram_5.2.1_sl.ipa",
-      "size": 278062480
+      "size": 293405643
     },
     {
       "id": "WA-SL-Duplicate",
