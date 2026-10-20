@@ -190206,6 +190206,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "362",
+          "date": "2026-10-20T20:19:42.046Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-362/Non-Jailbroken.ipa",
+          "size": 98129940,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "356",
           "date": "2026-10-19T23:36:48.153Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190770,9 +190781,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-10-19",
-      "size": 97894135,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-356/Non-Jailbroken.ipa"
+      "versionDate": "2026-10-20",
+      "size": 98129940,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-362/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
