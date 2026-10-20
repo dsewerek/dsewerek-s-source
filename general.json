@@ -106683,17 +106683,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "26.38.74",
-      "versionDate": "2026-09-30",
+      "version": "26.41.74",
+      "versionDate": "2026-10-20",
       "fullDate": "20260319003304",
-      "size": 167510862,
+      "size": 179806859,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804508-wz7w3/net.whatsapp.WhatsApp_26.38.74_watusi3_1.3.26_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-ebhzr/net.whatsapp.WhatsApp_26.41.74_watusi3_1.3.27_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
+        {
+          "version": "26.41.74",
+          "date": "2026-10-20T06:32:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41.X\n- Fixed Status Archive not saving your statuses or their viewers on WhatsApp's new internal status storage.\n- Fixed a crash when viewing a status from the Statuses Bar.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-ebhzr/net.whatsapp.WhatsApp_26.41.74_watusi3_1.3.27_sl.ipa",
+          "size": 179806859,
+          "buildVersion": "26.41.74"
+        },
         {
           "version": "26.38.74",
           "date": "2026-09-30T21:15:48+00:00",
@@ -107613,17 +107621,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsAppSMB",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "26.38.74",
-      "versionDate": "2026-09-30",
+      "version": "26.41.74",
+      "versionDate": "2026-10-20",
       "fullDate": "20260319003256",
-      "size": 174257519,
+      "size": 186824364,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WABusiness_26.9.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804507-ixhbd/net.whatsapp.WhatsAppSMB_26.38.74_watusi3_1.3.26_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-1xo13/net.whatsapp.WhatsAppSMB_26.41.74_watusi3_1.3.27_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "versions": [
+        {
+          "version": "26.41.74",
+          "date": "2026-10-20T06:32:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41.X\n- Fixed Status Archive not saving your statuses or their viewers on WhatsApp's new internal status storage.\n- Fixed a crash when viewing a status from the Statuses Bar.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-1xo13/net.whatsapp.WhatsAppSMB_26.41.74_watusi3_1.3.27_sl.ipa",
+          "size": 186824364,
+          "buildVersion": "26.41.74"
+        },
         {
           "version": "26.38.74",
           "date": "2026-09-30T21:15:48+00:00",
@@ -169225,6 +169241,14 @@
       },
       "versions": [
         {
+          "version": "26.41.74",
+          "date": "2026-10-20T06:32:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41.X\n- Fixed Status Archive not saving your statuses or their viewers on WhatsApp's new internal status storage.\n- Fixed a crash when viewing a status from the Statuses Bar.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-mwf9q/com.fouadraheb.watusi_26.41.74_watusi3_1.3.27_sl.ipa",
+          "size": 177140855,
+          "buildVersion": "26.41.74"
+        },
+        {
           "version": "26.38.74",
           "date": "2026-09-30T21:15:48+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.38.X\n- Fixed voice notes not playing or recording on sideloaded installs missing WhatsApp's extended-virtual-addressing entitlement.",
@@ -169337,13 +169361,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.38.74",
-      "versionDate": "2026-09-30",
+      "version": "26.41.74",
+      "versionDate": "2026-10-20",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804508-0ywta/com.fouadraheb.watusi_26.38.74_watusi3_1.3.26_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-mwf9q/com.fouadraheb.watusi_26.41.74_watusi3_1.3.27_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073110-ujq9m/com.fouadraheb.watusi_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 165078214
+      "size": 177140855
     },
     {
       "id": "SMB-SL-Duplicate",
@@ -169385,6 +169409,14 @@
         }
       },
       "versions": [
+        {
+          "version": "26.41.74",
+          "date": "2026-10-20T06:32:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41.X\n- Fixed Status Archive not saving your statuses or their viewers on WhatsApp's new internal status storage.\n- Fixed a crash when viewing a status from the Statuses Bar.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-at6vj/com.fouadraheb.watusiSMB_26.41.74_watusi3_1.3.27_sl.ipa",
+          "size": 184118221,
+          "buildVersion": "26.41.74"
+        },
         {
           "version": "26.38.74",
           "date": "2026-09-30T21:15:48+00:00",
@@ -169498,13 +169530,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.38.74",
-      "versionDate": "2026-09-30",
+      "version": "26.41.74",
+      "versionDate": "2026-10-20",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1790803804507-s1n5i/com.fouadraheb.watusiSMB_26.38.74_watusi3_1.3.26_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-at6vj/com.fouadraheb.watusiSMB_26.41.74_watusi3_1.3.27_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073109-rwea7/com.fouadraheb.watusiSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 171780619
+      "size": 184118221
     },
     {
       "appPermissions": {
@@ -190087,6 +190119,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "356",
+          "date": "2026-10-19T23:36:48.153Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-356/Non-Jailbroken.ipa",
+          "size": 97894135,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "355",
           "date": "2026-10-19T18:57:32.620Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190641,8 +190684,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-19",
-      "size": 97885140,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-355/Non-Jailbroken.ipa"
+      "size": 97894135,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-356/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
