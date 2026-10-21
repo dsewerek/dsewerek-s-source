@@ -182519,6 +182519,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10879",
+          "marketingVersion": "3.4.0-alpha.20261020.0472cfa",
+          "date": "2026-10-20",
+          "localizedDescription": "Alpha build 0472cfa · 2026-10-20\n\nChanges in this build:\n• fix(vulkan): import standard types outside nested C linkage\n• fix(retro): match Swift callback exception specifications\n• fix(retro): export C callbacks and repair modular Vulkan headers\n• fix(ci): register project audit test scripts\n• fix(tvos): refresh library focus after games load\n• fix(azahar): discard relocated CMake build trees\n• fix(ci): configure Git LFS before submodule checkout\n• fix(patching): present the selected game in the home patch manager\n• chore: auto-update license manifest (#3752)\n• fix(ui): preserve localization of patch creation guidance\n• docs: assess remaining native core SwiftPM migrations\n• build: migrate libretro bridge and ep128 to SwiftPM\n• fix(dev): omit libretro from the coreless UI target\n• test(patching): locate search fixture in copied resources\n• fix(patching): preserve input ROMs and existing patches on creation\n• codex and skills\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 776746082,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10855",
           "marketingVersion": "3.4.0-alpha.20261018.c9b747b",
           "date": "2026-10-18",
@@ -183022,8 +183032,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-18",
-      "size": 774579953,
+      "versionDate": "2026-10-20",
+      "size": 776746082,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -190206,6 +190216,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "363",
+          "date": "2026-10-20T20:47:29.255Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-363/Non-Jailbroken.ipa",
+          "size": 98130227,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "362",
           "date": "2026-10-20T20:19:42.046Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -190782,8 +190803,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-20",
-      "size": 98129940,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-362/Non-Jailbroken.ipa"
+      "size": 98130227,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-363/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
