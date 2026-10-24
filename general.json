@@ -37848,17 +37848,25 @@
       "type": 1,
       "bundleID": "com.alohabrowser.alohabrowser",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "version": "8.12.0",
-      "versionDate": "2026-10-21",
+      "version": "8.13.0",
+      "versionDate": "2026-10-24",
       "fullDate": "20260729203713",
-      "size": 162009247,
+      "size": 163402038,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Aloha_8.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Aloha_8.12.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Aloha_8.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
       "versions": [
+        {
+          "version": "8.13.0",
+          "date": "2026-10-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Aloha_8.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 163402038,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.13.0"
+        },
         {
           "version": "8.12.0",
           "date": "2026-10-21",
@@ -108624,17 +108632,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "26.41.74",
-      "versionDate": "2026-10-20",
+      "version": "26.41.75",
+      "versionDate": "2026-10-24",
       "fullDate": "20260319003304",
-      "size": 179806859,
+      "size": 180005083,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-ebhzr/net.whatsapp.WhatsApp_26.41.74_watusi3_1.3.27_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-as7xg/net.whatsapp.WhatsApp_26.41.75_watusi3_1.3.28_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
+        {
+          "version": "26.41.75",
+          "date": "2026-10-24T08:05:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41\n- Fixed viewed statuses being marked as seen for their sender after relaunching WhatsApp with Mark as Viewed enabled.\n- Fixed a crash when viewing some statuses with the Download or Mark as Viewed buttons enabled.\n- Fixed Allow View Once Screenshot/Recording not working on newer WhatsApp versions.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-as7xg/net.whatsapp.WhatsApp_26.41.75_watusi3_1.3.28_sl.ipa",
+          "size": 180005083,
+          "buildVersion": "26.41.75"
+        },
         {
           "version": "26.41.74",
           "date": "2026-10-20T06:32:12+00:00",
@@ -109562,17 +109578,25 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsAppSMB",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "26.41.74",
-      "versionDate": "2026-10-20",
+      "version": "26.41.75",
+      "versionDate": "2026-10-24",
       "fullDate": "20260319003256",
-      "size": 186824364,
+      "size": 187050481,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WABusiness_26.9.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-1xo13/net.whatsapp.WhatsAppSMB_26.41.74_watusi3_1.3.27_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196679-8ueg6/net.whatsapp.WhatsAppSMB_26.41.75_watusi3_1.3.28_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "versions": [
+        {
+          "version": "26.41.75",
+          "date": "2026-10-24T08:05:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41\n- Fixed viewed statuses being marked as seen for their sender after relaunching WhatsApp with Mark as Viewed enabled.\n- Fixed a crash when viewing some statuses with the Download or Mark as Viewed buttons enabled.\n- Fixed Allow View Once Screenshot/Recording not working on newer WhatsApp versions.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196679-8ueg6/net.whatsapp.WhatsAppSMB_26.41.75_watusi3_1.3.28_sl.ipa",
+          "size": 187050481,
+          "buildVersion": "26.41.75"
+        },
         {
           "version": "26.41.74",
           "date": "2026-10-20T06:32:12+00:00",
@@ -171368,6 +171392,14 @@
       },
       "versions": [
         {
+          "version": "26.41.75",
+          "date": "2026-10-24T08:05:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41\n- Fixed viewed statuses being marked as seen for their sender after relaunching WhatsApp with Mark as Viewed enabled.\n- Fixed a crash when viewing some statuses with the Download or Mark as Viewed buttons enabled.\n- Fixed Allow View Once Screenshot/Recording not working on newer WhatsApp versions.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-z1lbl/com.fouadraheb.watusi_26.41.75_watusi3_1.3.28_sl.ipa",
+          "size": 177339052,
+          "buildVersion": "26.41.75"
+        },
+        {
           "version": "26.41.74",
           "date": "2026-10-20T06:32:12+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41.X\n- Fixed Status Archive not saving your statuses or their viewers on WhatsApp's new internal status storage.\n- Fixed a crash when viewing a status from the Statuses Bar.",
@@ -171488,13 +171520,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.41.74",
-      "versionDate": "2026-10-20",
+      "version": "26.41.75",
+      "versionDate": "2026-10-24",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430260-mwf9q/com.fouadraheb.watusi_26.41.74_watusi3_1.3.27_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196680-z1lbl/com.fouadraheb.watusi_26.41.75_watusi3_1.3.28_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073110-ujq9m/com.fouadraheb.watusi_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 177140855
+      "size": 177339052
     },
     {
       "id": "SMB-SL-Duplicate",
@@ -171536,6 +171568,14 @@
         }
       },
       "versions": [
+        {
+          "version": "26.41.75",
+          "date": "2026-10-24T08:05:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes & support for WhatsApp 26.41\n- Fixed viewed statuses being marked as seen for their sender after relaunching WhatsApp with Mark as Viewed enabled.\n- Fixed a crash when viewing some statuses with the Download or Mark as Viewed buttons enabled.\n- Fixed Allow View Once Screenshot/Recording not working on newer WhatsApp versions.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196678-mkeh3/com.fouadraheb.watusiSMB_26.41.75_watusi3_1.3.28_sl.ipa",
+          "size": 184344337,
+          "buildVersion": "26.41.75"
+        },
         {
           "version": "26.41.74",
           "date": "2026-10-20T06:32:12+00:00",
@@ -171657,13 +171697,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.41.74",
-      "versionDate": "2026-10-20",
+      "version": "26.41.75",
+      "versionDate": "2026-10-24",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792478430259-at6vj/com.fouadraheb.watusiSMB_26.41.74_watusi3_1.3.27_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792830196678-mkeh3/com.fouadraheb.watusiSMB_26.41.75_watusi3_1.3.28_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073109-rwea7/com.fouadraheb.watusiSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 184118221
+      "size": 184344337
     },
     {
       "appPermissions": {
