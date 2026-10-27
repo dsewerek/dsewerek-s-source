@@ -4618,17 +4618,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "27.0.6",
-      "versionDate": "2026-10-21",
+      "version": "27.0.7",
+      "versionDate": "2026-10-27",
       "fullDate": "20260807003514",
-      "size": 44643322,
+      "size": 44724285,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Athlytic_27.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Athlytic_27.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "27.0.7",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Athlytic_27.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 44724285,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "27.0.7"
+        },
         {
           "version": "27.0.6",
           "date": "2026-10-21",
@@ -27095,17 +27103,25 @@
       "type": 1,
       "bundleID": "com.dopedevelopment.Panels",
       "bundleIdentifier": "com.dopedevelopment.Panels",
-      "version": "9.60",
-      "versionDate": "2026-10-21",
+      "version": "9.61",
+      "versionDate": "2026-10-27",
       "fullDate": "20260803171658",
-      "size": 84159641,
+      "size": 85921709,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/SCRL_9.47_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/SCRL_9.60_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/SCRL_9.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dopedevelopment.Panels.png",
       "versions": [
+        {
+          "version": "9.61",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/SCRL_9.61_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 85921709,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.61"
+        },
         {
           "version": "9.60",
           "date": "2026-10-21",
@@ -41130,17 +41146,26 @@
       "type": 1,
       "bundleID": "com.zhiliaoapp.musically",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "47.4.0",
-      "versionDate": "2026-10-19",
+      "version": "47.5.0",
+      "versionDate": "2026-10-26",
       "fullDate": "20260729020716",
-      "size": 504394824,
+      "size": 531863321,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/BHTikTokPlus_46.2.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.4.0.Infinitok.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.5.0.RXTikTok.2.0.4.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "versions": [
+        {
+          "version": "47.5.0",
+          "date": "2026-10-26",
+          "localizedDescription": "• TikTok updated to v47.5.0\n• RXTikTok updated to v2.0.4",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.5.0.RXTikTok.2.0.4.ipa",
+          "size": 531863321,
+          "sha256": "ee32135f3d116db2c22af9871620ecec28c5cc0fec7f5da827c19934e0379373",
+          "buildVersion": "47.5.0"
+        },
         {
           "version": "47.4.0",
           "date": "2026-10-19",
@@ -58391,17 +58416,25 @@
       "type": 1,
       "bundleID": "PhotoEditor.PhotoCollage.inCollage",
       "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
-      "version": "2.2.71",
-      "versionDate": "2026-09-25",
+      "version": "2.2.80",
+      "versionDate": "2026-10-27",
       "fullDate": "20260720223229",
-      "size": 102305925,
+      "size": 102892667,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/InCollage_2.2.51_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-09-2026/InCollage_2.2.71_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/InCollage_2.2.80_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/PhotoEditor.PhotoCollage.inCollage.png",
       "versions": [
+        {
+          "version": "2.2.80",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/InCollage_2.2.80_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 102892667,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "2.2.80"
+        },
         {
           "version": "2.2.71",
           "date": "2026-09-25",
@@ -192809,6 +192842,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "395",
+          "date": "2026-10-26T07:55:31.270Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-395/Non-Jailbroken.ipa",
+          "size": 98839241,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "389",
           "date": "2026-10-24T04:16:08.412Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -193417,9 +193461,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-10-24",
-      "size": 98482537,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-389/Non-Jailbroken.ipa"
+      "versionDate": "2026-10-26",
+      "size": 98839241,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-395/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
