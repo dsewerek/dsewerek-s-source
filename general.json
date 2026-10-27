@@ -29486,17 +29486,25 @@
       "type": 1,
       "bundleID": "com.solveit.lut-studio",
       "bundleIdentifier": "com.solveit.lut-studio",
-      "version": "4.1.1",
-      "versionDate": "2026-10-23",
+      "version": "4.1.2",
+      "versionDate": "2026-10-27",
       "fullDate": "20260803142749",
-      "size": 157851256,
+      "size": 141221128,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/LUTStudio_3.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/LUTStudio_4.1.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/LUTStudio_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.solveit.lut-studio.png",
       "versions": [
+        {
+          "version": "4.1.2",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/LUTStudio_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 141221128,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.1.2"
+        },
         {
           "version": "4.1.1",
           "date": "2026-10-23",
@@ -30812,17 +30820,25 @@
       "type": 1,
       "bundleID": "com.yazio.ios.YAZIO",
       "bundleIdentifier": "com.yazio.ios.YAZIO",
-      "version": "26.42.0",
-      "versionDate": "2026-10-22",
+      "version": "26.43.2",
+      "versionDate": "2026-10-27",
       "fullDate": "20260803130910",
-      "size": 220920545,
+      "size": 213994257,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Yazio_26.31.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/Yazio_26.42.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Yazio_26.43.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
       "versions": [
+        {
+          "version": "26.43.2",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Yazio_26.43.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 213994257,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.43.2"
+        },
         {
           "version": "26.42.0",
           "date": "2026-10-22",
@@ -47032,17 +47048,25 @@
       "type": 1,
       "bundleID": "com.codeway.cleanerplus",
       "bundleIdentifier": "com.codeway.cleanerplus",
-      "version": "6.25.0",
-      "versionDate": "2026-10-23",
+      "version": "6.25.1",
+      "versionDate": "2026-10-27",
       "fullDate": "20260727143648",
-      "size": 84998604,
+      "size": 85004770,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/Cleanup_6.19.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Cleanup_6.25.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Cleanup_6.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.codeway.cleanerplus.png",
       "versions": [
+        {
+          "version": "6.25.1",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Cleanup_6.25.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 85004770,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.25.1"
+        },
         {
           "version": "6.25.0",
           "date": "2026-10-23",
@@ -58318,17 +58342,25 @@
       "type": 1,
       "bundleID": "com.picretouch.photoeditor",
       "bundleIdentifier": "com.picretouch.photoeditor",
-      "version": "1.2.1",
-      "versionDate": "2026-09-11",
+      "version": "1.2.2",
+      "versionDate": "2026-10-27",
       "fullDate": "20260721032356",
-      "size": 42495345,
+      "size": 41363054,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-07-2026/AIRetouch_1.1.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-09-2026/AIRetouch_1.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/AIRetouch_1.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.picretouch.photoeditor.png",
       "versions": [
+        {
+          "version": "1.2.2",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/AIRetouch_1.2.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 41363054,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.2.2"
+        },
         {
           "version": "1.2.1",
           "date": "2026-09-11",
@@ -86520,17 +86552,25 @@
       "type": 1,
       "bundleID": "com.roehl.habitkit",
       "bundleIdentifier": "com.roehl.habitkit",
-      "version": "1.18.3",
-      "versionDate": "2026-10-21",
+      "version": "1.19.0",
+      "versionDate": "2026-10-27",
       "fullDate": "20260601213312",
-      "size": 110085180,
+      "size": 107979834,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/HabitKit_1.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/HabitKit_1.18.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/HabitKit_1.19.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
       "versions": [
+        {
+          "version": "1.19.0",
+          "date": "2026-10-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/HabitKit_1.19.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 107979834,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.19.0"
+        },
         {
           "version": "1.18.3",
           "date": "2026-10-21",
@@ -110637,17 +110677,26 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.37",
-      "versionDate": "2026-10-24",
+      "version": "12.38",
+      "versionDate": "2026-10-27",
       "fullDate": "20260312080709",
-      "size": 265803606,
+      "size": 269572222,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.37.+.NFB.v7.2.0.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.38.+.NFB.v7.2.0.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.38",
+          "date": "2026-10-27",
+          "localizedDescription": "• X updated to v12.38",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.38.+.NFB.v7.2.0.ipa",
+          "size": 269572222,
+          "sha256": "288f45bc382a91c0cdd90e0476d73ccb700f786b8956ca9b40b5bbfcf28e6363",
+          "buildVersion": "12.38"
+        },
         {
           "version": "12.37",
           "date": "2026-10-24",
@@ -185057,6 +185106,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10938",
+          "marketingVersion": "3.4.0-alpha.20261027.9cf1808",
+          "date": "2026-10-27",
+          "localizedDescription": "Alpha build 9cf1808 · 2026-10-27\n\nChanges in this build:\n• fix(moltenvk): strip arm64e from the tvOS dynamic framework\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 781373271,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10922",
           "marketingVersion": "3.4.0-alpha.20261024.1a5cea4",
           "date": "2026-10-24",
@@ -185610,8 +185669,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-24",
-      "size": 778390694,
+      "versionDate": "2026-10-27",
+      "size": 781373271,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -192842,6 +192901,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "399",
+          "date": "2026-10-26T22:49:01.369Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-399/Non-Jailbroken.ipa",
+          "size": 98842553,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "395",
           "date": "2026-10-26T07:55:31.270Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -193462,8 +193532,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-26",
-      "size": 98839241,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-395/Non-Jailbroken.ipa"
+      "size": 98842553,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-399/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
