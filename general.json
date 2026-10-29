@@ -5778,17 +5778,25 @@
       "type": 1,
       "bundleID": "co.visualsupply.cam",
       "bundleIdentifier": "co.visualsupply.cam",
-      "version": "461.10.1",
-      "versionDate": "2026-10-21",
+      "version": "462.0.0",
+      "versionDate": "2026-10-29",
       "fullDate": "20260806233910",
-      "size": 208830191,
+      "size": 208892996,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/VSCO_461.6.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/VSCO_461.10.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/VSCO_462.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.visualsupply.cam.png",
       "versions": [
+        {
+          "version": "462.0.0",
+          "date": "2026-10-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/VSCO_462.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 208892996,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "462.0.0"
+        },
         {
           "version": "461.10.1",
           "date": "2026-10-21",
@@ -22716,17 +22724,25 @@
       "type": 1,
       "bundleID": "com.readdle.CalendarsLite",
       "bundleIdentifier": "com.readdle.CalendarsLite",
-      "version": "5.41.0",
-      "versionDate": "2026-10-23",
+      "version": "5.41.1",
+      "versionDate": "2026-10-29",
       "fullDate": "20260804191908",
-      "size": 316790208,
+      "size": 320377507,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Calendars_5.37.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-10-2026/Calendars_5.41.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Calendars_5.41.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "versions": [
+        {
+          "version": "5.41.1",
+          "date": "2026-10-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Calendars_5.41.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 320377507,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.41.1"
+        },
         {
           "version": "5.41.0",
           "date": "2026-10-23",
@@ -53672,17 +53688,25 @@
       "type": 1,
       "bundleID": "se.resenatverket.FlightRadar24-Free",
       "bundleIdentifier": "se.resenatverket.FlightRadar24-Free",
-      "version": "11.14.0",
-      "versionDate": "2026-10-24",
+      "version": "11.14.1",
+      "versionDate": "2026-10-29",
       "fullDate": "20260723124554",
-      "size": 233961845,
+      "size": 233964092,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Flightradar24_11.8.0_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Flightradar24_11.14.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Flightradar24_11.14.1_Gold_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Gold",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/se.resenatverket.FlightRadar24-Free.png",
       "versions": [
+        {
+          "version": "11.14.1",
+          "date": "2026-10-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/Flightradar24_11.14.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+          "size": 233964092,
+          "localizedDescription": "Injected with Gold",
+          "buildVersion": "11.14.1"
+        },
         {
           "version": "11.14.0",
           "date": "2026-10-24",
@@ -74076,17 +74100,25 @@
       "type": 1,
       "bundleID": "com.LEMO.LemoFM",
       "bundleIdentifier": "com.LEMO.LemoFM",
-      "version": "2.2.3",
-      "versionDate": "2026-10-25",
+      "version": "2.3.0",
+      "versionDate": "2026-10-29",
       "fullDate": "20260628173735",
-      "size": 112258691,
+      "size": 112329306,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-06-2026/LEMOFM_1.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-10-2026/LEMOFM_2.2.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/LEMOFM_2.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.LEMO.LemoFM.png",
       "versions": [
+        {
+          "version": "2.3.0",
+          "date": "2026-10-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/LEMOFM_2.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 112329306,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.3.0"
+        },
         {
           "version": "2.2.3",
           "date": "2026-10-25",
@@ -185514,6 +185546,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10952",
+          "marketingVersion": "3.4.0-alpha.20261029.bae478d",
+          "date": "2026-10-29",
+          "localizedDescription": "Alpha build bae478d · 2026-10-29\n\nChanges in this build:\n• fix(tvos): read system recents on the main realm, not a detached Realm()\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 780396387,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10942",
           "marketingVersion": "3.4.0-alpha.20261028.ce0a500",
           "date": "2026-10-28",
@@ -186097,8 +186139,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-28",
-      "size": 781409929,
+      "versionDate": "2026-10-29",
+      "size": 780396387,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -193237,17 +193279,25 @@
       "type": 1,
       "bundleID": "com.bing.lyrics",
       "bundleIdentifier": "com.bing.lyrics",
-      "version": "2.0.6",
-      "versionDate": "2026-10-21",
+      "version": "2.0.7",
+      "versionDate": "2026-10-29",
       "fullDate": "20260903033846",
-      "size": 29182004,
+      "size": 29221095,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-09-2026/DynamicLyrics_2.0.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/DynamicLyrics_2.0.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/DynamicLyrics_2.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bing.lyrics.png",
       "versions": [
+        {
+          "version": "2.0.7",
+          "date": "2026-10-29",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/DynamicLyrics_2.0.7_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 29221095,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "2.0.7"
+        },
         {
           "version": "2.0.6",
           "date": "2026-10-21",
@@ -193343,6 +193393,17 @@
         "https://icube-emu.com/screenshots/iphone8-pause.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0",
+          "buildVersion": "407",
+          "date": "2026-10-28T23:44:55.085Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-407/Non-Jailbroken.ipa",
+          "size": 98869532,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0",
           "buildVersion": "404",
@@ -194009,8 +194070,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-10-28",
-      "size": 98869234,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-404/Non-Jailbroken.ipa"
+      "size": 98869532,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-407/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
