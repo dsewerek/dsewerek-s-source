@@ -96999,17 +96999,25 @@
       "type": 1,
       "bundleID": "net.quochuywdm.collanote496",
       "bundleIdentifier": "net.quochuywdm.collanote496",
-      "version": "5.0.9",
-      "versionDate": "2026-10-22",
+      "version": "5.1.0",
+      "versionDate": "2026-10-30",
       "fullDate": "20260514092557",
-      "size": 143364360,
+      "size": 143712119,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-05-2026/CollaNote_4.1.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-10-2026/CollaNote_5.0.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/CollaNote_5.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.quochuywdm.collanote496.png",
       "versions": [
+        {
+          "version": "5.1.0",
+          "date": "2026-10-30",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/CollaNote_5.1.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 143712119,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "5.1.0"
+        },
         {
           "version": "5.0.9",
           "date": "2026-10-22",
@@ -111119,17 +111127,26 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.38",
-      "versionDate": "2026-10-27",
+      "version": "12.39",
+      "versionDate": "2026-10-29",
       "fullDate": "20260312080709",
-      "size": 269572222,
+      "size": 273566238,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.38.+.NFB.v7.2.0.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.39.+.NFB.v7.3.0.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.39",
+          "date": "2026-10-29",
+          "localizedDescription": "• X updated to v12.39\n• NFB updated to v7.3.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Twitter.v12.39.+.NFB.v7.3.0.ipa",
+          "size": 273566238,
+          "sha256": "066a580c7c1ca51cf32ecb3c63ae4bc22a955a26cba49ffdb05790f5afd53fce",
+          "buildVersion": "12.39"
+        },
         {
           "version": "12.38",
           "date": "2026-10-27",
@@ -152821,7 +152838,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 13543234,
+      "size": 16818331,
       "screenshots": {
         "iphone": [
           {
@@ -152850,6 +152867,15 @@
         }
       },
       "versions": [
+        {
+          "version": "3.2.0",
+          "date": "2026-10-30",
+          "localizedDescription": "What's Changed\n Prevent stale legacy pairing files overriding fresh imports by @mvanhorn in https://github.com/StikDebug/StikDebug/pull/479\n Revert \"Prevent stale legacy pairing files overriding fresh imports\" by @CelloSerenity in https://github.com/StikDebug/StikDebug/pull/486\n fix: release the route when playback finishes so a new spot can be set by @OpenUmar in https://github.com/StikDebug/StikDebug/pull/490\n\nNew Contributors\n @mvanhorn made their first contribution in https://github.com/StikDebug/StikDebug/pull/479\n @OpenUmar made their first contribution in https://github.com/StikDebug/StikDebug/pull/490\n\nFull Changelog**: https://github.com/StikDebug/StikDebug/compare/3.1.15...3.2.0",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.0/StikDebug-3.2.0.ipa",
+          "size": 16818331,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.2.0"
+        },
         {
           "version": "3.1.15",
           "date": "2026-10-15",
@@ -152914,9 +152940,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.1.15",
-      "versionDate": "2026-10-15",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.1.15/StikDebug-3.1.15.ipa"
+      "version": "3.2.0",
+      "versionDate": "2026-10-30",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.0/StikDebug-3.2.0.ipa"
     },
     {
       "name": "StikPair",
@@ -185626,6 +185652,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10957",
+          "marketingVersion": "3.4.0-alpha.20261030.d064efa",
+          "date": "2026-10-30",
+          "localizedDescription": "Alpha build d064efa · 2026-10-30\n\nChanges in this build:\n• Debug API + pixelated covers for on-device App Store screenshots (#3773)\n• [Agent] docs: Realm to SwiftData migration scope and plan (#3772)\n• Keep the game picture on the new skin's screen after a skin change (#3776)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 780351105,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10952",
           "marketingVersion": "3.4.0-alpha.20261029.bae478d",
           "date": "2026-10-29",
@@ -186219,8 +186255,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-29",
-      "size": 780396387,
+      "versionDate": "2026-10-30",
+      "size": 780351105,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
