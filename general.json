@@ -57611,17 +57611,25 @@
       "type": 1,
       "bundleID": "com.grey.swiftcamera",
       "bundleIdentifier": "com.grey.swiftcamera",
-      "version": "2.5.60",
-      "versionDate": "2026-10-21",
+      "version": "2.5.61",
+      "versionDate": "2026-10-31",
       "fullDate": "20260722120857",
-      "size": 116871605,
+      "size": 117431260,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/NoFusion_2.5.56_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/NoFusion_2.5.60_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/NoFusion_2.5.61_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.grey.swiftcamera.png",
       "versions": [
+        {
+          "version": "2.5.61",
+          "date": "2026-10-31",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/NoFusion_2.5.61_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 117431260,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.5.61"
+        },
         {
           "version": "2.5.60",
           "date": "2026-10-21",
@@ -185798,6 +185806,16 @@
         },
         {
           "version": "3.4.0",
+          "buildVersion": "10980",
+          "marketingVersion": "3.4.0-alpha.20261031.13fcf3c",
+          "date": "2026-10-31",
+          "localizedDescription": "Alpha build 13fcf3c · 2026-10-31\n\nChanges in this build:\n• refactor(ui): drop TVAlertController and the UIKit alert shims\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 780656858,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10957",
           "marketingVersion": "3.4.0-alpha.20261030.d064efa",
           "date": "2026-10-30",
@@ -194786,6 +194804,39 @@
       ],
       "versions": [
         {
+          "version": "1.0.0+1793414823",
+          "buildVersion": "1793414823",
+          "date": "2026-10-31",
+          "localizedDescription": "iFly 1.0.0 (build 1793414823) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793414823/iFly-1.0.0-1793414823.ipa",
+          "size": 132854929,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793411785",
+          "buildVersion": "1793411785",
+          "date": "2026-10-31",
+          "localizedDescription": "iFly 1.0.0 (build 1793411785) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793411785/iFly-1.0.0-1793411785.ipa",
+          "size": 132854917,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793406805",
+          "buildVersion": "1793406805",
+          "date": "2026-10-31",
+          "localizedDescription": "iFly 1.0.0 (build 1793406805) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793406805/iFly-1.0.0-1793406805.ipa",
+          "size": 132854902,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
           "version": "1.0.0+1791610021",
           "buildVersion": "1791610021",
           "date": "2026-10-10",
@@ -194808,10 +194859,10 @@
           "isBeta": true
         }
       ],
-      "version": "1.0.0+1791610021",
-      "versionDate": "2026-10-10",
-      "size": 131251868,
-      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1791610021/iFly-1.0.0-1791610021.ipa"
+      "version": "1.0.0+1793414823",
+      "versionDate": "2026-10-31",
+      "size": 132854929,
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793414823/iFly-1.0.0-1793414823.ipa"
     },
     {
       "name": "SceneBox",
