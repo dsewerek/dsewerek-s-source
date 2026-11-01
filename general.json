@@ -62565,17 +62565,25 @@
       "type": 1,
       "bundleID": "com.kinemaster.kios",
       "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.2.6",
-      "versionDate": "2026-10-29",
+      "version": "8.2.7",
+      "versionDate": "2026-11-01",
       "fullDate": "20260714184116",
-      "size": 157372268,
+      "size": 157362076,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2026/KineMaster_8.1.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-10-2026/KineMaster_8.2.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "versions": [
+        {
+          "version": "8.2.7",
+          "date": "2026-11-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 157362076,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "8.2.7"
+        },
         {
           "version": "8.2.6",
           "date": "2026-10-29",
@@ -150768,6 +150776,14 @@
       ],
       "versions": [
         {
+          "version": "34868",
+          "date": "2026-11-01T06:13:42+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34868",
+          "size": 133306996,
+          "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+          "buildVersion": "34868"
+        },
+        {
           "version": "34863",
           "date": "2026-11-01T04:38:54+00:00",
           "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34863",
@@ -151495,10 +151511,10 @@
       },
       "beta": false,
       "appID": "eu.pokemmo.client",
-      "version": "34863",
+      "version": "34868",
       "versionDate": "2026-11-01",
-      "size": 133256314,
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34863"
+      "size": 133306996,
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34868"
     },
     {
       "name": "Ignited",
