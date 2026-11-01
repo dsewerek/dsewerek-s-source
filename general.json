@@ -18889,17 +18889,25 @@
       "type": 1,
       "bundleID": "com.locket.Locket",
       "bundleIdentifier": "com.locket.Locket",
-      "version": "2.70.1",
-      "versionDate": "2026-10-31",
+      "version": "2.71.0",
+      "versionDate": "2026-11-01",
       "fullDate": "20260805050342",
-      "size": 96225637,
+      "size": 96806058,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Locket_2.58.1_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Locket_2.70.1_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/Locket_2.71.0_Gold_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Gold",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "versions": [
+        {
+          "version": "2.71.0",
+          "date": "2026-11-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/Locket_2.71.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+          "size": 96806058,
+          "localizedDescription": "Injected with Gold",
+          "buildVersion": "2.71.0"
+        },
         {
           "version": "2.70.1",
           "date": "2026-10-31",
@@ -31036,17 +31044,25 @@
       "type": 1,
       "bundleID": "com.yazio.ios.YAZIO",
       "bundleIdentifier": "com.yazio.ios.YAZIO",
-      "version": "26.43.2",
-      "versionDate": "2026-10-27",
+      "version": "26.43.3",
+      "versionDate": "2026-11-01",
       "fullDate": "20260803130910",
-      "size": 213994257,
+      "size": 214006917,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-08-2026/Yazio_26.31.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-10-2026/Yazio_26.43.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/Yazio_26.43.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.yazio.ios.YAZIO.png",
       "versions": [
+        {
+          "version": "26.43.3",
+          "date": "2026-11-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/Yazio_26.43.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 214006917,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.43.3"
+        },
         {
           "version": "26.43.2",
           "date": "2026-10-27",
@@ -105158,17 +105174,25 @@
       "type": 1,
       "bundleID": "com.markodevcic.js-code-pad",
       "bundleIdentifier": "com.markodevcic.js-code-pad",
-      "version": "1.9.0",
-      "versionDate": "2026-10-26",
+      "version": "1.10.0",
+      "versionDate": "2026-11-01",
       "fullDate": "20260420080823",
-      "size": 62634430,
+      "size": 62594835,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/JSCodePad_1.8.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/JSCodePad_1.9.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/JSCodePad_1.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
       "versions": [
+        {
+          "version": "1.10.0",
+          "date": "2026-11-01",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/JSCodePad_1.10.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 62594835,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.10.0"
+        },
         {
           "version": "1.9.0",
           "date": "2026-10-26",
@@ -150744,6 +150768,14 @@
       ],
       "versions": [
         {
+          "version": "34863",
+          "date": "2026-11-01T04:38:54+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34863",
+          "size": 133256314,
+          "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+          "buildVersion": "34863"
+        },
+        {
           "version": "34702",
           "date": "2026-10-30T19:04:11+00:00",
           "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34702",
@@ -151463,10 +151495,10 @@
       },
       "beta": false,
       "appID": "eu.pokemmo.client",
-      "version": "34702",
-      "versionDate": "2026-10-30",
-      "size": 132600918,
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34702"
+      "version": "34863",
+      "versionDate": "2026-11-01",
+      "size": 133256314,
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34863"
     },
     {
       "name": "Ignited",
@@ -185844,6 +185876,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "10990",
+          "marketingVersion": "3.4.0-alpha.20261101.efe1572",
+          "date": "2026-11-01",
+          "localizedDescription": "Alpha build efe1572 · 2026-11-01\n\nChanges in this build:\n• feat(controls): use the touch overlay for Classic mode and skinless cores\n• refactor(input): send skin, keyboard and switch input straight to the core\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 780892252,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "10979",
           "marketingVersion": "3.4.0-alpha.20261031.91fdc73",
           "date": "2026-10-31",
@@ -186487,8 +186529,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-10-31",
-      "size": 780673954,
+      "versionDate": "2026-11-01",
+      "size": 780892252,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -193743,6 +193785,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "421",
+          "date": "2026-11-01T03:55:03.962Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-421/Non-Jailbroken.ipa",
+          "size": 98943996,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "411",
           "date": "2026-10-31T03:29:42.284Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -194428,9 +194481,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-10-31",
-      "size": 98875146,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-411/Non-Jailbroken.ipa"
+      "versionDate": "2026-11-01",
+      "size": 98943996,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-421/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -194901,6 +194954,17 @@
           "localizedDescription": "iFly 1.0.0 (build 1793428381) for iOS",
           "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793428381/iFly-1.0.0-1793428381.ipa",
           "size": 132855082,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793473481",
+          "buildVersion": "1793473481",
+          "date": "2026-10-31",
+          "localizedDescription": "iFly 1.0.0 (build 1793473481) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793473481/iFly-1.0.0-1793473481.ipa",
+          "size": 132855028,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
