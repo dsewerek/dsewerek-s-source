@@ -13247,17 +13247,25 @@
       "type": 1,
       "bundleID": "com.busuu.english.app",
       "bundleIdentifier": "com.busuu.english.app",
-      "version": "30.31.0",
-      "versionDate": "2026-10-24",
+      "version": "30.32.0",
+      "versionDate": "2026-11-04",
       "fullDate": "20260806014731",
-      "size": 194629314,
+      "size": 194912261,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/Busuu_30.23.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Busuu_30.31.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Busuu_30.32.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.busuu.english.app.png",
       "versions": [
+        {
+          "version": "30.32.0",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/Busuu_30.32.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 194912261,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "30.32.0"
+        },
         {
           "version": "30.31.0",
           "date": "2026-10-24",
@@ -35867,17 +35875,25 @@
       "type": 1,
       "bundleID": "com.ADPTVLTD.push",
       "bundleIdentifier": "com.ADPTVLTD.push",
-      "version": "4.2",
-      "versionDate": "2026-11-02",
+      "version": "4.2.1",
+      "versionDate": "2026-11-04",
       "fullDate": "20260731184804",
-      "size": 82942900,
+      "size": 82952603,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/PUSH_3.13.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/PUSH_4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/PUSH_4.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
       "versions": [
+        {
+          "version": "4.2.1",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/PUSH_4.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 82952603,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.2.1"
+        },
         {
           "version": "4.2",
           "date": "2026-11-02",
@@ -62052,17 +62068,25 @@
       "type": 1,
       "bundleID": "org.powerthesaurus.powerthesaurus",
       "bundleIdentifier": "org.powerthesaurus.powerthesaurus",
-      "version": "2.15.1",
-      "versionDate": "2026-10-21",
+      "version": "2.15.2",
+      "versionDate": "2026-11-04",
       "fullDate": "20260716120450",
-      "size": 29869211,
+      "size": 29907651,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/PowerThesaurus_2.13.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/PowerThesaurus_2.15.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/PowerThesaurus_2.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/org.powerthesaurus.powerthesaurus.png",
       "versions": [
+        {
+          "version": "2.15.2",
+          "date": "2026-11-04",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/PowerThesaurus_2.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 29907651,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.15.2"
+        },
         {
           "version": "2.15.1",
           "date": "2026-10-21",
@@ -186457,6 +186481,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "11053",
+          "marketingVersion": "3.4.0-alpha.20261104.d7e5d74",
+          "date": "2026-11-04",
+          "localizedDescription": "Alpha build d7e5d74 · 2026-11-04\n\nChanges in this build:\n• fix(tvos): resolve Move to System targets by primary key in the write realm (#3726)\n• fix(tvos): import queue row actions and system picker not activating (#3724)\n• feat(logs): open exported log bundles from Files in the log viewer\n• docs(emulator): phase 4 host thinning design spec\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 781009761,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "11038",
           "marketingVersion": "3.4.0-alpha.20261103.e9a6383",
           "date": "2026-11-03",
@@ -187150,8 +187184,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-11-03",
-      "size": 780943421,
+      "versionDate": "2026-11-04",
+      "size": 781009761,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -195627,6 +195661,17 @@
           "localizedDescription": "iFly 1.0.0 (build 1793669514) for iOS",
           "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793669514/iFly-1.0.0-1793669514.ipa",
           "size": 133145282,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1793743533",
+          "buildVersion": "1793743533",
+          "date": "2026-11-03",
+          "localizedDescription": "iFly 1.0.0 (build 1793743533) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793743533/iFly-1.0.0-1793743533.ipa",
+          "size": 133317147,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
