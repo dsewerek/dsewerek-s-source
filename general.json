@@ -62982,17 +62982,25 @@
       "type": 1,
       "bundleID": "com.kinemaster.kios",
       "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.2.7",
-      "versionDate": "2026-11-01",
+      "version": "8.2.8",
+      "versionDate": "2026-11-05",
       "fullDate": "20260714184116",
-      "size": 157362076,
+      "size": 157436937,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2026/KineMaster_8.1.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-11-2026/KineMaster_8.2.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "versions": [
+        {
+          "version": "8.2.8",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 157436937,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "8.2.8"
+        },
         {
           "version": "8.2.7",
           "date": "2026-11-01",
@@ -111905,17 +111913,26 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.40",
-      "versionDate": "2026-11-03",
+      "version": "12.40.1",
+      "versionDate": "2026-11-04",
       "fullDate": "20260312080709",
-      "size": 270815817,
+      "size": 270899362,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.+.NFB.v7.3.1.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.1.+.NFB.v7.3.1.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.40.1",
+          "date": "2026-11-04",
+          "localizedDescription": "• X updated to v12.40.1",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.1.+.NFB.v7.3.1.ipa",
+          "size": 270899362,
+          "sha256": "a82bb1eab8fa1788f50c58003b5400e937bcfd7e7caa9eb9153a3ba3fd5c8381",
+          "buildVersion": "12.40.1"
+        },
         {
           "version": "12.40",
           "date": "2026-11-03",
@@ -194520,6 +194537,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "452",
+          "date": "2026-11-04T22:49:57.300Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-452/Non-Jailbroken.ipa",
+          "size": 104520960,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "440",
           "date": "2026-11-04T05:53:55.473Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -195239,8 +195267,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-11-04",
-      "size": 104517845,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-440/Non-Jailbroken.ipa"
+      "size": 104520960,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-452/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
