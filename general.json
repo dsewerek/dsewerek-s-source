@@ -1955,17 +1955,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.646",
-      "versionDate": "2026-11-03",
+      "version": "0.1.647",
+      "versionDate": "2026-11-05",
       "fullDate": "20260807020601",
-      "size": 133287096,
+      "size": 133420574,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/RiseSleep_0.1.646_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/RiseSleep_0.1.647_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.647",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/RiseSleep_0.1.647_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 133420574,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.647"
+        },
         {
           "version": "0.1.646",
           "date": "2026-11-03",
@@ -17947,17 +17955,25 @@
       "type": 1,
       "bundleID": "com.sugarmo.ScrollClip",
       "bundleIdentifier": "com.sugarmo.ScrollClip",
-      "version": "3.19.3",
-      "versionDate": "2026-10-21",
+      "version": "3.20",
+      "versionDate": "2026-11-06",
       "fullDate": "20260805090033",
-      "size": 51796586,
+      "size": 51927203,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Picsew_3.17.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/Picsew_3.19.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/Picsew_3.20_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sugarmo.ScrollClip.png",
       "versions": [
+        {
+          "version": "3.20",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/Picsew_3.20_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 51927203,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.20"
+        },
         {
           "version": "3.19.3",
           "date": "2026-10-21",
@@ -18125,17 +18141,25 @@
       "type": 1,
       "bundleID": "tech.miidii.MDClock",
       "bundleIdentifier": "tech.miidii.MDClock",
-      "version": "2.75",
-      "versionDate": "2026-11-05",
+      "version": "2.75.1",
+      "versionDate": "2026-11-06",
       "fullDate": "20260805081507",
-      "size": 344867105,
+      "size": 344867437,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/MDClock_2.71_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/MDClock_2.75_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/MDClock_2.75.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "versions": [
+        {
+          "version": "2.75.1",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/MDClock_2.75.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 344867437,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.75.1"
+        },
         {
           "version": "2.75",
           "date": "2026-11-05",
@@ -20285,17 +20309,25 @@
       "type": 1,
       "bundleID": "com.neo.NeoMan",
       "bundleIdentifier": "com.neo.NeoMan",
-      "version": "8.4.8",
-      "versionDate": "2026-11-03",
+      "version": "9.0.0",
+      "versionDate": "2026-11-06",
       "fullDate": "20260805042250",
-      "size": 27416143,
+      "size": 27519825,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/NeoServer_8.3.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/NeoServer_8.4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/NeoServer_9.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.neo.NeoMan.png",
       "versions": [
+        {
+          "version": "9.0.0",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/NeoServer_9.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 27519825,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.0.0"
+        },
         {
           "version": "8.4.8",
           "date": "2026-11-03",
@@ -34795,17 +34827,25 @@
       "type": 1,
       "bundleID": "com.book.summaries.reading",
       "bundleIdentifier": "com.book.summaries.reading",
-      "version": "1.4.4",
-      "versionDate": "2026-10-31",
+      "version": "1.4.5",
+      "versionDate": "2026-11-06",
       "fullDate": "20260801114638",
-      "size": 186446501,
+      "size": 114207530,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/GrowMe_1.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/GrowMe_1.4.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/GrowMe_1.4.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
       "versions": [
+        {
+          "version": "1.4.5",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/GrowMe_1.4.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 114207530,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.4.5"
+        },
         {
           "version": "1.4.4",
           "date": "2026-10-31",
@@ -38840,17 +38880,25 @@
       "type": 1,
       "bundleID": "com.alohabrowser.alohabrowser",
       "bundleIdentifier": "com.alohabrowser.alohabrowser",
-      "version": "8.13.0",
-      "versionDate": "2026-10-24",
+      "version": "8.13.1",
+      "versionDate": "2026-11-05",
       "fullDate": "20260729203713",
-      "size": 163402038,
+      "size": 165292257,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Aloha_8.8.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-10-2026/Aloha_8.13.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Aloha_8.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.alohabrowser.alohabrowser.png",
       "versions": [
+        {
+          "version": "8.13.1",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Aloha_8.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 165292257,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.13.1"
+        },
         {
           "version": "8.13.0",
           "date": "2026-10-24",
@@ -50849,17 +50897,25 @@
       "type": 1,
       "bundleID": "com.aoklab.fewerphotos",
       "bundleIdentifier": "com.aoklab.fewerphotos",
-      "version": "3.5.2",
-      "versionDate": "2026-10-21",
+      "version": "3.5.3",
+      "versionDate": "2026-11-05",
       "fullDate": "20260724165038",
-      "size": 159924146,
+      "size": 147862946,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/swipewipe_3.4.11_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/swipewipe_3.5.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/swipewipe_3.5.3_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aoklab.fewerphotos.png",
       "versions": [
+        {
+          "version": "3.5.3",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/swipewipe_3.5.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 147862946,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.5.3"
+        },
         {
           "version": "3.5.2",
           "date": "2026-10-21",
@@ -63191,17 +63247,25 @@
       "type": 1,
       "bundleID": "com.kinemaster.kios",
       "bundleIdentifier": "com.kinemaster.kios",
-      "version": "8.2.8",
-      "versionDate": "2026-11-05",
+      "version": "8.2.9",
+      "versionDate": "2026-11-06",
       "fullDate": "20260714184116",
-      "size": 157436937,
+      "size": 157456218,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/14-07-2026/KineMaster_8.1.17_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/KineMaster_8.2.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/KineMaster_8.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.kinemaster.kios.png",
       "versions": [
+        {
+          "version": "8.2.9",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/KineMaster_8.2.9_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 157456218,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "8.2.9"
+        },
         {
           "version": "8.2.8",
           "date": "2026-11-05",
@@ -70933,17 +70997,25 @@
       "type": 1,
       "bundleID": "com.eifrig.blitzerdepro",
       "bundleIdentifier": "com.eifrig.blitzerdepro",
-      "version": "400.3.3",
-      "versionDate": "2026-07-02",
+      "version": "400.3.5",
+      "versionDate": "2026-11-06",
       "fullDate": "20260702114208",
-      "size": 50237736,
+      "size": 54665905,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/BlitzerdePRO_400.3.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/BlitzerdePRO_400.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.eifrig.blitzerdepro.png",
       "versions": [
+        {
+          "version": "400.3.5",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/BlitzerdePRO_400.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 54665905,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "400.3.5"
+        },
         {
           "version": "400.3.3",
           "date": "2026-07-02",
@@ -72542,17 +72614,25 @@
       "type": 1,
       "bundleID": "ovz.Car-Scanner",
       "bundleIdentifier": "ovz.Car-Scanner",
-      "version": "2.1.46",
-      "versionDate": "2026-07-01",
+      "version": "2.2.42",
+      "versionDate": "2026-11-06",
       "fullDate": "20260701115755",
-      "size": 70167983,
+      "size": 74521440,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/CarScanner_2.1.46_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/CarScanner_2.1.46_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/CarScanner_2.2.42_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ovz.Car-Scanner.png",
       "versions": [
+        {
+          "version": "2.2.42",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/CarScanner_2.2.42_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 74521440,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.2.42"
+        },
         {
           "version": "2.1.46",
           "date": "2026-07-01",
@@ -75380,17 +75460,25 @@
       "type": 1,
       "bundleID": "com.leapingcoyote.rungo",
       "bundleIdentifier": "com.leapingcoyote.rungo",
-      "version": "7.4.1",
-      "versionDate": "2026-10-21",
+      "version": "7.4.2",
+      "versionDate": "2026-11-06",
       "fullDate": "20260626041757",
-      "size": 54785555,
+      "size": 54805792,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-06-2026/RunGo_7.2.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/RunGo_7.4.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/RunGo_7.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.leapingcoyote.rungo.png",
       "versions": [
+        {
+          "version": "7.4.2",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/RunGo_7.4.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 54805792,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.4.2"
+        },
         {
           "version": "7.4.1",
           "date": "2026-10-21",
@@ -76358,17 +76446,25 @@
       "type": 1,
       "bundleID": "com.apalonapps.wallpaperspys",
       "bundleIdentifier": "com.apalonapps.wallpaperspys",
-      "version": "2.8",
-      "versionDate": "2026-10-30",
+      "version": "2.8.1",
+      "versionDate": "2026-11-05",
       "fullDate": "20260624062135",
-      "size": 36529256,
+      "size": 36852051,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-06-2026/Wallpapers_2.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/Wallpapers_2.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Wallpapers_2.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.apalonapps.wallpaperspys.png",
       "versions": [
+        {
+          "version": "2.8.1",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Wallpapers_2.8.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 36852051,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.8.1"
+        },
         {
           "version": "2.8",
           "date": "2026-10-30",
@@ -80287,17 +80383,25 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "454.0.0",
-      "versionDate": "2026-11-03",
+      "version": "454.1.0",
+      "versionDate": "2026-11-05",
       "fullDate": "20260610115226",
-      "size": 91750400,
+      "size": 323388251,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.37/43d6c872-d02a-4cc5-8dee-274cd2dd053R.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793904697142-0iyxm/com.burbn.instagram_454.1.0_regram_7.0_sl_noplugs.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "454.1.0",
+          "date": "2026-11-05T18:44:56+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 454.1.\n- Settings rebuilt: new Search to find any setting, faster, new layout, one place per setting, setting links and \"New\" tags.\n- New update check: new versions show at the top of Settings, Update opens your installer app (Feather, AltStore, Sileo...). Can be turned off.\n- Privacy: hide your followers & following lists from others, and hide yourself from other people's lists. Saved on your IG account, so it works for everyone.\n- iPhone Duo support: Tab Bar editor, feed header button and story buttons now work, folded or unfolded.\n- Profile Analyzer rewritten: new native dashboard, one list screen with search, filters, notes & tags, batch follow/unfollow with safety caps, scan history timeline + compare, Growth page (iOS 16+), ghost followers and export.\n- Stories Archive rewrite: new Insights (vs the period before, audience, best story & time, top viewers), Story trends charts (iOS 16+), People list with verified & private marks, new viewer profile (seen strip, follow status, timeline filters), saves sticker reactions & votes.\n- Reels: Picture in Picture When Leaving — leave IG while a reel plays and it keeps playing in a floating window (IG's own player).\n- Feed: Floating Stories Bar (iOS 26+) — a hidden IG feature Regram turns on: the stories bar shrinks into a floating bubble as you scroll; tap it to watch.\n- IG Feature Flags (Tools): turn IG's hidden features on/off, search ~38k flags, share links; Try These page of tested picks (e.g. Extra Story Text Styles); crash guard undoes bad changes. Account-security flags are read-only.\n- Shortcuts & Links (App Utilities): links that open Regram screens or turn any setting on/off from Shortcuts; asks first unless Skip Confirmation is on. Setting links now work on jailbreak too.\n- Media Vault: new photo & video editor, Info screen, Post to IG, rebuilt folders (nested, smart, locked), Date filter and more tools..\n- New Show Reel Date (Settings > Reels): see when a reel was posted, above the author; tap for the full date. Custom date format.\n- New Show Repost Date (Settings > Reels): tap a repost's avatar on a post or reel to see when they reposted it, when their note expires, and all reposts.\n- New Backups: back up Regram's data to Google Drive (on a schedule) or a file, then restore or reset each feature on its own. Older exports still open in Older Backups.\n- New Storage & Files: see what takes space, browse IG's folders, clean up caches and set auto clear.\n- New IG API page (Settings > App): requests per feature, cache hits, hourly & daily limits, and a live \"Paused until…\" when IG rate limits or flags the account. Pauses survive relaunch; your own taps are never stopped.\n- Background checks (watchlist, follow requests, Media Watch, Save All) now share one paced queue: no burst of requests when IG opens. Checks you start yourself still run at once.\n- Chats: action button now also on photos & videos opened in a chat (normal and disappearing): save to Vault, share, expand, repost and more. Same menu as view-once media.\n- New Hide in Stories Bar (Ads & Clutter > Stories): hide suggested accounts and recent highlights from the stories bar.\n- New video player (Vault, Downloads, Expand): pinch to zoom, double-tap left/right to skip, hold for 2x, speed menu, exact-frame scrubbing, Picture in Picture, AirPlay and Save Frame (to Photos or Vault).\n- Clear Cache moved into Storage & Files (Clean Up and Auto Clear). Your Auto Clear schedule carries over.\n- Hide UI in Screenshots: now also hides the Quick Controls button in chats and the glass background of all Regram buttons (iOS 26+).\n- Feed & profile action buttons: glass now matches IG's buttons (stays solid when Liquid Glass is set to Clear) and bounces when tapped or held.\n- New Activity Status button in the chats list: turn your online status on or off in one tap, hold it for more options. Also in Quick Controls.\n- Stories action button: new Links item — see every link in a story, copy one or all, open or share them.\n- Tab Bar: new Use iOS Tab Bar switch — IG's iOS (Liquid Glass) tab bar on iPhone, iOS 26+. Shows up to 5 tabs; applies after a restart.\n- Save All: new Highlights (with covers, one folder each in ZIPs) and Tagged posts. Last N / since date apply to tagged posts too.\n- Media Watch: now saves highlights, alerts on new highlight items. Choose whether highlights already there get saved.\n- Hide Chats: hidden chats now also leave the share sheet (suggestions & search). Shown again when you reveal hidden chats. Switch: Also Hide from Share Sheet.\n- New Hide Meta AI page (Ads & Clutter > Meta AI): one switch each for Chats, Search & Explore, Feed, Reels, Stories, Comments and the post/story editor.\n- New Hide IG Plus Offers (Ads & Clutter > More, also linked in IG Plus): removes IG+ ads like the one in story viewers.\n- New Hide Story Comments (Stories > Watching): hides the comments that pop up above the reply bar, and their vibration.\n- Hide IG's own banners while the app is open: messages, activity, other accounts (Privacy > IG Banners). No more private DMs popping up while showing reels to someone.\n- Fixed Stop Auto Advance not working for some accounts on newer IG.\n- Follow Confirmation now also asks when following suggested accounts in the stories bar.\n- Fixed for IG 453: Message Preview, Hide Flag Button, Disable Swipe-Up for Disappearing Messages and Tappable Links in Reels captions.\n- Fixed Reels filters by likes, comments, shares and reposts not working on the Following tab of Reels.\n- Fixed the pin icon on pinned chats in the share sheet only showing after scrolling or selecting a chat.\n- Fixed the Profile Tracking pill and Follow Status badge overlapping the name or counts on profiles with a two-line name.\n- Reels Limit: fixed times showing a minute short (4 min instead of 5); Time's Up card now counts the same reels & time as the limit.\n- Tab Bar: switching accounts while on a custom tab (e.g. Saved) now opens that tab on the other account, not Notifications.\n- Follow Confirmation: now also asks when you Follow / Unfollow from the long-press profile preview (avatar or username in feed & reels).",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793904697142-0iyxm/com.burbn.instagram_454.1.0_regram_7.0_sl_noplugs.ipa",
+          "size": 323388251,
+          "buildVersion": "454.1.0"
+        },
         {
           "version": "454.0.0",
           "date": "2026-11-03",
@@ -102866,17 +102970,25 @@
       "type": 1,
       "bundleID": "com.wangyuehuan.vrtef",
       "bundleIdentifier": "com.wangyuehuan.vrtef",
-      "version": "8.0.0",
-      "versionDate": "2026-10-31",
+      "version": "8.1.0",
+      "versionDate": "2026-11-06",
       "fullDate": "20260505013223",
-      "size": 62464700,
+      "size": 62545492,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-05-2026/rPlayer_7.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/rPlayer_8.0.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/rPlayer_8.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wangyuehuan.vrtef.png",
       "versions": [
+        {
+          "version": "8.1.0",
+          "date": "2026-11-06",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-11-2026/rPlayer_8.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 62545492,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "8.1.0"
+        },
         {
           "version": "8.0.0",
           "date": "2026-10-31",
@@ -112162,17 +112274,26 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.40.1",
-      "versionDate": "2026-11-04",
+      "version": "12.41",
+      "versionDate": "2026-11-05",
       "fullDate": "20260312080709",
-      "size": 270899362,
+      "size": 275510462,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.40.1.+.NFB.v7.3.1.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.41.+.NFB.v7.3.1.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.41",
+          "date": "2026-11-05",
+          "localizedDescription": "• X updated to v12.41",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.41.+.NFB.v7.3.1.ipa",
+          "size": 275510462,
+          "sha256": "d4a23d0e980d8b4b33d8d5840be7b1be99c0e3bdbb4bdaad6859eafc7e90731f",
+          "buildVersion": "12.41"
+        },
         {
           "version": "12.40.1",
           "date": "2026-11-04",
@@ -121742,17 +121863,25 @@
       "type": 1,
       "bundleID": "com.idevtal.Wallpapers",
       "bundleIdentifier": "com.idevtal.Wallpapers",
-      "version": "5.91",
-      "versionDate": "2026-11-04",
+      "version": "5.92",
+      "versionDate": "2026-11-05",
       "fullDate": "20251228230543",
-      "size": 34564401,
+      "size": 34949274,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-12-2025/ImgAI_5.90_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-11-2026/ImgAI_5.91_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/ImgAI_5.92_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
       "versions": [
+        {
+          "version": "5.92",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/ImgAI_5.92_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 34949274,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.92"
+        },
         {
           "version": "5.91",
           "date": "2026-11-04",
@@ -142725,6 +142854,16 @@
       ],
       "versions": [
         {
+          "version": "2026.44.0",
+          "date": "2026-11-05",
+          "localizedDescription": "Initial addition.",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.0.ipa",
+          "size": 147004450,
+          "sha256": "fbcbfb1429afa8c6d1b5f07b044bc9a3c68b37f76bed2094a40c353f1de1d593",
+          "minOSVersion": "16.0",
+          "buildVersion": "2026.44.0"
+        },
+        {
           "version": "2026.25.0",
           "date": "2026-06-24",
           "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2109",
@@ -143030,10 +143169,10 @@
       },
       "beta": false,
       "appID": "com.reddit.Reddit",
-      "version": "2026.25.0",
-      "versionDate": "2026-06-24",
-      "size": 94982312,
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2109"
+      "version": "2026.44.0",
+      "versionDate": "2026-11-05",
+      "size": 147004450,
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Reddit.v2026.44.0.ipa"
     },
     {
       "beta": false,
@@ -151662,6 +151801,14 @@
       ],
       "versions": [
         {
+          "version": "34995",
+          "date": "2026-11-06T02:53:21+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34995",
+          "size": 133711770,
+          "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+          "buildVersion": "34995"
+        },
+        {
           "version": "34932",
           "date": "2026-11-02T23:33:57+00:00",
           "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34932",
@@ -152405,10 +152552,10 @@
       },
       "beta": false,
       "appID": "eu.pokemmo.client",
-      "version": "34932",
-      "versionDate": "2026-11-02",
-      "size": 133280699,
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34932"
+      "version": "34995",
+      "versionDate": "2026-11-06",
+      "size": 133711770,
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34995"
     },
     {
       "name": "Ignited",
@@ -173442,6 +173589,14 @@
       },
       "versions": [
         {
+          "version": "454.1.0",
+          "date": "2026-11-05T18:44:56+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 454.1.\n- Settings rebuilt: new Search to find any setting, faster, new layout, one place per setting, setting links and \"New\" tags.\n- New update check: new versions show at the top of Settings, Update opens your installer app (Feather, AltStore, Sileo...). Can be turned off.\n- Privacy: hide your followers & following lists from others, and hide yourself from other people's lists. Saved on your IG account, so it works for everyone.\n- iPhone Duo support: Tab Bar editor, feed header button and story buttons now work, folded or unfolded.\n- Profile Analyzer rewritten: new native dashboard, one list screen with search, filters, notes & tags, batch follow/unfollow with safety caps, scan history timeline + compare, Growth page (iOS 16+), ghost followers and export.\n- Stories Archive rewrite: new Insights (vs the period before, audience, best story & time, top viewers), Story trends charts (iOS 16+), People list with verified & private marks, new viewer profile (seen strip, follow status, timeline filters), saves sticker reactions & votes.\n- Reels: Picture in Picture When Leaving — leave IG while a reel plays and it keeps playing in a floating window (IG's own player).\n- Feed: Floating Stories Bar (iOS 26+) — a hidden IG feature Regram turns on: the stories bar shrinks into a floating bubble as you scroll; tap it to watch.\n- IG Feature Flags (Tools): turn IG's hidden features on/off, search ~38k flags, share links; Try These page of tested picks (e.g. Extra Story Text Styles); crash guard undoes bad changes. Account-security flags are read-only.\n- Shortcuts & Links (App Utilities): links that open Regram screens or turn any setting on/off from Shortcuts; asks first unless Skip Confirmation is on. Setting links now work on jailbreak too.\n- Media Vault: new photo & video editor, Info screen, Post to IG, rebuilt folders (nested, smart, locked), Date filter and more tools..\n- New Show Reel Date (Settings > Reels): see when a reel was posted, above the author; tap for the full date. Custom date format.\n- New Show Repost Date (Settings > Reels): tap a repost's avatar on a post or reel to see when they reposted it, when their note expires, and all reposts.\n- New Backups: back up Regram's data to Google Drive (on a schedule) or a file, then restore or reset each feature on its own. Older exports still open in Older Backups.\n- New Storage & Files: see what takes space, browse IG's folders, clean up caches and set auto clear.\n- New IG API page (Settings > App): requests per feature, cache hits, hourly & daily limits, and a live \"Paused until…\" when IG rate limits or flags the account. Pauses survive relaunch; your own taps are never stopped.\n- Background checks (watchlist, follow requests, Media Watch, Save All) now share one paced queue: no burst of requests when IG opens. Checks you start yourself still run at once.\n- Chats: action button now also on photos & videos opened in a chat (normal and disappearing): save to Vault, share, expand, repost and more. Same menu as view-once media.\n- New Hide in Stories Bar (Ads & Clutter > Stories): hide suggested accounts and recent highlights from the stories bar.\n- New video player (Vault, Downloads, Expand): pinch to zoom, double-tap left/right to skip, hold for 2x, speed menu, exact-frame scrubbing, Picture in Picture, AirPlay and Save Frame (to Photos or Vault).\n- Clear Cache moved into Storage & Files (Clean Up and Auto Clear). Your Auto Clear schedule carries over.\n- Hide UI in Screenshots: now also hides the Quick Controls button in chats and the glass background of all Regram buttons (iOS 26+).\n- Feed & profile action buttons: glass now matches IG's buttons (stays solid when Liquid Glass is set to Clear) and bounces when tapped or held.\n- New Activity Status button in the chats list: turn your online status on or off in one tap, hold it for more options. Also in Quick Controls.\n- Stories action button: new Links item — see every link in a story, copy one or all, open or share them.\n- Tab Bar: new Use iOS Tab Bar switch — IG's iOS (Liquid Glass) tab bar on iPhone, iOS 26+. Shows up to 5 tabs; applies after a restart.\n- Save All: new Highlights (with covers, one folder each in ZIPs) and Tagged posts. Last N / since date apply to tagged posts too.\n- Media Watch: now saves highlights, alerts on new highlight items. Choose whether highlights already there get saved.\n- Hide Chats: hidden chats now also leave the share sheet (suggestions & search). Shown again when you reveal hidden chats. Switch: Also Hide from Share Sheet.\n- New Hide Meta AI page (Ads & Clutter > Meta AI): one switch each for Chats, Search & Explore, Feed, Reels, Stories, Comments and the post/story editor.\n- New Hide IG Plus Offers (Ads & Clutter > More, also linked in IG Plus): removes IG+ ads like the one in story viewers.\n- New Hide Story Comments (Stories > Watching): hides the comments that pop up above the reply bar, and their vibration.\n- Hide IG's own banners while the app is open: messages, activity, other accounts (Privacy > IG Banners). No more private DMs popping up while showing reels to someone.\n- Fixed Stop Auto Advance not working for some accounts on newer IG.\n- Follow Confirmation now also asks when following suggested accounts in the stories bar.\n- Fixed for IG 453: Message Preview, Hide Flag Button, Disable Swipe-Up for Disappearing Messages and Tappable Links in Reels captions.\n- Fixed Reels filters by likes, comments, shares and reposts not working on the Following tab of Reels.\n- Fixed the pin icon on pinned chats in the share sheet only showing after scrolling or selecting a chat.\n- Fixed the Profile Tracking pill and Follow Status badge overlapping the name or counts on profiles with a two-line name.\n- Reels Limit: fixed times showing a minute short (4 min instead of 5); Time's Up card now counts the same reels & time as the limit.\n- Tab Bar: switching accounts while on a custom tab (e.g. Saved) now opens that tab on the other account, not Notifications.\n- Follow Confirmation: now also asks when you Follow / Unfollow from the long-press profile preview (avatar or username in feed & reels).",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793904697141-g707t/com.fouadraheb.regram_454.1.0_regram_7.0_sl.ipa",
+          "size": 320353492,
+          "buildVersion": "454.1.0"
+        },
+        {
           "version": "452.0.1",
           "date": "2026-10-20T11:18:03+00:00",
           "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for IG 451 and 452.\n- Reels Limit: fixed crash when opening a reel from feed on IG 452.\n- Messages Only: own settings page, switches in place (no restart), automatic schedule (times + days, switch instantly or ask first), optional Profile tab, Shortcuts links.\n- Remove Tracking from Links: now also strips IG's new random tracking params (e.g. ?rpxt=, ?dlrf=).\n- Follow Requests: warns before you send a follow request to someone who rejected one before (on by default).\n- Follow Requests: new Received tab — tracks who asks to follow you and whether you approved, declined or they withdrew. Confirm/Delete right from the list, repeat requesters marked, new requests badged. Turn on Track Received Requests in settings.\n- Follow Requests: redesigned list with filter chips (with counts) and clearer empty states.\n- Reels Buttons: hide the new Shop Similar button.\n- Feed: option to hide the full screen button that pops up over reels.\n- Explore: option to hide the Suggested for you accounts in search. Hide Search History now also hides the empty Recent header.\n- Media Watch: fixed new posts not being saved; posts that failed to save are retried; refresh says when it's paused.\n- Media Watch: Select All in the Media screen, and Delete All Saved Media for every account at once (accounts list or settings).\n- Profile Tracking: Watchlist can sort by Recently visited again (default while visits are recorded), so opened profiles move to the top.\n- Restart alert: clearer buttons (Restart Now / Later) and says your change is already saved.\n- Fixed ads (and Hide Reels) in the Explore grid.\n- Fixed Profile Tracking badges on profiles not opening when tapped.\n- Fixed IG freezing on Reels when the Share button is hidden.\n- Fixed custom tabs not opening after adding or logging out of an account.\n- Fixed profiles from Stories Archive viewers and other lists closing all screens first instead of opening on top.",
@@ -173602,13 +173757,13 @@
           "buildVersion": "413.0.0"
         }
       ],
-      "version": "452.0.1",
-      "versionDate": "2026-10-20",
+      "version": "454.1.0",
+      "versionDate": "2026-11-05",
       "versionDescription": "",
       "fullDate": "20260721194857",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1792499222882-rlxv7/com.fouadraheb.regram_452.0.1_regram_6.5_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1793904697141-g707t/com.fouadraheb.regram_454.1.0_regram_7.0_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1784664131112-9uylf/com.fouadraheb.regram_439.0.0_regram_5.2.1_sl.ipa",
-      "size": 293405643
+      "size": 320353492
     },
     {
       "id": "WA-SL-Duplicate",
@@ -186883,6 +187038,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "11056",
+          "marketingVersion": "3.4.0-alpha.20261106.01eadd7",
+          "date": "2026-11-06",
+          "localizedDescription": "Alpha build 01eadd7 · 2026-11-06\n\nChanges in this build:\n• fix mednafen warnings\n• dolphin bump\n• update dolphin core\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 781205173,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "11053",
           "marketingVersion": "3.4.0-alpha.20261104.d7e5d74",
           "date": "2026-11-04",
@@ -187586,8 +187751,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-11-04",
-      "size": 781009761,
+      "versionDate": "2026-11-06",
+      "size": 781205173,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -194842,6 +195007,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "458",
+          "date": "2026-11-05T22:47:32.753Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-458/Non-Jailbroken.ipa",
+          "size": 104593144,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "455",
           "date": "2026-11-04T23:31:38.768Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -195582,9 +195758,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-11-04",
-      "size": 104592778,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-455/Non-Jailbroken.ipa"
+      "versionDate": "2026-11-05",
+      "size": 104593144,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-458/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -195952,17 +196128,25 @@
       "type": 1,
       "bundleID": "com.chromanoir.Zeit",
       "bundleIdentifier": "com.chromanoir.Zeit",
-      "version": "3.3.2",
-      "versionDate": "2026-11-03",
+      "version": "3.3.3",
+      "versionDate": "2026-11-05",
       "fullDate": "20261006004205",
-      "size": 87836596,
+      "size": 87857225,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-10-2026/Halide_3.2.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/03-11-2026/Halide_3.3.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Halide_3.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chromanoir.Zeit.png",
       "versions": [
+        {
+          "version": "3.3.3",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/Halide_3.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 87857225,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.3.3"
+        },
         {
           "version": "3.3.2",
           "date": "2026-11-03",
@@ -196404,12 +196588,21 @@
       "category": "utilities",
       "beta": false,
       "screenshotURLs": [],
-      "version": "2.1.0",
-      "versionDate": "2026-11-02",
+      "version": "2.1.5",
+      "versionDate": "2026-11-05",
       "versionDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+.",
-      "size": 17956353,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/BuildBox.v2.1.0.ipa",
+      "size": 15597885,
+      "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.5/BuildBox-2.1.5.ipa",
       "versions": [
+        {
+          "version": "2.1.5",
+          "date": "2026-11-05",
+          "localizedDescription": "• BuildBox updated to v2.1.5",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.5/BuildBox-2.1.5.ipa",
+          "size": 15597885,
+          "minOSVersion": "18.0",
+          "buildVersion": "2.1.5"
+        },
         {
           "version": "2.1.0",
           "date": "2026-11-02",
