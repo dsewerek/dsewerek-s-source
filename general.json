@@ -50317,17 +50317,25 @@
       "type": 1,
       "bundleID": "ru.routes.peakvisor",
       "bundleIdentifier": "ru.routes.peakvisor",
-      "version": "5.119",
-      "versionDate": "2026-10-28",
+      "version": "5.120",
+      "versionDate": "2026-11-07",
       "fullDate": "20260724205645",
-      "size": 162340156,
+      "size": 162900825,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/PeakVisor_5.103_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/PeakVisor_5.119_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PeakVisor_5.120_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ru.routes.peakvisor.png",
       "versions": [
+        {
+          "version": "5.120",
+          "date": "2026-11-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PeakVisor_5.120_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 162900825,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.120"
+        },
         {
           "version": "5.119",
           "date": "2026-10-28",
@@ -187167,6 +187175,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "11065",
+          "marketingVersion": "3.4.0-alpha.20261107.db21dd4",
+          "date": "2026-11-07",
+          "localizedDescription": "Alpha build db21dd4 · 2026-11-07\n\nChanges in this build:\n• chore: bump SkinKit to 0.3.0 (#3804)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 781386826,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "11056",
           "marketingVersion": "3.4.0-alpha.20261106.01eadd7",
           "date": "2026-11-06",
@@ -187890,8 +187908,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-11-06",
-      "size": 781205173,
+      "versionDate": "2026-11-07",
+      "size": 781386826,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -193184,17 +193202,41 @@
       "type": 1,
       "bundleID": "tech.miidii.MDBlank",
       "bundleIdentifier": "tech.miidii.MDBlank",
-      "version": "4.3.5",
-      "versionDate": "2026-10-28",
+      "version": "4.3.7",
+      "versionDate": "2026-11-07",
       "fullDate": "20260820073226",
-      "size": 245269962,
+      "size": 245259265,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-08-2026/_4.2.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/_4.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/_4.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDBlank.png",
       "versions": [
+        {
+          "version": "4.3.7",
+          "date": "2026-11-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/_4.3.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 245259265,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.3.7"
+        },
+        {
+          "version": "20.0",
+          "date": "2026-11-05",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/_20.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 263988651,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "20.0"
+        },
+        {
+          "version": "7.28.5",
+          "date": "2026-11-02",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/_7.28.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 214336750,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.28.5"
+        },
         {
           "version": "4.3.5",
           "date": "2026-10-28",
