@@ -1705,17 +1705,25 @@
       "type": 1,
       "bundleID": "com.lyftaios",
       "bundleIdentifier": "com.lyftaios",
-      "version": "1.165",
-      "versionDate": "2026-10-30",
+      "version": "1.166",
+      "versionDate": "2026-11-07",
       "fullDate": "20260807041633",
-      "size": 63286293,
+      "size": 65066420,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Lyfta_1.153_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-10-2026/Lyfta_1.165_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Lyfta_1.166_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lyftaios.png",
       "versions": [
+        {
+          "version": "1.166",
+          "date": "2026-11-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/Lyfta_1.166_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 65066420,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.166"
+        },
         {
           "version": "1.165",
           "date": "2026-10-30",
@@ -16835,17 +16843,25 @@
       "type": 1,
       "bundleID": "com.aiarlabs.prequel",
       "bundleIdentifier": "com.aiarlabs.prequel",
-      "version": "2.104.0",
-      "versionDate": "2026-11-05",
+      "version": "2.104.1",
+      "versionDate": "2026-11-07",
       "fullDate": "20260805145139",
-      "size": 239228205,
+      "size": 239268727,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/PREQUEL_2.97.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-11-2026/PREQUEL_2.104.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PREQUEL_2.104.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.aiarlabs.prequel.png",
       "versions": [
+        {
+          "version": "2.104.1",
+          "date": "2026-11-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/PREQUEL_2.104.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 239268727,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.104.1"
+        },
         {
           "version": "2.104.0",
           "date": "2026-11-05",
@@ -60587,17 +60603,25 @@
       "type": 1,
       "bundleID": "club.boxbox.widgets-ios",
       "bundleIdentifier": "club.boxbox.widgets-ios",
-      "version": "5.5.5",
-      "versionDate": "2026-10-21",
+      "version": "5.5.6",
+      "versionDate": "2026-11-07",
       "fullDate": "20260719162443",
-      "size": 121928245,
+      "size": 123990013,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-07-2026/BoxBox_5.4.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/BoxBox_5.5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/BoxBox_5.5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/club.boxbox.widgets-ios.png",
       "versions": [
+        {
+          "version": "5.5.6",
+          "date": "2026-11-07",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-11-2026/BoxBox_5.5.6_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 123990013,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "5.5.6"
+        },
         {
           "version": "5.5.5",
           "date": "2026-10-21",
@@ -154264,7 +154288,7 @@
       "localizedDescription": "An on-device debugger and developer toolbox for iOS versions 17.4+ powered by idevice.  Note: Requires LocalDevVPN, cannot be natively used inside LiveContainer to enable JIT for the same LiveContainer.",
       "iconURL": "https://github.com/StikDebug/StikDebug/blob/main/assets/StikDebug.png?raw=true",
       "tintColor": "#3B86F7",
-      "size": 16818331,
+      "size": 16924629,
       "screenshots": {
         "iphone": [
           {
@@ -154293,6 +154317,15 @@
         }
       },
       "versions": [
+        {
+          "version": "3.2.1",
+          "date": "2026-11-07",
+          "localizedDescription": "- More error cleanup\r\n- Chinese (Simplified) localization\r\n- Kill processes via name via url scheme\r\n- FYI- StikDebug now requires Xcode 27+\n\nWhat's Changed\n Added Chinese localization by @jlj1102 in https://github.com/StikDebug/StikDebug/pull/494\n\nNew Contributors\n @jlj1102 made their first contribution in https://github.com/StikDebug/StikDebug/pull/494\n\nFull Changelog: https://github.com/StikDebug/StikDebug/compare/3.2.0...3.2.1",
+          "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.1/StikDebug-3.2.1.ipa",
+          "size": 16924629,
+          "minOSVersion": "17.4",
+          "buildVersion": "3.2.1"
+        },
         {
           "version": "3.2.0",
           "date": "2026-10-30",
@@ -154366,9 +154399,9 @@
           "buildVersion": "3.1.9"
         }
       ],
-      "version": "3.2.0",
-      "versionDate": "2026-10-30",
-      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.0/StikDebug-3.2.0.ipa"
+      "version": "3.2.1",
+      "versionDate": "2026-11-07",
+      "downloadURL": "https://github.com/StikDebug/StikDebug/releases/download/3.2.1/StikDebug-3.2.1.ipa"
     },
     {
       "name": "StikPair",
@@ -195188,6 +195221,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "461",
+          "date": "2026-11-07T04:55:03.116Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-461/Non-Jailbroken.ipa",
+          "size": 104595132,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "458",
           "date": "2026-11-05T22:47:32.753Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -195939,9 +195983,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-11-05",
-      "size": 104593144,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-458/Non-Jailbroken.ipa"
+      "versionDate": "2026-11-07",
+      "size": 104595132,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-461/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -196389,6 +196433,61 @@
       ],
       "versions": [
         {
+          "version": "1.0.0+1794024116",
+          "buildVersion": "1794024116",
+          "date": "2026-11-07",
+          "localizedDescription": "iFly 1.0.0 (build 1794024116) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794024116/iFly-1.0.0-1794024116.ipa",
+          "size": 133507698,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794023512",
+          "buildVersion": "1794023512",
+          "date": "2026-11-07",
+          "localizedDescription": "iFly 1.0.0 (build 1794023512) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794023512/iFly-1.0.0-1794023512.ipa",
+          "size": 133475134,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794016776",
+          "buildVersion": "1794016776",
+          "date": "2026-11-07",
+          "localizedDescription": "iFly 1.0.0 (build 1794016776) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794016776/iFly-1.0.0-1794016776.ipa",
+          "size": 133472491,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794014830",
+          "buildVersion": "1794014830",
+          "date": "2026-11-07",
+          "localizedDescription": "iFly 1.0.0 (build 1794014830) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794014830/iFly-1.0.0-1794014830.ipa",
+          "size": 133459704,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1794009841",
+          "buildVersion": "1794009841",
+          "date": "2026-11-07",
+          "localizedDescription": "iFly 1.0.0 (build 1794009841) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794009841/iFly-1.0.0-1794009841.ipa",
+          "size": 133459394,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
           "version": "1.0.0+1793945919",
           "buildVersion": "1793945919",
           "date": "2026-11-06",
@@ -196807,10 +196906,10 @@
           "isBeta": true
         }
       ],
-      "version": "1.0.0+1793945919",
-      "versionDate": "2026-11-06",
-      "size": 133391554,
-      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1793945919/iFly-1.0.0-1793945919.ipa"
+      "version": "1.0.0+1794024116",
+      "versionDate": "2026-11-07",
+      "size": 133507698,
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1794024116/iFly-1.0.0-1794024116.ipa"
     },
     {
       "name": "SceneBox",
