@@ -6687,14 +6687,23 @@
       "name": "Napper",
       "bundleIdentifier": "com.napper",
       "developerName": "@riftysIPAlibrary",
-      "version": "6.91.0",
-      "versionDate": "2026-11-04",
-      "size": 51862337,
+      "version": "6.96.0",
+      "versionDate": "2026-11-13",
+      "size": 57083812,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Napper: Baby Sleep Tracker  Tweak: Premium Unlocked  Version: 6.64.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7355.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8782-Napper:%20Baby%20Sleep%20Tracker-v6.91.0-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8981-Napper:%20Baby%20Sleep%20Tracker-v6.96.0-riftysipas.ipa",
       "versions": [
+        {
+          "version": "6.96.0",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | Napper: Baby Sleep Tracker Tweak: Premium Unlocked Version: 6.96.0 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8981-Napper:%20Baby%20Sleep%20Tracker-v6.96.0-riftysipas.ipa",
+          "size": 57083812,
+          "minOSVersion": "16.4",
+          "buildVersion": "6.96.0"
+        },
         {
           "version": "6.91.0",
           "date": "2026-11-04",
@@ -7150,14 +7159,23 @@
       "name": "Idle Miner",
       "bundleIdentifier": "com.fluffyfairygames.idleminertycoon",
       "developerName": "@riftysIPAlibrary",
-      "version": "5.68.0",
-      "versionDate": "2026-11-11",
-      "size": 144838784,
+      "version": "5.69.0",
+      "versionDate": "2026-11-13",
+      "size": 146019375,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Idle Miner Tycoon  Tweak: Free iAP  Version: 5.60.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 15.2",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7353.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8903-Idle%20Miner%20Tycoon-v5.68.0-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8982-Idle%20Miner%20Tycoon-v5.69.0-riftysipas.ipa",
       "versions": [
+        {
+          "version": "5.69.0",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: SatellaJailed\n\n@riftysIPAlibrary | Idle Miner Tycoon Tweak: Free iAP Version: 5.69.0 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS Version: 15.2…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8982-Idle%20Miner%20Tycoon-v5.69.0-riftysipas.ipa",
+          "size": 146019375,
+          "minOSVersion": "15.2",
+          "buildVersion": "5.69.0"
+        },
         {
           "version": "5.68.0",
           "date": "2026-11-11",
@@ -17734,14 +17752,23 @@
       "name": "Block Blast!",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
       "developerName": "@riftysIPAlibrary",
-      "version": "7.6.0",
-      "versionDate": "2026-11-12",
-      "size": 87965503,
+      "version": "7.6.1",
+      "versionDate": "2026-11-13",
+      "size": 88010043,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Block Blast!  Tweak: No Ads  Version: 7.3.3  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Version: 13.0 Bundle ",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7344.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8927-Block%20Blast%21-v7.6.0-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8974-Block%20Blast%21-v7.6.1-riftysipas.ipa",
       "versions": [
+        {
+          "version": "7.6.1",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: NetworkBlocker\n\n@riftysIPAlibrary | Block Blast! Tweak: No Ads Version: 7.6.1 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS Version: 15.0 Bundle ID…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8974-Block%20Blast%21-v7.6.1-riftysipas.ipa",
+          "size": 88010043,
+          "minOSVersion": "15.0",
+          "buildVersion": "7.6.1"
+        },
         {
           "version": "7.6.0",
           "date": "2026-11-12",
@@ -20082,14 +20109,23 @@
       "name": "Reframe",
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
       "developerName": "@riftysIPAlibrary",
-      "version": "4.0.2",
-      "versionDate": "2026-11-11",
-      "size": 236521045,
+      "version": "4.0.3",
+      "versionDate": "2026-11-13",
+      "size": 242463300,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Reframe: Drink Less & Thrive  Tweak: Premium Unlocked  Version: 3.9.82  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  M",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7342.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8919-Reframe:%20Drink%20Less%20&%20Thrive-v4.0.2-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8970-Reframe:%20Drink%20Less%20&%20Thrive-v4.0.3-riftysipas.ipa",
       "versions": [
+        {
+          "version": "4.0.3",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | Reframe: Drink Less & Thrive Tweak: Premium Unlocked Version: 4.0.3 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8970-Reframe:%20Drink%20Less%20&%20Thrive-v4.0.3-riftysipas.ipa",
+          "size": 242463300,
+          "minOSVersion": "16.4",
+          "buildVersion": "4.0.3"
+        },
         {
           "version": "4.0.2",
           "date": "2026-11-11",
@@ -32711,14 +32747,23 @@
       "name": "Open",
       "bundleIdentifier": "com.o-p-e-n.open",
       "developerName": "@Sa1y0miii",
-      "version": "26.45.2",
-      "versionDate": "2026-11-08",
-      "size": 230830691,
+      "version": "26.46",
+      "versionDate": "2026-11-13",
+      "size": 231824033,
       "minOSVersion": "14.0",
       "localizedDescription": "@Sa1y0miii | Open – Breathwork & Meditation 🧸 Min.iOS: [17.0+]   🧀 App version: [26.32] !upd  🪼 App Store: https://apps.apple.com/ua/app/open-breathwo",
       "iconURL": "https://fastsign.dev/tg-icon/sa1y0miii/10927.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8870-Open:%20Breathwork%20+%20Meditation-v26.45.2-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8972-Open:%20Breathwork%20+%20Meditation-v26.46-riftysipas.ipa",
       "versions": [
+        {
+          "version": "26.46",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | Open: Breathwork + Meditation Tweak: Subscription Unlocked Version: 26.46 Patched ✓ @riftysIPAlibrary Additional Information ℹ️…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8972-Open:%20Breathwork%20+%20Meditation-v26.46-riftysipas.ipa",
+          "size": 231824033,
+          "minOSVersion": "17.0",
+          "buildVersion": "26.46"
+        },
         {
           "version": "26.45.2",
           "date": "2026-11-08",
@@ -65181,14 +65226,23 @@
       "name": "JournalCircle",
       "bundleIdentifier": "com.genau.JournalCircle",
       "developerName": "@riftysIPAlibrary",
-      "version": "3.6.6",
-      "versionDate": "2026-11-11",
-      "size": 14960906,
+      "version": "3.6.7",
+      "versionDate": "2026-11-13",
+      "size": 14984526,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | JournalCircle: Diary & Tracker  Tweak: Premium Unlocked  Version: 3.5.2  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  ",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7293.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8922-JournalCircle:%20Diary%20&%20Tracker-v3.6.6-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8973-JournalCircle:%20Diary%20&%20Tracker-v3.6.7-riftysipas.ipa",
       "versions": [
+        {
+          "version": "3.6.7",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | JournalCircle: Diary & Tracker Tweak: Premium Unlocked Version: 3.6.7 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8973-JournalCircle:%20Diary%20&%20Tracker-v3.6.7-riftysipas.ipa",
+          "size": 14984526,
+          "minOSVersion": "16.0",
+          "buildVersion": "3.6.7"
+        },
         {
           "version": "3.6.6",
           "date": "2026-11-11",
@@ -87225,14 +87279,23 @@
       "name": "Zen Color",
       "bundleIdentifier": "happy.paint.color.coloring.number",
       "developerName": "@riftysIPAlibrary",
-      "version": "2.2.12",
-      "versionDate": "2026-10-27",
-      "size": 138885387,
+      "version": "2.2.13",
+      "versionDate": "2026-11-13",
+      "size": 141472310,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Zen Color - Color By Number  Tweak: No Ads  Version: 2.2.5  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS Versio",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7228.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8630-Zen%20Color%20-%20Color%20By%20Number-v2.2.12-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8975-Zen%20Color%20-%20Color%20By%20Number-v2.2.13-riftysipas.ipa",
       "versions": [
+        {
+          "version": "2.2.13",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: NetworkBlocker\n\n@riftysIPAlibrary | Zen Color - Color By Number Tweak: No Ads Version: 2.2.13 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS Version…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8975-Zen%20Color%20-%20Color%20By%20Number-v2.2.13-riftysipas.ipa",
+          "size": 141472310,
+          "minOSVersion": "15.0",
+          "buildVersion": "2.2.13"
+        },
         {
           "version": "2.2.12",
           "date": "2026-10-27",
@@ -87326,14 +87389,23 @@
       "name": "FotMob",
       "bundleIdentifier": "com.mobilefootie.fotmobpro",
       "developerName": "@riftysIPAlibrary",
-      "version": "1246.0",
-      "versionDate": "2026-11-01",
-      "size": 68798971,
+      "version": "1247.0",
+      "versionDate": "2026-11-13",
+      "size": 65334774,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | FotMob - Soccer Live Scores  Tweak: Premium Unlocked  Version: 1239.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Mi",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7227.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8726-FotMob%20-%20Soccer%20Live%20Scores-v1246.0-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8984-FotMob%20-%20Soccer%20Live%20Scores-v1247.0-riftysipas.ipa",
       "versions": [
+        {
+          "version": "1247.0",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | FotMob - Soccer Live Scores Tweak: Premium Unlocked Version: 1247.0 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8984-FotMob%20-%20Soccer%20Live%20Scores-v1247.0-riftysipas.ipa",
+          "size": 65334774,
+          "minOSVersion": "17.6",
+          "buildVersion": "1247.0"
+        },
         {
           "version": "1246.0",
           "date": "2026-11-01",
@@ -89107,14 +89179,23 @@
       "name": "Most",
       "bundleIdentifier": "com.most.stories",
       "developerName": "AppTesters IPA Repo",
-      "version": "3.5.8",
-      "versionDate": "2026-10-29",
-      "size": 235251643,
+      "version": "3.5.9",
+      "versionDate": "2026-11-13",
+      "size": 235263620,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.most.stories.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-10-2026/Most_3.5.8_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "3.5.9",
+          "date": "2026-11-13",
+          "localizedDescription": "@blatants | Most: Aesthetic Photo Editor • Bundle ID: com.most.stories • Updated to: 3.5.9 • Minimum iOS: 17.6 • Patched • Modifier: Subscription…",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Most_3.5.9_Subscription_Unlocked_@thisismanpreets_apptesters.org.ipa",
+          "size": 235263620,
+          "minOSVersion": "17.6",
+          "buildVersion": "3.5.9"
+        },
         {
           "version": "3.5.8",
           "date": "2026-10-29",
@@ -115891,14 +115972,23 @@
       "name": "Genius Scan",
       "bundleIdentifier": "com.geniussoftware.GeniusScan",
       "developerName": "@riftysIPAlibrary",
-      "version": "8.16.1",
-      "versionDate": "2026-11-07",
-      "size": 61776801,
+      "version": "8.16.2",
+      "versionDate": "2026-11-13",
+      "size": 61775971,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Scanner App: Genius Scan  Tweak: Premium Unlocked  Version: 8.13  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️  Min OS ",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/7064.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8844-Scanner%20App:%20Genius%20Scan-v8.16.1-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8978-Scanner%20App:%20Genius%20Scan-v8.16.2-riftysipas.ipa",
       "versions": [
+        {
+          "version": "8.16.2",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | Scanner App: Genius Scan Tweak: Premium Unlocked Version: 8.16.2 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8978-Scanner%20App:%20Genius%20Scan-v8.16.2-riftysipas.ipa",
+          "size": 61775971,
+          "minOSVersion": "17.0",
+          "buildVersion": "8.16.2"
+        },
         {
           "version": "8.16.1",
           "date": "2026-11-07",
@@ -122857,14 +122947,23 @@
       "name": "Shapr3D",
       "bundleIdentifier": "com.shapr3d.shapr",
       "developerName": "AppTesters IPA Repo",
-      "version": "26.150.0",
-      "versionDate": "2026-08-19",
-      "size": 1301742755,
+      "version": "26.200.0",
+      "versionDate": "2026-11-13",
+      "size": 1321635266,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Pro",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Shapr3D_26.150.0_Pro_@thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_@thisismanpreets_apptesters.org.ipa",
       "versions": [
+        {
+          "version": "26.200.0",
+          "date": "2026-11-13",
+          "localizedDescription": "Injected with Premium",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_@thisismanpreets_apptesters.org.ipa",
+          "size": 1321635266,
+          "minOSVersion": "17.0",
+          "buildVersion": "26.200.0"
+        },
         {
           "version": "26.150.0",
           "date": "2026-08-19",
@@ -127489,14 +127588,23 @@
       "name": "VEEDCaptions",
       "bundleIdentifier": "io.veed.appstore",
       "developerName": "AppTesters IPA Repo",
-      "version": "8.15.0",
-      "versionDate": "2026-08-25",
-      "size": 168280075,
+      "version": "8.15.2",
+      "versionDate": "2026-11-13",
+      "size": 169313877,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with Subscription Unlocked",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/io.veed.appstore.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/blatants/11765-VEED_Lite_Quick_Video_Edits_v8_15_1_Subscription_Unlocked_blatant.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8983-VEED%20-%20AI%20Captions%20and%20Shorts-v8.15.2-riftysipas.ipa",
       "versions": [
+        {
+          "version": "8.15.2",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | VEED - AI Captions and Shorts Tweak: Premium Unlocked Version: 8.15.2 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8983-VEED%20-%20AI%20Captions%20and%20Shorts-v8.15.2-riftysipas.ipa",
+          "size": 169313877,
+          "minOSVersion": "16.0",
+          "buildVersion": "8.15.2"
+        },
         {
           "version": "8.15.0",
           "date": "2026-08-25",
@@ -144406,14 +144514,23 @@
       "name": "HillClimb",
       "bundleIdentifier": "com.fingersoft.hillclimbracing",
       "developerName": "AppTesters IPA Repo",
-      "version": "1.73.1",
-      "versionDate": "2026-10-31",
-      "size": 131078364,
+      "version": "1.73.2",
+      "versionDate": "2026-11-13",
+      "size": 131078857,
       "minOSVersion": "14.0",
       "localizedDescription": "Injected with IAP",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.fingersoft.hillclimbracing.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8706-Hill%20Climb%20Racing-v1.73.1-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8980-Hill%20Climb%20Racing-v1.73.2-riftysipas.ipa",
       "versions": [
+        {
+          "version": "1.73.2",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: SatellaJailed\n\n@riftysIPAlibrary | Hill Climb Racing Tweak: Free iAP Version: 1.73.2 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS Version: 15.0…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8980-Hill%20Climb%20Racing-v1.73.2-riftysipas.ipa",
+          "size": 131078857,
+          "minOSVersion": "15.0",
+          "buildVersion": "1.73.2"
+        },
         {
           "version": "1.73.1",
           "date": "2026-10-31",
@@ -148439,6 +148556,15 @@
           "size": 50872947,
           "minOSVersion": "14.0",
           "buildVersion": "3.3.0"
+        },
+        {
+          "version": "4.3.1",
+          "date": "2024-08-24",
+          "localizedDescription": "ipaomtk.com | Exif Metadata Editor & IPTC IPA MOD is the information that is automatically embedded within digital image and video files when they…",
+          "downloadURL": "https://file.ipaomtk.com/ipa/MetadataEditor.ipa",
+          "size": 61187807,
+          "minOSVersion": "18.0",
+          "buildVersion": "4.3.1"
         }
       ],
       "subtitle": "Injected with Premium",
@@ -183865,6 +183991,15 @@
           "buildVersion": "6.4.2"
         },
         {
+          "version": "6.4.3",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | Speak4Me Text to Speech Reader Tweak: Pro Unlocked Version: 6.4.3 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8979-Speak4Me%20Text%20to%20Speech%20Reader-v6.4.3-riftysipas.ipa",
+          "size": 53558703,
+          "minOSVersion": "15.0",
+          "buildVersion": "6.4.3"
+        },
+        {
           "version": "6.4.1",
           "date": "2026-11-08",
           "localizedDescription": "@riftysIPAlibrary | Speak4Me Text to Speech Reader Tweak: Pro Unlocked Version: 6.4.1 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min OS…",
@@ -212345,14 +212480,23 @@
       "name": "MyVocab",
       "bundleIdentifier": "vladchechura.VocabularyEN",
       "developerName": "ipaomtk.com",
-      "version": "2.0.1",
-      "versionDate": "2026-11-04",
-      "size": 110793679,
+      "version": "2.0.2",
+      "versionDate": "2026-11-13",
+      "size": 110661555,
       "minOSVersion": "14.0",
       "localizedDescription": "ipaomtk.com | MyVocab IPA is an innovative iOS ‌application designed to help users learn ⁤new‍ words effortlessly. Packed with features that cater to⁢",
       "iconURL": "https://ipaomtk.com/wp-content/uploads/2025/06/MyVocab-8211-Learn-new-words-150x150.webp",
-      "downloadURL": "https://fastsign.dev/tg-ipa/sa1y0miii/15520-%E2%80%8E%20MyVocab_v2.0.1_tg@Sa1y0miii.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8976-MyVocab%20-%20Learn%20new%20words-v2.0.2-riftysipas.ipa",
       "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | MyVocab - Learn new words Tweak: Subscription Unlocked Version: 2.0.2 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8976-MyVocab%20-%20Learn%20new%20words-v2.0.2-riftysipas.ipa",
+          "size": 110661555,
+          "minOSVersion": "15.0",
+          "buildVersion": "2.0.2"
+        },
         {
           "version": "2.0.1",
           "date": "2026-11-04",
@@ -390624,14 +390768,23 @@
       "name": "YouTube Music Ultimate Enchanced",
       "bundleIdentifier": "com.google.ios.youtube.music.ultimate.enhanced",
       "developerName": "YouTube",
-      "version": "9.43.2",
-      "versionDate": "2026-10-29",
-      "size": 110030324,
+      "version": "9.45.2",
+      "versionDate": "2026-11-13",
+      "size": 109424330,
       "minOSVersion": "14.0",
       "localizedDescription": "This is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at: h\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/017/395/384/non_2x/youtube-music-icon-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.43Moe-Ultimate2.4.1Patched.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.45Moe-Ultimate2.4.1Patched.ipa",
       "versions": [
+        {
+          "version": "9.45.2",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: YTMusicUltimate\n\nThis is a modded version of YouTube Music with the following tweaks: YTMusicUltimate and Downloading. You can see more information about the mod at…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTubeMusic9.45Moe-Ultimate2.4.1Patched.ipa",
+          "size": 109424330,
+          "minOSVersion": "17.0",
+          "buildVersion": "9.45.2"
+        },
         {
           "version": "9.43.2",
           "date": "2026-10-29",
@@ -390787,14 +390940,23 @@
       "name": "YouPro + Bonus Tweaks (0.3 - Moe)",
       "bundleIdentifier": "com.google.ios.youtube.youproextra.0.3.moe",
       "developerName": "YouTube",
-      "version": "21.44.4",
-      "versionDate": "2026-11-07",
-      "size": 143051730,
+      "version": "21.45.4",
+      "versionDate": "2026-11-13",
+      "size": 143638782,
       "minOSVersion": "14.0",
       "localizedDescription": "This is a modded version of YouTube.  This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGr\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-YouPro0.3Patched.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-YouPro0.3Patched.ipa",
       "versions": [
+        {
+          "version": "21.45.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: YouLoop, YouPro, YTClassicVideoQuality, YouMute, YTVideoOverlay, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-YouPro0.3Patched.ipa",
+          "size": 143638782,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.45.4"
+        },
         {
           "version": "21.44.4",
           "date": "2026-11-07",
@@ -395819,14 +395981,23 @@
       "name": "SY (2.0) - Patched",
       "bundleIdentifier": "com.google.ios.youtube.sy.2.0.patched",
       "developerName": "YouTube",
-      "version": "21.44.4",
-      "versionDate": "2026-11-07",
-      "size": 146458904,
+      "version": "21.45.4",
+      "versionDate": "2026-11-13",
+      "size": 147045919,
       "minOSVersion": "14.0",
       "localizedDescription": "This is contains the SY tweak for YouTube. Does not work with Sidestore/Altstore.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-SY2.0Patched.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-SY2.0Patched.ipa",
       "versions": [
+        {
+          "version": "21.45.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: YouTubeSy, YouLoop, YTClassicVideoQuality, YouMute, YTVideoOverlay, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is contains the SY tweak for YouTube. Does not work with Sidestore/Altstore.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-SY2.0Patched.ipa",
+          "size": 147045919,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.45.4"
+        },
         {
           "version": "21.44.4",
           "date": "2026-11-07",
@@ -395875,14 +396046,23 @@
       "name": "LRD Cracked (1.13) - Patched",
       "bundleIdentifier": "com.google.ios.youtube.lrd.cracked.1.13.patched",
       "developerName": "YouTube",
-      "version": "21.44.4",
-      "versionDate": "2026-11-07",
-      "size": 147055134,
+      "version": "21.45.4",
+      "versionDate": "2026-11-13",
+      "size": 147642237,
       "minOSVersion": "14.0",
       "localizedDescription": "This is a cracked version of the paid LRD tweak for YouTube. Does not work with Sidestore/Altstore.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-LRD1.13CrackedPatched.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-LRD1.13CrackedPatched.ipa",
       "versions": [
+        {
+          "version": "21.45.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: TubeLRD, YouLoop, YTClassicVideoQuality, YouMute, YTVideoOverlay, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is a cracked version of the paid LRD tweak for YouTube. Does not work with Sidestore/Altstore.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-LRD1.13CrackedPatched.ipa",
+          "size": 147642237,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.45.4"
+        },
         {
           "version": "21.44.4",
           "date": "2026-11-07",
@@ -395931,14 +396111,23 @@
       "name": "DLTube Cracked (2.16.3) - Patched",
       "bundleIdentifier": "com.google.ios.youtube.dltube.cracked.2.16.3.patched",
       "developerName": "YouTube",
-      "version": "21.44.4",
-      "versionDate": "2026-11-07",
-      "size": 143331861,
+      "version": "21.45.4",
+      "versionDate": "2026-11-13",
+      "size": 143918904,
       "minOSVersion": "14.0",
       "localizedDescription": "This is a cracked version of DLTube tweak for YouTube. Does not work with Sidestore/Altstore.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-DLTube2.16.3CrackedPatched.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-DLTube2.16.3CrackedPatched.ipa",
       "versions": [
+        {
+          "version": "21.45.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: YouLoop, YTClassicVideoQuality, DLTube, YouMute, YTVideoOverlay, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is a cracked version of DLTube tweak for YouTube. Does not work with Sidestore/Altstore.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-DLTube2.16.3CrackedPatched.ipa",
+          "size": 143918904,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.45.4"
+        },
         {
           "version": "21.44.4",
           "date": "2026-11-07",
@@ -399048,14 +399237,23 @@
       "name": "Vesper",
       "bundleIdentifier": "app.vesper",
       "developerName": "scholars lounge",
-      "version": "0.5.2",
-      "versionDate": "2026-11-05",
-      "size": 15722959,
+      "version": "0.5.3",
+      "versionDate": "2026-11-13",
+      "size": 15965950,
       "minOSVersion": "14.0",
       "localizedDescription": "scholars lounge | Vesper Version: 0.3 Bundle ID: app.vesper App by DjangoCustard225  A native iOS content hub utilising Stremio add-ons. Browse with T\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://fastsign.dev/tg-icon/scholars-lounge/79589.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/83655-Vesper.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/85780-Vesper.ipa",
       "versions": [
+        {
+          "version": "0.5.3",
+          "date": "2026-11-13",
+          "localizedDescription": "scholars lounge | Vesper Version: 0.5.3 Bundle ID: app.vesper App by DjangoCustard225 A native iOS content hub utilising Stremio add-ons. Browse…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/scholars-lounge/85780-Vesper.ipa",
+          "size": 15965950,
+          "minOSVersion": "27.0",
+          "buildVersion": "0.5.3"
+        },
         {
           "version": "0.5.2",
           "date": "2026-11-05",
@@ -399330,14 +399528,23 @@
       "name": "Tappy",
       "bundleIdentifier": "cameronnazemi.Tappy",
       "developerName": "@riftysIPAlibrary",
-      "version": "6.6.0",
-      "versionDate": "2026-11-11",
-      "size": 263139945,
+      "version": "6.7.0",
+      "versionDate": "2026-11-13",
+      "size": 265348215,
       "minOSVersion": "14.0",
       "localizedDescription": "@riftysIPAlibrary | Tappy: Self Care Fidgeter  Tweak: Subscription Unlocked  Version: 6.0.0  Patched ✓  @riftysIPAlibrary  Additional Information ℹ️\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://fastsign.dev/tg-icon/riftysipalibrary/8328.png",
-      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8905-Tappy:%20Self%20Care%20Fidgeter-v6.6.0-riftysipas.ipa",
+      "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8977-Tappy:%20Self%20Care%20Fidgeter-v6.7.0-riftysipas.ipa",
       "versions": [
+        {
+          "version": "6.7.0",
+          "date": "2026-11-13",
+          "localizedDescription": "@riftysIPAlibrary | Tappy: Self Care Fidgeter Tweak: Subscription Unlocked Version: 6.7.0 Patched ✓ @riftysIPAlibrary Additional Information ℹ️ Min…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/riftysipalibrary/8977-Tappy:%20Self%20Care%20Fidgeter-v6.7.0-riftysipas.ipa",
+          "size": 265348215,
+          "minOSVersion": "16.6",
+          "buildVersion": "6.7.0"
+        },
         {
           "version": "6.6.0",
           "date": "2026-11-11",
@@ -400871,6 +401078,15 @@
           "buildVersion": "2.6.0-nightly.20261112.1132"
         },
         {
+          "version": "2.6.0-nightly.20261113.0426",
+          "date": "2026-11-13",
+          "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming…",
+          "downloadURL": "https://github.com/ARMSX2/ARMSX2/releases/download/nightly-20261113/ARMSX2-nightly-20261113-37ed35b88f-iOS-arm64.ipa",
+          "size": 40715589,
+          "minOSVersion": "17.4",
+          "buildVersion": "2.6.0-nightly.20261113.0426"
+        },
+        {
           "version": "2.6.0-nightly.20261111.0647",
           "date": "2026-11-12",
           "localizedDescription": "A free and open-source PlayStation 2 (PS2) emulator based on PCSX2, with native ARM64 JIT recompilers. Play PS2 games on your phone, PC, or gaming…",
@@ -401278,14 +401494,23 @@
       "name": "MoviePilotLite",
       "bundleIdentifier": "com.altman.moviepilot",
       "developerName": "singleton-altman",
-      "version": "1.3.1",
-      "versionDate": "2026-11-07",
-      "size": 37490597,
+      "version": "1.3.3",
+      "versionDate": "2026-11-13",
+      "size": 37758540,
       "minOSVersion": "14.0",
       "localizedDescription": "基于 MoviePilot 的 Flutter 跨端客户端，对接 MoviePilot v2 API，在手机上完成订阅、搜索、下载、整理与系统运维等常用操作。\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/MoviePilotLite/icon.png",
-      "downloadURL": "https://github.com/singleton-altman/MoviePilotLite/releases/download/release-v1.3.1-2026-11-06/ios-v1.3.1-2026-11-06.ipa",
+      "downloadURL": "https://github.com/singleton-altman/MoviePilotLite/releases/download/release-v1.3.3-2026-11-13/ios-v1.3.3-2026-11-13.ipa",
       "versions": [
+        {
+          "version": "1.3.3",
+          "date": "2026-11-13",
+          "localizedDescription": "基于 MoviePilot 的 Flutter 跨端客户端，对接 MoviePilot v2 API，在手机上完成订阅、搜索、下载、整理与系统运维等常用操作。",
+          "downloadURL": "https://github.com/singleton-altman/MoviePilotLite/releases/download/release-v1.3.3-2026-11-13/ios-v1.3.3-2026-11-13.ipa",
+          "size": 37758540,
+          "minOSVersion": "15.0",
+          "buildVersion": "1.3.3"
+        },
         {
           "version": "1.3.1",
           "date": "2026-11-07",
@@ -401604,14 +401829,23 @@
       "name": "OpenParsec",
       "bundleIdentifier": "com.aigch.OpenParsec",
       "developerName": "hugeBlack",
-      "version": "1.4.0",
-      "versionDate": "2026-10-14",
-      "size": 4358332,
+      "version": "2.0.0",
+      "versionDate": "2026-11-13",
+      "size": 4445097,
       "minOSVersion": "14.0",
       "localizedDescription": "OpenParsec is a simple, open-source Parsec client for iOS/iPadOS written in Swift using the SwiftUI framework and the Parsec SDK.  This project is sti\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://cdn.jsdelivr.net/gh/RipeStore/altmaker@main/icons/com.aigch.OpenParsec.png",
-      "downloadURL": "https://github.com/hugeBlack/OpenParsec/releases/download/1.4.0/OpenParsec.ipa",
+      "downloadURL": "https://github.com/hugeBlack/OpenParsec/releases/download/2.0.0/OpenParsec.ipa",
       "versions": [
+        {
+          "version": "2.0.0",
+          "date": "2026-11-13",
+          "localizedDescription": "An open-source Parsec client for iOS/iPadOS with mouse, keyboard, and touch-screen support.",
+          "downloadURL": "https://github.com/hugeBlack/OpenParsec/releases/download/2.0.0/OpenParsec.ipa",
+          "size": 4445097,
+          "minOSVersion": "14.0",
+          "buildVersion": "2.0.0"
+        },
         {
           "version": "1.4.0",
           "date": "2026-10-14",
@@ -408079,14 +408313,23 @@
       "name": "MoeMulti (11.1) - Patched",
       "bundleIdentifier": "com.google.ios.youtube.moemulti.11.1.patched",
       "developerName": "YouTube",
-      "version": "21.44.4",
-      "versionDate": "2026-11-07",
-      "size": 229108771,
+      "version": "21.45.4",
+      "versionDate": "2026-11-13",
+      "size": 229695912,
       "minOSVersion": "14.0",
       "localizedDescription": "This is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube, TubeLRD\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.44.4Moe-Multi11.1Patched.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-Multi11.1Patched.ipa",
       "versions": [
+        {
+          "version": "21.45.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: MoeMulti, Alderis\n\nThis is a modified version of YouTube which comes with a bunch of built in tweaks. This comes with the following tweaks: YTKillerPlus, DLTube…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-Multi11.1Patched.ipa",
+          "size": 229695912,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.45.4"
+        },
         {
           "version": "21.44.4",
           "date": "2026-11-07",
@@ -408117,14 +408360,23 @@
       "name": "YouMod (2.0.0) + Bonus Tweaks (Moe) - Patched",
       "bundleIdentifier": "com.google.ios.youtube.youmod.2.0.0.moe.patched",
       "developerName": "YouTube",
-      "version": "21.43.5",
-      "versionDate": "2026-10-29",
-      "size": 142116183,
+      "version": "21.45.4",
+      "versionDate": "2026-11-13",
+      "size": 143894652,
       "minOSVersion": "14.0",
       "localizedDescription": "This is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality, YouGro\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
       "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
-      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.43.5Moe-YouMod2.0.0Patched.ipa",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-YouMod2.0Patched.ipa",
       "versions": [
+        {
+          "version": "21.45.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: YouLoop, YTClassicVideoQuality, YouMute, YTVideoOverlay, YouMod, YTABConfig, YouQuality, YouChooseQuality, YTUHD, DontEatMyContent, iSponsorBlock, YouGroupSettings +3\n\nThis is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, iSponsorBlock, sideloadFixerLol, YouChooseQuality…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-YouMod2.0Patched.ipa",
+          "size": 143894652,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.45.4"
+        },
         {
           "version": "21.43.5",
           "date": "2026-10-29",
@@ -410662,6 +410914,15 @@
           "buildVersion": "0.9.4"
         },
         {
+          "version": "0.9.6",
+          "date": "2026-11-13",
+          "localizedDescription": "@ipavault | WQ Files WQ Files is a file browser, app data manager and cache cleaner for iOS 27. \"WQ\" stands for worse_query, the sandbox technique…",
+          "downloadURL": "https://fastsign.dev/tg-ipa/ipavault/1352-WQFiles%200.9.6.ipa",
+          "size": 770616,
+          "minOSVersion": "26.0",
+          "buildVersion": "0.9.6"
+        },
+        {
           "version": "0.9.3",
           "date": "2026-11-12",
           "localizedDescription": "@ipavault | WQ Files WQ Files is a file browser, app data manager and cache cleaner for iOS 27. \"WQ\" stands for worse_query, the sandbox technique…",
@@ -411381,6 +411642,15 @@
           "buildVersion": "2.0.0"
         },
         {
+          "version": "2.1.0",
+          "date": "2026-11-13",
+          "localizedDescription": "Search, download and install the apps you own on iPhone and iPad — older versions, removed apps, regional price comparison and native install. Works…",
+          "downloadURL": "https://github.com/mengangs/ipadn/releases/download/v2.1.0/iPadn-2.1.0-lite-unsigned.ipa",
+          "size": 48684606,
+          "minOSVersion": "16.0",
+          "buildVersion": "2.1.0"
+        },
+        {
           "version": "1.9.2",
           "date": "2026-11-12",
           "localizedDescription": "Search, download and install the apps you own on iPhone and iPad — older versions, removed apps, regional price comparison and native install. Works…",
@@ -411736,6 +412006,15 @@
           "size": 2610574,
           "minOSVersion": "17.0",
           "buildVersion": "0.3.3"
+        },
+        {
+          "version": "0.3.6",
+          "date": "2026-11-13",
+          "localizedDescription": "View your Mac's system activity on iPhone over a local encrypted connection. A native, local-first system monitor with a lightweight Mac companion…",
+          "downloadURL": "https://github.com/ishtiaq156/stats/releases/download/v0.3.12/Stats-v0.3.6-iOS.ipa",
+          "size": 2668322,
+          "minOSVersion": "17.0",
+          "buildVersion": "0.3.6"
         }
       ],
       "subtitle": "View your Mac's system activity on iPhone over a local encrypted connection. A native, local-first system monitor with a lightweight Mac companion…",
@@ -412468,6 +412747,267 @@
       "icon": "https://cdn.omnidev.org/Bunny_Pyoncord_224_0-s8.png",
       "bundleID": "com.hammerandchisel.bunny",
       "fullDate": "20261113040027",
+      "type": 1
+    },
+    {
+      "name": "Swipt",
+      "bundleIdentifier": "io.nekohasekai.swipt",
+      "developerName": "nekohasekai",
+      "version": "0.1.0",
+      "versionDate": "2026-11-13",
+      "size": 48174029,
+      "minOSVersion": "16.4",
+      "localizedDescription": "Swipt automates this iPhone or iPad with JavaScript swiplets. It bundles a TypeScript SDK built on CoreDevice and the accessibility services, plus an MCP-compatible API for driving and debugging swiplets from your computer.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/icon.png",
+      "downloadURL": "https://github.com/swipt-automation/swipt/releases/download/nightly/Swipt.ipa",
+      "versions": [
+        {
+          "version": "0.1.0",
+          "date": "2026-11-13",
+          "localizedDescription": "Swipt automates this iPhone or iPad with JavaScript swiplets. It bundles a TypeScript SDK built on CoreDevice and the accessibility services, plus…",
+          "downloadURL": "https://github.com/swipt-automation/swipt/releases/download/nightly/Swipt.ipa",
+          "size": 48174029,
+          "minOSVersion": "16.4",
+          "buildVersion": "0.1.0"
+        }
+      ],
+      "subtitle": "Swipt automates this iPhone or iPad with JavaScript swiplets. It bundles a TypeScript SDK built on CoreDevice and the accessibility services, plus…",
+      "tintColor": "000000",
+      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/Swipt/icon.png",
+      "bundleID": "io.nekohasekai.swipt",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "WQGuard",
+      "bundleIdentifier": "com.wqguard.app",
+      "developerName": "Kianuni",
+      "version": "1.2.1",
+      "versionDate": "2026-11-13",
+      "size": 2007635,
+      "minOSVersion": "16.0",
+      "localizedDescription": "面向 iOS 26.2+ / iOS 27.x 的零依赖、100% 物理只读沙盒逃逸检测引擎、Mach-O 静态二进制审计与多端固件 CVE 防护系统\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/icon.png",
+      "downloadURL": "https://github.com/Kianuni/WQGuard/releases/download/v1.2.1/WQGuard_v1.2.1.ipa",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "date": "2026-11-13",
+          "localizedDescription": "面向 iOS 26.2+ / iOS 27.x 的零依赖、100% 物理只读沙盒逃逸检测引擎、Mach-O 静态二进制审计与多端固件 CVE 防护系统",
+          "downloadURL": "https://github.com/Kianuni/WQGuard/releases/download/v1.2.1/WQGuard_v1.2.1.ipa",
+          "size": 2007635,
+          "minOSVersion": "16.0",
+          "buildVersion": "1.2.1"
+        }
+      ],
+      "subtitle": "面向 iOS 26.2+ / iOS 27.x 的零依赖、100% 物理只读沙盒逃逸检测引擎、Mach-O 静态二进制审计与多端固件 CVE 防护系统",
+      "tintColor": "000000",
+      "icon": "https://raw.githubusercontent.com/bebound/AltGallery/refs/heads/master/apps/WQGuard/icon.png",
+      "bundleID": "com.wqguard.app",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "BitChord (1.0.2-9) Patched - IPAVault",
+      "bundleIdentifier": "com.music.bitchord.1.0.2.9.patched",
+      "developerName": "TubeVault",
+      "version": "1.0.2",
+      "versionDate": "2026-11-13",
+      "size": 55468951,
+      "minOSVersion": "17.0",
+      "localizedDescription": "A modern YouTube music client with clean aesthetics inspired from Apple Music\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/BitChord-Icon.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/BitChord%201.0.2-9%20Patched%5B@ipavault%5D.ipa",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-11-13",
+          "localizedDescription": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+          "downloadURL": "https://repo.ballermc.com/tubevault/BitChord%201.0.2-9%20Patched%5B@ipavault%5D.ipa",
+          "size": 55468951,
+          "minOSVersion": "17.0",
+          "buildVersion": "1.0.2"
+        }
+      ],
+      "subtitle": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/BitChord-Icon.png",
+      "bundleID": "com.music.bitchord.1.0.2.9.patched",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "BitChord (1.0.2-9) Not Patched - Scholars Lounge",
+      "bundleIdentifier": "com.music.bitchord.1.0.2.9.not.patched",
+      "developerName": "TubeVault",
+      "version": "1.0.2",
+      "versionDate": "2026-11-13",
+      "size": 55046727,
+      "minOSVersion": "17.0",
+      "localizedDescription": "A modern YouTube music client with clean aesthetics inspired from Apple Music\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/BitChord-Icon.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/BitChord-1.0.2-9.ipa",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "date": "2026-11-13",
+          "localizedDescription": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+          "downloadURL": "https://repo.ballermc.com/tubevault/BitChord-1.0.2-9.ipa",
+          "size": 55046727,
+          "minOSVersion": "17.0",
+          "buildVersion": "1.0.2"
+        }
+      ],
+      "subtitle": "A modern YouTube music client with clean aesthetics inspired from Apple Music",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/BitChord-Icon.png",
+      "bundleID": "com.music.bitchord.1.0.2.9.not.patched",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "tvOS ONLY!! - TwitchUnblock (v0.1.49) - IPAVault",
+      "bundleIdentifier": "com.mxfia19.twitchunblock.0.1.49.ipavault",
+      "developerName": "TubeVault",
+      "version": "0.1.49",
+      "versionDate": "2026-11-13",
+      "size": 2896512,
+      "minOSVersion": "16.0",
+      "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality.\nSee more about this mod here: https://github.com/MXFia19/TwitchUnblock \ntvOS Build! Does not work on iOS!!!\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/TwitchUnblockTV%200.1.49.ipa",
+      "versions": [
+        {
+          "version": "0.1.49",
+          "date": "2026-11-13",
+          "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/TwitchUnblockTV%200.1.49.ipa",
+          "size": 2896512,
+          "minOSVersion": "16.0",
+          "buildVersion": "0.1.49"
+        }
+      ],
+      "subtitle": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this…",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+      "bundleID": "com.mxfia19.twitchunblock.0.1.49.ipavault",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "iOS ONLY!! TwitchUnblock (v1.7.1) - IPAVault",
+      "bundleIdentifier": "com.mxfia19.twitchunblock.1.7.1.ipavault",
+      "developerName": "TubeVault",
+      "version": "1.7.1",
+      "versionDate": "2026-11-13",
+      "size": 4617383,
+      "minOSVersion": "16.0",
+      "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality.\nSee more about this mod here: https://github.com/MXFia19/TwitchUnblock\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/TwitchUnblock%201.7.1.ipa",
+      "versions": [
+        {
+          "version": "1.7.1",
+          "date": "2026-11-13",
+          "localizedDescription": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/TwitchUnblock%201.7.1.ipa",
+          "size": 4617383,
+          "minOSVersion": "16.0",
+          "buildVersion": "1.7.1"
+        }
+      ],
+      "subtitle": "TwitchUnblock is an open-source Twitch client that lets you watch VODs and live streams without a subscription, at full quality. See more about this…",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/TwitchUnblock-Icon.png",
+      "bundleID": "com.mxfia19.twitchunblock.1.7.1.ipavault",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "EeveeSpotifyReincarnated v7.0.0 + Pixie v1.4",
+      "bundleIdentifier": "com.spotify.client.ios.eeveespotifyreincarnated.pixie.9.1.98",
+      "developerName": "TubeVault",
+      "version": "9.1.98",
+      "versionDate": "2026-11-13",
+      "size": 149790726,
+      "minOSVersion": "15.0",
+      "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This includes both EeveeSpotifyReincarnated v7.0.0 and Pixie Download Manager v1.4.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "downloadURL": "https://repo.ballermc.com/tubevault/Spotify-9.1.98-Eevee-Pixie-v1.4.ipa",
+      "versions": [
+        {
+          "version": "9.1.98",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: EeveeSpotify, SpotifyAudioProbe\n\nThis is a modded version of Spotify. This includes both EeveeSpotifyReincarnated v7.0.0 and Pixie Download Manager v1.4.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/Spotify-9.1.98-Eevee-Pixie-v1.4.ipa",
+          "size": 149790726,
+          "minOSVersion": "15.0",
+          "buildVersion": "9.1.98"
+        }
+      ],
+      "subtitle": "Tweaks: EeveeSpotify, SpotifyAudioProbe",
+      "tintColor": "000000",
+      "icon": "https://repo.ballermc.com/tubevault/spotify-logo.jpg",
+      "bundleID": "com.spotify.client.ios.eeveespotifyreincarnated.pixie.9.1.98",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "YouPro (1.3.4)",
+      "bundleIdentifier": "com.google.ios.youtube.youpro.1.3.4.ipastar",
+      "developerName": "TubeVault",
+      "version": "21.44.4",
+      "versionDate": "2026-11-13",
+      "size": 153682433,
+      "minOSVersion": "17.0",
+      "localizedDescription": "Tweaks: YouPro\n\nThis is a modded version of YouTube with YouPro added.\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouPro_1.3.4.ipa",
+      "versions": [
+        {
+          "version": "21.44.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: YouPro\n\nThis is a modded version of YouTube with YouPro added.",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouPro_1.3.4.ipa",
+          "size": 153682433,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.44.4"
+        }
+      ],
+      "subtitle": "Tweaks: YouPro",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.youpro.1.3.4.ipastar",
+      "fullDate": "20261113181648",
+      "type": 1
+    },
+    {
+      "name": "YTKACE (1.1.7) - Bonus Tweaks (Moe) - Patched",
+      "bundleIdentifier": "com.google.ios.youtube.ytkace.1.1.7.bonus.moe.patched",
+      "developerName": "TubeVault",
+      "version": "21.45.4",
+      "versionDate": "2026-11-13",
+      "size": 145570158,
+      "minOSVersion": "17.0",
+      "localizedDescription": "Tweaks: YTClassicVideoQuality, YouMute, YTABConfig, YouQuality, YTKACE, DontEatMyContent, YTVideoOverlay, YouSpeed, YouGroupSettings, YouTubeNativeShare, YouPiP\n\nThis is a modded version of YouTube.\nThis comes with the following tweaks:\nDontEatMyContent, YouChooseQuality, YouGroupSettings, YouLoop, YouMute, YouPiP, YouQuality, YouSpeed, YouTubeDislikesReturn, YouTubeNativeShare, YTABConfig, YTClassicVideoQuality, YTUHD, YTVideoOverlay, and Open in YouTube Safari Extension.\nSource code: https://github.com/itzzace/YTKACE\n\nFastSign is operated by CertFish.\nThe easy way to sideload: https://cert.fish/",
+      "iconURL": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-YTKACE1.1.7Patched.ipa",
+      "versions": [
+        {
+          "version": "21.45.4",
+          "date": "2026-11-13",
+          "localizedDescription": "Tweaks: YTClassicVideoQuality, YouMute, YTABConfig, YouQuality, YTKACE, DontEatMyContent, YTVideoOverlay, YouSpeed, YouGroupSettings, YouTubeNativeShare, YouPiP\n\nThis is a modded version of YouTube. This comes with the following tweaks: DontEatMyContent, YouChooseQuality, YouGroupSettings, YouLoop, YouMute…",
+          "downloadURL": "https://repo.ballermc.com/tubevault/YouTube21.45.4Moe-YTKACE1.1.7Patched.ipa",
+          "size": 145570158,
+          "minOSVersion": "17.0",
+          "buildVersion": "21.45.4"
+        }
+      ],
+      "subtitle": "Tweaks: YTClassicVideoQuality, YouMute, YTABConfig +8",
+      "tintColor": "000000",
+      "icon": "https://static.vecteezy.com/system/resources/previews/023/986/704/non_2x/youtube-logo-youtube-logo-transparent-youtube-icon-transparent-free-free-png.png",
+      "bundleID": "com.google.ios.youtube.ytkace.1.1.7.bonus.moe.patched",
+      "fullDate": "20261113181648",
       "type": 1
     }
   ]

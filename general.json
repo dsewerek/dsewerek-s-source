@@ -73373,17 +73373,25 @@
       "type": 1,
       "bundleID": "com.shapr3d.shapr",
       "bundleIdentifier": "com.shapr3d.shapr",
-      "version": "26.150.0",
-      "versionDate": "2026-08-18",
+      "version": "26.200.0",
+      "versionDate": "2026-11-13",
       "fullDate": "20260701115808",
-      "size": 1301742755,
+      "size": 1321635266,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/Shapr3D_26.113.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-08-2026/Shapr3D_26.150.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.shapr3d.shapr.png",
       "versions": [
+        {
+          "version": "26.200.0",
+          "date": "2026-11-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Shapr3D_26.200.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 1321635266,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "26.200.0"
+        },
         {
           "version": "26.150.0",
           "date": "2026-08-18",
@@ -111785,17 +111793,26 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "26.44.72",
-      "versionDate": "2026-11-11",
+      "version": "26.44.74",
+      "versionDate": "2026-11-13",
       "fullDate": "20260319003304",
-      "size": 181530182,
+      "size": 181648405,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794423415076-gy46k/net.whatsapp.WhatsApp_26.44.72_watusi_1.0_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781271-xto3e/net.whatsapp.WhatsApp_26.44.74_watusi_1.0.1_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
+        {
+          "version": "26.44.74",
+          "marketingVersion": "1.0.1",
+          "date": "2026-11-13T21:07:48+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts…) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on WhatsApp 26.44.74.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781271-xto3e/net.whatsapp.WhatsApp_26.44.74_watusi_1.0.1_sl.ipa",
+          "size": 181648405,
+          "buildVersion": "26.44.74"
+        },
         {
           "version": "26.44.72",
           "marketingVersion": "1.0",
@@ -112748,17 +112765,26 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsAppSMB",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "26.44.72",
-      "versionDate": "2026-11-11",
+      "version": "26.44.74",
+      "versionDate": "2026-11-13",
       "fullDate": "20260319003256",
-      "size": 188095797,
+      "size": 188212643,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WABusiness_26.9.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794423415076-e0v5w/net.whatsapp.WhatsAppSMB_26.44.72_watusi_1.0_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781270-slg19/net.whatsapp.WhatsAppSMB_26.44.74_watusi_1.0.1_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "versions": [
+        {
+          "version": "26.44.74",
+          "marketingVersion": "1.0.1",
+          "date": "2026-11-13T21:07:48+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts…) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on WhatsApp Business 26.44.74.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781270-slg19/net.whatsapp.WhatsAppSMB_26.44.74_watusi_1.0.1_sl.ipa",
+          "size": 188212643,
+          "buildVersion": "26.44.74"
+        },
         {
           "version": "26.44.72",
           "marketingVersion": "1.0",
@@ -175124,6 +175150,15 @@
       },
       "versions": [
         {
+          "version": "26.44.74",
+          "marketingVersion": "1.0.1",
+          "date": "2026-11-13T21:07:48+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts…) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on base app 26.44.74.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781271-wcdw2/com.fouadraheb.watusi_26.44.74_watusi_1.0.1_sl.ipa",
+          "size": 178820103,
+          "buildVersion": "26.44.74"
+        },
+        {
           "version": "26.44.72",
           "marketingVersion": "1.0",
           "date": "2026-11-11T10:00:00+00:00",
@@ -175269,13 +175304,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.44.72",
-      "versionDate": "2026-11-11",
+      "version": "26.44.74",
+      "versionDate": "2026-11-13",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794423415076-5377w/com.fouadraheb.watusi_26.44.72_watusi_1.0_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781271-wcdw2/com.fouadraheb.watusi_26.44.74_watusi_1.0.1_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073110-ujq9m/com.fouadraheb.watusi_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 178700680
+      "size": 178820103
     },
     {
       "id": "SMB-SL-Duplicate",
@@ -175317,6 +175352,15 @@
         }
       },
       "versions": [
+        {
+          "version": "26.44.74",
+          "marketingVersion": "1.0.1",
+          "date": "2026-11-13T21:07:48+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Online List is back: see who's online now, how long they've been online and their last seen, with its own contacts. Open it from the chats list, a row at its top or a tab\n- Fixed restoring a WhatsApp backup leaving photos, videos and voice notes missing from chats\n- Hide Frequently Contacted now also hides it when creating a new group or adding group members\n- Hide Chats: in-app notifications from hidden chats are hidden again on the latest WhatsApp\n- Hide Chats: statuses of hidden chats are now hidden from the Updates tab\n- Call Recording: fixed crackling, distorted sound in new recordings\n- Themes: when a new app font needs a relaunch to show on every screen, Themes now says so and lets you relaunch\n- Themes: the Top Bar colour now applies on iOS 26 instead of showing the background colour\n- Themes: the theme editor's app icon picker now shows the icons\n- Themes: Message Text Size and Sender Name Size now apply after a restart and when switching themes\n- Fixed WhatsApp's Unread filter showing every chat when Hide Chats has hidden chats\n- Fixed a crash after picking a wallpaper photo in the theme editor\n- Fixed a crash on launch when a spoofed group was saved in Contacts Spoofing\n- Fixed a crash when opening some statuses with the status Save or Mark as Viewed button on\n- Keep Deleted Statuses: the \"Deleted at\" time now also shows when the status is opened from the Updates tab's list\n- Fixed the Control Center toggles (Hide Chats, Last Seen, Read Receipts…) not matching the switches in Watusi\n- Contact groups made in Watusi 3 are now brought over to the contacts picker\n- Updates Tracking: open the updates list right from its settings\n\nBased on base app 26.44.74.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781270-80o33/com.fouadraheb.watusiSMB_26.44.74_watusi_1.0.1_sl.ipa",
+          "size": 185348470,
+          "buildVersion": "26.44.74"
+        },
         {
           "version": "26.44.72",
           "marketingVersion": "1.0",
@@ -175463,13 +175507,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.44.72",
-      "versionDate": "2026-11-11",
+      "version": "26.44.74",
+      "versionDate": "2026-11-13",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794423415076-dpa0n/com.fouadraheb.watusiSMB_26.44.72_watusi_1.0_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781270-80o33/com.fouadraheb.watusiSMB_26.44.74_watusi_1.0.1_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073109-rwea7/com.fouadraheb.watusiSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 185230684
+      "size": 185348470
     },
     {
       "appPermissions": {
