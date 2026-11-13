@@ -18655,17 +18655,25 @@
       "type": 1,
       "bundleID": "com.zerone.hidesktop",
       "bundleIdentifier": "com.zerone.hidesktop",
-      "version": "5.1.30",
-      "versionDate": "2026-11-12",
+      "version": "5.1.31",
+      "versionDate": "2026-11-13",
       "fullDate": "20260805073924",
-      "size": 355149620,
+      "size": 355177227,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/HiWidget_5.0.07_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/iScreen_5.1.30_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/iScreen_5.1.31_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zerone.hidesktop.png",
       "versions": [
+        {
+          "version": "5.1.31",
+          "date": "2026-11-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/iScreen_5.1.31_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 355177227,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.1.31"
+        },
         {
           "version": "5.1.30",
           "date": "2026-11-12",
@@ -42384,17 +42392,25 @@
       "type": 1,
       "bundleID": "com.mangacrush.ios",
       "bundleIdentifier": "com.mangacrush.ios",
-      "version": "5.3",
-      "versionDate": "2026-10-31",
+      "version": "5.4",
+      "versionDate": "2026-11-13",
       "fullDate": "20260729071404",
-      "size": 135260522,
+      "size": 135385205,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Tachimanga_4.20_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Tachimanga_5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Tachimanga_5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mangacrush.ios.png",
       "versions": [
+        {
+          "version": "5.4",
+          "date": "2026-11-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/Tachimanga_5.4_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 135385205,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "5.4"
+        },
         {
           "version": "5.3",
           "date": "2026-10-31",
@@ -66350,17 +66366,25 @@
       "type": 1,
       "bundleID": "com.snowcorp.soda",
       "bundleIdentifier": "com.snowcorp.soda",
-      "version": "10.4.5",
-      "versionDate": "2026-11-11",
+      "version": "10.5.0",
+      "versionDate": "2026-11-13",
       "fullDate": "20260710043701",
-      "size": 185016482,
+      "size": 182206025,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-07-2026/SODA_10.2.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/11-11-2026/SODA_10.4.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/SODA_10.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.snowcorp.soda.png",
       "versions": [
+        {
+          "version": "10.5.0",
+          "date": "2026-11-13",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-11-2026/SODA_10.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 182206025,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "10.5.0"
+        },
         {
           "version": "10.4.5",
           "date": "2026-11-11",
@@ -188342,6 +188366,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "11154",
+          "marketingVersion": "3.4.0-alpha.20261113.45eca85",
+          "date": "2026-11-13",
+          "localizedDescription": "Alpha build 45eca85 · 2026-11-13\n\nChanges in this build:\n• feat(input): route controller tilt to Dolphin Wii Remote\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 783048569,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "11152",
           "marketingVersion": "3.4.0-alpha.20261112.526bea8",
           "date": "2026-11-12",
@@ -189155,8 +189189,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-11-12",
-      "size": 783139387,
+      "versionDate": "2026-11-13",
+      "size": 783048569,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -196459,6 +196493,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "512",
+          "date": "2026-11-13T04:34:07.250Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-512/Non-Jailbroken.ipa",
+          "size": 123976646,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "503",
           "date": "2026-11-12T07:24:01.488Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -197298,9 +197343,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-11-12",
-      "size": 123773645,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-503/Non-Jailbroken.ipa"
+      "versionDate": "2026-11-13",
+      "size": 123976646,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-512/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
