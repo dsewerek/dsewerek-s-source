@@ -42594,17 +42594,26 @@
       "type": 1,
       "bundleID": "com.zhiliaoapp.musically",
       "bundleIdentifier": "com.zhiliaoapp.musically",
-      "version": "47.6.0",
-      "versionDate": "2026-11-03",
+      "version": "47.7.0",
+      "versionDate": "2026-11-10",
       "fullDate": "20260729020716",
-      "size": 520080338,
+      "size": 541193819,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/BHTikTokPlus_46.2.0_Plus_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.6.0.+.gtok.v2.5.fixed.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.7.0.+.RXTikTok.v2.0.4.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Plus",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.zhiliaoapp.musically.png",
       "versions": [
+        {
+          "version": "47.7.0",
+          "date": "2026-11-10",
+          "localizedDescription": "• TikTok updated to v47.7.0\n• RXTikTok updated to v2.0.4",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/TikTok.v47.7.0.+.RXTikTok.v2.0.4.ipa",
+          "size": 541193819,
+          "sha256": "132056d50c3e6afd1268892dba6a75e98994a44049c9495a8729066b6f06aa34",
+          "buildVersion": "47.7.0"
+        },
         {
           "version": "47.6.0",
           "date": "2026-11-03",
@@ -153103,6 +153112,14 @@
       ],
       "versions": [
         {
+          "version": "35061",
+          "date": "2026-11-14T01:06:23+00:00",
+          "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=35061",
+          "size": 133946930,
+          "localizedDescription": "PokeMMO is a free to play mmorpg, come join a growing community as you level up and discover new monsters. Available now on PC, Android, iOS, Mac, and Linux.",
+          "buildVersion": "35061"
+        },
+        {
           "version": "34995",
           "date": "2026-11-06T02:53:21+00:00",
           "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34995",
@@ -153854,10 +153871,10 @@
       },
       "beta": false,
       "appID": "eu.pokemmo.client",
-      "version": "34995",
-      "versionDate": "2026-11-06",
-      "size": 133711770,
-      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=34995"
+      "version": "35061",
+      "versionDate": "2026-11-14",
+      "size": 133946930,
+      "downloadURL": "https://dl.pokemmo.com/PokeMMO-Client.ipa?r=35061"
     },
     {
       "name": "Ignited",
