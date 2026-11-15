@@ -46622,17 +46622,25 @@
       "type": 1,
       "bundleID": "app.gentler.activity",
       "bundleIdentifier": "app.gentler.activity",
-      "version": "6.0",
-      "versionDate": "2026-11-12",
+      "version": "6.0.1",
+      "versionDate": "2026-11-16",
       "fullDate": "20260728152801",
-      "size": 239552862,
+      "size": 239567726,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/GentlerStreak_5.12.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/GentlerStreak_6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/GentlerStreak_6.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
       "versions": [
+        {
+          "version": "6.0.1",
+          "date": "2026-11-16",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/GentlerStreak_6.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 239567726,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.0.1"
+        },
         {
           "version": "6.0",
           "date": "2026-11-12",
@@ -62941,17 +62949,25 @@
       "type": 1,
       "bundleID": "com.wakdev.wdnfc",
       "bundleIdentifier": "com.wakdev.wdnfc",
-      "version": "3.5",
-      "versionDate": "2026-10-26",
+      "version": "3.6",
+      "versionDate": "2026-11-15",
       "fullDate": "20260716230506",
-      "size": 7359780,
+      "size": 8630531,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-07-2026/NFCTools_3.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-10-2026/NFCTools_3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/NFCTools_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.wakdev.wdnfc.png",
       "versions": [
+        {
+          "version": "3.6",
+          "date": "2026-11-15",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/NFCTools_3.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 8630531,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "3.6"
+        },
         {
           "version": "3.5",
           "date": "2026-10-26",
@@ -112042,17 +112058,26 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "26.44.74",
-      "versionDate": "2026-11-13",
+      "version": "26.45.75",
+      "versionDate": "2026-11-15",
       "fullDate": "20260319003304",
-      "size": 181648405,
+      "size": 106362,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781271-xto3e/net.whatsapp.WhatsApp_26.44.74_watusi_1.0.1_sl.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/3/app_3_nabzclan_sidelix.zip",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
+        {
+          "version": "26.45.75",
+          "buildVersion": "1",
+          "date": "2026-11-15T19:29:58+00:00",
+          "localizedDescription": "WhatsApp - test app v26.45.75 (103.9 KB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/3/app_3_nabzclan_sidelix.zip",
+          "size": 106362,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "26.44.74",
           "marketingVersion": "1.0.1",
@@ -150848,6 +150873,15 @@
       "developerName": "Riley Testut",
       "versions": [
         {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-14T01:28:40+00:00",
+          "localizedDescription": "AltStore Classic (TEST APP) v1.0 (15.00 MB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/1/app_1_nabzclan_sidelix.ipa",
+          "size": 15728640,
+          "minOSVersion": "14.0"
+        },
+        {
           "version": "2.3.3",
           "date": "2026-11-09T13:00:00-04:00",
           "localizedDescription": "This update fixes the 415 error when sideloading and refreshing apps.\n\n⚠️ You may need to manually install this update by re-installing AltStore with AltServer. You do NOT need to delete AltStore first.",
@@ -150997,14 +151031,14 @@
           "buildVersion": "1.5.1"
         }
       ],
-      "version": "2.3.3",
-      "versionDate": "2026-11-09",
+      "version": "1.0",
+      "versionDate": "2026-11-14",
       "versionDescription": "• Fixed error fetching Friend Zone patrons due to unexpected nil name\n• Fixed incorrect cell height for some News items",
-      "downloadURL": "https://cdn.altstore.io/file/altstore/apps/altstore/2_3_3.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/1/app_1_nabzclan_sidelix.ipa",
       "localizedDescription": "AltStore is an alternative app store for non-jailbroken devices. \n\nThis version of AltStore allows you to install Delta, an all-in-one emulator for iOS, as well as sideload other .ipa files from the Files app.",
       "iconURL": "https://user-images.githubusercontent.com/705880/65270980-1eb96f80-dad1-11e9-9367-78ccd25ceb02.png",
       "tintColor": "018084",
-      "size": 40615381,
+      "size": 15728640,
       "category": "utilities",
       "screenshots": [
         "https://user-images.githubusercontent.com/705880/277757391-76c02f48-be2a-485a-ba75-277480c99356.jpeg",
@@ -174952,15 +174986,15 @@
       "name": "SideStore",
       "bundleIdentifier": "com.SideStore.SideStore",
       "developerName": "SideStore Team",
-      "version": "0.6.2",
-      "versionDate": "2025-07-01",
+      "version": "1.0",
+      "versionDate": "2026-11-14",
       "versionDescription": "Hey there side commmunity. This is a patch to improve stability of sidestore. more specifically for sources.",
       "beta": true,
-      "size": 28873303,
+      "size": 15728640,
       "localizedDescription": "SideStore is an alternative app store for non-jailbroken devices. \n\nSideStore allows you to sideload other .ipa files and apps from the Files app or via the SideStore Library",
       "iconURL": "https://apps.sidestore.io/apps/sidestore/v0.1.1/icon.png",
       "tintColor": "A405FA",
-      "downloadURL": "https://github.com/SideStore/SideStore/releases/download/0.6.2/SideStore.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/2/app_2_nabzclan_sidelix.ipa",
       "screenshotURLs": [
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/browse-dark.png",
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/apps-dark.png",
@@ -174970,6 +175004,15 @@
         "https://apps.sidestore.io/apps/sidestore/v0.1.1/news-light.png"
       ],
       "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "1",
+          "date": "2026-11-14T01:28:40+00:00",
+          "localizedDescription": "SideStore (TEST APP) v1.0 (15.00 MB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/2/app_2_nabzclan_sidelix.ipa",
+          "size": 15728640,
+          "minOSVersion": "14.0"
+        },
         {
           "version": "0.6.2",
           "date": "2025-07-01T01:20:17Z",
