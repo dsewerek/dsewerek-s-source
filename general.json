@@ -56915,17 +56915,26 @@
       "type": 1,
       "bundleID": "com.facebook.Facebook",
       "bundleIdentifier": "com.facebook.Facebook",
-      "version": "588.0.0",
-      "versionDate": "2026-11-18",
+      "version": "588.1.0",
+      "versionDate": "2026-11-20",
       "fullDate": "20260722185618",
-      "size": 256841637,
+      "size": 256777664,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-07-2026/Facebook_570.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v588.0.0.+.iQFace.v1.2.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v588.1.0.+.iQFace.v1.2.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.facebook.Facebook.png",
       "versions": [
+        {
+          "version": "588.1.0",
+          "date": "2026-11-20",
+          "localizedDescription": "• Facebook updated to v588.1.0",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Facebook.v588.1.0.+.iQFace.v1.2.ipa",
+          "size": 256777664,
+          "sha256": "e7d47f2dda5f31d8dc995395a09e00d1a14e099323d3982c7c3078faead96aff",
+          "buildVersion": "588.1.0"
+        },
         {
           "version": "588.0.0",
           "date": "2026-11-18",
@@ -90254,17 +90263,25 @@
       "type": 1,
       "bundleID": "com.roehl.habitkit",
       "bundleIdentifier": "com.roehl.habitkit",
-      "version": "1.19.2",
-      "versionDate": "2026-11-12",
+      "version": "1.19.3",
+      "versionDate": "2026-11-21",
       "fullDate": "20260601213312",
-      "size": 109014219,
+      "size": 107013165,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-06-2026/HabitKit_1.15.2_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/HabitKit_1.19.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/HabitKit_1.19.3_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.roehl.habitkit.png",
       "versions": [
+        {
+          "version": "1.19.3",
+          "date": "2026-11-21",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/HabitKit_1.19.3_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 107013165,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.19.3"
+        },
         {
           "version": "1.19.2",
           "date": "2026-11-12",
@@ -129780,17 +129797,26 @@
       "type": 1,
       "bundleID": "au.com.savageinteractive.procreate-pocket",
       "bundleIdentifier": "au.com.savageinteractive.procreate-pocket",
-      "version": "4.0.15",
-      "versionDate": "2025-12-17",
+      "version": "4.0.19",
+      "versionDate": "2026-11-21",
       "fullDate": "20251217132354",
-      "size": 299471929,
+      "size": 329212738,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Pocket_4.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Pocket_4.0.15_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/31/app_31_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate-pocket.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/au.com.savageinteractive.procreate-pocket.png",
       "versions": [
+        {
+          "version": "4.0.19",
+          "buildVersion": "37826",
+          "date": "2026-11-21T01:11:47-05:00",
+          "localizedDescription": "Procreate Pocket (Paid app) v4.0.19 (313.96 MB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/31/app_31_nabzclan_sidelix.ipa",
+          "size": 329212738,
+          "minOSVersion": "15.4.1"
+        },
         {
           "version": "4.0.15",
           "date": "2025-12-17",
@@ -146441,13 +146467,22 @@
       "iconURL": "https://cdn.omnidev.org/esign-mg.png",
       "tintColor": "4894ee",
       "category": "utilities",
-      "size": 7245924,
+      "size": 8203880,
       "version": "5.0.2",
-      "versionDate": "2024-10-11",
-      "downloadURL": "https://cdn.omnidev.org/E_Sign_V5_0_2_No_Logs-29.ipa",
+      "versionDate": "2026-11-21",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/30/app_30_nabzclan_sidelix.ipa",
       "title": "ESign No Logs",
       "url": "https://www.reddit.com/r/sideloaded/comments/1dliije/esign_v502_no_logs/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button",
       "versions": [
+        {
+          "version": "5.0.2",
+          "buildVersion": "1",
+          "date": "2026-11-21T01:05:04-05:00",
+          "localizedDescription": "Esign v5.0.2 (7.82 MB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/30/app_30_nabzclan_sidelix.ipa",
+          "size": 8203880,
+          "minOSVersion": "11.0"
+        },
         {
           "version": "5.0.2",
           "date": "2024-10-11",
@@ -198208,6 +198243,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "546",
+          "date": "2026-11-21T07:01:24.859Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-546/Non-Jailbroken.ipa",
+          "size": 124780512,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "545",
           "date": "2026-11-20T10:02:09.180Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -199080,9 +199126,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-11-20",
-      "size": 124781056,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-545/Non-Jailbroken.ipa"
+      "versionDate": "2026-11-21",
+      "size": 124780512,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-546/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -200492,12 +200538,21 @@
       "category": "photo-video",
       "beta": false,
       "screenshotURLs": [],
-      "version": "1.0.10",
-      "versionDate": "2026-11-19",
+      "version": "1.0.11",
+      "versionDate": "2026-11-20",
       "versionDescription": "App icon fix.",
-      "size": 5997865,
-      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.10/TendieMaker-1.0.10.ipa",
+      "size": 6152820,
+      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.11/TendieMaker-1.0.11.ipa",
       "versions": [
+        {
+          "version": "1.0.11",
+          "date": "2026-11-20",
+          "localizedDescription": "• TendieMaker updated to v1.0.11",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.11/TendieMaker-1.0.11.ipa",
+          "size": 6152820,
+          "minOSVersion": "17.0",
+          "buildVersion": "1.0.11"
+        },
         {
           "version": "1.0.10",
           "date": "2026-11-19",
@@ -201041,6 +201096,16 @@
           "localizedDescription": "Alpha build 259aba4 · 2026-11-21\n\nChanges in this build:\n• feat(sharing): libraries in the tvOS sidebar, cloud-only games can be copied\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
           "size": 785297406,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
+          "buildVersion": "11285",
+          "marketingVersion": "3.4.0-alpha.20261121.e0f5945",
+          "date": "2026-11-21",
+          "localizedDescription": "Alpha build e0f5945 · 2026-11-21\n\nChanges in this build:\n• feat(sharing): a library's games are a cover grid\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 785330665,
           "minOSVersion": "17.0"
         }
       ],
