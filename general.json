@@ -7191,17 +7191,25 @@
       "type": 1,
       "bundleID": "com.joytunes.SimplyGuitar",
       "bundleIdentifier": "com.joytunes.SimplyGuitar",
-      "version": "10.31",
-      "versionDate": "2026-10-21",
+      "version": "10.32",
+      "versionDate": "2026-11-22",
       "fullDate": "20260806171741",
-      "size": 167888218,
+      "size": 158785433,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-08-2026/SimplyGuitar_10.27_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-10-2026/SimplyGuitar_10.31_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/SimplyGuitar_10.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.SimplyGuitar.png",
       "versions": [
+        {
+          "version": "10.32",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/SimplyGuitar_10.32_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 158785433,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "10.32"
+        },
         {
           "version": "10.31",
           "date": "2026-10-21",
@@ -16687,17 +16695,25 @@
       "type": 1,
       "bundleID": "com.joytunes.asla",
       "bundleIdentifier": "com.joytunes.asla",
-      "version": "9.11.5",
-      "versionDate": "2026-11-18",
+      "version": "9.11.6",
+      "versionDate": "2026-11-22",
       "fullDate": "20260805164215",
-      "size": 155926219,
+      "size": 155447178,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/SimplyPiano_9.10.84_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SimplyPiano_9.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/SimplyPiano_9.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.joytunes.asla.png",
       "versions": [
+        {
+          "version": "9.11.6",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/SimplyPiano_9.11.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 155447178,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.11.6"
+        },
         {
           "version": "9.11.5",
           "date": "2026-11-18",
@@ -23788,17 +23804,25 @@
       "type": 1,
       "bundleID": "com.readdle.CalendarsLite",
       "bundleIdentifier": "com.readdle.CalendarsLite",
-      "version": "5.41.3",
-      "versionDate": "2026-11-12",
+      "version": "5.41.4",
+      "versionDate": "2026-11-22",
       "fullDate": "20260804191908",
-      "size": 320707731,
+      "size": 320719733,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Calendars_5.37.34_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Calendars_5.41.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Calendars_5.41.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.CalendarsLite.png",
       "versions": [
+        {
+          "version": "5.41.4",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Calendars_5.41.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 320719733,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.41.4"
+        },
         {
           "version": "5.41.3",
           "date": "2026-11-12",
@@ -33964,17 +33988,25 @@
       "type": 1,
       "bundleID": "com.lightricks.Facetune2",
       "bundleIdentifier": "com.lightricks.Facetune2",
-      "version": "26.38",
-      "versionDate": "2026-11-16",
+      "version": "26.39",
+      "versionDate": "2026-11-22",
       "fullDate": "20260802165530",
-      "size": 436900478,
+      "size": 433440473,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-08-2026/Facetune_26.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/Facetune_26.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Facetune_26.39_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.lightricks.Facetune2.png",
       "versions": [
+        {
+          "version": "26.39",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Facetune_26.39_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 433440473,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "26.39"
+        },
         {
           "version": "26.38",
           "date": "2026-11-16",
@@ -113129,17 +113161,26 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsApp",
       "bundleIdentifier": "net.whatsapp.WhatsApp",
-      "version": "26.45.75",
-      "versionDate": "2026-11-15",
+      "version": "26.46.72",
+      "versionDate": "2026-11-22",
       "fullDate": "20260319003304",
-      "size": 106362,
+      "size": 188823719,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WhatsApp_26.10.73_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/3/app_3_nabzclan_sidelix.zip",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-ue65s/net.whatsapp.WhatsApp_26.46.72_watusi_1.0.2_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsApp.png",
       "versions": [
+        {
+          "version": "26.46.72",
+          "marketingVersion": "1.0.2",
+          "date": "2026-11-22T11:29:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for 26.45 and 26.46.\n- Updates Tracking: a contact's saved media can be filtered to only profile pictures or only statuses, sorted by newest, oldest or largest, and selected to share or delete (or delete all at once). The full-screen viewer shows whether each one is a profile picture or a status\n- Updates Tracking: photo and video statuses keep their caption, and it shows in the full-screen viewer, also after the status is deleted\n- Statuses Bar: long press a contact's status and choose View Saved Statuses to see everything Updates Tracking saved from them\n- Statuses Bar: new Show Views Count switch to hide how many people viewed your statuses on My Status\n- Statuses Bar: fixed a contact sometimes showing twice while someone else's status was missing\n- Contact Photos Sync: tap Synced, To Update or No Photo to see those contacts, and long press a contact to exclude it from syncing\n- Upload to Video Note: send a video from Photos or Media Vault as a video note right from the camera's Video Note mode\n- Backups: Back Up All lets you choose what to upload and what may use cellular data, showing sizes and free Google Drive space; fixed cellular failures and unchanged items uploading again\n- Backups: Restore Backup now shows which device each backup came from\n- Backups: Export to Files can now include only some parts of Watusi Settings & Data, such as just your settings\n- Message Scheduler: long press on the send button opens the scheduler again on the latest version\n- Profiles: Share Settings makes a small file with a profile's switches and choices to send to someone, without chats, contacts or saved data. Import Settings adds it as a new profile or replaces your current one\n- Background Mode and Always Online are now unlocked, so you can keep WhatsApp running and link your devices before activating your license\n- Fixed WhatsApp sometimes closing when a message arrives or a chat changes while the Statuses bar or the Online List row is in the chats list\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on WhatsApp 26.46.72.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-ue65s/net.whatsapp.WhatsApp_26.46.72_watusi_1.0.2_sl.ipa",
+          "size": 188823719,
+          "buildVersion": "26.46.72"
+        },
         {
           "version": "26.45.75",
           "buildVersion": "1",
@@ -114110,17 +114151,26 @@
       "type": 1,
       "bundleID": "net.whatsapp.WhatsAppSMB",
       "bundleIdentifier": "net.whatsapp.WhatsAppSMB",
-      "version": "26.44.74",
-      "versionDate": "2026-11-13",
+      "version": "26.46.72",
+      "versionDate": "2026-11-22",
       "fullDate": "20260319003256",
-      "size": 188212643,
+      "size": 197777768,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-03-2026/WABusiness_26.9.75_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781270-slg19/net.whatsapp.WhatsAppSMB_26.44.74_watusi_1.0.1_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-vvqru/net.whatsapp.WhatsAppSMB_26.46.72_watusi_1.0.2_sl.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.whatsapp.WhatsAppSMB.png",
       "versions": [
+        {
+          "version": "26.46.72",
+          "marketingVersion": "1.0.2",
+          "date": "2026-11-22T11:29:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for 26.45 and 26.46.\n- Updates Tracking: a contact's saved media can be filtered to only profile pictures or only statuses, sorted by newest, oldest or largest, and selected to share or delete (or delete all at once). The full-screen viewer shows whether each one is a profile picture or a status\n- Updates Tracking: photo and video statuses keep their caption, and it shows in the full-screen viewer, also after the status is deleted\n- Statuses Bar: long press a contact's status and choose View Saved Statuses to see everything Updates Tracking saved from them\n- Statuses Bar: new Show Views Count switch to hide how many people viewed your statuses on My Status\n- Statuses Bar: fixed a contact sometimes showing twice while someone else's status was missing\n- Contact Photos Sync: tap Synced, To Update or No Photo to see those contacts, and long press a contact to exclude it from syncing\n- Upload to Video Note: send a video from Photos or Media Vault as a video note right from the camera's Video Note mode\n- Backups: Back Up All lets you choose what to upload and what may use cellular data, showing sizes and free Google Drive space; fixed cellular failures and unchanged items uploading again\n- Backups: Restore Backup now shows which device each backup came from\n- Backups: Export to Files can now include only some parts of Watusi Settings & Data, such as just your settings\n- Message Scheduler: long press on the send button opens the scheduler again on the latest version\n- Profiles: Share Settings makes a small file with a profile's switches and choices to send to someone, without chats, contacts or saved data. Import Settings adds it as a new profile or replaces your current one\n- Background Mode and Always Online are now unlocked, so you can keep WhatsApp running and link your devices before activating your license\n- Fixed WhatsApp sometimes closing when a message arrives or a chat changes while the Statuses bar or the Online List row is in the chats list\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on WhatsApp Business 26.46.72.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-vvqru/net.whatsapp.WhatsAppSMB_26.46.72_watusi_1.0.2_sl.ipa",
+          "size": 197777768,
+          "buildVersion": "26.46.72"
+        },
         {
           "version": "26.44.74",
           "marketingVersion": "1.0.1",
@@ -124085,17 +124135,26 @@
       "type": 1,
       "bundleID": "ai.mindveil.musicai",
       "bundleIdentifier": "ai.mindveil.musicai",
-      "version": "1.7.4",
-      "versionDate": "2025-12-30",
+      "version": "1.6.4",
+      "versionDate": "2026-11-22",
       "fullDate": "20251230193752",
-      "size": 28178086,
+      "size": 30318436,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/SonivaMusic_1.7.4_Satella_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-12-2025/SonivaMusic_1.7.4_Satella_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/39/app_39_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Satella",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.mindveil.musicai.png",
       "versions": [
+        {
+          "version": "1.6.4",
+          "buildVersion": "177",
+          "date": "2026-11-22T04:24:28-05:00",
+          "localizedDescription": "Tweak: Satella injected for unlocking subscription",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/39/app_39_nabzclan_sidelix.ipa",
+          "size": 30318436,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.7.4",
           "date": "2025-12-30",
@@ -129475,17 +129534,26 @@
       "type": 2,
       "bundleID": "com.hipsterwhale.crossy",
       "bundleIdentifier": "com.hipsterwhale.crossy",
-      "version": "7.12",
-      "versionDate": "2026-06-19",
+      "version": "7.15.0",
+      "versionDate": "2026-11-22",
       "fullDate": "20251217162021",
-      "size": 134846993,
+      "size": 148996244,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/CrossyRoad_7.9.1_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2089",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/46/app_46_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.hipsterwhale.crossy.png",
       "versions": [
+        {
+          "version": "7.15.0",
+          "buildVersion": "26545",
+          "date": "2026-11-22T04:26:49-05:00",
+          "localizedDescription": "Tweak: Unlimited Coins, No Ads",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/46/app_46_nabzclan_sidelix.ipa",
+          "size": 148996244,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "7.12",
           "date": "2026-06-19",
@@ -164944,11 +165012,20 @@
       "name": "IFTTT",
       "bundleIdentifier": "com.ifttt.ifttt",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: IFTTT - Automate Work and Home\n\nTweak: Pro+ Unlocked with unlimited applets\n\nVersion: 4.96.1\n\nNotes: app has only been lightly tested however everything should work normally.\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/2debfb6c-1a1a-4f93-bccc-8edefaac0542/IFTTT_-_Automate_work_and_home-v4.96.1-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/41/app_41_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/a43c2fa5-091f-4b4d-80b4-3dfdd7a590a1/icon.jpg",
       "version": "4.96.1",
-      "size": 54458500,
+      "size": 54693955,
       "versions": [
+        {
+          "version": "4.96.1",
+          "buildVersion": "2719",
+          "date": "2026-11-22T04:24:54-05:00",
+          "localizedDescription": "Tweak: Pro+ Unlocked",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/41/app_41_nabzclan_sidelix.ipa",
+          "size": 54693955,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "4.96.1",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/2debfb6c-1a1a-4f93-bccc-8edefaac0542/IFTTT_-_Automate_work_and_home-v4.96.1-riftysipas.ipa",
@@ -164958,7 +165035,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Factly",
@@ -166128,11 +166205,20 @@
       "name": "ElevenReader",
       "bundleIdentifier": "io.elevenlabs.readerapp",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: ElevenReader: Text to Speech\n\nTweak: Premium Unlocked With Unlimited Hours Of Reading Time\n\nVersion: 1.4.38\n\nNotes: requires trollstore or a certificate with specific entitlements\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/1ad06f18-c6d1-4afe-9f86-8b51a84e9a7a/ElevenReader__Text_to_Speech-v1.4.38-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/38/app_38_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/71fa9547-6f71-47c6-ad77-b7344f0cd1ad/icon.jpg",
       "version": "1.4.38",
-      "size": 53075812,
+      "size": 53507976,
       "versions": [
+        {
+          "version": "1.4.38",
+          "buildVersion": "380",
+          "date": "2026-11-22T04:24:13-05:00",
+          "localizedDescription": "Tweak: Premium Unlocked With Unlimited Hours Of Reading Time",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/38/app_38_nabzclan_sidelix.ipa",
+          "size": 53507976,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.4.38",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/1ad06f18-c6d1-4afe-9f86-8b51a84e9a7a/ElevenReader__Text_to_Speech-v1.4.38-riftysipas.ipa",
@@ -166166,7 +166252,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Fort Guardian",
@@ -167944,11 +168030,20 @@
       "name": "Tomb of the Mask",
       "bundleIdentifier": "com.happymagenta.fromcore",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tomb of the Mask: Pixel Maze\n\nTweak:\n\n - Unlimited Coins\n - Unlimited Energy\n - Unlimited Skip Tickets\n - No Ads\n - All Masks Unlocked\n\nVersion: 1.21.2\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2409",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/44/app_44_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/d843db2d-4a2e-48c7-b4a9-7fd89baf8661/icon.jpg",
-      "version": "1.26.0",
-      "size": 85992510,
+      "version": "1.26.1",
+      "size": 80997782,
       "versions": [
+        {
+          "version": "1.26.1",
+          "buildVersion": "256",
+          "date": "2026-11-22T04:25:54-05:00",
+          "localizedDescription": "Tweak: Unlimited Coins,  - Unlimited Energy,  - Unlimited Skip Tickets,  - No Ads,  - All Masks Unlocked",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/44/app_44_nabzclan_sidelix.ipa",
+          "size": 80997782,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.26.0",
           "date": "2026-09-23",
@@ -167990,7 +168085,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-23"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Amethyst",
@@ -170564,11 +170659,20 @@
       "name": "Happy Glass",
       "bundleIdentifier": "com.game5mobile.lineandwater",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Happy Glass\n\nTweak: Free IAP\n\nVersion: 1.2.7\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2250",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/47/app_47_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/052de966-0ff4-4c3d-a7fe-b800617723f7/icon.jpg",
-      "version": "2.0.2",
-      "size": 84707943,
+      "version": "2.0.4",
+      "size": 88110739,
       "versions": [
+        {
+          "version": "2.0.4",
+          "buildVersion": "412",
+          "date": "2026-11-22T04:27:17-05:00",
+          "localizedDescription": "Tweak: Free IAP",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/47/app_47_nabzclan_sidelix.ipa",
+          "size": 88110739,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "2.0.2",
           "date": "2026-07-31",
@@ -170586,7 +170690,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-31"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Half-Life 1",
@@ -171312,11 +171416,20 @@
       "name": "Gold Digger FRVR",
       "bundleIdentifier": "com.frvr.golddigger",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Gold Digger FRVR: Deep Mining\n\nTweak:\n-Unlimited Currencies\n-Ads Removed\n\nVersion: 2.10.4\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/0f10d9c6-3b85-4b18-aa38-5caf64ceb6f3/Gold_Digger_FRVR_-_Deep_Mining-v2.10.4-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/36/app_36_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ad/d7/b0/add7b062-d003-9821-6df4-8255168a9ec5/AppIcon-0-0-1x_U007emarketing-0-8-0-0-85-220.png/512x512bb.jpg",
-      "version": "2.10.4",
-      "size": 28795830,
+      "version": "2.11.0",
+      "size": 29764740,
       "versions": [
+        {
+          "version": "2.11.0",
+          "buildVersion": "250611254",
+          "date": "2026-11-22T03:40:34-05:00",
+          "localizedDescription": "Tweak: -Unlimited Currencies",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/36/app_36_nabzclan_sidelix.ipa",
+          "size": 29764740,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "2.10.4",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/0f10d9c6-3b85-4b18-aa38-5caf64ceb6f3/Gold_Digger_FRVR_-_Deep_Mining-v2.10.4-riftysipas.ipa",
@@ -171334,7 +171447,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Book Player",
@@ -171560,11 +171673,20 @@
       "name": "Smash Hit",
       "bundleIdentifier": "com.mediocre.smashhit",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Smash Hit\n\nTweak: Free iAP\n\nVersion: 1.5.5\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2111",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/42/app_42_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/10/1c/01/101c0188-5ae1-e570-02e5-aad12760fba7/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "version": "1.5.9",
-      "size": 65346935,
+      "version": "1.5.8",
+      "size": 63272765,
       "versions": [
+        {
+          "version": "1.5.8",
+          "buildVersion": "4",
+          "date": "2026-11-22T04:25:08-05:00",
+          "localizedDescription": "Tweak: Free iAP",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/42/app_42_nabzclan_sidelix.ipa",
+          "size": 63272765,
+          "minOSVersion": "15.6"
+        },
         {
           "version": "1.5.9",
           "date": "2026-06-23",
@@ -171590,7 +171712,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-06-23"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Bend",
@@ -172643,11 +172765,20 @@
       "name": "Vocal Remover",
       "bundleIdentifier": "ai.vocal.remover.karaoke.maker.ninja",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Vocal Remover & AI Separator\n⁣\nTweak: Satella added for unlocking subscription\n\nVersion: 1.1.0\n\nMade by riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/172436f1-bc81-4842-9060-9a9636043021/VocalRemoverMusic_v1.1.0-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/40/app_40_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ba/75/72/ba757283-0694-ea2b-18af-8cb93a600819/AppIcon-0-0-1x_U007epad-0-0-85-220.jpeg/512x512bb.jpg",
       "version": "1.1.0",
-      "size": 29474067,
+      "size": 30616447,
       "versions": [
+        {
+          "version": "1.1.0",
+          "buildVersion": "1",
+          "date": "2026-11-22T04:24:39-05:00",
+          "localizedDescription": "Tweak: Satella added for unlocking subscription",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/40/app_40_nabzclan_sidelix.ipa",
+          "size": 30616447,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.1.0",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/172436f1-bc81-4842-9060-9a9636043021/VocalRemoverMusic_v1.1.0-riftysipas.ipa",
@@ -172657,7 +172788,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Escape Time",
@@ -173544,11 +173675,20 @@
       "name": "Traffic Racer",
       "bundleIdentifier": "com.skgames.racer",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Traffic Racer\n⁣\nTweak: Free iAP\n\nVersion: 3.6\n\nMade by riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/fca905c4-eb6e-4b7e-9adc-2cf45422d0c4/TrafficRacer_v3.6-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/43/app_43_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/9a/73/b0/9a73b0cb-31cf-099e-531c-0a3493629c95/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "version": "3.6",
-      "size": 78361793,
+      "size": 78748678,
       "versions": [
+        {
+          "version": "3.6",
+          "buildVersion": "361",
+          "date": "2026-11-22T04:25:27-05:00",
+          "localizedDescription": "Tweak: Free iAP",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/43/app_43_nabzclan_sidelix.ipa",
+          "size": 78748678,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "3.6",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/fca905c4-eb6e-4b7e-9adc-2cf45422d0c4/TrafficRacer_v3.6-riftysipas.ipa",
@@ -173558,7 +173698,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Big Hunter",
@@ -173680,11 +173820,20 @@
       "name": "Incognito",
       "bundleIdentifier": "com.overdesigned.ShareBear",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Incognito — Private Browser\n⁣\nTweak: Subscription Unlocked \n\nVersion: 1.0.17\n\nMade by riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/de456f90-fefb-4d25-90da-9b21ac7d0155/Incognito_v1.0.17-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/35/app_35_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/32/36/73/3236733c-551a-24fb-c242-51727a873622/AppIcon-0-1x_U007epad-0-0-0-1-0-0-0-85-220-0.png/512x512bb.jpg",
       "version": "1.0.17",
-      "size": 4919444,
+      "size": 6129413,
       "versions": [
+        {
+          "version": "1.0.17",
+          "buildVersion": "59",
+          "date": "2026-11-22T04:07:46-05:00",
+          "localizedDescription": "Tweak: Subscription Unlocked",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/35/app_35_nabzclan_sidelix.ipa",
+          "size": 6129413,
+          "minOSVersion": "14.7"
+        },
         {
           "version": "1.0.17",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/de456f90-fefb-4d25-90da-9b21ac7d0155/Incognito_v1.0.17-riftysipas.ipa",
@@ -173694,7 +173843,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "SongShift",
@@ -173740,11 +173889,20 @@
       "name": "ImageSearch",
       "bundleIdentifier": "com.ipopapp.imagesearchfree",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Reverse Image Search App\n⁣\nTweak: Satella added for unlocking subscription \n\nVersion: 8.3\n\nMade by riftysIPAlibrary",
-      "downloadURL": "https://github.com/Neoncat-OG/TrollStore-IPAs/releases/download/ImageSearch/ImageSearch-7.1.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/34/app_34_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/11/e7/d3/11e7d308-e3c8-2db6-2a3f-787210c3ea00/AppIcon-0-1x_U007emarketing-0-8-0-0-85-220-0.png/512x512bb.jpg",
-      "version": "7.1",
-      "size": 11263177,
+      "version": "8.3",
+      "size": 10371156,
       "versions": [
+        {
+          "version": "8.3",
+          "buildVersion": "109",
+          "date": "2026-11-22T03:40:20-05:00",
+          "localizedDescription": "Tweak: Satella added for unlocking subscription",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/34/app_34_nabzclan_sidelix.ipa",
+          "size": 10371156,
+          "minOSVersion": "12.0"
+        },
         {
           "version": "7.1",
           "date": "2024-10-01",
@@ -173778,7 +173936,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2024-10-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "iCleaner Pro",
@@ -173872,11 +174030,20 @@
       "name": "Odyssey",
       "bundleIdentifier": "com.snowman.altos-odyssey",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Altos Odyssey\n\nTweak: Paid on App Store\n\nVersion: 1.3.0\n\nriftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/9fde9189-fa4a-4095-bf50-af341888cd0b/AltosOdyssey-NotTweaked.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/45/app_45_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/0e/09/fb/0e09fba2-1d14-006a-0486-e47fb8abd1b2/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
       "version": "1.3.0",
-      "size": 127127093,
+      "size": 128165142,
       "versions": [
+        {
+          "version": "1.3.0",
+          "buildVersion": "5",
+          "date": "2026-11-22T04:26:18-05:00",
+          "localizedDescription": "Tweak: Unlimited Coins",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/45/app_45_nabzclan_sidelix.ipa",
+          "size": 128165142,
+          "minOSVersion": "10.0"
+        },
         {
           "version": "1.3.0",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/9fde9189-fa4a-4095-bf50-af341888cd0b/AltosOdyssey-NotTweaked.ipa",
@@ -173886,7 +174053,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-22"
     },
     {
       "name": "Alto’s Adventure - Remastered",
@@ -176824,6 +176991,15 @@
       },
       "versions": [
         {
+          "version": "26.46.72",
+          "marketingVersion": "1.0.2",
+          "date": "2026-11-22T11:29:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for 26.45 and 26.46.\n- Updates Tracking: a contact's saved media can be filtered to only profile pictures or only statuses, sorted by newest, oldest or largest, and selected to share or delete (or delete all at once). The full-screen viewer shows whether each one is a profile picture or a status\n- Updates Tracking: photo and video statuses keep their caption, and it shows in the full-screen viewer, also after the status is deleted\n- Statuses Bar: long press a contact's status and choose View Saved Statuses to see everything Updates Tracking saved from them\n- Statuses Bar: new Show Views Count switch to hide how many people viewed your statuses on My Status\n- Statuses Bar: fixed a contact sometimes showing twice while someone else's status was missing\n- Contact Photos Sync: tap Synced, To Update or No Photo to see those contacts, and long press a contact to exclude it from syncing\n- Upload to Video Note: send a video from Photos or Media Vault as a video note right from the camera's Video Note mode\n- Backups: Back Up All lets you choose what to upload and what may use cellular data, showing sizes and free Google Drive space; fixed cellular failures and unchanged items uploading again\n- Backups: Restore Backup now shows which device each backup came from\n- Backups: Export to Files can now include only some parts of Watusi Settings & Data, such as just your settings\n- Message Scheduler: long press on the send button opens the scheduler again on the latest version\n- Profiles: Share Settings makes a small file with a profile's switches and choices to send to someone, without chats, contacts or saved data. Import Settings adds it as a new profile or replaces your current one\n- Background Mode and Always Online are now unlocked, so you can keep WhatsApp running and link your devices before activating your license\n- Fixed WhatsApp sometimes closing when a message arrives or a chat changes while the Statuses bar or the Online List row is in the chats list\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on base app 26.46.72.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-0atpo/com.fouadraheb.watusi_26.46.72_watusi_1.0.2_sl.ipa",
+          "size": 185858031,
+          "buildVersion": "26.46.72"
+        },
+        {
           "version": "26.44.74",
           "marketingVersion": "1.0.1",
           "date": "2026-11-13T21:07:48+00:00",
@@ -176978,13 +177154,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.44.74",
-      "versionDate": "2026-11-13",
+      "version": "26.46.72",
+      "versionDate": "2026-11-22",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781271-wcdw2/com.fouadraheb.watusi_26.44.74_watusi_1.0.1_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-0atpo/com.fouadraheb.watusi_26.46.72_watusi_1.0.2_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073110-ujq9m/com.fouadraheb.watusi_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 178820103
+      "size": 185858031
     },
     {
       "id": "SMB-SL-Duplicate",
@@ -177026,6 +177202,15 @@
         }
       },
       "versions": [
+        {
+          "version": "26.46.72",
+          "marketingVersion": "1.0.2",
+          "date": "2026-11-22T11:29:12+00:00",
+          "localizedDescription": "This update contains the following changes:\n\n- Bug fixes and compatibility updates for 26.45 and 26.46.\n- Updates Tracking: a contact's saved media can be filtered to only profile pictures or only statuses, sorted by newest, oldest or largest, and selected to share or delete (or delete all at once). The full-screen viewer shows whether each one is a profile picture or a status\n- Updates Tracking: photo and video statuses keep their caption, and it shows in the full-screen viewer, also after the status is deleted\n- Statuses Bar: long press a contact's status and choose View Saved Statuses to see everything Updates Tracking saved from them\n- Statuses Bar: new Show Views Count switch to hide how many people viewed your statuses on My Status\n- Statuses Bar: fixed a contact sometimes showing twice while someone else's status was missing\n- Contact Photos Sync: tap Synced, To Update or No Photo to see those contacts, and long press a contact to exclude it from syncing\n- Upload to Video Note: send a video from Photos or Media Vault as a video note right from the camera's Video Note mode\n- Backups: Back Up All lets you choose what to upload and what may use cellular data, showing sizes and free Google Drive space; fixed cellular failures and unchanged items uploading again\n- Backups: Restore Backup now shows which device each backup came from\n- Backups: Export to Files can now include only some parts of Watusi Settings & Data, such as just your settings\n- Message Scheduler: long press on the send button opens the scheduler again on the latest version\n- Profiles: Share Settings makes a small file with a profile's switches and choices to send to someone, without chats, contacts or saved data. Import Settings adds it as a new profile or replaces your current one\n- Background Mode and Always Online are now unlocked, so you can keep WhatsApp running and link your devices before activating your license\n- Fixed WhatsApp sometimes closing when a message arrives or a chat changes while the Statuses bar or the Online List row is in the chats list\n- Fixed Watusi not loading on RootHide after converting with RootHide Patcher\n\nBased on base app 26.46.72.",
+          "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-5nbdc/com.fouadraheb.watusiSMB_26.46.72_watusi_1.0.2_sl.ipa",
+          "size": 194778994,
+          "buildVersion": "26.46.72"
+        },
         {
           "version": "26.44.74",
           "marketingVersion": "1.0.1",
@@ -177181,13 +177366,13 @@
           "buildVersion": "26.2.74"
         }
       ],
-      "version": "26.44.74",
-      "versionDate": "2026-11-13",
+      "version": "26.46.72",
+      "versionDate": "2026-11-22",
       "versionDescription": "",
       "fullDate": "20260805222207",
-      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1794604781270-80o33/com.fouadraheb.watusiSMB_26.44.74_watusi_1.0.1_sl.ipa",
+      "downloadURL": "https://fouadraheb.com/dl/storage/ipa/1795347552384-5nbdc/com.fouadraheb.watusiSMB_26.46.72_watusi_1.0.2_sl.ipa",
       "down": "https://fouadraheb.com/dl/storage/ipa/1786012073109-rwea7/com.fouadraheb.watusiSMB_26.30.78_watusi3_1.3.21_sl.ipa",
-      "size": 185348470
+      "size": 194778994
     },
     {
       "appPermissions": {
@@ -185574,11 +185759,11 @@
       "bundleID": "com.auxbrain.egginc",
       "bundleIdentifier": "com.auxbrain.egginc",
       "version": "1.37.2",
-      "versionDate": "2026-08-23",
+      "versionDate": "2026-11-22",
       "fullDate": "20260619152044",
-      "size": 61044521,
+      "size": 54834783,
       "down": "https://appstore.sidelix.vip/download-repo-source/2088",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2088",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/37/app_37_nabzclan_sidelix.ipa",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2325",
       "appstore_download_count": 165,
       "developerName": "sidelix",
@@ -185595,6 +185780,15 @@
         "Free in app purchases"
       ],
       "versions": [
+        {
+          "version": "1.37.2",
+          "buildVersion": "1.37.2.1",
+          "date": "2026-11-22T03:40:51-05:00",
+          "localizedDescription": "Tweak: Free iAP",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/37/app_37_nabzclan_sidelix.ipa",
+          "size": 54834783,
+          "minOSVersion": "13.0"
+        },
         {
           "version": "1.37.2",
           "date": "2026-08-23",
@@ -201220,6 +201414,165 @@
       "versionDate": "2026-11-21",
       "size": 785297406,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
+    },
+    {
+      "name": "NapBot",
+      "bundleIdentifier": "com.aaplab.SleepBot",
+      "developerName": "NabzClan",
+      "subtitle": "Tweak: Subscription Unlocked",
+      "localizedDescription": "Tweak: Subscription Unlocked\n\nAbout NapBot\n\nNapBot is an automatic sleep tracking and analyzing app for your iOS and watchOS devices. It uses on-device Machine Learning to detect and understand your sleep.\n\n* Sleep Tracking\n\nNapBot uses machine learning to automatically track your sleep.\n\n* Detailed Sleep Analysis\n\nNapBot presents detailed sleep phases analysis by calculating deep and light phases.\n\n* Environmental Sound Exposure\n\nNapBot analyzes your Environmental Sound Exposure to understand how it affects your sleep quality.\n\n* Sleep Heart Rate\n\nNapBot presents a sleep Heart Rate summary chart based on your HR zones.\n\nPRO Features:\n\n* Sleep History\n\nGain insight into your full sleep history in beautifully designed overviews.\n\n* Sleep Trends\n\nTrack your sleep trends to understand how new habits influence your sleep.\n\nThis app requires an iPhone that has the Health App installed and Apple Watch. Heart readings are read from the Health Data Store which is populated by your Apple Watch.\n\nSubscription information\n\nYour payment will be charged to your iTunes Account as soon as you confirm your purchase. You can manage your subscriptions and turn off auto-renewal from your Account Settings after the purchase. Your subscription will renew automatically unless you turn off auto-renew at least 24 hours before the end of the current period. The cost of renewal will be charged to your account in 24 hours prior to the end of the current period. When canceling a subscription, your subscription will stay active until the end of the period. Auto-renewal will be disabled, but the current subscription will not be refunded. Any unused portion of a free trial period, if offered, will be forfeited when purchasing a subscription.\n\nTerms & Privacy Policy: https://napbot.swiftwithmajid.com/privacy",
+      "iconURL": "https://apps.nabzclan.vip/images/1795336812_6607.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17953368124917466.webp",
+        "https://apps.nabzclan.vip/screenshots/17953368128836179.webp",
+        "https://apps.nabzclan.vip/screenshots/17953368135267263.webp",
+        "https://apps.nabzclan.vip/screenshots/17953368136993875.webp",
+        "https://apps.nabzclan.vip/screenshots/17953368132380825.webp",
+        "https://apps.nabzclan.vip/screenshots/17953368138085150.webp",
+        "https://apps.nabzclan.vip/screenshots/17953368134544183.webp"
+      ],
+      "versions": [
+        {
+          "version": "2.0",
+          "buildVersion": "351",
+          "date": "2026-11-22T03:40:13-05:00",
+          "localizedDescription": "Tweak: Subscription Unlocked",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/33/app_33_nabzclan_sidelix.ipa",
+          "size": 4583406,
+          "minOSVersion": "16.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHealthShareUsageDescription": "We use HealthKit data to track and analyze your sleep.",
+          "NSHealthUpdateUsageDescription": "We use HealthKit to save analyzed sleep samples."
+        }
+      },
+      "version": "2.0",
+      "versionDate": "2026-11-22",
+      "versionDescription": "Tweak: Subscription Unlocked",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/33/app_33_nabzclan_sidelix.ipa",
+      "size": 4583406,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v2.1)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.aaplab.SleepBot",
+        "latest_version": "2.1",
+        "repo_version": "2.0",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/napbot-auto-sleep-tracker/id1476436116",
+        "release_date": "2025-09-11T16:49:17Z",
+        "checked_at": "2026-11-22T04:27:25-05:00",
+        "track_id": 1476436116,
+        "track_name": "NapBot - Auto Sleep Tracker"
+      }
+    },
+    {
+      "name": "Parcel",
+      "bundleIdentifier": "com.mr-brightside.myParcel",
+      "developerName": "NabzClan",
+      "subtitle": "If you are looking for an app to track deliveries on iPhone, iPad, Mac or Apple Watch - Parcel is the best cho",
+      "localizedDescription": "If you are looking for an app to track deliveries on iPhone, iPad, Mac or Apple Watch - Parcel is the best choice for you.\n\nAbout Parcel\n\nWith this application you can promptly access tracking information for 300 delivery services, including UPS, USPS, FedEx, DHL, GLS, LaserShip, Aramex, OnTrac, China Post, Amazon Logistics and many other carriers. Full list of supported carriers is available at: https://parcel.app\n\nWith our unique carrier recognition function, adding a new delivery is just a matter of seconds. Sometimes you won't even need to enter a tracking number, you can use a barcode scanner which is available right in the app.\n\nAmazon integration in Parcel allows you to get your packages added automatically from your Amazon account. Once an order is shipped, it will appear in Parcel. This is done in a secure and privacy-friendly way with your credentials never leaving the device.\n\nYou can also locate your delivery on the map or manage your deliveries using Web Access (web.parcelapp.net) - easy and simple. Parcel has a native macOS app available for free in the Mac App Store.\n\nParcel utilizes the power of iOS to provide you the best possible user experience. You can use its widgets to see your upcoming deliveries and the share extension to add a new delivery directly from any other app.\n\nPush notifications provided by Parcel are more convenient than from any other app. They are being sent only from 8am to 10 pm according to your timezone, so you will not be bothered at night (however, you can disable this option in the settings).\n\nSome features, such as push notifications and tracking more than 3 deliveries are limited to premium subscribers. Current price for the premium subscription is $6.99 per year, and may vary from country to country. Parcel's privacy policy, as well as subscription terms are available at https://parcel.app/privacy-with-terms.html.",
+      "iconURL": "https://apps.nabzclan.vip/images/1795334786_9916.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17953347861381338.webp",
+        "https://apps.nabzclan.vip/screenshots/17953347871587722.webp",
+        "https://apps.nabzclan.vip/screenshots/17953347873259566.webp",
+        "https://apps.nabzclan.vip/screenshots/17953347878372979.webp",
+        "https://apps.nabzclan.vip/screenshots/17953347871668123.webp"
+      ],
+      "versions": [
+        {
+          "version": "8.0.1",
+          "buildVersion": "2493",
+          "date": "2026-11-22T03:39:08-05:00",
+          "localizedDescription": "Tweaked IPA — v8.0.1",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/32/app_32_nabzclan_sidelix.ipa",
+          "size": 13268541,
+          "minOSVersion": "18.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Camera permission is required for a barcode scanner to work.",
+          "NSLocationWhenInUseUsageDescription": "Show distance to delivery in notification details. Requires location information provided by a carrier.",
+          "NSSiriUsageDescription": "Check your deliveries using shortcuts."
+        }
+      },
+      "version": "8.0.1",
+      "versionDate": "2026-11-22",
+      "versionDescription": "Tweaked IPA — v8.0.1",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/32/app_32_nabzclan_sidelix.ipa",
+      "size": 13268541,
+      "type": 1,
+      "badges": [
+        {
+          "key": "needs_update",
+          "label": "Needs Update (v8.7.3)",
+          "color": "#f39c12",
+          "icon": "arrow.triangle.2.circlepath"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "com.mr-brightside.myParcel",
+        "latest_version": "8.7.3",
+        "repo_version": "8.0.1",
+        "up_to_date": false,
+        "update_available": true,
+        "status": "update_available",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/parcel-delivery-tracking/id375589283",
+        "release_date": "2026-11-16T18:50:21Z",
+        "checked_at": "2026-11-22T04:27:25-05:00",
+        "track_id": 375589283,
+        "track_name": "Parcel - Delivery Tracking"
+      }
     }
   ]
 }
