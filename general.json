@@ -4850,17 +4850,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "27.0.11",
-      "versionDate": "2026-11-15",
+      "version": "27.0.12",
+      "versionDate": "2026-11-22",
       "fullDate": "20260807003514",
-      "size": 45231397,
+      "size": 45356592,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Athlytic_27.0.11_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Athlytic_27.0.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "27.0.12",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Athlytic_27.0.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 45356592,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "27.0.12"
+        },
         {
           "version": "27.0.11",
           "date": "2026-11-15",
@@ -108459,17 +108467,25 @@
       "type": 1,
       "bundleID": "com.markodevcic.js-code-pad",
       "bundleIdentifier": "com.markodevcic.js-code-pad",
-      "version": "1.11.0",
-      "versionDate": "2026-11-15",
+      "version": "1.11.2",
+      "versionDate": "2026-11-22",
       "fullDate": "20260420080823",
-      "size": 57716348,
+      "size": 57777344,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-04-2026/JSCodePad_1.8.23_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/JSCodePad_1.11.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/JSCodePad_1.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.markodevcic.js-code-pad.png",
       "versions": [
+        {
+          "version": "1.11.2",
+          "date": "2026-11-22",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/JSCodePad_1.11.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 57777344,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.11.2"
+        },
         {
           "version": "1.11.0",
           "date": "2026-11-15",
@@ -199649,6 +199665,17 @@
       ],
       "versions": [
         {
+          "version": "1.0.0+1795244554",
+          "buildVersion": "1795244554",
+          "date": "2026-11-21",
+          "localizedDescription": "iFly 1.0.0 (build 1795244554) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795244554/iFly-1.0.0-1795244554.ipa",
+          "size": 137000808,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
           "version": "1.0.0+1795170836",
           "buildVersion": "1795170836",
           "date": "2026-11-20",
@@ -200441,10 +200468,10 @@
           "isBeta": true
         }
       ],
-      "version": "1.0.0+1795170836",
-      "versionDate": "2026-11-20",
-      "size": 137000688,
-      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795170836/iFly-1.0.0-1795170836.ipa"
+      "version": "1.0.0+1795244554",
+      "versionDate": "2026-11-21",
+      "size": 137000808,
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795244554/iFly-1.0.0-1795244554.ipa"
     },
     {
       "name": "SceneBox",
