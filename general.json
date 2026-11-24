@@ -2089,6 +2089,14 @@
           "buildVersion": "0.1.654"
         },
         {
+          "version": "0.1.655",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/RiseSleep_0.1.655_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 135626982,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.655"
+        },
+        {
           "version": "0.1.653",
           "date": "2026-11-22",
           "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/RiseSleep_0.1.653_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
@@ -5190,17 +5198,25 @@
       "type": 1,
       "bundleID": "com.readdle.Scanner",
       "bundleIdentifier": "com.readdle.Scanner",
-      "version": "9.0.5",
-      "versionDate": "2026-11-19",
+      "version": "9.0.6",
+      "versionDate": "2026-11-24",
       "fullDate": "20260807003504",
-      "size": 203386536,
+      "size": 163509514,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/ScannerPro_8.38.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/ScannerPro_9.0.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerPro_9.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
       "versions": [
+        {
+          "version": "9.0.6",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerPro_9.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 163509514,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "9.0.6"
+        },
         {
           "version": "9.0.5",
           "date": "2026-11-19",
@@ -18929,17 +18945,25 @@
       "type": 1,
       "bundleID": "tech.miidii.MDClock",
       "bundleIdentifier": "tech.miidii.MDClock",
-      "version": "2.76",
-      "versionDate": "2026-11-15",
+      "version": "2.77",
+      "versionDate": "2026-11-24",
       "fullDate": "20260805081507",
-      "size": 345146223,
+      "size": 345799468,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/MDClock_2.71_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/MDClock_2.76_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/MDClock_2.77_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/tech.miidii.MDClock.png",
       "versions": [
+        {
+          "version": "2.77",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/MDClock_2.77_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 345799468,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.77"
+        },
         {
           "version": "2.76",
           "date": "2026-11-15",
@@ -26361,17 +26385,25 @@
       "type": 1,
       "bundleID": "com.gingerlabs.Notability",
       "bundleIdentifier": "com.gingerlabs.Notability",
-      "version": "16.14",
-      "versionDate": "2026-11-17",
+      "version": "16.14.1",
+      "versionDate": "2026-11-25",
       "fullDate": "20260804034043",
-      "size": 302185244,
+      "size": 302658904,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Notability_16.8.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-11-2026/Notability_16.14_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Notability_16.14.1_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gingerlabs.Notability.png",
       "versions": [
+        {
+          "version": "16.14.1",
+          "date": "2026-11-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Notability_16.14.1_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 302658904,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "16.14.1"
+        },
         {
           "version": "16.14",
           "date": "2026-11-17",
@@ -27195,17 +27227,25 @@
       "type": 1,
       "bundleID": "com.frameoneapps.Crsel",
       "bundleIdentifier": "com.frameoneapps.Crsel",
-      "version": "1.6.7",
-      "versionDate": "2026-11-21",
+      "version": "1.6.8",
+      "versionDate": "2026-11-24",
       "fullDate": "20260804012510",
-      "size": 116742791,
+      "size": 116749802,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/04-08-2026/Crsel_1.4.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/Crsel_1.6.7_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Crsel_1.6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.frameoneapps.Crsel.png",
       "versions": [
+        {
+          "version": "1.6.8",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Crsel_1.6.8_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 116749802,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "1.6.8"
+        },
         {
           "version": "1.6.7",
           "date": "2026-11-21",
@@ -36549,17 +36589,25 @@
       "type": 1,
       "bundleID": "com.evolve.helm",
       "bundleIdentifier": "com.evolve.helm",
-      "version": "3.211.0",
-      "versionDate": "2026-11-22",
+      "version": "3.212.0",
+      "versionDate": "2026-11-25",
       "fullDate": "20260731194820",
-      "size": 130458605,
+      "size": 133482552,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/Rest_3.197.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/repos/download/73/app_73_nabzclan_sidelix.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Rest_3.212.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.evolve.helm.png",
       "versions": [
+        {
+          "version": "3.212.0",
+          "date": "2026-11-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Rest_3.212.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 133482552,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.212.0"
+        },
         {
           "version": "3.211.0",
           "buildVersion": "8902",
@@ -37458,17 +37506,25 @@
       "type": 1,
       "bundleID": "com.ADPTVLTD.push",
       "bundleIdentifier": "com.ADPTVLTD.push",
-      "version": "4.2.3",
-      "versionDate": "2026-11-16",
+      "version": "4.3.0",
+      "versionDate": "2026-11-24",
       "fullDate": "20260731184804",
-      "size": 83124838,
+      "size": 84087728,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-07-2026/PUSH_3.13.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/PUSH_4.2.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PUSH_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.ADPTVLTD.push.png",
       "versions": [
+        {
+          "version": "4.3.0",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/PUSH_4.3.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 84087728,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.3.0"
+        },
         {
           "version": "4.2.3",
           "date": "2026-11-16",
@@ -39917,17 +39973,25 @@
       "type": 1,
       "bundleID": "app.uplens",
       "bundleIdentifier": "app.uplens",
-      "version": "4.4.0",
-      "versionDate": "2026-10-31",
+      "version": "4.5.0",
+      "versionDate": "2026-11-24",
       "fullDate": "20260730022333",
-      "size": 178715846,
+      "size": 179513406,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-07-2026/Uplens_4.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Uplens_4.4.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Uplens_4.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.uplens.png",
       "versions": [
+        {
+          "version": "4.5.0",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Uplens_4.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 179513406,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.5.0"
+        },
         {
           "version": "4.4.0",
           "date": "2026-10-31",
@@ -40801,17 +40865,25 @@
       "type": 1,
       "bundleID": "com.moonly.Moonly",
       "bundleIdentifier": "com.moonly.Moonly",
-      "version": "2.9.5",
-      "versionDate": "2026-11-02",
+      "version": "2.9.6",
+      "versionDate": "2026-11-24",
       "fullDate": "20260729174643",
-      "size": 125308231,
+      "size": 134692091,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-07-2026/Moonly_2.8.8_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-11-2026/Moonly_2.9.5_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Moonly_2.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.moonly.Moonly.png",
       "versions": [
+        {
+          "version": "2.9.6",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Moonly_2.9.6_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 134692091,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "2.9.6"
+        },
         {
           "version": "2.9.5",
           "date": "2026-11-02",
@@ -53784,17 +53856,25 @@
       "type": 1,
       "bundleID": "com.youssef.developer.Full-Browser",
       "bundleIdentifier": "com.youssef.developer.Full-Browser",
-      "version": "12.6",
-      "versionDate": "2026-11-21",
+      "version": "12.7",
+      "versionDate": "2026-11-24",
       "fullDate": "20260724113926",
-      "size": 177826052,
+      "size": 177824156,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-07-2026/TORVPN_11.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/TORVPN_12.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/TORVPN_12.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.youssef.developer.Full-Browser.png",
       "versions": [
+        {
+          "version": "12.7",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/TORVPN_12.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 177824156,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "12.7"
+        },
         {
           "version": "12.6",
           "date": "2026-11-21",
@@ -55288,17 +55368,25 @@
       "type": 1,
       "bundleID": "app.chudo",
       "bundleIdentifier": "app.chudo",
-      "version": "5.34.2",
-      "versionDate": "2026-11-18",
+      "version": "5.34.3",
+      "versionDate": "2026-11-24",
       "fullDate": "20260723190510",
-      "size": 86547539,
+      "size": 86577961,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Shapeyard_5.20_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/Shapeyard_5.34.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Shapeyard_5.34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.chudo.png",
       "versions": [
+        {
+          "version": "5.34.3",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Shapeyard_5.34.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 86577961,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.34.3"
+        },
         {
           "version": "5.34.2",
           "date": "2026-11-18",
@@ -65442,17 +65530,25 @@
       "type": 1,
       "bundleID": "com.oribot.origami",
       "bundleIdentifier": "com.oribot.origami",
-      "version": "5.4",
-      "versionDate": "2026-11-19",
+      "version": "5.5",
+      "versionDate": "2026-11-24",
       "fullDate": "20260715040007",
-      "size": 207695791,
+      "size": 208311746,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-07-2026/Origami_4.79_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Origami_5.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Origami_5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.oribot.origami.png",
       "versions": [
+        {
+          "version": "5.5",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Origami_5.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 208311746,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.5"
+        },
         {
           "version": "5.4",
           "date": "2026-11-19",
@@ -72486,17 +72582,25 @@
       "type": 1,
       "bundleID": "com.mwm.stems",
       "bundleIdentifier": "com.mwm.stems",
-      "version": "6.00.05",
-      "versionDate": "2026-11-15",
+      "version": "6.00.06",
+      "versionDate": "2026-11-24",
       "fullDate": "20260706031539",
-      "size": 315912726,
+      "size": 315922341,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-07-2026/Stemz_5.04.01_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/Stemz_6.00.05_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Stemz_6.00.06_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mwm.stems.png",
       "versions": [
+        {
+          "version": "6.00.06",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Stemz_6.00.06_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 315922341,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "6.00.06"
+        },
         {
           "version": "6.00.05",
           "date": "2026-11-15",
@@ -74331,17 +74435,25 @@
       "type": 1,
       "bundleID": "com.adguard.AdguardExtension",
       "bundleIdentifier": "com.adguard.AdguardExtension",
-      "version": "4.5.25",
-      "versionDate": "2026-11-12",
+      "version": "4.5.26",
+      "versionDate": "2026-11-24",
       "fullDate": "20260701204614",
-      "size": 49841128,
+      "size": 49892788,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/AdGuard_4.5.21_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/AdGuard_4.5.25_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/AdGuard_4.5.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.adguard.AdguardExtension.png",
       "versions": [
+        {
+          "version": "4.5.26",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/AdGuard_4.5.26_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 49892788,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.5.26"
+        },
         {
           "version": "4.5.25",
           "date": "2026-11-12",
@@ -74469,17 +74581,25 @@
       "type": 1,
       "bundleID": "videoeditor.app",
       "bundleIdentifier": "videoeditor.app",
-      "version": "3.21.6",
-      "versionDate": "2026-11-09",
+      "version": "3.22.0",
+      "versionDate": "2026-11-24",
       "fullDate": "20260701133653",
-      "size": 152948776,
+      "size": 148938717,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-07-2026/VideoStudio_3.21.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/09-11-2026/VideoStudio_3.21.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/VideoStudio_3.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/videoeditor.app.png",
       "versions": [
+        {
+          "version": "3.22.0",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/VideoStudio_3.22.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 148938717,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "3.22.0"
+        },
         {
           "version": "3.21.6",
           "date": "2026-11-09",
@@ -82986,17 +83106,26 @@
       "type": 1,
       "bundleID": "com.burbn.instagram",
       "bundleIdentifier": "com.burbn.instagram",
-      "version": "457.0.0",
+      "version": "456.0.0",
       "versionDate": "2026-11-24",
       "fullDate": "20260610115226",
-      "size": 91750400,
+      "size": 384199752,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-06-2026/Instagram_433.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/ramramzz/descfsr/releases/download/v0.40/cdc385ef-d61a-4d94-baee-67768fd7057R.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/174/app_23_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.burbn.instagram.png",
       "versions": [
+        {
+          "version": "456.0.0",
+          "buildVersion": "1114925422",
+          "date": "2026-11-24T04:32:00-05:00",
+          "localizedDescription": "Ryukgram (Hacked) v456.0.0 (366.40 MB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/174/app_23_nabzclan_sidelix.ipa",
+          "size": 384199752,
+          "minOSVersion": "16.3"
+        },
         {
           "version": "457.0.0",
           "date": "2026-11-24",
@@ -83013,6 +83142,15 @@
           "downloadURL": "https://appstore.sidelix.vip/repos/download/23/app_23_nabzclan_sidelix.ipa",
           "size": 348235403,
           "minOSVersion": "16.3"
+        },
+        {
+          "version": "453.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-20T22:33:04-05:00",
+          "localizedDescription": "Ryukgram (Hacked) v453.0.0 (332.10 MB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/23/app_23_nabzclan_sidelix.ipa",
+          "size": 384199752,
+          "minOSVersion": "14.0"
         },
         {
           "version": "456.0.0",
@@ -110789,17 +110927,25 @@
       "type": 1,
       "bundleID": "com.internet-rocks.codescanner",
       "bundleIdentifier": "com.internet-rocks.codescanner",
-      "version": "2026.11.5",
-      "versionDate": "2026-11-18",
+      "version": "2026.11.10",
+      "versionDate": "2026-11-25",
       "fullDate": "20260408204118",
-      "size": 60929997,
+      "size": 61656635,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/08-04-2026/QrCode_2026.3.4_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/QrCode_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/QrCode_2026.11.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.internet-rocks.codescanner.png",
       "versions": [
+        {
+          "version": "2026.11.10",
+          "date": "2026-11-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/QrCode_2026.11.10_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 61656635,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2026.11.10"
+        },
         {
           "version": "2026.11.5",
           "date": "2026-11-18",
@@ -117697,17 +117843,25 @@
       "type": 1,
       "bundleID": "co.airapps.scannerapp",
       "bundleIdentifier": "co.airapps.scannerapp",
-      "version": "2026.11.3",
-      "versionDate": "2026-11-18",
+      "version": "2026.11.5",
+      "versionDate": "2026-11-24",
       "fullDate": "20260216145839",
-      "size": 145997773,
+      "size": 146748356,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-02-2026/ScannerAir_2026.2.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/ScannerAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.airapps.scannerapp.png",
       "versions": [
+        {
+          "version": "2026.11.5",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 146748356,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2026.11.5"
+        },
         {
           "version": "2026.11.3",
           "date": "2026-11-18",
@@ -120533,17 +120687,25 @@
       "type": 1,
       "bundleID": "fitnessworkout.app",
       "bundleIdentifier": "fitnessworkout.app",
-      "version": "2.13.1",
-      "versionDate": "2026-01-20",
+      "version": "2.13.3",
+      "versionDate": "2026-11-24",
       "fullDate": "20260120144739",
-      "size": 162545823,
+      "size": 165854811,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/FitnessCoach_2.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/FitnessCoach_2.13.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/FitnessCoach_2.13.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/fitnessworkout.app.png",
       "versions": [
+        {
+          "version": "2.13.3",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/FitnessCoach_2.13.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 165854811,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2.13.3"
+        },
         {
           "version": "2.13.1",
           "date": "2026-01-20",
@@ -125137,17 +125299,25 @@
       "type": 1,
       "bundleID": "com.idevtal.Wallpapers",
       "bundleIdentifier": "com.idevtal.Wallpapers",
-      "version": "5.96",
-      "versionDate": "2026-11-23",
+      "version": "5.97",
+      "versionDate": "2026-11-24",
       "fullDate": "20251228230543",
-      "size": 44464485,
+      "size": 44478997,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-12-2025/ImgAI_5.90_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/Unblink_5.96_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Unblink_5.97_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
       "versions": [
+        {
+          "version": "5.97",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Unblink_5.97_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 44478997,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "5.97"
+        },
         {
           "version": "5.96",
           "date": "2026-11-23",
@@ -133401,10 +133571,10 @@
       "type": 2,
       "bundleID": "com.mojang.minecraftpe",
       "bundleIdentifier": "com.mojang.minecraftpe",
-      "version": "26.62",
-      "versionDate": "2026-11-16",
+      "version": "1.26.62",
+      "versionDate": "2026-11-24",
       "fullDate": "20251209131617",
-      "size": 696844973,
+      "size": 697876878,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/06-12-2025/Minecraft_1.21.124_Premium_%40thisismanpreets_apptesters.org.ipa",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
       "developerName": "",
@@ -133412,6 +133582,15 @@
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mojang.minecraftpe.png",
       "versions": [
+        {
+          "version": "1.26.62",
+          "buildVersion": "1.26.62.01",
+          "date": "2026-11-24T04:31:52-05:00",
+          "localizedDescription": "Minecraft (Free Paid) v1.26.62 (665.55 MB) — Sidelix App Store release.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/9/app_9_nabzclan_sidelix.ipa",
+          "size": 697876878,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "26.62",
           "buildVersion": "1.26.62.01",
@@ -154319,6 +154498,17 @@
       "developerName": "Riley Testut",
       "versions": [
         {
+          "version": "1.3",
+          "buildVersion": "17",
+          "marketingVersion": "1.3b1 (17)",
+          "date": "2026-11-24T12:00:00-05:00",
+          "localizedDescription": "NEW\n\nAutomatic Saving (iOS 27+)\n• Clip now automatically saves all copied items silently in the background\n• No longer requires interacting with notifications to save clippings\n• New guided onboarding for quick one-time setup\n\n“Save Clipping” App Intent\n• New App Intent lets you save items to Clip from wherever you want\n• Build your own custom Clip automations in Shortcuts\n• Also works with Siri AI\n\nMisc.\n• Includes initial support for Liquid Glass\n• New option to edit text clippings",
+          "downloadURL": "https://www.patreon.com/file?h=105173733&m=790679663",
+          "size": 4203117,
+          "sha256": "f76710a85be1cdfcb774ee84a02854cc85839a09eca0ba2e5cff31a5e536dd49",
+          "minOSVersion": "17.4"
+        },
+        {
           "version": "1.2b2",
           "buildVersion": "13",
           "marketingVersion": "1.2rc (13)",
@@ -154347,14 +154537,14 @@
           "buildVersion": "1.1b1"
         }
       ],
-      "version": "1.2b2",
-      "versionDate": "2025-05-12",
+      "version": "1.3",
+      "versionDate": "2026-11-24",
       "versionDescription": "This update adds a Custom Keyboard app extension for quick access to clippings when editing text.\n\nTo enable the keyboard, go to Settings > General > Keyboard > Keyboards > Add New Keyboard... and add \"ClipBoard\". Once added, make sure to then enable \"Allow Full Access\" for ClipBoard so it can access your clippings.",
-      "downloadURL": "https://www.patreon.com/file?h=105173733&m=465953820",
+      "downloadURL": "https://www.patreon.com/file?h=105173733&m=790679663",
       "localizedDescription": "Clip is a simple clipboard manager for iOS. \n\nUnlike other clipboard managers, Clip can continue monitoring your clipboard while in the background. No longer do you need to remember to manually open or share to an app to save your clipboard; just copy and paste as you would normally do, and Clip will have your back.\n\nIn addition to background monitoring, Clip also has these features:\n\n• Save text, URLs, and images copied to the clipboard.\n• Copy, delete, or share any clippings saved to Clip.\n• Customizable history limit.\n\nDownload Clip today, and never worry about losing your clipboard again!",
       "iconURL": "https://user-images.githubusercontent.com/705880/63391981-5326f800-c37a-11e9-99d8-760fd06bb601.png",
       "tintColor": "EC008C",
-      "size": 769944,
+      "size": 4203117,
       "category": "utilities",
       "beta": true,
       "patreon": {
@@ -169554,11 +169744,19 @@
       "name": "H2O",
       "bundleIdentifier": "co.airapps.waterreminder",
       "localizedDescription": "from @blatants |\n----------------\n📱 Water Air: Water Tracker\n\n🆔 Bundle ID: \nco.airapps.waterreminder\n📊 Version: 2025.7.2\n🔧 Minimum iOS: 13.0\n\n✅ Patched\n💎 Modifier: Subscription Unlocked\n\n📝 Note: \nNo Additional Notes\n\n🔄 Tweaked by @blatants\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/WaterAir_2026.11.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/WaterAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/1bca31e1-0572-4f0d-b467-561020ba3b8f/icon.jpg",
-      "version": "2026.11.3",
-      "size": 67974408,
+      "version": "2026.11.5",
+      "size": 70403430,
       "versions": [
+        {
+          "version": "2026.11.5",
+          "date": "2026-11-24",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/WaterAir_2026.11.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 70403430,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "2026.11.5"
+        },
         {
           "version": "2026.11.3",
           "date": "2026-11-18",
@@ -169592,7 +169790,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-11-18"
+      "versionDate": "2026-11-24"
     },
     {
       "name": "Photo Swipe",
@@ -199956,6 +200154,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "572",
+          "date": "2026-11-24T10:16:17.524Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-572/Non-Jailbroken.ipa",
+          "size": 125003184,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "561",
           "date": "2026-11-24T07:35:25.135Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -200873,8 +201082,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-11-24",
-      "size": 124846162,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-561/Non-Jailbroken.ipa"
+      "size": 125003184,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-572/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -201355,6 +201564,61 @@
         "https://ifly-emu.com/screenshots/iphone/import.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1795506073",
+          "buildVersion": "1795506073",
+          "date": "2026-11-24",
+          "localizedDescription": "iFly 1.0.0 (build 1795506073) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795506073/iFly-1.0.0-1795506073.ipa",
+          "size": 96534586,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795505392",
+          "buildVersion": "1795505392",
+          "date": "2026-11-24",
+          "localizedDescription": "iFly 1.0.0 (build 1795505392) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795505392/iFly-1.0.0-1795505392.ipa",
+          "size": 138073964,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795493898",
+          "buildVersion": "1795493898",
+          "date": "2026-11-24",
+          "localizedDescription": "iFly 1.0.0 (build 1795493898) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795493898/iFly-1.0.0-1795493898.ipa",
+          "size": 138062126,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795491787",
+          "buildVersion": "1795491787",
+          "date": "2026-11-24",
+          "localizedDescription": "iFly 1.0.0 (build 1795491787) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795491787/iFly-1.0.0-1795491787.ipa",
+          "size": 138045447,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795489899",
+          "buildVersion": "1795489899",
+          "date": "2026-11-24",
+          "localizedDescription": "iFly 1.0.0 (build 1795489899) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795489899/iFly-1.0.0-1795489899.ipa",
+          "size": 138028032,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1795433347",
           "buildVersion": "1795433347",
@@ -202203,10 +202467,10 @@
           "isBeta": true
         }
       ],
-      "version": "1.0.0+1795433347",
-      "versionDate": "2026-11-23",
-      "size": 138027925,
-      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795433347/iFly-1.0.0-1795433347.ipa"
+      "version": "1.0.0+1795506073",
+      "versionDate": "2026-11-24",
+      "size": 96534586,
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795506073/iFly-1.0.0-1795506073.ipa"
     },
     {
       "name": "SceneBox",
@@ -202933,6 +203197,16 @@
           "localizedDescription": "Alpha build 3a00197 · 2026-11-24\n\nChanges in this build:\n• Recognize iCube Lifetime in Provenance Plus (#3824)\n• [Agent] feat(sharing): server games in the library's own cells, free-space check, PVRemoteLibrary (#3827)\n• [Agent] docs(spec): shared remote-library browser design (#3826)\n• [Agent] fix(nearby): opaque tvOS server sheets, number keyboard for pairing PINs (#3825)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
           "size": 786041546,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
+          "buildVersion": "11309",
+          "marketingVersion": "3.4.0-alpha.20261124.155c5b7",
+          "date": "2026-11-24",
+          "localizedDescription": "Alpha build 155c5b7 · 2026-11-24\n\nChanges in this build:\n• build(deps): bump iCube to SkinKit 0.7.0 pin\n• build(deps): SkinKit 0.7.0\n• bump dolphin\n• [Agent] fix(tvos): the bezel strip works with the Siri Remote (#3828)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 786197447,
           "minOSVersion": "17.0"
         },
         {
