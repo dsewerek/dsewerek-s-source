@@ -2077,17 +2077,25 @@
       "type": 1,
       "bundleID": "com.risesci.nyx",
       "bundleIdentifier": "com.risesci.nyx",
-      "version": "0.1.654",
-      "versionDate": "2026-11-24",
+      "version": "0.1.656",
+      "versionDate": "2026-11-27",
       "fullDate": "20260807020601",
-      "size": 135601801,
+      "size": 135746161,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/RiseSleep_0.1.618_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/RiseSleep_0.1.654_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/RiseSleep_0.1.656_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.risesci.nyx.png",
       "versions": [
+        {
+          "version": "0.1.656",
+          "date": "2026-11-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/RiseSleep_0.1.656_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 135746161,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "0.1.656"
+        },
         {
           "version": "0.1.654",
           "date": "2026-11-24",
@@ -3375,17 +3383,25 @@
       "type": 1,
       "bundleID": "com.linecorp.b612",
       "bundleIdentifier": "com.linecorp.b612",
-      "version": "15.5.1",
-      "versionDate": "2026-11-15",
+      "version": "15.5.6",
+      "versionDate": "2026-11-27",
       "fullDate": "20260807015046",
-      "size": 186216554,
+      "size": 186041800,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/B612_15.3.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-11-2026/B612_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/B612_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.linecorp.b612.png",
       "versions": [
+        {
+          "version": "15.5.6",
+          "date": "2026-11-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/B612_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 186041800,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "15.5.6"
+        },
         {
           "version": "15.5.1",
           "date": "2026-11-15",
@@ -4916,17 +4932,25 @@
       "type": 1,
       "bundleID": "myndarc.newFitnessApp",
       "bundleIdentifier": "myndarc.newFitnessApp",
-      "version": "27.0.12",
-      "versionDate": "2026-11-22",
+      "version": "27.1",
+      "versionDate": "2026-11-27",
       "fullDate": "20260807003514",
-      "size": 45356592,
+      "size": 47627719,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Athlytic_26.5.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Athlytic_27.0.12_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Athlytic_27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/myndarc.newFitnessApp.png",
       "versions": [
+        {
+          "version": "27.1",
+          "date": "2026-11-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/Athlytic_27.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 47627719,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "27.1"
+        },
         {
           "version": "27.0.12",
           "date": "2026-11-22",
@@ -5472,17 +5496,25 @@
       "type": 1,
       "bundleID": "com.campmobile.snow",
       "bundleIdentifier": "com.campmobile.snow",
-      "version": "15.5.1",
-      "versionDate": "2026-11-18",
+      "version": "15.5.6",
+      "versionDate": "2026-11-27",
       "fullDate": "20260807002951",
-      "size": 186610373,
+      "size": 186435694,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/SNOW_15.3.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/18-11-2026/SNOW_15.5.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/SNOW_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.campmobile.snow.png",
       "versions": [
+        {
+          "version": "15.5.6",
+          "date": "2026-11-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/SNOW_15.5.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 186435694,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "15.5.6"
+        },
         {
           "version": "15.5.1",
           "date": "2026-11-18",
@@ -48436,17 +48468,25 @@
       "type": 1,
       "bundleID": "health.sleep.sounds.tracker.alarm.calm",
       "bundleIdentifier": "health.sleep.sounds.tracker.alarm.calm",
-      "version": "3.6.1",
-      "versionDate": "2026-11-24",
+      "version": "3.6.2",
+      "versionDate": "2026-11-27",
       "fullDate": "20260727205325",
-      "size": 611936715,
+      "size": 611993977,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-07-2026/ShutEye_3.4.9_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ShutEye_3.6.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/ShutEye_3.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/health.sleep.sounds.tracker.alarm.calm.png",
       "versions": [
+        {
+          "version": "3.6.2",
+          "date": "2026-11-27",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/27-11-2026/ShutEye_3.6.2_Premium_%40thisismanpreets_apptesters.org.ipa",
+          "size": 611993977,
+          "localizedDescription": "Injected with Premium",
+          "buildVersion": "3.6.2"
+        },
         {
           "version": "3.6.1",
           "date": "2026-11-24",
@@ -115744,17 +115784,26 @@
       "type": 1,
       "bundleID": "com.atebits.Tweetie2",
       "bundleIdentifier": "com.atebits.Tweetie2",
-      "version": "12.46",
-      "versionDate": "2026-11-23",
+      "version": "12.46.1",
+      "versionDate": "2026-11-26",
       "fullDate": "20260312080709",
-      "size": 322425556,
+      "size": 322433591,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-03-2026/X_11.72_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.46.+.NFB.v7.3.1.ipa",
+      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.46.1.+.NFB.v7.3.1.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.atebits.Tweetie2.png",
       "versions": [
+        {
+          "version": "12.46.1",
+          "date": "2026-11-26",
+          "localizedDescription": "• X updated to v12.46.1",
+          "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/X.v12.46.1.+.NFB.v7.3.1.ipa",
+          "size": 322433591,
+          "sha256": "843855f72ba3b0bc79f1989764d6b0b696f3fb787bb069119a57af0f3c5e0210",
+          "buildVersion": "12.46.1"
+        },
         {
           "version": "12.46",
           "date": "2026-11-23",
@@ -133215,17 +133264,26 @@
       "type": 2,
       "bundleID": "com.uqxuwtxbbu.parkingjam",
       "bundleIdentifier": "com.uqxuwtxbbu.parkingjam",
-      "version": "232.0.14",
-      "versionDate": "2026-09-11",
+      "version": "233.8.3",
+      "versionDate": "2026-11-27",
       "fullDate": "20251213194808",
-      "size": 231511446,
+      "size": 230458896,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/ParkingJam3D_229.0.6_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2087",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/177/app_182_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.uqxuwtxbbu.parkingjam.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.uqxuwtxbbu.parkingjam.png",
       "versions": [
+        {
+          "version": "233.8.3",
+          "buildVersion": "1",
+          "date": "2026-11-27T00:39:55-05:00",
+          "localizedDescription": "No Ads and Unlimited Coins.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/177/app_182_nabzclan_sidelix.ipa",
+          "size": 230458896,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "232.0.14",
           "date": "2026-09-11",
@@ -164050,11 +164108,20 @@
       "name": "Cozy Couples",
       "bundleIdentifier": "com.clarity.cozycouples",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Cozy Couples: Relationship App\n\nTweak: Subscription Unlocked\n\nVersion: 1.52\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2177",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/178/app_183_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c74fcc1f-e040-4e8d-bbe9-d704e3244f39/icon.jpg",
-      "version": "1.74",
-      "size": 49264223,
+      "version": "1.79",
+      "size": 42741206,
       "versions": [
+        {
+          "version": "1.79",
+          "buildVersion": "1",
+          "date": "2026-11-27T00:40:09-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/178/app_183_nabzclan_sidelix.ipa",
+          "size": 42741206,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.74",
           "date": "2026-07-08",
@@ -164096,7 +164163,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-08"
+      "versionDate": "2026-11-27"
     },
     {
       "name": "Temperology",
@@ -164215,11 +164282,20 @@
       "name": "Phone Tracker",
       "bundleIdentifier": "phone.location.tracker",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Phone Tracker - Family Locator\n\nTweak: Subscription Unlocked\n\nVersion: 2.0.5\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2255",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/179/app_184_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/2a59a47f-2356-4d62-87a5-4c3a27eca41c/icon.jpg",
-      "version": "2.5.2",
-      "size": 68848974,
+      "version": "2.7.0",
+      "size": 47432166,
       "versions": [
+        {
+          "version": "2.7.0",
+          "buildVersion": "1",
+          "date": "2026-11-27T00:40:24-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/179/app_184_nabzclan_sidelix.ipa",
+          "size": 47432166,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "2.5.2",
           "date": "2026-07-26",
@@ -164269,7 +164345,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-26"
+      "versionDate": "2026-11-27"
     },
     {
       "name": "InnerNow",
@@ -171980,11 +172056,20 @@
       "name": "Piano Star",
       "bundleIdentifier": "com.piano.star.tiles.music.circles.dancing.beat.magic",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Piano Star - Tap Your Music\n\nTweak:\nPremium Unlocked\n\nVersion: 1.5.7\n\nNotes: When you first open piano star after installing, you must be offline, otherwise you won’t get VIP. You will only need to do this once.\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2302",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/181/app_186_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/bb6e9ea1-e67e-4419-bdd6-250a6a4082a2/icon.jpg",
-      "version": "1.7.5",
-      "size": 174294105,
+      "version": "1.8.3",
+      "size": 178293573,
       "versions": [
+        {
+          "version": "1.8.3",
+          "buildVersion": "108",
+          "date": "2026-11-27T00:41:26-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/181/app_186_nabzclan_sidelix.ipa",
+          "size": 178293573,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.7.5",
           "date": "2026-07-19",
@@ -172018,7 +172103,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-19"
+      "versionDate": "2026-11-27"
     },
     {
       "name": "The Journey",
@@ -176466,11 +176551,20 @@
       "name": "aa",
       "bundleIdentifier": "com.aagame.aagame",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: aa game\n⁣\nTweak: Free iAP\n\nBundle ID: com.aagame.aagame\n\nDeveloper: General Adaptive Apps Pty Ltd\n\nVersion: 6.6.7\n\nApp Store Link\n\nMade by riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2289",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/180/app_185_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/bc/f0/71/bcf07139-51e6-c772-de98-09fdc3a0470c/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "version": "7.1.6",
-      "size": 44009134,
+      "version": "7.1.9",
+      "size": 89578237,
       "versions": [
+        {
+          "version": "7.1.9",
+          "buildVersion": "777",
+          "date": "2026-11-27T00:40:51-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/180/app_185_nabzclan_sidelix.ipa",
+          "size": 89578237,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "7.1.6",
           "date": "2026-09-25",
@@ -176496,7 +176590,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-25"
+      "versionDate": "2026-11-27"
     },
     {
       "name": "Space Frontier",
@@ -200533,6 +200627,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "636",
+          "date": "2026-11-27T00:41:38.256Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-636/Non-Jailbroken.ipa",
+          "size": 141511121,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "631",
           "date": "2026-11-26T12:33:25.950Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -201504,9 +201609,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-11-26",
-      "size": 141511114,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-631/Non-Jailbroken.ipa"
+      "versionDate": "2026-11-27",
+      "size": 141511121,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-636/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -202060,6 +202165,17 @@
           "localizedDescription": "iFly 1.0.0 (build 1795658938) for iOS",
           "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795658938/iFly-1.0.0-1795658938.ipa",
           "size": 100503649,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795695085",
+          "buildVersion": "1795695085",
+          "date": "2026-11-26",
+          "localizedDescription": "iFly 1.0.0 (build 1795695085) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795695085/iFly-1.0.0-1795695085.ipa",
+          "size": 101022783,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -203255,12 +203371,21 @@
       "category": "photo-video",
       "beta": false,
       "screenshotURLs": [],
-      "version": "1.0.11",
-      "versionDate": "2026-11-20",
+      "version": "1.1.0",
+      "versionDate": "2026-11-26",
       "versionDescription": "App icon fix.",
-      "size": 6152820,
-      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.0.11/TendieMaker-1.0.11.ipa",
+      "size": 108186423,
+      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.1.0/TendieMaker-1.1.0.ipa",
       "versions": [
+        {
+          "version": "1.1.0",
+          "date": "2026-11-26",
+          "localizedDescription": "• TendieMaker updated to v1.1.0",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.1.0/TendieMaker-1.1.0.ipa",
+          "size": 108186423,
+          "minOSVersion": "17.0",
+          "buildVersion": "1.1.0"
+        },
         {
           "version": "1.0.11",
           "date": "2026-11-20",
@@ -203834,6 +203959,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "11335",
+          "marketingVersion": "3.4.0-alpha.20261127.c8ff0f1",
+          "date": "2026-11-27",
+          "localizedDescription": "Alpha build c8ff0f1 · 2026-11-27\n\nChanges in this build:\n• feat: add iPhone portrait clearance for clamshell controllers (#3851)\n• chore(changelog): absorb 1 pending fragment(s) (#3853)\n• [Agent] fix: keep the Realm background assertion through revocation (0xDEAD10CC) (#3852)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 787149352,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "11327",
           "marketingVersion": "3.4.0-alpha.20261126.1010660",
           "date": "2026-11-26",
@@ -203957,8 +204092,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-11-26",
-      "size": 787313864,
+      "versionDate": "2026-11-27",
+      "size": 787149352,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
@@ -204243,6 +204378,15 @@
       ],
       "versions": [
         {
+          "version": "1.2.0",
+          "buildVersion": "1.2.0",
+          "date": "2026-11-26T16:24:47-05:00",
+          "localizedDescription": "v1.2.0 Flagship Studio Upgrade:\r\n• Expanded Studio Home Hub & Course Workspace with collapsible sidebar, Focus Zen Reading Mode, and live lesson search/filter.\r\n• Deep context-aware Real-World Scenario & Action Engine synced with course progress, mastery diagnostics, and Cross-Agent Memory.\r\n• Smart Public Catalog with AI Course Overviews, shared pre-built course access, rich 12-language course badges, and non-destructive Author Update Sync.\r\n• Upgraded Offline Studio & 40Hz Focus Frequencies (6 soundscapes, 1-click Focus Recipes, voice preview, offline quiz mode, 12-language UI).\r\n• fixed major bugs with app not showing\r\n• Live-updating native shell with automatic web bundle sync.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/175/app_180_nabzclan_sidelix.ipa",
+          "size": 5075883,
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "1.0.0",
           "buildVersion": "1.0.0",
           "date": "2026-11-24T17:48:46-05:00",
@@ -204256,11 +204400,11 @@
         "entitlements": [],
         "privacy": {}
       },
-      "version": "1.0.0",
-      "versionDate": "2026-11-24",
+      "version": "1.2.0",
+      "versionDate": "2026-11-26",
       "versionDescription": "Initial v1.0.0 release of NabzClan School for iPhone & iPad with full cloud sync, interactive labs, live scenarios, and leaderboard rankings.",
       "downloadURL": "https://appstore.sidelix.vip/repos/download/175/app_180_nabzclan_sidelix.ipa",
-      "size": 7429231,
+      "size": 5075883,
       "type": 1,
       "badges": [
         {
