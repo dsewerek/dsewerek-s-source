@@ -390,17 +390,25 @@
       "type": 1,
       "bundleID": "com.sfun.snapedit",
       "bundleIdentifier": "com.sfun.snapedit",
-      "version": "6.30",
-      "versionDate": "2026-11-21",
+      "version": "6.31",
+      "versionDate": "2026-11-28",
       "fullDate": "20260807061207",
-      "size": 149008472,
+      "size": 149330293,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/SnapEdit_6.23_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-11-2026/SnapEdit_6.30_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/SnapEdit_6.31_Pro_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.sfun.snapedit.png",
       "versions": [
+        {
+          "version": "6.31",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/SnapEdit_6.31_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 149330293,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "6.31"
+        },
         {
           "version": "6.30",
           "date": "2026-11-21",
@@ -47283,17 +47291,25 @@
       "type": 1,
       "bundleID": "Cristian-Teichner.Analogue",
       "bundleIdentifier": "Cristian-Teichner.Analogue",
-      "version": "1.6.0",
-      "versionDate": "2026-09-20",
+      "version": "1.7",
+      "versionDate": "2026-11-28",
       "fullDate": "20260728190426",
-      "size": 591313878,
+      "size": 76072084,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/Analogue_1.5.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-09-2026/Analogue_1.6.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Analogue_1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/Cristian-Teichner.Analogue.png",
       "versions": [
+        {
+          "version": "1.7",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Analogue_1.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 76072084,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.7"
+        },
         {
           "version": "1.6.0",
           "date": "2026-09-20",
@@ -47865,17 +47881,25 @@
       "type": 1,
       "bundleID": "app.gentler.activity",
       "bundleIdentifier": "app.gentler.activity",
-      "version": "6.0.1",
-      "versionDate": "2026-11-16",
+      "version": "6.0.2",
+      "versionDate": "2026-11-28",
       "fullDate": "20260728152801",
-      "size": 239567726,
+      "size": 246919279,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-07-2026/GentlerStreak_5.12.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/GentlerStreak_6.0.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GentlerStreak_6.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/app.gentler.activity.png",
       "versions": [
+        {
+          "version": "6.0.2",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GentlerStreak_6.0.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 246919279,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.0.2"
+        },
         {
           "version": "6.0.1",
           "date": "2026-11-16",
@@ -70231,17 +70255,25 @@
       "type": 1,
       "bundleID": "com.maplepop.bmcx",
       "bundleIdentifier": "com.maplepop.bmcx",
-      "version": "7.1.1",
-      "versionDate": "2026-09-29",
+      "version": "7.2",
+      "versionDate": "2026-11-28",
       "fullDate": "20260707110323",
-      "size": 22748617,
+      "size": 22748598,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-07-2026/MapleReadCX_6.5_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/29-09-2026/MapleReadCX_7.1.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/MapleReadCX_7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.maplepop.bmcx.png",
       "versions": [
+        {
+          "version": "7.2",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/MapleReadCX_7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 22748598,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.2"
+        },
         {
           "version": "7.1.1",
           "date": "2026-09-29",
@@ -77349,17 +77381,25 @@
       "type": 1,
       "bundleID": "com.bravolol.bravoLang.chineseDictionary",
       "bundleIdentifier": "com.bravolol.bravoLang.chineseDictionary",
-      "version": "36.6",
-      "versionDate": "2026-11-24",
+      "version": "36.7",
+      "versionDate": "2026-11-28",
       "fullDate": "20260630094134",
-      "size": 13673874,
+      "size": 13674548,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/30-06-2026/UnifiedDictionary_35.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/UnifiedDictionary_36.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/UnifiedDictionary_36.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.bravolol.bravoLang.chineseDictionary.png",
       "versions": [
+        {
+          "version": "36.7",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/UnifiedDictionary_36.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 13674548,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "36.7"
+        },
         {
           "version": "36.6",
           "date": "2026-11-24",
@@ -131638,17 +131678,26 @@
       "type": 1,
       "bundleID": "com.mfagency.nurture",
       "bundleIdentifier": "com.mfagency.nurture",
-      "version": "5.3.4",
-      "versionDate": "2026-09-26",
+      "version": "5.3.8",
+      "versionDate": "2026-11-28",
       "fullDate": "20251216174857",
-      "size": 266450713,
+      "size": 266814353,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Eden_5.1.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2118",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/226/app_231_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.mfagency.nurture.png",
       "versions": [
+        {
+          "version": "5.3.8",
+          "buildVersion": "146",
+          "date": "2026-11-28T01:37:31-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/226/app_231_nabzclan_sidelix.ipa",
+          "size": 266814353,
+          "minOSVersion": "15"
+        },
         {
           "version": "5.3.4",
           "date": "2026-09-26",
@@ -133733,17 +133782,26 @@
       "type": 1,
       "bundleID": "stoope.Grit",
       "bundleIdentifier": "stoope.Grit",
-      "version": "5.8.1",
-      "versionDate": "2026-08-04",
+      "version": "6.2.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20251213194804",
-      "size": 59179258,
+      "size": 128782373,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/13-12-2025/Grit_5.2.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1429",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/222/app_227_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/stoope.Grit.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/stoope.Grit.png",
       "versions": [
+        {
+          "version": "6.2.0",
+          "buildVersion": "1578",
+          "date": "2026-11-28T01:36:04-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/222/app_227_nabzclan_sidelix.ipa",
+          "size": 128782373,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "5.8.1",
           "date": "2026-08-04",
@@ -159485,11 +159543,20 @@
       "name": "Sworkit",
       "bundleIdentifier": "AHorseCalledScarlet.Sworkit",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sworkit Fitness & Wellness App\n\nTweak: Subscription Unlocked\n\nVersion: 11.3.12\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2324",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/223/app_228_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/71e694ce-0686-47cd-9654-af4d2fb8cbc9/icon.jpg",
-      "version": "12.0.5",
-      "size": 84160579,
+      "version": "12.2.0",
+      "size": 77415211,
       "versions": [
+        {
+          "version": "12.2.0",
+          "buildVersion": "1",
+          "date": "2026-11-28T01:36:20-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/223/app_228_nabzclan_sidelix.ipa",
+          "size": 77415211,
+          "minOSVersion": "16.6"
+        },
         {
           "version": "12.0.5",
           "date": "2026-07-29",
@@ -159523,7 +159590,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-29"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Lens AI",
@@ -162409,11 +162476,20 @@
       "name": "Grounded",
       "bundleIdentifier": "com.ifeanyi.Grounded",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Grounded: Quit Weed Smoking\n\nTweak: Subscription Unlocked\n\nVersion: 3.0.20\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2396",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/225/app_230_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/bd63e74f-cd7e-4a7c-94a0-43b68f713452/icon.jpg",
-      "version": "3.1.24",
-      "size": 109534974,
+      "version": "3.1.25",
+      "size": 106136315,
       "versions": [
+        {
+          "version": "3.1.25",
+          "buildVersion": "1",
+          "date": "2026-11-28T01:37:04-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/225/app_230_nabzclan_sidelix.ipa",
+          "size": 106136315,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "3.1.24",
           "date": "2026-09-03",
@@ -162447,7 +162523,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-03"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Trading Game",
@@ -162775,11 +162851,20 @@
       "name": "Ereasy",
       "bundleIdentifier": "background.remover.bg.eraser",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: AI Background Remover - Ereasy\n\nTweak: Subscription Unlocked\n\nVersion: 2.7.2\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1827",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/224/app_229_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/f4583973-1b51-4064-9151-35ba17da9c56/icon.jpg",
-      "version": "2.16.0",
-      "size": 96263471,
+      "version": "2.18.2",
+      "size": 104824853,
       "versions": [
+        {
+          "version": "2.18.2",
+          "buildVersion": "5615",
+          "date": "2026-11-28T01:36:40-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/224/app_229_nabzclan_sidelix.ipa",
+          "size": 104824853,
+          "minOSVersion": "16.4"
+        },
         {
           "version": "2.16.0",
           "date": "2026-06-26",
@@ -162837,7 +162922,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-06-26"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Flashscore",
@@ -165113,11 +165198,20 @@
       "name": "Stretch",
       "bundleIdentifier": "breakthroughapps.com.stretch",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Stretch: Stretching & Mobility\n\nTweak: Subscription Unlocked\n\nVersion: 6.5.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2371",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/229/app_234_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/1da6ce76-2a70-4883-91eb-e20432fec1c0/icon.jpg",
-      "version": "6.9.8",
-      "size": 76792848,
+      "version": "6.12.0",
+      "size": 78637270,
       "versions": [
+        {
+          "version": "6.12.0",
+          "buildVersion": "1",
+          "date": "2026-11-28T01:39:12-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/229/app_234_nabzclan_sidelix.ipa",
+          "size": 78637270,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "6.9.8",
           "date": "2026-08-14",
@@ -165159,7 +165253,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-14"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "inflow",
@@ -168501,11 +168595,43 @@
       "name": "رشاقة",
       "bundleIdentifier": "com.madarsoft.fitness",
       "localizedDescription": "from @blatants |\n----------------\n📱 Rashaqa Home Workout & Diet\n\n🆔 Bundle ID: com.madarsoft.fitness\n⬆️ Updated to: 16.3\n🔧 Minimum iOS: 13.0\n✅ Patched\n💎 Modifier: Pro Unlocked\n🔄 Tweaked by @blatants\n\n📝 Note:\n>Ignore the \"Premium\" button all features should work.\n\nKo-Fi ☕️ | Crypto 👾 | IPAs 📥",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-11-2026/_22.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/_23.0_Pro_%40thisismanpreets_apptesters.org.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6028b4cc-a40e-468d-9d10-51facaba30b6/icon.jpg",
-      "version": "22.0",
-      "size": 264566898,
+      "version": "23.0",
+      "size": 259533932,
       "versions": [
+        {
+          "version": "23.0",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/_23.0_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 259533932,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "23.0"
+        },
+        {
+          "version": "4.4.2",
+          "date": "2026-11-26",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/_4.4.2_Pro_%40thisismanpreets_apptesters.org.ipa",
+          "size": 246339504,
+          "localizedDescription": "Injected with Pro",
+          "buildVersion": "4.4.2"
+        },
+        {
+          "version": "7.30.5",
+          "date": "2026-11-25",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/_7.30.5_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 220272923,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.30.5"
+        },
+        {
+          "version": "7.30.0",
+          "date": "2026-11-23",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-11-2026/_7.30.0_VIP_%40thisismanpreets_apptesters.org.ipa",
+          "size": 220376320,
+          "localizedDescription": "Injected with VIP",
+          "buildVersion": "7.30.0"
+        },
         {
           "version": "22.0",
           "date": "2026-11-16",
@@ -170027,7 +170153,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-11-16"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Teleprompter",
@@ -185990,12 +186116,12 @@
       "type": 1,
       "bundleID": "video.up.editor.maker",
       "bundleIdentifier": "video.up.editor.maker",
-      "version": "3.0.0",
-      "versionDate": "2026-07-19",
+      "version": "3.5.1",
+      "versionDate": "2026-11-28",
       "fullDate": "20260719221326",
-      "size": 191264621,
+      "size": 149224682,
       "down": "https://appstore.sidelix.vip/download-repo-source/2301",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2301",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/228/app_233_nabzclan_sidelix.ipa",
       "download_page_url": "https://appstore.sidelix.vip/apps/11/2537",
       "appstore_download_count": 55,
       "developerName": "sidelix",
@@ -186011,6 +186137,15 @@
         "Tweaked App"
       ],
       "versions": [
+        {
+          "version": "3.5.1",
+          "buildVersion": "3069",
+          "date": "2026-11-28T01:38:50-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/228/app_233_nabzclan_sidelix.ipa",
+          "size": 149224682,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "3.0.0",
           "date": "2026-07-19",
@@ -201075,6 +201210,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "665",
+          "date": "2026-11-28T09:31:19.767Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-665/Non-Jailbroken.ipa",
+          "size": 141950580,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "661",
           "date": "2026-11-28T03:40:33.233Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -202080,8 +202226,8 @@
       ],
       "version": "1.0.0",
       "versionDate": "2026-11-28",
-      "size": 141950535,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-661/Non-Jailbroken.ipa"
+      "size": 141950580,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-665/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -202562,6 +202708,39 @@
         "https://ifly-emu.com/screenshots/iphone/import.jpg"
       ],
       "versions": [
+        {
+          "version": "1.0.0+1795835765",
+          "buildVersion": "1795835765",
+          "date": "2026-11-28",
+          "localizedDescription": "iFly 1.0.0 (build 1795835765) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795835765/iFly-1.0.0-1795835765.ipa",
+          "size": 101449249,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795833171",
+          "buildVersion": "1795833171",
+          "date": "2026-11-28",
+          "localizedDescription": "iFly 1.0.0 (build 1795833171) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795833171/iFly-1.0.0-1795833171.ipa",
+          "size": 101438997,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795829339",
+          "buildVersion": "1795829339",
+          "date": "2026-11-28",
+          "localizedDescription": "iFly 1.0.0 (build 1795829339) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795829339/iFly-1.0.0-1795829339.ipa",
+          "size": 101436493,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
         {
           "version": "1.0.0+1795764729",
           "buildVersion": "1795764729",
@@ -203784,10 +203963,10 @@
           "isBeta": true
         }
       ],
-      "version": "1.0.0+1795764729",
-      "versionDate": "2026-11-27",
-      "size": 101021743,
-      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795764729/iFly-1.0.0-1795764729.ipa"
+      "version": "1.0.0+1795835765",
+      "versionDate": "2026-11-28",
+      "size": 101449249,
+      "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795835765/iFly-1.0.0-1795835765.ipa"
     },
     {
       "name": "SceneBox",
@@ -203834,12 +204013,21 @@
       "category": "utilities",
       "beta": false,
       "screenshotURLs": [],
-      "version": "2.1.8",
-      "versionDate": "2026-11-16",
+      "version": "2.1.9",
+      "versionDate": "2026-11-28",
       "versionDescription": "Catalog-first redesign (Catalog home tab, Sources as a sheet, restyled Signed tab), signing fixed (release apps open again, catalog signing no longer closes the app), Catalog refresh, Clear All logs, matching page titles; requires iOS 18+.",
-      "size": 25079319,
-      "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.8/BuildBox-2.1.8.ipa",
+      "size": 27614211,
+      "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.9/BuildBox-2.1.9.ipa",
       "versions": [
+        {
+          "version": "2.1.9",
+          "date": "2026-11-28",
+          "localizedDescription": "• BuildBox updated to v2.1.9",
+          "downloadURL": "https://github.com/mikevillarroel/buildbox-ios/releases/download/v2.1.9/BuildBox-2.1.9.ipa",
+          "size": 27614211,
+          "minOSVersion": "18.0",
+          "buildVersion": "2.1.9"
+        },
         {
           "version": "2.1.8",
           "date": "2026-11-16",
@@ -203929,12 +204117,21 @@
       "category": "photo-video",
       "beta": false,
       "screenshotURLs": [],
-      "version": "1.1.0",
-      "versionDate": "2026-11-26",
+      "version": "1.1.1",
+      "versionDate": "2026-11-28",
       "versionDescription": "App icon fix.",
-      "size": 108186423,
-      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.1.0/TendieMaker-1.1.0.ipa",
+      "size": 108570045,
+      "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.1.1/TendieMaker-1.1.1.ipa",
       "versions": [
+        {
+          "version": "1.1.1",
+          "date": "2026-11-28",
+          "localizedDescription": "• TendieMaker updated to v1.1.1",
+          "downloadURL": "https://github.com/mikevillarroel/tendiemaker/releases/download/v1.1.1/TendieMaker-1.1.1.ipa",
+          "size": 108570045,
+          "minOSVersion": "17.0",
+          "buildVersion": "1.1.1"
+        },
         {
           "version": "1.1.0",
           "date": "2026-11-26",
@@ -203988,12 +204185,21 @@
       "category": "utilities",
       "beta": false,
       "screenshotURLs": [],
-      "version": "1.0.5",
-      "versionDate": "2026-11-02",
+      "version": "1.0.7",
+      "versionDate": "2026-11-28",
       "versionDescription": "Effect presets (Soft/Medium/Strong pills for Depth shadow and 3D border); tighter 3D frame and smaller shadows.",
-      "size": 889664,
-      "downloadURL": "https://github.com/WuXu1/WuXu1.github.io/releases/download/Latest/Layers.v1.0.5.ipa",
+      "size": 4141702,
+      "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.7/Layers-1.0.7.ipa",
       "versions": [
+        {
+          "version": "1.0.7",
+          "date": "2026-11-28",
+          "localizedDescription": "• Layers updated to v1.0.7",
+          "downloadURL": "https://github.com/mikevillarroel/layers/releases/download/v1.0.7/Layers-1.0.7.ipa",
+          "size": 4141702,
+          "minOSVersion": "17.0",
+          "buildVersion": "1.0.7"
+        },
         {
           "version": "1.0.5",
           "date": "2026-11-02",
@@ -204523,6 +204729,16 @@
           "localizedDescription": "Alpha build a2623d7 · 2026-11-28\n\nChanges in this build:\n• chore(bezels): SkinKit 0.11.0; the TV switcher offers the Seat (#3865)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
           "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
           "size": 787498221,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
+          "buildVersion": "11352",
+          "marketingVersion": "3.4.0-alpha.20261128.671e5d6",
+          "date": "2026-11-28",
+          "localizedDescription": "Alpha build 671e5d6 · 2026-11-28\n\nChanges in this build:\n• [Agent] feat(cheats): cheats menu loads local and online cheats by itself (#3868)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 787258077,
           "minOSVersion": "17.0"
         },
         {
@@ -205063,6 +205279,123 @@
         "disableGuest": false,
         "disableGuestAds": true,
         "disableAdCode": true,
+        "vipMessage": null
+      }
+    },
+    {
+      "name": "Yawn (Hacked)",
+      "bundleIdentifier": "io.bubbleapps.yawn",
+      "developerName": "NabzClan",
+      "subtitle": "Hack feature: Subscription Unlocked",
+      "localizedDescription": "Hack feature: Subscription Unlocked\n\nAbout Yawn\n\nTomorrow starts tonight.\n\nWhat would you do with an extra hour?\n\nRead a few pages. Write your book. Stretch. Or just take your time.\n\nYawn helps you put scrolling to bed, wake with a plan and make room for the things you love.\n\nProtect tonight\n\nChoose distracting apps and websites, then set bedtime protection, schedules or time limits. Protect a morning window too, so your plans have some space.\n\nWake with purpose\n\nSet a simple alarm, or choose a photo mission that asks you to get up and photograph a saved item. Keep your next alarm close with a Home Screen widget.\n\nMake time for you\n\nChoose a personal goal or create your own, set a time and start your goal timer. Read, write, move or make something. Mark the mornings you made time, and add app protection when you want fewer distractions.\n\nFind your wind-down\n\nExplore sleep stories, music and sounds. Build a mix, save favourites and use an audio timer.\n\nA soundtrack for your time\n\nChoose morning lofi, soft piano or a gentle focus hum for reading, writing and making. Pick a track, press Play and set an audio timer.\n\nSee your progress\n\nFollow your morning check-ins and streaks. Optionally connect Apple Health to explore recorded sleep and sleep stages, when they are available in the records you share.\n\nMembership and requirements\n\nYawn works without a Yawn account. Yawn Premium is required for new alarms, including alarms without a wake-up mission, and the app’s main features. Choose a monthly or annual subscription, or a one-time lifetime purchase. Monthly and annual subscriptions renew automatically unless cancelled in your App Store settings. Lifetime access is a one-time purchase and does not renew. Prices and billing terms, including eligible trials and offers, are shown before purchase. Existing purchased and promotional access stays valid under its terms. Alarms already scheduled and unfinished wake-up missions remain accessible for alarm controls and recovery.\n\nApple Health is optional. App protection requires Screen Time permission. Alarm sound and silencing follow iOS controls. Requires iOS 26 or iPadOS 26 or later.\n\nPrivacy: https://yawn.health/original/privacy/\n\nTerms: https://yawn.health/original/terms/\n\nSupport: https://yawn.health/original/support/",
+      "iconURL": "https://apps.nabzclan.vip/images/1795847877_8109.webp",
+      "tintColor": "#2ecc71",
+      "category": "utilities",
+      "screenshots": [
+        "https://apps.nabzclan.vip/screenshots/17958478774120454.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478783422627.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478782643694.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478784911840.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478788977360.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478785207155.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478781393371.webp"
+      ],
+      "screenshotURLs": [
+        "https://apps.nabzclan.vip/screenshots/17958478774120454.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478783422627.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478782643694.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478784911840.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478788977360.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478785207155.webp",
+        "https://apps.nabzclan.vip/screenshots/17958478781393371.webp"
+      ],
+      "versions": [
+        {
+          "version": "2.4",
+          "buildVersion": "252",
+          "date": "2026-11-28T01:37:58-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/227/app_232_nabzclan_sidelix.ipa",
+          "size": 248405196,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAlarmKitUsageDescription": "Yawn schedules your wake-up alarm so you can start your morning mission.",
+          "NSCameraUsageDescription": "Yawn uses the camera to save your morning items and to photograph one when your alarm mission starts. Photos are matched on your device and are never uploaded.",
+          "NSHealthShareUsageDescription": "Read the sleep records you choose to share to show your sleep history, patterns, a provisional daily energy outlook and progress against your sleep target. Alarms work without Health access.",
+          "NSHealthUpdateUsageDescription": "Yawn does not save or modify Health records. Its optional sleep connection requests read access only.",
+          "NSMotionUsageDescription": "Yawn uses motion only to count steps or shakes for a step or shake mission you choose."
+        }
+      },
+      "version": "2.4",
+      "versionDate": "2026-11-28",
+      "versionDescription": "Subscription unlocked.",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/227/app_232_nabzclan_sidelix.ipa",
+      "size": 248405196,
+      "type": 1,
+      "badges": [
+        {
+          "key": "new_release",
+          "label": "New Release",
+          "color": "#f59e0b",
+          "icon": "sparkles"
+        },
+        {
+          "key": "latest",
+          "label": "Latest Version",
+          "color": "#2ecc71",
+          "icon": "checkmark.seal.fill"
+        },
+        {
+          "key": "free",
+          "label": "Free",
+          "color": "#27ae60",
+          "icon": "checkmark.circle.fill"
+        },
+        {
+          "key": "sidelix_verified",
+          "label": "Sidelix Verified",
+          "color": "#16a085",
+          "icon": "shield.lefthalf.filled"
+        }
+      ],
+      "latest_appstore_app": {
+        "checked": true,
+        "found": true,
+        "bundleIdentifier": "io.bubbleapps.yawn",
+        "latest_version": "2.4",
+        "repo_version": "2.4",
+        "up_to_date": true,
+        "update_available": false,
+        "status": "up_to_date",
+        "price": "Free",
+        "is_paid": false,
+        "store_url": "https://apps.apple.com/us/app/yawn-alarms-morning-routine/id6473270731",
+        "release_date": "2026-11-05T18:29:55Z",
+        "checked_at": "2026-11-28T14:05:52-05:00",
+        "track_id": 6473270731,
+        "track_name": "Yawn: Alarms & Morning Routine"
+      },
+      "releaseType": "added",
+      "addedDate": "2026-11-28T01:37:34-05:00",
+      "updatedDate": "2026-11-28T01:37:58-05:00",
+      "vipOnly": false,
+      "vipMinTier": 0,
+      "freeAccess": false,
+      "disableGuest": false,
+      "disableGuestAds": false,
+      "disableAdCode": false,
+      "popupAccess": {
+        "vipOnly": false,
+        "vipMinTier": 0,
+        "freeAccess": false,
+        "freeAccessMessage": null,
+        "disableGuest": false,
+        "disableGuestAds": false,
+        "disableAdCode": false,
         "vipMessage": null
       }
     }
