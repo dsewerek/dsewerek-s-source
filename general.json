@@ -1456,17 +1456,25 @@
       "type": 1,
       "bundleID": "com.future.kapi",
       "bundleIdentifier": "com.future.kapi",
-      "version": "4.47.1",
-      "versionDate": "2026-11-24",
+      "version": "4.48.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20260807051648",
-      "size": 159632065,
+      "size": 160742436,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/Action_4.35.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/Action_4.47.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Action_4.48.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.future.kapi.png",
       "versions": [
+        {
+          "version": "4.48.0",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Action_4.48.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 160742436,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "4.48.0"
+        },
         {
           "version": "4.47.1",
           "date": "2026-11-24",
@@ -5230,17 +5238,26 @@
       "type": 1,
       "bundleID": "com.readdle.Scanner",
       "bundleIdentifier": "com.readdle.Scanner",
-      "version": "9.0.6",
-      "versionDate": "2026-11-24",
+      "version": "9.0.5",
+      "versionDate": "2026-11-28",
       "fullDate": "20260807003504",
-      "size": 163509514,
+      "size": 194866510,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/07-08-2026/ScannerPro_8.38.1_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-11-2026/ScannerPro_9.0.6_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/190/app_195_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.readdle.Scanner.png",
       "versions": [
+        {
+          "version": "9.0.5",
+          "buildVersion": "9.0.5.2110",
+          "date": "2026-11-28T01:23:22-05:00",
+          "localizedDescription": "Plus unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/190/app_195_nabzclan_sidelix.ipa",
+          "size": 194866510,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "9.0.6",
           "date": "2026-11-24",
@@ -15106,16 +15123,33 @@
       "bundleID": "co.detail.duo",
       "bundleIdentifier": "co.detail.duo",
       "version": "6.0.7",
-      "versionDate": "2026-11-10",
+      "versionDate": "2026-11-28",
       "fullDate": "20260805225931",
-      "size": 222664093,
+      "size": 214366180,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Detail_5.7.1_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-11-2026/Detail_6.0.7_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/218/app_223_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/co.detail.duo.png",
       "versions": [
+        {
+          "version": "6.0.7",
+          "buildVersion": "1472",
+          "date": "2026-11-28T01:34:42-05:00",
+          "localizedDescription": "Pro unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/218/app_223_nabzclan_sidelix.ipa",
+          "size": 214366180,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "6.1.0",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Detail_6.1.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 221898988,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "6.1.0"
+        },
         {
           "version": "6.0.7",
           "date": "2026-11-10",
@@ -15854,16 +15888,25 @@
       "bundleID": "com.elevateapp.kamino.kamino",
       "bundleIdentifier": "com.elevateapp.kamino.kamino",
       "version": "1.215.0",
-      "versionDate": "2026-11-12",
+      "versionDate": "2026-11-28",
       "fullDate": "20260805212852",
-      "size": 129943362,
+      "size": 126793777,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Balance_1.207.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/12-11-2026/Balance_1.215.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/211/app_216_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.elevateapp.kamino.kamino.png",
       "versions": [
+        {
+          "version": "1.215.0",
+          "buildVersion": "2386",
+          "date": "2026-11-28T01:31:37-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/211/app_216_nabzclan_sidelix.ipa",
+          "size": 126793777,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.215.0",
           "date": "2026-11-12",
@@ -20085,17 +20128,25 @@
       "type": 1,
       "bundleID": "com.locket.Locket",
       "bundleIdentifier": "com.locket.Locket",
-      "version": "2.74.0",
-      "versionDate": "2026-11-22",
+      "version": "2.75.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20260805050342",
-      "size": 98777331,
+      "size": 100225431,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/05-08-2026/Locket_2.58.1_Gold_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/22-11-2026/Locket_2.74.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Locket_2.75.0_Gold_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Gold",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.locket.Locket.png",
       "versions": [
+        {
+          "version": "2.75.0",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Locket_2.75.0_Gold_%40thisismanpreets_apptesters.org.ipa",
+          "size": 100225431,
+          "localizedDescription": "Injected with Gold",
+          "buildVersion": "2.75.0"
+        },
         {
           "version": "2.74.0",
           "date": "2026-11-22",
@@ -36401,17 +36452,25 @@
       "type": 1,
       "bundleID": "com.book.summaries.reading",
       "bundleIdentifier": "com.book.summaries.reading",
-      "version": "1.4.8",
-      "versionDate": "2026-11-26",
+      "version": "1.4.9",
+      "versionDate": "2026-11-28",
       "fullDate": "20260801114638",
-      "size": 166495066,
+      "size": 166554189,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/01-08-2026/GrowMe_1.3.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/GrowMe_1.4.8_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GrowMe_1.4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.book.summaries.reading.png",
       "versions": [
+        {
+          "version": "1.4.9",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/GrowMe_1.4.9_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 166554189,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "1.4.9"
+        },
         {
           "version": "1.4.8",
           "date": "2026-11-26",
@@ -54516,17 +54575,26 @@
       "type": 1,
       "bundleID": "boomer.Smart-Video",
       "bundleIdentifier": "boomer.Smart-Video",
-      "version": "13.45.0",
-      "versionDate": "2026-11-25",
+      "version": "13.44.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20260723233153",
-      "size": 130052161,
+      "size": 113948279,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-07-2026/Captions_13.27.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Captions_13.45.0_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/194/app_199_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/boomer.Smart-Video.png",
       "versions": [
+        {
+          "version": "13.44.0",
+          "buildVersion": "619",
+          "date": "2026-11-28T01:25:19-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/194/app_199_nabzclan_sidelix.ipa",
+          "size": 113948279,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "13.45.0",
           "date": "2026-11-25",
@@ -62258,17 +62326,26 @@
       "type": 1,
       "bundleID": "com.dreamer.Habits",
       "bundleIdentifier": "com.dreamer.Habits",
-      "version": "3.38",
-      "versionDate": "2026-10-31",
+      "version": "8.1.3",
+      "versionDate": "2026-11-28",
       "fullDate": "20260720221708",
-      "size": 248826313,
+      "size": 30098778,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-07-2026/Habits_3.35_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-10-2026/Habits_3.38_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/212/app_217_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dreamer.Habits.png",
       "versions": [
+        {
+          "version": "8.1.3",
+          "buildVersion": "596",
+          "date": "2026-11-28T01:31:48-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/212/app_217_nabzclan_sidelix.ipa",
+          "size": 30098778,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "3.38",
           "date": "2026-10-31",
@@ -73957,17 +74034,26 @@
       "type": 1,
       "bundleID": "com.tickettothemoon.video.persona",
       "bundleIdentifier": "com.tickettothemoon.video.persona",
-      "version": "1.16.6",
-      "versionDate": "2026-08-09",
+      "version": "10.17.4",
+      "versionDate": "2026-11-28",
       "fullDate": "20260702114146",
-      "size": 218384408,
+      "size": 203419320,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-07-2026/Persona_1.15.42_VIP_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2216",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/202/app_207_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with VIP",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tickettothemoon.video.persona.png",
       "versions": [
+        {
+          "version": "10.17.4",
+          "buildVersion": "2404",
+          "date": "2026-11-28T01:28:33-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/202/app_207_nabzclan_sidelix.ipa",
+          "size": 203419320,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.16.6",
           "date": "2026-08-09",
@@ -78648,16 +78734,25 @@
       "bundleID": "ventures.slam.minutes",
       "bundleIdentifier": "ventures.slam.minutes",
       "version": "1.12.10",
-      "versionDate": "2026-11-19",
+      "versionDate": "2026-11-28",
       "fullDate": "20260625032046",
-      "size": 33248149,
+      "size": 34627342,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-06-2026/Minutes_1.12.3_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-11-2026/Minutes_1.12.10_Pro_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/188/app_193_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ventures.slam.minutes.png",
       "versions": [
+        {
+          "version": "1.12.10",
+          "buildVersion": "473",
+          "date": "2026-11-28T01:22:23-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/188/app_193_nabzclan_sidelix.ipa",
+          "size": 34627342,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.12.10",
           "date": "2026-11-19",
@@ -92056,17 +92151,26 @@
       "type": 2,
       "bundleID": "com.blockpuzzle.us.ios",
       "bundleIdentifier": "com.blockpuzzle.us.ios",
-      "version": "7.4.6",
-      "versionDate": "2026-09-21",
+      "version": "7.6.3",
+      "versionDate": "2026-11-28",
       "fullDate": "20260531151353",
-      "size": 92711870,
+      "size": 90472812,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-05-2026/BlockBlast_7.1.1_noads_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1958",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/184/app_189_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with noads",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.blockpuzzle.us.ios.png",
       "versions": [
+        {
+          "version": "7.6.3",
+          "buildVersion": "7632",
+          "date": "2026-11-28T01:20:34-05:00",
+          "localizedDescription": "No ads enabled.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/184/app_189_nabzclan_sidelix.ipa",
+          "size": 90472812,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "7.4.6",
           "date": "2026-09-21",
@@ -96860,17 +96964,25 @@
       "type": 1,
       "bundleID": "com.dehancer.film.ios-app",
       "bundleIdentifier": "com.dehancer.film.ios-app",
-      "version": "7.2",
-      "versionDate": "2026-11-26",
+      "version": "7.3",
+      "versionDate": "2026-11-28",
       "fullDate": "20260521004842",
-      "size": 198373119,
+      "size": 198096432,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/21-05-2026/Dehancer_6.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/26-11-2026/Dehancer_7.2_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Dehancer_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.dehancer.film.ios-app.png",
       "versions": [
+        {
+          "version": "7.3",
+          "date": "2026-11-28",
+          "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-11-2026/Dehancer_7.3_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+          "size": 198096432,
+          "localizedDescription": "Injected with Subscription Unlocked",
+          "buildVersion": "7.3"
+        },
         {
           "version": "7.2",
           "date": "2026-11-26",
@@ -98558,17 +98670,26 @@
       "type": 1,
       "bundleID": "ideastudio.Weather-on-the-Way",
       "bundleIdentifier": "ideastudio.Weather-on-the-Way",
-      "version": "2.5.9",
-      "versionDate": "2026-09-03",
+      "version": "3.0.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20260520131727",
-      "size": 51979808,
+      "size": 57401304,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-05-2026/OnTheWay_2.5.5_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2377",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/197/app_202_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ideastudio.Weather-on-the-Way.png",
       "versions": [
+        {
+          "version": "3.0.0",
+          "buildVersion": "1",
+          "date": "2026-11-28T01:26:49-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/197/app_202_nabzclan_sidelix.ipa",
+          "size": 57401304,
+          "minOSVersion": "18.5"
+        },
         {
           "version": "2.5.9",
           "date": "2026-09-03",
@@ -109987,17 +110108,26 @@
       "type": 1,
       "bundleID": "net.plantsnap.freemium",
       "bundleIdentifier": "net.plantsnap.freemium",
-      "version": "8.0.2",
-      "versionDate": "2026-09-01",
+      "version": "8.1.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20260417021019",
-      "size": 86817383,
+      "size": 91763865,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-04-2026/PlantSnap_7.6.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/831",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/214/app_219_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/net.plantsnap.freemium.png",
       "versions": [
+        {
+          "version": "8.1.0",
+          "buildVersion": "651382",
+          "date": "2026-11-28T01:32:25-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/214/app_219_nabzclan_sidelix.ipa",
+          "size": 91763865,
+          "minOSVersion": "15.5"
+        },
         {
           "version": "8.0.2",
           "date": "2026-09-01",
@@ -121023,17 +121153,26 @@
       "type": 1,
       "bundleID": "com.footballaddicts.livescoreaddicts",
       "bundleIdentifier": "com.footballaddicts.livescoreaddicts",
-      "version": "7.0.10",
-      "versionDate": "2026-08-10",
+      "version": "7.2.3",
+      "versionDate": "2026-11-28",
       "fullDate": "20260120154306",
-      "size": 132103457,
+      "size": 157865967,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/20-01-2026/ForzaFootball_6.16.6_Mods_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2128",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/204/app_209_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Mods",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.footballaddicts.livescoreaddicts.png",
       "versions": [
+        {
+          "version": "7.2.3",
+          "buildVersion": "1",
+          "date": "2026-11-28T01:29:10-05:00",
+          "localizedDescription": "Legend unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/204/app_209_nabzclan_sidelix.ipa",
+          "size": 157865967,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "7.0.10",
           "date": "2026-08-10",
@@ -121329,17 +121468,26 @@
       "type": 1,
       "bundleID": "com.saltycrackers.daygram",
       "bundleIdentifier": "com.saltycrackers.daygram",
-      "version": "5.9.4",
-      "versionDate": "2026-09-09",
+      "version": "5.9.8",
+      "versionDate": "2026-11-28",
       "fullDate": "20260117142453",
-      "size": 35713710,
+      "size": 32029976,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-01-2026/Daygram_5.4.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2179",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/206/app_211_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.saltycrackers.daygram.png",
       "versions": [
+        {
+          "version": "5.9.8",
+          "buildVersion": "7293",
+          "date": "2026-11-28T01:29:33-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/206/app_211_nabzclan_sidelix.ipa",
+          "size": 32029976,
+          "minOSVersion": "15.6"
+        },
         {
           "version": "5.9.4",
           "date": "2026-09-09",
@@ -122757,17 +122905,26 @@
       "type": 1,
       "bundleID": "com.glucobit.cravingBuster.CravingBuster",
       "bundleIdentifier": "com.glucobit.cravingBuster.CravingBuster",
-      "version": "3.9.93",
-      "versionDate": "2026-09-27",
+      "version": "4.0.3",
+      "versionDate": "2026-11-28",
       "fullDate": "20260102170212",
-      "size": 247082762,
+      "size": 244435423,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/Reframe_3.9.11_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2271",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/210/app_215_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.glucobit.cravingBuster.CravingBuster.png",
       "versions": [
+        {
+          "version": "4.0.3",
+          "buildVersion": "4068",
+          "date": "2026-11-28T01:31:16-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/210/app_215_nabzclan_sidelix.ipa",
+          "size": 244435423,
+          "minOSVersion": "16.4"
+        },
         {
           "version": "3.9.93",
           "date": "2026-09-27",
@@ -122991,17 +123148,26 @@
       "type": 1,
       "bundleID": "com.clearmindshypnotherapy.app",
       "bundleIdentifier": "com.clearmindshypnotherapy.app",
-      "version": "65.0.0",
-      "versionDate": "2026-01-02",
+      "version": "84.0.13",
+      "versionDate": "2026-11-28",
       "fullDate": "20260102165706",
-      "size": 94883885,
+      "size": 109381170,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/ClearMindsHypnotherapy_65.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-01-2026/ClearMindsHypnotherapy_65.0.0_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/219/app_224_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clearmindshypnotherapy.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.clearmindshypnotherapy.app.png",
       "versions": [
+        {
+          "version": "84.0.13",
+          "buildVersion": "7",
+          "date": "2026-11-28T01:35:00-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/219/app_224_nabzclan_sidelix.ipa",
+          "size": 109381170,
+          "minOSVersion": "16.6"
+        },
         {
           "version": "65.0.0",
           "date": "2026-01-02",
@@ -124441,17 +124607,26 @@
       "type": 1,
       "bundleID": "com.tr.paraphrasingtool.rewritertool.textrewriter",
       "bundleIdentifier": "com.tr.paraphrasingtool.rewritertool.textrewriter",
-      "version": "1.7.4",
-      "versionDate": "2026-08-14",
+      "version": "1.8.1",
+      "versionDate": "2026-11-28",
       "fullDate": "20251231182145",
-      "size": 17916852,
+      "size": 12663995,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/31-12-2025/Paraphrase_1.5.7_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2184",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/200/app_205_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tr.paraphrasingtool.rewritertool.textrewriter.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.tr.paraphrasingtool.rewritertool.textrewriter.png",
       "versions": [
+        {
+          "version": "1.8.1",
+          "buildVersion": "1",
+          "date": "2026-11-28T01:27:39-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/200/app_205_nabzclan_sidelix.ipa",
+          "size": 12663995,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "1.7.4",
           "date": "2026-08-14",
@@ -125709,17 +125884,26 @@
       "type": 1,
       "bundleID": "com.idevtal.Wallpapers",
       "bundleIdentifier": "com.idevtal.Wallpapers",
-      "version": "5.98",
-      "versionDate": "2026-11-25",
+      "version": "5.93",
+      "versionDate": "2026-11-28",
       "fullDate": "20251228230543",
-      "size": 46068878,
+      "size": 40585855,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-12-2025/ImgAI_5.90_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/25-11-2026/Unblink_5.98_Subscription_Unlocked_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/221/app_226_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Subscription Unlocked",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.idevtal.Wallpapers.png",
       "versions": [
+        {
+          "version": "5.93",
+          "buildVersion": "5931113",
+          "date": "2026-11-28T01:35:33-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/221/app_226_nabzclan_sidelix.ipa",
+          "size": 40585855,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "5.98",
           "date": "2026-11-25",
@@ -126505,17 +126689,26 @@
       "type": 1,
       "bundleID": "com.app.phlow",
       "bundleIdentifier": "com.app.phlow",
-      "version": "2.1.5",
-      "versionDate": "2025-12-24",
+      "version": "3.0.1",
+      "versionDate": "2026-11-28",
       "fullDate": "20251224161034",
-      "size": 189348843,
+      "size": 129394342,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/Phlow_2.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/24-12-2025/Phlow_2.1.5_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/199/app_204_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.phlow.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.app.phlow.png",
       "versions": [
+        {
+          "version": "3.0.1",
+          "buildVersion": "2",
+          "date": "2026-11-28T01:27:29-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/199/app_204_nabzclan_sidelix.ipa",
+          "size": 129394342,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "2.1.5",
           "date": "2025-12-24",
@@ -127786,17 +127979,26 @@
       "type": 1,
       "bundleID": "com.digitas.solidstarts",
       "bundleIdentifier": "com.digitas.solidstarts",
-      "version": "6.3.0",
-      "versionDate": "2026-08-20",
+      "version": "6.11.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20251223160857",
-      "size": 74352641,
+      "size": 66777361,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-12-2025/SolidStarts_3.6.10_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2183",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/195/app_200_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.digitas.solidstarts.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.digitas.solidstarts.png",
       "versions": [
+        {
+          "version": "6.11.0",
+          "buildVersion": "185",
+          "date": "2026-11-28T01:25:38-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/195/app_200_nabzclan_sidelix.ipa",
+          "size": 66777361,
+          "minOSVersion": "16.4"
+        },
         {
           "version": "6.3.0",
           "date": "2026-08-20",
@@ -129282,17 +129484,26 @@
       "type": 1,
       "bundleID": "mobi.digitalminds.itunerfree",
       "bundleIdentifier": "mobi.digitalminds.itunerfree",
-      "version": "10.2",
-      "versionDate": "2026-07-20",
+      "version": "10.3.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20251219163853",
-      "size": 99237484,
+      "size": 101161083,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/myTunerRadio_10.0.4_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1649",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/215/app_220_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/mobi.digitalminds.itunerfree.png",
       "versions": [
+        {
+          "version": "10.3.0",
+          "buildVersion": "378",
+          "date": "2026-11-28T01:32:54-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/215/app_220_nabzclan_sidelix.ipa",
+          "size": 101161083,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "10.2",
           "date": "2026-07-20",
@@ -129780,17 +129991,26 @@
       "type": 1,
       "bundleID": "com.chaninicholas.chaniapp",
       "bundleIdentifier": "com.chaninicholas.chaniapp",
-      "version": "2.9.0",
-      "versionDate": "2026-08-14",
+      "version": "2.10.3",
+      "versionDate": "2026-11-28",
       "fullDate": "20251219045749",
-      "size": 47399401,
+      "size": 46145640,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/19-12-2025/CHANI_2.7.0_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/935",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/207/app_212_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.chaninicholas.chaniapp.png",
       "versions": [
+        {
+          "version": "2.10.3",
+          "buildVersion": "52",
+          "date": "2026-11-28T01:29:46-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/207/app_212_nabzclan_sidelix.ipa",
+          "size": 46145640,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "2.9.0",
           "date": "2026-08-14",
@@ -130272,17 +130492,26 @@
       "type": 1,
       "bundleID": "eu.sun.litt",
       "bundleIdentifier": "eu.sun.litt",
-      "version": "4.10.6",
-      "versionDate": "2026-08-01",
+      "version": "4.11.4",
+      "versionDate": "2026-11-28",
       "fullDate": "20251217182155",
-      "size": 126961546,
+      "size": 152982951,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/Sunlitt_4.9.8_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1425",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/191/app_196_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/eu.sun.litt.png",
       "versions": [
+        {
+          "version": "4.11.4",
+          "buildVersion": "3",
+          "date": "2026-11-28T01:23:45-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/191/app_196_nabzclan_sidelix.ipa",
+          "size": 152982951,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "4.10.6",
           "date": "2026-08-01",
@@ -130437,17 +130666,26 @@
       "type": 1,
       "bundleID": "com.thewayapp.mobile",
       "bundleIdentifier": "com.thewayapp.mobile",
-      "version": "1.21.6",
-      "versionDate": "2026-08-14",
+      "version": "1.25.2",
+      "versionDate": "2026-11-28",
       "fullDate": "20251217181630",
-      "size": 109424964,
+      "size": 115816294,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/TheWay_1.17.2_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2122",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/185/app_190_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thewayapp.mobile.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.thewayapp.mobile.png",
       "versions": [
+        {
+          "version": "1.25.2",
+          "buildVersion": "3863",
+          "date": "2026-11-28T01:21:00-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/185/app_190_nabzclan_sidelix.ipa",
+          "size": 115816294,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.21.6",
           "date": "2026-08-14",
@@ -130511,17 +130749,26 @@
       "type": 1,
       "bundleID": "ai.parrotpal",
       "bundleIdentifier": "ai.parrotpal",
-      "version": "199",
-      "versionDate": "2026-07-19",
+      "version": "205",
+      "versionDate": "2026-11-28",
       "fullDate": "20251217175124",
-      "size": 137592720,
+      "size": 161021593,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ParrotPal_175_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2293",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/193/app_198_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.parrotpal.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/ai.parrotpal.png",
       "versions": [
+        {
+          "version": "205",
+          "buildVersion": "441",
+          "date": "2026-11-28T01:24:48-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/193/app_198_nabzclan_sidelix.ipa",
+          "size": 161021593,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "199",
           "date": "2026-07-19",
@@ -130611,17 +130858,26 @@
       "type": 1,
       "bundleID": "llc.planeenglish.PlaneEnglish",
       "bundleIdentifier": "llc.planeenglish.PlaneEnglish",
-      "version": "1.5.14",
-      "versionDate": "2026-08-12",
+      "version": "1.5.17",
+      "versionDate": "2026-11-28",
       "fullDate": "20251217175102",
-      "size": 304033700,
+      "size": 497799631,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/17-12-2025/ARSim_1.5.13_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2369",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/196/app_201_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/llc.planeenglish.PlaneEnglish.png",
       "versions": [
+        {
+          "version": "1.5.17",
+          "buildVersion": "5514",
+          "date": "2026-11-28T01:26:35-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/196/app_201_nabzclan_sidelix.ipa",
+          "size": 497799631,
+          "minOSVersion": "18.6"
+        },
         {
           "version": "1.5.14",
           "date": "2026-08-12",
@@ -132242,17 +132498,26 @@
       "type": 1,
       "bundleID": "RVS-Riverside.fm",
       "bundleIdentifier": "RVS-Riverside.fm",
-      "version": "4.21.2",
-      "versionDate": "2026-09-23",
+      "version": "4.25.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20251216165242",
-      "size": 118376607,
+      "size": 121827002,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/16-12-2025/Riverside_4.5.5_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2318",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/187/app_192_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/RVS-Riverside.fm.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/RVS-Riverside.fm.png",
       "versions": [
+        {
+          "version": "4.25.0",
+          "buildVersion": "202611170959",
+          "date": "2026-11-28T01:22:06-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/187/app_192_nabzclan_sidelix.ipa",
+          "size": 121827002,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "4.21.2",
           "date": "2026-09-23",
@@ -132914,17 +133179,26 @@
       "type": 1,
       "bundleID": "com.myswimpro.apps.MySwimPro",
       "bundleIdentifier": "com.myswimpro.apps.MySwimPro",
-      "version": "9.5.3",
-      "versionDate": "2026-09-23",
+      "version": "9.9.2",
+      "versionDate": "2026-11-28",
       "fullDate": "20251215171429",
-      "size": 59312394,
+      "size": 96099926,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/15-12-2025/MySwimPro_8.34.4_Pro_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/1467",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/182/app_187_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Pro",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.myswimpro.apps.MySwimPro.png",
       "versions": [
+        {
+          "version": "9.9.2",
+          "buildVersion": "2",
+          "date": "2026-11-28T01:19:40-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/182/app_187_nabzclan_sidelix.ipa",
+          "size": 96099926,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "9.5.3",
           "date": "2026-09-23",
@@ -137555,17 +137829,26 @@
       "type": 1,
       "bundleID": "com.cameronshemilt.StudyCards",
       "bundleIdentifier": "com.cameronshemilt.StudyCards",
-      "version": "3.1.1",
-      "versionDate": "2025-10-10",
+      "version": "3.3.4",
+      "versionDate": "2026-11-28",
       "fullDate": "20251010005505",
-      "size": 27802020,
+      "size": 75731302,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/StudyCards_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/10-10-2025/StudyCards_3.1.1_Premium_%40thisismanpreets_apptesters.org.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/213/app_218_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cameronshemilt.StudyCards.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.cameronshemilt.StudyCards.png",
       "versions": [
+        {
+          "version": "3.3.4",
+          "buildVersion": "132",
+          "date": "2026-11-28T01:32:01-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/213/app_218_nabzclan_sidelix.ipa",
+          "size": 75731302,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "3.1.1",
           "date": "2025-10-10",
@@ -137833,17 +138116,26 @@
       "type": 1,
       "bundleID": "com.talgat.AIChat",
       "bundleIdentifier": "com.talgat.AIChat",
-      "version": "3.50",
-      "versionDate": "2026-07-20",
+      "version": "3.57",
+      "versionDate": "2026-11-28",
       "fullDate": "20251002103531",
-      "size": 73172393,
+      "size": 85677220,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/02-10-2025/ChatbotAI_3.23_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/995",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/198/app_203_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talgat.AIChat.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.talgat.AIChat.png",
       "versions": [
+        {
+          "version": "3.57",
+          "buildVersion": "3571114",
+          "date": "2026-11-28T01:27:04-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/198/app_203_nabzclan_sidelix.ipa",
+          "size": 85677220,
+          "minOSVersion": "26.0"
+        },
         {
           "version": "3.50",
           "date": "2026-07-20",
@@ -138161,17 +138453,26 @@
       "type": 1,
       "bundleID": "com.przemyslawbobak.filtru",
       "bundleIdentifier": "com.przemyslawbobak.filtru",
-      "version": "4.7.3",
-      "versionDate": "2026-09-12",
+      "version": "5.0.5",
+      "versionDate": "2026-11-28",
       "fullDate": "20250928160329",
-      "size": 124556911,
+      "size": 138548847,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/28-09-2025/Filtru_4.5.1_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2240",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/201/app_206_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.przemyslawbobak.filtru.png",
       "versions": [
+        {
+          "version": "5.0.5",
+          "buildVersion": "272",
+          "date": "2026-11-28T01:28:04-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/201/app_206_nabzclan_sidelix.ipa",
+          "size": 138548847,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "4.7.3",
           "date": "2026-09-12",
@@ -139965,17 +140266,26 @@
       "type": 1,
       "bundleID": "com.gymbros.app",
       "bundleIdentifier": "com.gymbros.app",
-      "version": "2.16.0",
-      "versionDate": "2026-09-16",
+      "version": "2.18.0",
+      "versionDate": "2026-11-28",
       "fullDate": "20250823193131",
-      "size": 137021963,
+      "size": 132359280,
       "down": "https://github.com/apptesters-org/AppTesters_Repo/releases/download/23-08-2025/Liftoff_2.5.3_Premium_%40thisismanpreets_apptesters.org.ipa",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2192",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/208/app_213_nabzclan_sidelix.ipa",
       "developerName": "",
       "localizedDescription": "Injected with Premium",
       "icon": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
       "iconURL": "https://raw.githubusercontent.com/apptesters-org/AppTesters_Repo/main/icons/com.gymbros.app.png",
       "versions": [
+        {
+          "version": "2.18.0",
+          "buildVersion": "648",
+          "date": "2026-11-28T01:30:12-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/208/app_213_nabzclan_sidelix.ipa",
+          "size": 132359280,
+          "minOSVersion": "15.1"
+        },
         {
           "version": "2.16.0",
           "date": "2026-09-16",
@@ -159420,11 +159730,20 @@
       "name": "Sticky Widgets",
       "bundleIdentifier": "com.tylerhillsman.Stickies",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Sticky Widgets\n\nTweak: Subscription Unlocked\n\nVersion: 5.0.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2352",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/209/app_214_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/129f46dc-33e3-4c84-8501-211b44d3a913/icon.jpg",
-      "version": "5.2.1",
-      "size": 61161748,
+      "version": "5.4.3",
+      "size": 61753851,
       "versions": [
+        {
+          "version": "5.4.3",
+          "buildVersion": "293",
+          "date": "2026-11-28T01:30:27-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/209/app_214_nabzclan_sidelix.ipa",
+          "size": 61753851,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "5.2.1",
           "date": "2026-09-16",
@@ -159506,7 +159825,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-16"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Lake",
@@ -161205,11 +161524,20 @@
       "name": "Oniri",
       "bundleIdentifier": "com.sublime.capture",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Oniri - Your Dream Journal\n\nTweak: Subscription Unlocked\n\nVersion: 4.7.3\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2157",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/189/app_194_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/fe51060a-ff5a-492e-9802-c19c4059b202/icon.jpg",
-      "version": "6.0.8",
-      "size": 81249825,
+      "version": "6.1.5",
+      "size": 84593604,
       "versions": [
+        {
+          "version": "6.1.5",
+          "buildVersion": "120",
+          "date": "2026-11-28T01:22:46-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/189/app_194_nabzclan_sidelix.ipa",
+          "size": 84593604,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "6.0.8",
           "date": "2026-08-29",
@@ -161275,7 +161603,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-29"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "My Hotel",
@@ -161916,11 +162244,20 @@
       "name": "Livity",
       "bundleIdentifier": "com.app-livity",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Livity: Sleep & Health Tracker\n\nTweak: Subscription Unlocked\n\nVersion: 4.0.1\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2254",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/192/app_197_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/a89bb01f-7c4d-49ec-b4f0-2933195a2283/icon.jpg",
-      "version": "5.0.2",
-      "size": 111741327,
+      "version": "5.3.0",
+      "size": 121560017,
       "versions": [
+        {
+          "version": "5.3.0",
+          "buildVersion": "3",
+          "date": "2026-11-28T01:24:15-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/192/app_197_nabzclan_sidelix.ipa",
+          "size": 121560017,
+          "minOSVersion": "17.6"
+        },
         {
           "version": "5.0.2",
           "date": "2026-07-31",
@@ -162066,7 +162403,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-31"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Grounded",
@@ -162603,11 +162940,20 @@
       "name": "ahead",
       "bundleIdentifier": "com.aheadsolutions.aHead",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Ahead: Emotions Coach\n\nTweak: Subscription Unlocked\n\nVersion: 1.60.7\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2146",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/217/app_222_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/6f3b5672-24fe-4b7e-8ffb-03e964185eb9/icon.jpg",
-      "version": "1.60.27",
-      "size": 420976733,
+      "version": "1.60.31",
+      "size": 416786631,
       "versions": [
+        {
+          "version": "1.60.31",
+          "buildVersion": "936",
+          "date": "2026-11-28T01:34:03-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/217/app_222_nabzclan_sidelix.ipa",
+          "size": 416786631,
+          "minOSVersion": "16.0"
+        },
         {
           "version": "1.60.27",
           "date": "2026-08-08",
@@ -162697,7 +163043,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-08"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Stronger",
@@ -165145,11 +165491,20 @@
       "name": "FarOut",
       "bundleIdentifier": "com.guthookhikes.ATHiker",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: FarOut Guides\n\nTweak: Unlimited Unlocked\n\nVersion: 14.0.4\n\nNotes: sign in then restart app to unlock unlimited\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2296",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/216/app_221_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c02395aa-4798-4cc6-a90c-6c4ba9be55e8/icon.jpg",
-      "version": "15.4",
-      "size": 130423648,
+      "version": "15.7",
+      "size": 127327515,
       "versions": [
+        {
+          "version": "15.7",
+          "buildVersion": "261110",
+          "date": "2026-11-28T01:33:17-05:00",
+          "localizedDescription": "Unlimited unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/216/app_221_nabzclan_sidelix.ipa",
+          "size": 127327515,
+          "minOSVersion": "18.0"
+        },
         {
           "version": "15.4",
           "date": "2026-07-30",
@@ -165167,7 +165522,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-30"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "RFS",
@@ -166424,11 +166779,20 @@
       "name": "MusicHarbor",
       "bundleIdentifier": "br.com.marcosatanaka.music-harbor",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: MusicHarbor - Track New Music\n\nTweak: Premium Unlocked\n\nVersion: 5.0.5\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2145",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/205/app_210_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/4d504db8-0141-4208-9e35-122cc2c96755/icon.jpg",
-      "version": "5.3.6",
-      "size": 38504440,
+      "version": "5.4.2",
+      "size": 41602250,
       "versions": [
+        {
+          "version": "5.4.2",
+          "buildVersion": "355",
+          "date": "2026-11-28T01:29:22-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/205/app_210_nabzclan_sidelix.ipa",
+          "size": 41602250,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "5.3.6",
           "date": "2026-08-13",
@@ -166462,7 +166826,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-08-13"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Deepstash",
@@ -169757,11 +170121,20 @@
       "name": "Plusfinity",
       "bundleIdentifier": "com.infinitix.plusfinity",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Plusfinity - Study Better\n\nTweak: Subscription Unlocked\n\nVersion: 1.2.15\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://mypleasure.zxcvbn.fyi/3fe62d6d-20d2-4006-ae47-d6c590287ec2/Plusfinity_-_Study_Better-v1.2.15-riftysipas.ipa",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/183/app_188_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/5790ca4a-3680-44df-955c-2acae030e1c6/icon.jpg",
-      "version": "1.2.15",
-      "size": 48123223,
+      "version": "2.0.3",
+      "size": 79283671,
       "versions": [
+        {
+          "version": "2.0.3",
+          "buildVersion": "195",
+          "date": "2026-11-28T01:20:05-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/183/app_188_nabzclan_sidelix.ipa",
+          "size": 79283671,
+          "minOSVersion": "15.0"
+        },
         {
           "version": "1.2.15",
           "downloadURL": "https://mypleasure.zxcvbn.fyi/3fe62d6d-20d2-4006-ae47-d6c590287ec2/Plusfinity_-_Study_Better-v1.2.15-riftysipas.ipa",
@@ -169779,7 +170152,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2000-01-01"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Headify: AI Headshot Generator",
@@ -170298,11 +170671,20 @@
       "name": "Tappy",
       "bundleIdentifier": "cameronnazemi.Tappy",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Tappy: Self Care Fidgeter\n\nTweak: Subscription Unlocked\n\nVersion: 4.10.0\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2124",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/186/app_191_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/0f47000b-7543-4238-84d8-77a331a28a5a/icon.jpg",
-      "version": "5.6.3",
-      "size": 246937917,
+      "version": "6.8.0",
+      "size": 270007895,
       "versions": [
+        {
+          "version": "6.8.0",
+          "buildVersion": "3",
+          "date": "2026-11-28T01:21:39-05:00",
+          "localizedDescription": "Subscription unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/186/app_191_nabzclan_sidelix.ipa",
+          "size": 270007895,
+          "minOSVersion": "16.6"
+        },
         {
           "version": "5.6.3",
           "date": "2026-07-08",
@@ -170344,7 +170726,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-08"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "互动教程 for iOS开发",
@@ -172438,11 +172820,20 @@
       "name": "HoursTracker",
       "bundleIdentifier": "com.carlosribas.HoursTrackerLite",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Hours Tracker: Time Tracking\n\nTweak: Premium Unlocked\n\nVersion: 7.3.4\n\nPatched ✓\n\nMade by @riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2408",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/203/app_208_nabzclan_sidelix.ipa",
       "iconURL": "https://mypleasure.zxcvbn.fyi/c2326758-3fcd-4ca3-b7d6-df9b6edcf495/icon.jpg",
-      "version": "8.3.1",
-      "size": 40111200,
+      "version": "8.4.0",
+      "size": 40059209,
       "versions": [
+        {
+          "version": "8.4.0",
+          "buildVersion": "8.4.0.5988361",
+          "date": "2026-11-28T01:28:43-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/203/app_208_nabzclan_sidelix.ipa",
+          "size": 40059209,
+          "minOSVersion": "17.6"
+        },
         {
           "version": "8.3.1",
           "date": "2026-09-21",
@@ -172460,7 +172851,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-09-21"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Ochi",
@@ -174404,11 +174795,20 @@
       "name": "Emphasis",
       "bundleIdentifier": "com.manymanypixels.pomodrone",
       "localizedDescription": "from @riftysIPAlibrary |\n------------------------\nName: Emphasis: Flow & Focus Timer\n⁣\nTweak: Subscription Unlocked\n\nVersion: 9.2.4\n\nMade by riftysIPAlibrary",
-      "downloadURL": "https://appstore.sidelix.vip/download-repo-source/2169",
+      "downloadURL": "https://appstore.sidelix.vip/repos/download/220/app_225_nabzclan_sidelix.ipa",
       "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f2/ee/5a/f2ee5a58-4567-52a9-12bf-57d639aeebda/AppIcon-0-0-1x_U007epad-0-1-85-220.png/512x512bb.jpg",
-      "version": "10.6.2",
-      "size": 36316753,
+      "version": "10.7.0",
+      "size": 40883901,
       "versions": [
+        {
+          "version": "10.7.0",
+          "buildVersion": "228",
+          "date": "2026-11-28T01:35:21-05:00",
+          "localizedDescription": "Premium unlocked.",
+          "downloadURL": "https://appstore.sidelix.vip/repos/download/220/app_225_nabzclan_sidelix.ipa",
+          "size": 40883901,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "10.6.2",
           "date": "2026-07-08",
@@ -174426,7 +174826,7 @@
           "date": "2000-01-01"
         }
       ],
-      "versionDate": "2026-07-08"
+      "versionDate": "2026-11-28"
     },
     {
       "name": "Blackout",
@@ -200675,6 +201075,17 @@
       "versions": [
         {
           "version": "1.0.0",
+          "buildVersion": "661",
+          "date": "2026-11-28T03:40:33.233Z",
+          "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
+          "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-661/Non-Jailbroken.ipa",
+          "size": 141950535,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0",
           "buildVersion": "657",
           "date": "2026-11-27T10:07:28.040Z",
           "localizedDescription": "Rolling CI alpha from GitHub Releases. Unsigned; replaced on every successful default-branch or develop build.",
@@ -201668,9 +202079,9 @@
         }
       ],
       "version": "1.0.0",
-      "versionDate": "2026-11-27",
-      "size": 141536877,
-      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-657/Non-Jailbroken.ipa"
+      "versionDate": "2026-11-28",
+      "size": 141950535,
+      "downloadURL": "https://github.com/Provenance-Emu/iCube/releases/download/alpha-661/Non-Jailbroken.ipa"
     },
     {
       "name": "Dreams (Hacked)",
@@ -202202,6 +202613,39 @@
           "localizedDescription": "iFly 1.0.0 (build 1795737208) for iOS",
           "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795737208/iFly-1.0.0-1795737208.ipa",
           "size": 101022331,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795774653",
+          "buildVersion": "1795774653",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795774653) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795774653/iFly-1.0.0-1795774653.ipa",
+          "size": 101437024,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795771521",
+          "buildVersion": "1795771521",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795771521) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795771521/iFly-1.0.0-1795771521.ipa",
+          "size": 100897935,
+          "minOSVersion": "17.0",
+          "platform": "iOS",
+          "isBeta": true
+        },
+        {
+          "version": "1.0.0+1795768886",
+          "buildVersion": "1795768886",
+          "date": "2026-11-27",
+          "localizedDescription": "iFly 1.0.0 (build 1795768886) for iOS",
+          "downloadURL": "https://github.com/JoeMatt/iFly-releases/releases/download/v1.0.0%2B1795768886/iFly-1.0.0-1795768886.ipa",
+          "size": 101425335,
           "minOSVersion": "17.0",
           "platform": "iOS",
           "isBeta": true
@@ -204073,6 +204517,16 @@
       "versions": [
         {
           "version": "3.4.0",
+          "buildVersion": "11348",
+          "marketingVersion": "3.4.0-alpha.20261128.a2623d7",
+          "date": "2026-11-28",
+          "localizedDescription": "Alpha build a2623d7 · 2026-11-28\n\nChanges in this build:\n• chore(bezels): SkinKit 0.11.0; the TV switcher offers the Seat (#3865)\n\nInstalls alongside the stable app. Built automatically from develop — expect rough edges.",
+          "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa",
+          "size": 787498221,
+          "minOSVersion": "17.0"
+        },
+        {
+          "version": "3.4.0",
           "buildVersion": "11335",
           "marketingVersion": "3.4.0-alpha.20261127.c8ff0f1",
           "date": "2026-11-27",
@@ -204216,8 +204670,8 @@
         ]
       },
       "version": "3.4.0",
-      "versionDate": "2026-11-27",
-      "size": 787149352,
+      "versionDate": "2026-11-28",
+      "size": 787498221,
       "downloadURL": "https://github.com/Provenance-Emu/Provenance/releases/download/alpha/Provenance-iOS-NoExtensions.ipa"
     },
     {
